@@ -33,7 +33,6 @@ authors:
     email: ulrike@unkown.address.com
     affiliations:
       - Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
-      - ?
   - name: Kenneth N. Goldie
     initials: KNG
     orcid: 0000-0002-7405-0049
@@ -49,8 +48,6 @@ authors:
       - Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland
       - EPFL
       - UNIL
-    funders: 
-      - ?
   - github: vladanl
     name: Vladan Lučić
     initials: VL
@@ -58,16 +55,12 @@ authors:
     email: vladan@biochem.mpg.de
     affiliation: 
       - Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
-    funders: 
-      - ?
   - name: Jakob B. Sørensen
     initials: JBS
     orcid: 0000-0001-5465-3769
     email: jakobbs@sund.ku.dk
     affiliation: 
       - Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark
-    funders: 
-      - ?
     symbol_str: "†"
   - github: aseedb
     name: Benoît Zuber
