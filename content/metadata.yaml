@@ -44,7 +44,7 @@ authors:
     initials: HS
     orcid: 0000-0002-1185-4592
     email: henning.stahlberg@epfl.ch 
-    affiliation: 
+    affiliations: 
       - Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland
       - EPFL
       - UNIL
@@ -53,13 +53,13 @@ authors:
     initials: VL
     orcid: 0000-0003-3698-7436
     email: vladan@biochem.mpg.de
-    affiliation: 
+    affiliations: 
       - Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
   - name: Jakob B. Sørensen
     initials: JBS
     orcid: 0000-0001-5465-3769
     email: jakobbs@sund.ku.dk
-    affiliation: 
+    affiliations: 
       - Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark
     symbol_str: "†"
   - github: aseedb
@@ -67,7 +67,7 @@ authors:
     initials: BZ
     orcid: 0000-0001-7725-5579
     email: benoit.zuber@ana.unibe.ch
-    affiliation: 
+    affiliations: 
       - Institute of Anatomy, University of Bern, Bern, Switzerland
     funders: 
       - Swiss National Science Foundation (Grant# xxxx)
