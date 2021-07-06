@@ -49,28 +49,35 @@ authors:
         - Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland
         - EPFL
         - UNIL
-     funders: ?
+     funders: 
+        - ?
    - github: vladanl
      name: Vladan Lučić
      initials: VL
      orcid: 0000-0003-3698-7436
      email: vladan@biochem.mpg.de
-     affiliation: Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
-     funders: ?
+     affiliation: 
+        - Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
+     funders: 
+        - ?
    - name: Jakob B. Sørensen
      initials: JBS
      orcid: 0000-0001-5465-3769
      email: jakobbs@sund.ku.dk
-     affiliation: Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark
-     funders: ?
+     affiliation: 
+        - Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark
+     funders: 
+        - ?
      symbol_str: "†"
    - github: aseedb
      name: Benoît Zuber
      initials: BZ
      orcid: 0000-0001-7725-5579
      email: benoit.zuber@ana.unibe.ch
-     affiliation: Institute of Anatomy, University of Bern, Bern, Switzerland
-     funders: Swiss National Science Foundation (Grant# xxxx)
+     affiliation: 
+        - Institute of Anatomy, University of Bern, Bern, Switzerland
+     funders: 
+        - Swiss National Science Foundation (Grant# xxxx)
      symbol_str: "†"
  
     
