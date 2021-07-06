@@ -63,9 +63,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/0873b442e5412ad2b537bf1c88b510b14819b684/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/0873b442e5412ad2b537bf1c88b510b14819b684/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/0873b442e5412ad2b537bf1c88b510b14819b684/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/ed2a6bc4cccd862811d4225791e4efe25e15f3a9/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/ed2a6bc4cccd862811d4225791e4efe25e15f3a9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/ed2a6bc4cccd862811d4225791e4efe25e15f3a9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -87,9 +87,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/0873b442e5412ad2b537bf1c88b510b14819b684/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/ed2a6bc4cccd862811d4225791e4efe25e15f3a9/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@0873b44](https://github.com/aseedb/synaptic_tomo_ms/tree/0873b442e5412ad2b537bf1c88b510b14819b684)
+from [aseedb/synaptic_tomo_ms@ed2a6bc](https://github.com/aseedb/synaptic_tomo_ms/tree/ed2a6bc4cccd862811d4225791e4efe25e15f3a9)
 on July 6, 2021.
 </em></small>
 
@@ -102,7 +102,7 @@ on July 6, 2021.
     [0000-0002-5815-5537](https://orcid.org/0000-0002-5815-5537)<br>
   <small>
      Institute of Anatomy, University of Bern, Bern, Switzerland; Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark; Diamond Light Source Ltd, Didcot, Oxfordshire, United Kingdom
-     · Funded by Grant XXXXXXXX ?
+     · Funded by Grant XXXXXXXX
   </small>
 
 + **Raphaela Seeger**<br>
