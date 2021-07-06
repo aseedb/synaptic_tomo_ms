@@ -50,12 +50,18 @@ header-includes: |-
   <meta name="citation_author_institution" content="Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland" />
   <meta name="citation_author_orcid" content="0000-0002-7405-0049" />
   <meta name="citation_author" content="Henning Stahlberg" />
+  <meta name="citation_author_institution" content="Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland" />
+  <meta name="citation_author_institution" content="EPFL" />
+  <meta name="citation_author_institution" content="UNIL" />
   <meta name="citation_author_orcid" content="0000-0002-1185-4592" />
   <meta name="citation_author" content="Vladan Lučić" />
+  <meta name="citation_author_institution" content="Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany" />
   <meta name="citation_author_orcid" content="0000-0003-3698-7436" />
   <meta name="citation_author" content="Jakob B. Sørensen" />
+  <meta name="citation_author_institution" content="Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark" />
   <meta name="citation_author_orcid" content="0000-0001-5465-3769" />
   <meta name="citation_author" content="Benoît Zuber" />
+  <meta name="citation_author_institution" content="Institute of Anatomy, University of Bern, Bern, Switzerland" />
   <meta name="citation_author_orcid" content="0000-0001-7725-5579" />
   <link rel="canonical" href="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta property="og:url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
@@ -63,9 +69,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/ed2a6bc4cccd862811d4225791e4efe25e15f3a9/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/ed2a6bc4cccd862811d4225791e4efe25e15f3a9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/ed2a6bc4cccd862811d4225791e4efe25e15f3a9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/cc8cbe4f7893a4983250364665c9605a47e44f13/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/cc8cbe4f7893a4983250364665c9605a47e44f13/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/cc8cbe4f7893a4983250364665c9605a47e44f13/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -87,9 +93,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/ed2a6bc4cccd862811d4225791e4efe25e15f3a9/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/cc8cbe4f7893a4983250364665c9605a47e44f13/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@ed2a6bc](https://github.com/aseedb/synaptic_tomo_ms/tree/ed2a6bc4cccd862811d4225791e4efe25e15f3a9)
+from [aseedb/synaptic_tomo_ms@cc8cbe4](https://github.com/aseedb/synaptic_tomo_ms/tree/cc8cbe4f7893a4983250364665c9605a47e44f13)
 on July 6, 2021.
 </em></small>
 
@@ -134,6 +140,7 @@ on July 6, 2021.
     · ![GitHub icon](images/github.svg){.inline_icon}
     [sthennin](https://github.com/sthennin)<br>
   <small>
+     Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland; EPFL; UNIL
   </small>
 
 + **Vladan Lučić**<br>
@@ -142,12 +149,14 @@ on July 6, 2021.
     · ![GitHub icon](images/github.svg){.inline_icon}
     [vladanl](https://github.com/vladanl)<br>
   <small>
+     Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
   </small>
 
 + **Jakob B. Sørensen**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0001-5465-3769](https://orcid.org/0000-0001-5465-3769)<br>
   <small>
+     Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark
   </small>
 
 + **Benoît Zuber**<br>
@@ -156,6 +165,7 @@ on July 6, 2021.
     · ![GitHub icon](images/github.svg){.inline_icon}
     [aseedb](https://github.com/aseedb)<br>
   <small>
+     Institute of Anatomy, University of Bern, Bern, Switzerland
      · Funded by Swiss National Science Foundation (Grant# xxxx)
   </small>
 

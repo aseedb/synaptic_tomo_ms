@@ -21,6 +21,7 @@ eiusmod
 elatella
 elit
 enim
+EPFL
 esse
 Excepteur
 exercitation
@@ -65,12 +66,13 @@ sunt
 tempor
 ullamco
 Ulrike
+UNIL
 velit
 veniam
 Vladan
 vladanl
 voluptate
-xxxx
+XXXX
 XXXXXXXX
 youhouhou
 Zuber
