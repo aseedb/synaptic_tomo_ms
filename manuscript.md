@@ -1,49 +1,71 @@
 ---
-title: Manuscript Title
+title: Morphofunctional changes at the active zone during synaptic vesicle exocytosis
 keywords:
-- markdown
-- publishing
-- manubot
+- synapse
+- cryo-electron tomography
+- SNARE
+- synaptic vesicles
 lang: en-US
-date-meta: '2021-07-05'
+date-meta: '2021-07-06'
 author-meta:
-- John Doe
-- Jane Roe
+- Julika Radecke
+- Raphaela Seeger
+- Ulrike Laugks
+- Kenneth N. Goldie
+- Henning Stahlberg
+- Vladan Lučić
+- Jakob B. Sørensen
+- Benoît Zuber
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2021-07-05" />
-  <meta name="citation_publication_date" content="2021-07-05" />
+  <meta name="dc.title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
+  <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
+  <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
+  <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
+  <meta name="dc.date" content="2021-07-06" />
+  <meta name="citation_publication_date" content="2021-07-06" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author" content="Julika Radecke" />
+  <meta name="citation_author_institution" content="Institute of Anatomy, University of Bern, Bern, Switzerland" />
+  <meta name="citation_author_institution" content="Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark" />
+  <meta name="citation_author_institution" content="Diamond Light Source Ltd, Didcot, Oxfordshire, United Kingdom" />
+  <meta name="citation_author_orcid" content="0000-0002-5815-5537" />
+  <meta name="citation_author" content="Raphaela Seeger" />
+  <meta name="citation_author_institution" content="Institute of Anatomy, University of Bern, Bern, Switzerland" />
+  <meta name="citation_author_institution" content="Graduate School for Cellular and Biomedical Sciences, University of Bern" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Ulrike Laugks" />
+  <meta name="citation_author_institution" content="Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany" />
+  <meta name="citation_author_orcid" content="0000-0003-4175-4354" />
+  <meta name="citation_author" content="Kenneth N. Goldie" />
+  <meta name="citation_author_institution" content="Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland" />
+  <meta name="citation_author_orcid" content="0000-0002-7405-0049" />
+  <meta name="citation_author" content="Henning Stahlberg" />
+  <meta name="citation_author_orcid" content="0000-0002-1185-4592" />
+  <meta name="citation_author" content="Vladan Lučić" />
+  <meta name="citation_author_orcid" content="0000-0003-3698-7436" />
+  <meta name="citation_author" content="Jakob B. Sørensen" />
+  <meta name="citation_author_orcid" content="0000-0001-5465-3769" />
+  <meta name="citation_author" content="Benoît Zuber" />
+  <meta name="citation_author_orcid" content="0000-0001-7725-5579" />
   <link rel="canonical" href="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta property="og:url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta property="twitter:url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/defe787b0ad8a21a745cc82c3117770896caaf8b/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/defe787b0ad8a21a745cc82c3117770896caaf8b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/defe787b0ad8a21a745cc82c3117770896caaf8b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/0873b442e5412ad2b537bf1c88b510b14819b684/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/0873b442e5412ad2b537bf1c88b510b14819b684/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/0873b442e5412ad2b537bf1c88b510b14819b684/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,41 +87,82 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/defe787b0ad8a21a745cc82c3117770896caaf8b/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/0873b442e5412ad2b537bf1c88b510b14819b684/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@defe787](https://github.com/aseedb/synaptic_tomo_ms/tree/defe787b0ad8a21a745cc82c3117770896caaf8b)
-on July 5, 2021.
+from [aseedb/synaptic_tomo_ms@0873b44](https://github.com/aseedb/synaptic_tomo_ms/tree/0873b442e5412ad2b537bf1c88b510b14819b684)
+on July 6, 2021.
 </em></small>
 
 ## Authors
 
 
 
-+ **John Doe**<br>
++ **Julika Radecke**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [0000-0002-5815-5537](https://orcid.org/0000-0002-5815-5537)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Institute of Anatomy, University of Bern, Bern, Switzerland; Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark; Diamond Light Source Ltd, Didcot, Oxfordshire, United Kingdom
+     · Funded by Grant XXXXXXXX ?
   </small>
 
-+ **Jane Roe**<br>
++ **Raphaela Seeger**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    [elatella](https://github.com/elatella)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Institute of Anatomy, University of Bern, Bern, Switzerland; Graduate School for Cellular and Biomedical Sciences, University of Bern
+  </small>
+
++ **Ulrike Laugks**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0003-4175-4354](https://orcid.org/0000-0003-4175-4354)<br>
+  <small>
+     Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
+  </small>
+
++ **Kenneth N. Goldie**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-7405-0049](https://orcid.org/0000-0002-7405-0049)<br>
+  <small>
+     Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland
+  </small>
+
++ **Henning Stahlberg**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-1185-4592](https://orcid.org/0000-0002-1185-4592)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [sthennin](https://github.com/sthennin)<br>
+  <small>
+  </small>
+
++ **Vladan Lučić**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0003-3698-7436](https://orcid.org/0000-0003-3698-7436)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [vladanl](https://github.com/vladanl)<br>
+  <small>
+  </small>
+
++ **Jakob B. Sørensen**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0001-5465-3769](https://orcid.org/0000-0001-5465-3769)<br>
+  <small>
+  </small>
+
++ **Benoît Zuber**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0001-7725-5579](https://orcid.org/0000-0001-7725-5579)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [aseedb](https://github.com/aseedb)<br>
+  <small>
+     · Funded by Swiss National Science Foundation (Grant# xxxx)
   </small>
 
 
 
 ## Abstract {.page_break_before}
-
+This is my new abstract, aka Hello World, youhouhou!
 
 
 
