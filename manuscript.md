@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2021-07-06'
+date-meta: '2021-07-12'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -26,8 +26,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2021-07-06" />
-  <meta name="citation_publication_date" content="2021-07-06" />
+  <meta name="dc.date" content="2021-07-12" />
+  <meta name="citation_publication_date" content="2021-07-12" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -69,9 +69,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/cc8cbe4f7893a4983250364665c9605a47e44f13/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/cc8cbe4f7893a4983250364665c9605a47e44f13/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/cc8cbe4f7893a4983250364665c9605a47e44f13/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/bbb521032599b29166937c262937ea3c7d4ec5a2/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/bbb521032599b29166937c262937ea3c7d4ec5a2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/bbb521032599b29166937c262937ea3c7d4ec5a2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -93,17 +93,17 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/cc8cbe4f7893a4983250364665c9605a47e44f13/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/bbb521032599b29166937c262937ea3c7d4ec5a2/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@cc8cbe4](https://github.com/aseedb/synaptic_tomo_ms/tree/cc8cbe4f7893a4983250364665c9605a47e44f13)
-on July 6, 2021.
+from [aseedb/synaptic_tomo_ms@bbb5210](https://github.com/aseedb/synaptic_tomo_ms/tree/bbb521032599b29166937c262937ea3c7d4ec5a2)
+on July 12, 2021.
 </em></small>
 
 ## Authors
 
 
 
-+ **Julika Radecke**<br>
++ **Julika Radecke**^[\*](#equal_contribution)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0002-5815-5537](https://orcid.org/0000-0002-5815-5537)<br>
   <small>
@@ -111,7 +111,7 @@ on July 6, 2021.
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Raphaela Seeger**<br>
++ **Raphaela Seeger**^[\*](#equal_contribution)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
@@ -169,6 +169,14 @@ on July 6, 2021.
      · Funded by Swiss National Science Foundation (Grant# xxxx)
   </small>
 
+
+::: {#correspondence}
+Address correspondence to <benoit.zuber@ana.unibe.ch> and <jakobbs@sund.ku.dk>.
+:::
+
+::: {#equal_contribution}
+These authors contributed equally.
+:::
 
 
 ## Abstract {.page_break_before}
