@@ -64,7 +64,7 @@ authors:
     affiliations: 
       - Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark
     symbol_str: "†"
-    correspondance: true
+    correspondence: true
   - github: aseedb
     name: Benoît Zuber
     initials: BZ
@@ -75,7 +75,7 @@ authors:
     funders: 
       - Swiss National Science Foundation (Grant# xxxx)
     symbol_str: "†"
-    correspondance: true
+    correspondence: true
  
     
     
