@@ -69,9 +69,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/24cf45e9085bf65adc3627af41d79eb68eb88305/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/24cf45e9085bf65adc3627af41d79eb68eb88305/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/24cf45e9085bf65adc3627af41d79eb68eb88305/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/de4abed70df6a1c7acd8e8b6172905a6f4b51bfc/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/de4abed70df6a1c7acd8e8b6172905a6f4b51bfc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/de4abed70df6a1c7acd8e8b6172905a6f4b51bfc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -93,9 +93,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/24cf45e9085bf65adc3627af41d79eb68eb88305/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/de4abed70df6a1c7acd8e8b6172905a6f4b51bfc/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@24cf45e](https://github.com/aseedb/synaptic_tomo_ms/tree/24cf45e9085bf65adc3627af41d79eb68eb88305)
+from [aseedb/synaptic_tomo_ms@de4abed](https://github.com/aseedb/synaptic_tomo_ms/tree/de4abed70df6a1c7acd8e8b6172905a6f4b51bfc)
 on July 12, 2021.
 </em></small>
 
@@ -152,14 +152,14 @@ on July 12, 2021.
      Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
   </small>
 
-+ **Jakob B. Sørensen**<br>
++ **Jakob B. Sørensen**^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0001-5465-3769](https://orcid.org/0000-0001-5465-3769)<br>
   <small>
      Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark
   </small>
 
-+ **Benoît Zuber**<br>
++ **Benoît Zuber**^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0001-7725-5579](https://orcid.org/0000-0001-7725-5579)
     · ![GitHub icon](images/github.svg){.inline_icon}
