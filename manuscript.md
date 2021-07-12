@@ -69,9 +69,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/bbb521032599b29166937c262937ea3c7d4ec5a2/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/bbb521032599b29166937c262937ea3c7d4ec5a2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/bbb521032599b29166937c262937ea3c7d4ec5a2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/24cf45e9085bf65adc3627af41d79eb68eb88305/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/24cf45e9085bf65adc3627af41d79eb68eb88305/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/24cf45e9085bf65adc3627af41d79eb68eb88305/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -93,9 +93,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/bbb521032599b29166937c262937ea3c7d4ec5a2/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/24cf45e9085bf65adc3627af41d79eb68eb88305/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@bbb5210](https://github.com/aseedb/synaptic_tomo_ms/tree/bbb521032599b29166937c262937ea3c7d4ec5a2)
+from [aseedb/synaptic_tomo_ms@24cf45e](https://github.com/aseedb/synaptic_tomo_ms/tree/24cf45e9085bf65adc3627af41d79eb68eb88305)
 on July 12, 2021.
 </em></small>
 
@@ -171,11 +171,9 @@ on July 12, 2021.
 
 
 ::: {#correspondence}
-Address correspondence to <benoit.zuber@ana.unibe.ch> and <jakobbs@sund.ku.dk>.
-:::
-
-::: {#equal_contribution}
-These authors contributed equally.
+✉ Address correspondence to <benoit.zuber@ana.unibe.ch> and <jakobbs@sund.ku.dk>.
+{#equal_contribution}
+\* These authors contributed equally.
 :::
 
 
