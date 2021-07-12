@@ -18,6 +18,7 @@ authors:
     funders:
       - Grant XXXXXXXX
     symbol_str: "*"
+    equal_contribution: true
   - github: elatella
     name: Raphaela Seeger
     initials: RS
@@ -27,6 +28,7 @@ authors:
       - Institute of Anatomy, University of Bern, Bern, Switzerland
       - Graduate School for Cellular and Biomedical Sciences, University of Bern
     symbol_str: "*"
+    equal_contribution: true
   - name: Ulrike Laugks
     initials: UL
     orcid: 0000-0003-4175-4354
@@ -62,6 +64,7 @@ authors:
     affiliations: 
       - Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark
     symbol_str: "†"
+    correspondance: true
   - github: aseedb
     name: Benoît Zuber
     initials: BZ
@@ -72,6 +75,7 @@ authors:
     funders: 
       - Swiss National Science Foundation (Grant# xxxx)
     symbol_str: "†"
+    correspondance: true
  
     
     
