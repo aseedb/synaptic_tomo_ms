@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2021-07-12'
+date-meta: '2021-07-19'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -26,8 +26,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2021-07-12" />
-  <meta name="citation_publication_date" content="2021-07-12" />
+  <meta name="dc.date" content="2021-07-19" />
+  <meta name="citation_publication_date" content="2021-07-19" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -69,9 +69,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/de4abed70df6a1c7acd8e8b6172905a6f4b51bfc/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/de4abed70df6a1c7acd8e8b6172905a6f4b51bfc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/de4abed70df6a1c7acd8e8b6172905a6f4b51bfc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/513345ca9e23d65eeb5ff9125a6270074e64c2f7/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/513345ca9e23d65eeb5ff9125a6270074e64c2f7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/513345ca9e23d65eeb5ff9125a6270074e64c2f7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -93,10 +93,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/de4abed70df6a1c7acd8e8b6172905a6f4b51bfc/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/513345ca9e23d65eeb5ff9125a6270074e64c2f7/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@de4abed](https://github.com/aseedb/synaptic_tomo_ms/tree/de4abed70df6a1c7acd8e8b6172905a6f4b51bfc)
-on July 12, 2021.
+from [aseedb/synaptic_tomo_ms@513345c](https://github.com/aseedb/synaptic_tomo_ms/tree/513345ca9e23d65eeb5ff9125a6270074e64c2f7)
+on July 19, 2021.
 </em></small>
 
 ## Authors
@@ -172,13 +172,25 @@ on July 12, 2021.
 
 ::: {#correspondence}
 ✉ Address correspondence to <benoit.zuber@ana.unibe.ch> and <jakobbs@sund.ku.dk>.
-{#equal_contribution}
+::: {#equal_contribution}
 \* These authors contributed equally.
 :::
 
 
 ## Abstract {.page_break_before}
-This is my new abstract, aka Hello World, youhouhou!
+The fusion of synaptic vesicles (SVs) with the plasma membrane (PM) proceeds through intermediate steps that remain poorly resolved. Additionally, the effect of persistent high or low exocytosis activity on intermediate steps remains unknown. Through time-resolved cryo-electron tomography, we ordered events into a sequence. Following stimulation, additional SVs are rapidly primed by forming tethers with the PM. Simultaneously, fusion initiation occurs  by membrane curvature (‘buckling’) of the SV and PM. It is followed by the formation of a fusion pore, and the collapse of SV membrane. At this time, membrane-proximal, but not membrane-distal, vesicles loose their interconnections, allowing them to move towards the PM. A SNARE mutation that arrests spontaneous release caused vesicles to reside further from the membrane while forming more tethers, whereas a mutation stimulating spontaneous fusion caused a loss of membrane-proximal SVs with more than two tethers, and loss of intervesicle connectors. Overall, tether formation and connector dissolution is triggered by stimulation and adjusted to the spontaneous fusion rate.
+
+- [ ] Need to reformulate the part about 4E mutant
+- [ ] For 4K mutant: is the loss of tethered SVs restricted to those with more than only one, or to those with more than two tethers?
+- [ ]  Possibly introduce the formation of distal connectors by stimulation
+
+
+
+## Introduction
+In the central nervous system, neurons communicate through the release of neurotransmitters at synapses. This process relies on synaptic vesicle (SV) exocytosis, i.e. the fusion of SVs with the plasma membrane (PM). This in turn is eminently important for normal brain function such as movement coordination or memory formation.
+SV exocytosis involves a sequence of steps [@doi:10.1111/j.1600-0854.2008.00759.x; @doi:10.1016/j.neuron.2013.10.022]. The vesicle is first docked to the active zone (AZ) PM. Subsequently the exocytosis machinery goes through a maturation process, termed priming, after which the SV is ready to fuse. These SVs form the readily releasable pool (RRP) of SVs. Finally, a calcium influx triggers fusion of the SV with the PM. Docked SVs are defined as the SVs in very close proximity or direct contact with the PM as observed by electron microscopy (EM), whereas priming refers to SV ability to undergo exocytosis immediately upon stimulation. Whether every docked SV is also primed has been debated [@doi:10.1111/j.1600-0854.2008.00759.x; @doi:10.1016/j.conb.2016.12.012]. A recent high-pressure freezing/freeze-substitution EM study of genetically modified synapses has indicated that vesicles that are in direct contact with the PM, i.e. docked, are primed and belong to the RRP and that this situation occurs downstream of vesicle tethering [@doi:10.1016/j.neuron.2014.10.009]. From a molecular perspective, priming involves several proteins including the SNARE complex (SNAP-25, syntaxin-1, and synaptobrevin-2), Munc13, Munc18, synaptotagmin-1, and complexin [@doi:10.1016/j.neuron.2013.10.022;@doi:10.1146/annurev-biophys-060414-034057]. All three SNAREs form a highly stable tight four-helix bundle, known as trans-SNARE complex, which brings the SV and the PM [@doi:10.1038/26412]. Evidence has suggested that the SNARE complex is only partially zipped in primed SVs [@doi:0.1038/sj.emboj.7601003]. Furthermore, various studies have suggested that at least three SNARE complexes are required for SV to be fusion-competent [@doi:10.1074/jbc.M109.047381;@doi:10.1126/science.1193134;@doi:10.1126/science.1214984]. Synaptotagmin-1 is localized on the SV and was proposed to interact with anionic phospholipids and the t-SNAREs upon Ca^2+^-binding, possibly triggering membrane curvature, followed by a proposed hemifusion step and subsequent fusion[@doi:10.1016/j.cell.2010.02.017]. CHARGES ON THE SNARE
+
+Cryo-electron tomography (cryo-ET), which preserves samples to atomic resolution, revealed a somewhat different view, where, under resting conditions, no SV is in direct contact with the PM [@doi:10.1083/jcb.200908082; @doi:10.1016/j.sbi.2019.01.008]. Furthermore, cryo-EM has shown that the majority of AZ-proximal SVs are connected to the AZ PM by short filaments, termed tethers.
 
 
 
