@@ -19,7 +19,9 @@ hippocampal
 hypertonic
 intervesicle
 Jakob
+JBSorensen
 Julika
+julikaradecke
 Klopferspitz
 Laugks
 Luc
@@ -41,7 +43,7 @@ Stahlberg
 sthennin
 SV
 SVs
-Synapsin
+synapsin
 synaptobrevin
 synaptosome
 synaptosomes
@@ -51,6 +53,6 @@ Ulrike
 UNIL
 Vladan
 vladanl
-xxxx
+XXXX
 XXXXXXXX
 Zuber
