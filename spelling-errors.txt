@@ -5,7 +5,7 @@ Biozentrum
 complexin
 consitutively
 conteracts
-cryo
+Cryo
 cyro
 dephosphorylation
 Didcot
@@ -53,6 +53,6 @@ Ulrike
 UNIL
 Vladan
 vladanl
-XXXX
+xxxx
 XXXXXXXX
 Zuber

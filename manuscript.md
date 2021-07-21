@@ -69,9 +69,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/2fd905d84841045492105531917811d4df1e8e2c/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/2fd905d84841045492105531917811d4df1e8e2c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/2fd905d84841045492105531917811d4df1e8e2c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/d12dd59c75315fa8f7f52b882bd97e3aa0f57710/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/d12dd59c75315fa8f7f52b882bd97e3aa0f57710/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/d12dd59c75315fa8f7f52b882bd97e3aa0f57710/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -93,9 +93,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/2fd905d84841045492105531917811d4df1e8e2c/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/d12dd59c75315fa8f7f52b882bd97e3aa0f57710/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@2fd905d](https://github.com/aseedb/synaptic_tomo_ms/tree/2fd905d84841045492105531917811d4df1e8e2c)
+from [aseedb/synaptic_tomo_ms@d12dd59](https://github.com/aseedb/synaptic_tomo_ms/tree/d12dd59c75315fa8f7f52b882bd97e3aa0f57710)
 on July 21, 2021.
 </em></small>
 
@@ -201,6 +201,15 @@ To investigate this hypothesis and to better understand the impact of depolariza
 
 _Do we want to talk about kiss-and-run? I have the feeling that we better not to keep the message nice and clear_
 
+
+
+## Results
+
+
+## Discussion
+
+
+## Materials and methods
 
 
 ## References {.page_break_before}
