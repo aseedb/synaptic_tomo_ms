@@ -7,7 +7,8 @@ keywords:
   - synaptic vesicles
 lang: en-US
 authors:
-  - name: Julika Radecke
+  - github: julikaradecke
+    name: Julika Radecke
     initials: JR
     orcid: 0000-0002-5815-5537
     email: julika.radecke@diamond.ac.uk
@@ -57,7 +58,8 @@ authors:
     email: vladan@biochem.mpg.de
     affiliations: 
       - Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
-  - name: Jakob B. Sørensen
+  - github: JBSorensen
+    name: Jakob B. Sørensen
     initials: JBS
     orcid: 0000-0001-5465-3769
     email: jakobbs@sund.ku.dk
