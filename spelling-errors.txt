@@ -40,7 +40,7 @@ Stahlberg
 sthennin
 SV
 SVs
-Synapsin
+synapsin
 synaptobrevin
 synaptosome
 synaptosomes
@@ -50,6 +50,6 @@ Ulrike
 UNIL
 Vladan
 vladanl
-XXXX
+xxxx
 XXXXXXXX
 Zuber
