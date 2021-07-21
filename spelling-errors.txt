@@ -4,6 +4,7 @@ aliquip
 amet
 anim
 aseedb
+autapses
 aute
 Benoît
 Biozentrum
@@ -12,9 +13,13 @@ commodo
 complexin
 consectetur
 consequat
+consitutively
+conteracts
 cryo
 culpa
 cupidatat
+cyro
+dephosphorylation
 deserunt
 Didcot
 dolore
@@ -31,6 +36,9 @@ exocytosis
 fugiat
 hemifusion
 Henning
+heterogenous
+hippocampal
+hypertonic
 incididunt
 intervesicle
 ipsum
@@ -48,6 +56,7 @@ magna
 Martinsried
 mollit
 Munc
+mutagenesis
 NanoAnalytics
 nisi
 nostrud
@@ -57,7 +66,10 @@ officia
 Oxfordshire
 Pandoc’s
 pariatur
+permantly
 phospholipids
+pre
+presynaptic
 proident
 qui
 quis
@@ -73,8 +85,11 @@ sthennin
 sunt
 SV
 SVs
+Synapsin
 synaptobrevin
-Synaptotagmin
+synaptosome
+synaptosomes
+synaptotagmin
 syntaxin
 tempor
 ullamco
