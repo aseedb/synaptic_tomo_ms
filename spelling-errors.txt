@@ -24,6 +24,7 @@ Klopferspitz
 Laugks
 Luc
 Martinsried
+moprhological
 Munc
 mutagenesis
 NanoAnalytics
@@ -40,7 +41,7 @@ Stahlberg
 sthennin
 SV
 SVs
-synapsin
+Synapsin
 synaptobrevin
 synaptosome
 synaptosomes

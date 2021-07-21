@@ -2,8 +2,10 @@ content/00.front-matter.md:54:zuber
 content/01.abstract.md:2:cryo
 content/01.abstract.md:2:exocytosis
 content/01.abstract.md:2:intervesicle
+content/01.abstract.md:2:moprhological
 content/01.abstract.md:2:SV
 content/01.abstract.md:2:SV
+content/01.abstract.md:2:SVs
 content/01.abstract.md:2:SVs
 content/01.abstract.md:2:SVs
 content/01.abstract.md:2:SVs

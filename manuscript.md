@@ -69,9 +69,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/0cfe4aa8d9d6c2cc57579a63e25ecd7f87e49258/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/0cfe4aa8d9d6c2cc57579a63e25ecd7f87e49258/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/0cfe4aa8d9d6c2cc57579a63e25ecd7f87e49258/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/118ab23b439f96c4beaf621ce41ae5f9cf2466c9/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/118ab23b439f96c4beaf621ce41ae5f9cf2466c9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/118ab23b439f96c4beaf621ce41ae5f9cf2466c9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -93,9 +93,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/0cfe4aa8d9d6c2cc57579a63e25ecd7f87e49258/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/118ab23b439f96c4beaf621ce41ae5f9cf2466c9/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@0cfe4aa](https://github.com/aseedb/synaptic_tomo_ms/tree/0cfe4aa8d9d6c2cc57579a63e25ecd7f87e49258)
+from [aseedb/synaptic_tomo_ms@118ab23](https://github.com/aseedb/synaptic_tomo_ms/tree/118ab23b439f96c4beaf621ce41ae5f9cf2466c9)
 on July 21, 2021.
 </em></small>
 
@@ -178,11 +178,11 @@ on July 21, 2021.
 
 
 ## Abstract {.page_break_before}
-The fusion of synaptic vesicles (SVs) with the plasma membrane (PM) proceeds through intermediate steps that remain poorly resolved. Additionally, the effect of persistent high or low exocytosis activity on intermediate steps remains unknown. Through time-resolved cryo-electron tomography, we ordered events into a sequence. Following stimulation, additional SVs are rapidly primed by forming tethers with the PM. Simultaneously, fusion initiation occurs  by membrane curvature (‘buckling’) of the SV and PM. It is followed by the formation of a fusion pore, and the collapse of SV membrane. At this time, membrane-proximal, but not membrane-distal, vesicles loose their interconnections, allowing them to move towards the PM. A SNARE mutation that arrests spontaneous release caused vesicles to reside further from the membrane while forming more tethers, whereas a mutation stimulating spontaneous fusion caused a loss of membrane-proximal SVs with more than two tethers, and loss of intervesicle connectors. Overall, tether formation and connector dissolution is triggered by stimulation and adjusted to the spontaneous fusion rate.
+The fusion of synaptic vesicles (SVs) with the plasma membrane (PM) proceeds through intermediate steps that remain poorly resolved. Additionally, the effect of persistent high or low exocytosis activity on intermediate steps remains unknown. Through time-resolved cryo-electron tomography, we ordered events into a sequence. Following stimulation, additional SVs are rapidly primed by forming tethers with the PM. Simultaneously, fusion initiation occurs  by membrane curvature (‘buckling’) of the SV and PM. It is followed by the formation of a fusion pore, and the collapse of SV membrane. At this time, membrane-proximal, but not membrane-distal, vesicles lose their interconnections, allowing them to move towards the PM. A SNARE mutation that arrests spontaneous release caused vesicles to reside further from the membrane while forming more tethers, whereas a mutation stimulating spontaneous fusion caused a complete loss of membrane-proximal triple-tethered SVs, and a loss of intervesicle connectors. Overall, tether formation and connector dissolution is triggered by stimulation and adjusted to the spontaneous fusion rate. These moprhological observations likely correspond to the transition of SVs from one functional pool to another. 
 
-- [ ] Need to reformulate the part about 4E mutant
-- [ ] For 4K mutant: is the loss of tethered SVs restricted to those with more than only one, or to those with more than two tethers?
-- [ ]  Possibly introduce the formation of distal connectors by stimulation
+- _Need to reformulate the part about 4E mutant (p value is not sufficient)_
+- _For 4K mutant: check if the loss of tethered SVs restricted to those with more than only one, or to those with more than two tethers?_
+- _Possibly mention here introduce the formation of distal connectors by stimulation_
 
 
 
