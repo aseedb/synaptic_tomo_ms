@@ -14,7 +14,6 @@ content/02.Introduction.md:2:exocytosis
 content/02.Introduction.md:2:SV
 content/02.Introduction.md:2:SVs
 content/02.Introduction.md:3:complexin
-content/02.Introduction.md:3:conteracts
 content/02.Introduction.md:3:exocytosis
 content/02.Introduction.md:3:exocytosis
 content/02.Introduction.md:3:exocytosis
