@@ -173,7 +173,7 @@ Wageningen
 Waltham
 Wheaton
 Wistar
-XXXX
+xxxx
 XXXXXXXX
 Zeiss
 Zuber
