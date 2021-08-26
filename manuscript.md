@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2021-08-25'
+date-meta: '2021-08-26'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -26,8 +26,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2021-08-25" />
-  <meta name="citation_publication_date" content="2021-08-25" />
+  <meta name="dc.date" content="2021-08-26" />
+  <meta name="citation_publication_date" content="2021-08-26" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -69,9 +69,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/7339ee36641062b5f1afbf08dc6fc94cac69ff66/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/7339ee36641062b5f1afbf08dc6fc94cac69ff66/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/7339ee36641062b5f1afbf08dc6fc94cac69ff66/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/8e29831ff1f78a44d5fc5a314e6950f9611c24fa/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/8e29831ff1f78a44d5fc5a314e6950f9611c24fa/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/8e29831ff1f78a44d5fc5a314e6950f9611c24fa/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -93,10 +93,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/7339ee36641062b5f1afbf08dc6fc94cac69ff66/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/8e29831ff1f78a44d5fc5a314e6950f9611c24fa/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@7339ee3](https://github.com/aseedb/synaptic_tomo_ms/tree/7339ee36641062b5f1afbf08dc6fc94cac69ff66)
-on August 25, 2021.
+from [aseedb/synaptic_tomo_ms@8e29831](https://github.com/aseedb/synaptic_tomo_ms/tree/8e29831ff1f78a44d5fc5a314e6950f9611c24fa)
+on August 26, 2021.
 </em></small>
 
 ## Authors
@@ -279,8 +279,7 @@ Some synaptosomes have been in contact with stimulating solution from the moment
 Importantly, some synaptosomes were located near the point of impact of a droplet, in which case, it took some time for KCl to diffuse until the concentration around these synaptosomes rose sufficiently to trigger exocytosis.
 Therefore, the time interval between triggering exocytosis and freezing ranged between 0 ms and the interval between spray droplets hitting the grid and freezing (see [@pmid:7831735]).
 
-Synaptosomes from both control and sprayed grids were thoroughly analyzed for signs of exocytosis. 
-They include a low proximal vesicle occupancy and the morphological changes of AZ PM and tethered SV occurring upon stimulation, which are described hereafter. 
+Synaptosomes from both control and sprayed grids were thoroughly analyzed for signs of exocytosis, which consisted of  morphological changes of the AZ PM and the tethered SV occurring upon stimulation, which are described hereafter. 
 These signs were only detected in synaptosomes from sprayed grids and are presented in the likeliest chronological order. 
 Upon stimulation both the vesicle membrane and the PM were slightly bent towards each other (Figure {@fig:membrane_morphology}B1, B2, and B3; orange arrows).
 These structures, which have previously been reported in vitro but never in situ, have been referred to as membrane curvature events [@doi:10.1016/j.cell.2010.02.017]. 
@@ -296,8 +295,9 @@ Stimulated synaptosome datasets were divided into early and late fusion stages, 
 Those with an open pore or a remaining small bump of a fully collapsed vesicle were classified as late fusion.
 
 ### Synaptic vesicle distribution is impacted by synaptic activity
-Non-stimulated synaptosomes as well as WT-SNAP-25 synapses showed typical previously reported SV distribution, as observed in cryo-ET [@doi:10.1083/jcb.200908082]. 
-Vesicle occupancy  was 0.08 in the most proximal zone (0-25 nm from the AZ PM), and peaked to 0.17 in 25-50 nm zone. It then dropped to 0.08 in the intermediate zone (50-75 nm) and rose steadily in the more distal zone to reach a plateau of ~0.16 from a distance of 125 nm (Figure {@fig:vesicle_distribution}). 
+Non-stimulated synaptosomes as well as WT-SNAP-25 synapses showed typical SV distribution, as observed in previous cryo-ET studies [@doi:10.1083/jcb.200908082].
+Vesicle occupancy was 0.08 in the most proximal zone (0-25 nm from the AZ PM), and peaked to 0.17 in 25-50 nm zone. It then dropped to 0.08 in the intermediate zone (50-75 nm) and rose steadily in the more distal zone to reach a plateau of ~0.16 from a distance of 125 nm (Figure {@fig:vesicle_distribution}). These values are for WT-SNAP-25 synapses.
+The absolute values differ between cultured mouse neurons and rat synaptosomes and but the SV occupancy distribution follows the very same pattern. The difference in absolute values can likely be attributed to the different experimental and animal models used.
 In the proximal, intermediate, and the first distal areas (up to approximately 125 nm away from the AZ PM) SVs followed a similar occupancy pattern in the constitutively depressed 4E mutant. 
 This confirmed that the lower  activity of the 4E mutant was not due to a lack of SV availability. In the most distal zones, SV occupancy gradually decreased in the mutant _to become significantly different from a distance of XXX nm_. 
 That latter decrease may reflect deleterious effects associated with abnormally low synaptic activity.
@@ -309,6 +309,32 @@ This decrease can also be explained by the high exocytosis rate, which leads to 
 Sprayed synaptosomes that were showing early signs of exocytosis had a nearly identical SV occupancy pattern as non-sprayed synaptosomes. 
 However, when SV full collapse figures were apparent, SV occupancy in the proximal zone was significantly reduced, whereas SV occupancy further away from the AZ PM was unchanged.
 This is consistent with some membrane proximal SVs having engaged in exocytosis while none of the recycling and reserve pool SVs have.  
+
+### RRP size evolution following stimulation
+As stated in the Introduction, SVs that are linked by more than 2 tethers to the AZ PM have been shown to belong to the RRP. 
+We investigated the tethering state of proximal SVs (i.e. those SVs within 45 nm of the AZ PM) prior and following stimulation in synaptosomes.
+In non-sprayed synaptosomes, 59% of the proximal vesicles were tethered, which is in agreement with previous results [@doi:10.1083/jcb.200908082]. Interestingly, in the early fusion group the fraction of tethered proximal vesicles significantly increased to 80% (P<0.05, χ^2 test; Figure @fig:tethers).
+In the late fusion group, however, 47% of the proximal vesicles were tethered, which is not significantly different to the non sprayed group.
+We then analyzed whether the decreased occupancy in the late fusion group was associated with a decreased number of RRP SVs. 
+In resting, non-sprayed synapses about 11% of the proximal SVs resided in the RRP.
+This agrees with typical RRP size estimates based on electrophysiological measurements.
+Surprisingly, the fraction of proximal vesicles belonging to the RRP drastically increased to 36% in the early fusion group (P<0.001, χ^2 test; Figure @fig:tethers). 
+The fraction returned to the initial value of 11% in the late fusion group. 
+This 3-fold increase over the baseline RRP SVs in the early fusion group suggests that upon stimulation some proximal SVs very rapidly enter the RRP and become primed for exocytosis.
+Furthermore, the lower proximal vesicle occupancy in the late fusion group indicates that under our stimulation conditions, replenishing vesicles to the proximal zone is slower than their release.
+_Here I dropped quite a lot of description about tether length and number of tethers per SV that we had in our previous manuscript, but which were not bringing anything particularly interesting and in my opinion was diluting the message_.
+
+The situation in the WT-SNAP-25 neurons was similar to unstimulated synaptosomes. 
+53% of the all proximal SVs were tethered and 14% of all proximal SVs belonged to the RRP. WT proximal SVs 
+The corresponding values for the 4E mutants were not significantly different. 
+However, In all 4K mutant datasets there was not a single SV that was part of the RRP. 
+Consistently, the number of tethers per proximal SV was significantly lower in the 4K mutant than in the WT.
+These results are in line with physiological measurements that have shown that the RRP is depleted in the chronically spontaneously active 4K mutant [@doi:10.1016/j.celrep.2019.01.103].  
+Furthermore, the average distance between proximal SVs and the AZ PM is significantly higher in  the 4K mutant than in the WT, suggesting that vesicles coming in contact with the AZ PM have a high probability of undergoing exocytosis. _is this sentence clear? any suggestion to improve it?_
+
+###
+
+
 
 ## Discussion
 

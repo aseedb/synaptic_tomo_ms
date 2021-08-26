@@ -42,6 +42,7 @@ dx
 EDTA
 Eindhoven
 elatella
+electrophysiological
 Elektron
 Elvehjem
 EPFL
@@ -144,7 +145,7 @@ supernatant
 superresolution
 SV
 SVs
-Synapsin
+synapsin
 synaptobrevin
 synaptosomal
 Synaptosome
@@ -164,6 +165,7 @@ Ulrike
 ultracentrifuge
 unbinned
 UNIL
+unstimulated
 vitro
 Vitrobot
 Vladan
@@ -173,7 +175,7 @@ Wageningen
 Waltham
 Wheaton
 Wistar
-xxxx
+XXXX
 XXXXXXXX
 Zeiss
 Zuber
