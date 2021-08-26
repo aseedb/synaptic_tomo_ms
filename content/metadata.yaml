@@ -30,6 +30,10 @@ authors:
       - Graduate School for Cellular and Biomedical Sciences, University of Bern
     symbol_str: "*"
     equal_contribution: true
+  - name: Anna Kádková
+    initials: AK
+    affiliations:
+      -  Department of Neuroscience, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen N, Denmark
   - name: Ulrike Laugks
     initials: UL
     orcid: 0000-0003-4175-4354
@@ -64,7 +68,12 @@ authors:
     orcid: 0000-0001-5465-3769
     email: jakobbs@sund.ku.dk
     affiliations: 
-      - Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark
+      - Department of Neuroscience, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen N, Denmark
+    funders:
+      - Novo Nordisk Fonden, NNF17OC0028516.
+      - Carlsbergfondet, CF17-0875
+      - Independent Research Fond Denmark, 8020-00228A
+      - Lundbeckfonden, R277-2018-802
     symbol_str: "†"
     correspondence: true
   - github: aseedb
@@ -75,7 +84,8 @@ authors:
     affiliations: 
       - Institute of Anatomy, University of Bern, Bern, Switzerland
     funders: 
-      - Swiss National Science Foundation (Grant# xxxx)
+      - Swiss National Science Foundation, 179520
+      - ERA-NET NEURON, NEURON-119
     symbol_str: "†"
     correspondence: true
  
