@@ -8,10 +8,11 @@
       "synaptic vesicles"
     ],
     "lang": "en-US",
-    "date-meta": "2021-08-26",
+    "date-meta": "2021-08-30",
     "author-meta": [
       "Julika Radecke",
       "Raphaela Seeger",
+      "Anna Kádková",
       "Ulrike Laugks",
       "Kenneth N. Goldie",
       "Henning Stahlberg",
@@ -19,7 +20,7 @@
       "Jakob B. Sørensen",
       "Benoît Zuber"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Morphofunctional changes at the active zone during synaptic vesicle exocytosis\" />\n<meta name=\"citation_title\" content=\"Morphofunctional changes at the active zone during synaptic vesicle exocytosis\" />\n<meta property=\"og:title\" content=\"Morphofunctional changes at the active zone during synaptic vesicle exocytosis\" />\n<meta property=\"twitter:title\" content=\"Morphofunctional changes at the active zone during synaptic vesicle exocytosis\" />\n<meta name=\"dc.date\" content=\"2021-08-26\" />\n<meta name=\"citation_publication_date\" content=\"2021-08-26\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Julika Radecke\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_institution\" content=\"Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark\" />\n<meta name=\"citation_author_institution\" content=\"Diamond Light Source Ltd, Didcot, Oxfordshire, United Kingdom\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5815-5537\" />\n<meta name=\"citation_author\" content=\"Raphaela Seeger\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_institution\" content=\"Graduate School for Cellular and Biomedical Sciences, University of Bern\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"citation_author\" content=\"Ulrike Laugks\" />\n<meta name=\"citation_author_institution\" content=\"Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4175-4354\" />\n<meta name=\"citation_author\" content=\"Kenneth N. Goldie\" />\n<meta name=\"citation_author_institution\" content=\"Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7405-0049\" />\n<meta name=\"citation_author\" content=\"Henning Stahlberg\" />\n<meta name=\"citation_author_institution\" content=\"Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland\" />\n<meta name=\"citation_author_institution\" content=\"EPFL\" />\n<meta name=\"citation_author_institution\" content=\"UNIL\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1185-4592\" />\n<meta name=\"citation_author\" content=\"Vladan Lučić\" />\n<meta name=\"citation_author_institution\" content=\"Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3698-7436\" />\n<meta name=\"citation_author\" content=\"Jakob B. Sørensen\" />\n<meta name=\"citation_author_institution\" content=\"Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5465-3769\" />\n<meta name=\"citation_author\" content=\"Benoît Zuber\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7725-5579\" />\n<link rel=\"canonical\" href=\"https://aseedb.github.io/synaptic_tomo_ms/\" />\n<meta property=\"og:url\" content=\"https://aseedb.github.io/synaptic_tomo_ms/\" />\n<meta property=\"twitter:url\" content=\"https://aseedb.github.io/synaptic_tomo_ms/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://aseedb.github.io/synaptic_tomo_ms/\" />\n<meta name=\"citation_pdf_url\" content=\"https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://aseedb.github.io/synaptic_tomo_ms/v/8e29831ff1f78a44d5fc5a314e6950f9611c24fa/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://aseedb.github.io/synaptic_tomo_ms/v/8e29831ff1f78a44d5fc5a314e6950f9611c24fa/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://aseedb.github.io/synaptic_tomo_ms/v/8e29831ff1f78a44d5fc5a314e6950f9611c24fa/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Morphofunctional changes at the active zone during synaptic vesicle exocytosis\" />\n<meta name=\"citation_title\" content=\"Morphofunctional changes at the active zone during synaptic vesicle exocytosis\" />\n<meta property=\"og:title\" content=\"Morphofunctional changes at the active zone during synaptic vesicle exocytosis\" />\n<meta property=\"twitter:title\" content=\"Morphofunctional changes at the active zone during synaptic vesicle exocytosis\" />\n<meta name=\"dc.date\" content=\"2021-08-30\" />\n<meta name=\"citation_publication_date\" content=\"2021-08-30\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Julika Radecke\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_institution\" content=\"Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark\" />\n<meta name=\"citation_author_institution\" content=\"Diamond Light Source Ltd, Didcot, Oxfordshire, United Kingdom\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5815-5537\" />\n<meta name=\"citation_author\" content=\"Raphaela Seeger\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_institution\" content=\"Graduate School for Cellular and Biomedical Sciences, University of Bern\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"citation_author\" content=\"Anna Kádková\" />\n<meta name=\"citation_author_institution\" content=\"Department of Neuroscience, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen N, Denmark\" />\n<meta name=\"citation_author\" content=\"Ulrike Laugks\" />\n<meta name=\"citation_author_institution\" content=\"Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-4175-4354\" />\n<meta name=\"citation_author\" content=\"Kenneth N. Goldie\" />\n<meta name=\"citation_author_institution\" content=\"Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7405-0049\" />\n<meta name=\"citation_author\" content=\"Henning Stahlberg\" />\n<meta name=\"citation_author_institution\" content=\"Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland\" />\n<meta name=\"citation_author_institution\" content=\"EPFL\" />\n<meta name=\"citation_author_institution\" content=\"UNIL\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1185-4592\" />\n<meta name=\"citation_author\" content=\"Vladan Lučić\" />\n<meta name=\"citation_author_institution\" content=\"Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3698-7436\" />\n<meta name=\"citation_author\" content=\"Jakob B. Sørensen\" />\n<meta name=\"citation_author_institution\" content=\"Department of Neuroscience, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen N, Denmark\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5465-3769\" />\n<meta name=\"citation_author\" content=\"Benoît Zuber\" />\n<meta name=\"citation_author_institution\" content=\"Institute of Anatomy, University of Bern, Bern, Switzerland\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7725-5579\" />\n<link rel=\"canonical\" href=\"https://aseedb.github.io/synaptic_tomo_ms/\" />\n<meta property=\"og:url\" content=\"https://aseedb.github.io/synaptic_tomo_ms/\" />\n<meta property=\"twitter:url\" content=\"https://aseedb.github.io/synaptic_tomo_ms/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://aseedb.github.io/synaptic_tomo_ms/\" />\n<meta name=\"citation_pdf_url\" content=\"https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://aseedb.github.io/synaptic_tomo_ms/v/ee8e64fc644037dd327ca0a843140851d3efb743/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://aseedb.github.io/synaptic_tomo_ms/v/ee8e64fc644037dd327ca0a843140851d3efb743/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://aseedb.github.io/synaptic_tomo_ms/v/ee8e64fc644037dd327ca0a843140851d3efb743/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -29,7 +30,7 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "August 26, 2021",
+    "date": "August 30, 2021",
     "authors": [
       {
         "github": "julikaradecke",
@@ -71,6 +72,16 @@
         ]
       },
       {
+        "name": "Anna Kádková",
+        "initials": "AK",
+        "affiliations": [
+          "Department of Neuroscience, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen N, Denmark"
+        ],
+        "affiliation_numbers": [
+          5
+        ]
+      },
+      {
         "name": "Ulrike Laugks",
         "initials": "UL",
         "orcid": "0000-0003-4175-4354",
@@ -79,7 +90,7 @@
           "Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany"
         ],
         "affiliation_numbers": [
-          5
+          6
         ]
       },
       {
@@ -91,7 +102,7 @@
           "Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland"
         ],
         "affiliation_numbers": [
-          6
+          7
         ]
       },
       {
@@ -106,9 +117,9 @@
           "UNIL"
         ],
         "affiliation_numbers": [
-          6,
           7,
-          8
+          8,
+          9
         ]
       },
       {
@@ -121,7 +132,7 @@
           "Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany"
         ],
         "affiliation_numbers": [
-          5
+          6
         ]
       },
       {
@@ -131,12 +142,18 @@
         "orcid": "0000-0001-5465-3769",
         "email": "jakobbs@sund.ku.dk",
         "affiliations": [
-          "Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark"
+          "Department of Neuroscience, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen N, Denmark"
+        ],
+        "funders": [
+          "Novo Nordisk Fonden, NNF17OC0028516.",
+          "Carlsbergfondet, CF17-0875",
+          "Independent Research Fond Denmark, 8020-00228A",
+          "Lundbeckfonden, R277-2018-802"
         ],
         "symbol_str": "†",
         "correspondence": true,
         "affiliation_numbers": [
-          2
+          5
         ]
       },
       {
@@ -149,7 +166,8 @@
           "Institute of Anatomy, University of Bern, Bern, Switzerland"
         ],
         "funders": [
-          "Swiss National Science Foundation (Grant# xxxx)"
+          "Swiss National Science Foundation, 179520",
+          "ERA-NET NEURON, NEURON-119"
         ],
         "symbol_str": "†",
         "correspondence": true,
@@ -176,20 +194,24 @@
         "affiliation_number": 4
       },
       {
-        "affiliation": "Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany",
+        "affiliation": "Department of Neuroscience, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen N, Denmark",
         "affiliation_number": 5
       },
       {
-        "affiliation": "Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland",
+        "affiliation": "Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany",
         "affiliation_number": 6
       },
       {
-        "affiliation": "EPFL",
+        "affiliation": "Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland",
         "affiliation_number": 7
       },
       {
-        "affiliation": "UNIL",
+        "affiliation": "EPFL",
         "affiliation_number": 8
+      },
+      {
+        "affiliation": "UNIL",
+        "affiliation_number": 9
       }
     ],
     "ci_source": {
@@ -197,19 +219,19 @@
       "repo_slug": "aseedb/synaptic_tomo_ms",
       "repo_owner": "aseedb",
       "repo_name": "synaptic_tomo_ms",
-      "commit": "8e29831ff1f78a44d5fc5a314e6950f9611c24fa",
-      "triggering_commit": "8e29831ff1f78a44d5fc5a314e6950f9611c24fa",
-      "build_url": "https://github.com/aseedb/synaptic_tomo_ms/commit/8e29831ff1f78a44d5fc5a314e6950f9611c24fa/checks",
+      "commit": "ee8e64fc644037dd327ca0a843140851d3efb743",
+      "triggering_commit": "ee8e64fc644037dd327ca0a843140851d3efb743",
+      "build_url": "https://github.com/aseedb/synaptic_tomo_ms/commit/ee8e64fc644037dd327ca0a843140851d3efb743/checks",
       "job_url": "https://github.com/aseedb/synaptic_tomo_ms/runs/__run_3"
     },
     "html_url": "https://aseedb.github.io/synaptic_tomo_ms/",
     "pdf_url": "https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf",
-    "html_url_versioned": "https://aseedb.github.io/synaptic_tomo_ms/v/8e29831ff1f78a44d5fc5a314e6950f9611c24fa/",
-    "pdf_url_versioned": "https://aseedb.github.io/synaptic_tomo_ms/v/8e29831ff1f78a44d5fc5a314e6950f9611c24fa/manuscript.pdf",
+    "html_url_versioned": "https://aseedb.github.io/synaptic_tomo_ms/v/ee8e64fc644037dd327ca0a843140851d3efb743/",
+    "pdf_url_versioned": "https://aseedb.github.io/synaptic_tomo_ms/v/ee8e64fc644037dd327ca0a843140851d3efb743/manuscript.pdf",
     "manubot_version": "0.5.1",
     "rootstock_commit": "defe787b0ad8a21a745cc82c3117770896caaf8b",
     "manuscript_stats": {
-      "word_count": 5348
+      "word_count": 5760
     }
   }
 }
