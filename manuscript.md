@@ -72,9 +72,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/cd6233ac9bb2bea857a1b6f913e4658786b3a249/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/cd6233ac9bb2bea857a1b6f913e4658786b3a249/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/cd6233ac9bb2bea857a1b6f913e4658786b3a249/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/b3c6556a8078ad37c454b8e3912c27055c230de2/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b3c6556a8078ad37c454b8e3912c27055c230de2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b3c6556a8078ad37c454b8e3912c27055c230de2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -96,9 +96,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/cd6233ac9bb2bea857a1b6f913e4658786b3a249/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/b3c6556a8078ad37c454b8e3912c27055c230de2/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@cd6233a](https://github.com/aseedb/synaptic_tomo_ms/tree/cd6233ac9bb2bea857a1b6f913e4658786b3a249)
+from [aseedb/synaptic_tomo_ms@b3c6556](https://github.com/aseedb/synaptic_tomo_ms/tree/b3c6556a8078ad37c454b8e3912c27055c230de2)
 on August 31, 2021.
 </em></small>
 
@@ -370,12 +370,25 @@ These results indicate that prolonged abnormal exocytotic activity is correlated
 
 
 ## Materials and methods
-### Synaptosome
-#### Synaptosome preparation
-Synaptosomes were prepared as previously described [@doi:10.1038/nprot.2008.171], with some modifications.
+### Constructs and viruses
+SNAP-25B was N-terminally fused to GFP and cloned into a pLenti construct with a CMV promoter [@doi:10.1523/JNEUROSCI.5092-06.2007].
+Mutations were made using the QuikChange II XL kit (Agilent).
+The mutations were verified by sequencing and have been published before [@doi:10.1016/j.celrep.2019.01.103].
+The preparation of lentiviral particles followed standard protocols.
+
+### Animals
+Synaptosomes were prepared from adult male or female Wistar rat obtained from the central animal facilities of the Department of Biomedical Research of the University of Bern.
 Adult male or female Wistar rats at an age of 6-8 weeks were slightly stunned by CO2 and quickly decapitated with a guillotine.
-Animals were obtained from the central animal facilities of the department of clinical research of the University of Bern. 
 The procedures used were in accordance with the Swiss Veterinary Law guidelines.
+Heterozygous SNAP-25 KO C57/Bl6-mice were routinely backcrossed to Bl6 to generate new heterozygotes.
+The strain was kept in the heterozygous condition and timed heterozygous crosses and caesarean section were used to recover knockout embryos at embryonic day 18 (E18). 
+Pregnant females were killed by cervical dislocation; embryos of either sex were collected and killed by decapitation. Permission to keep and breed SNAP-25 mice was obtained from the Danish Animal Experiments Inspectorate and followed institutional guidelines as overseen by the Institutional Animal Care and Use Committee (IACUC).
+CD1 outbred mice were used to create astrocytic cultures.
+Newborns (P0-P2) of either sex were used.
+Pups were killed by decapitation.
+
+### Synaptosome preparation
+Rat synaptosomes were prepared as previously described [@doi:10.1038/nprot.2008.171], with some modifications.
 The cerebral cortex and the hippocampi were removed in sucrose buffer (SEH: 0.32 M sucrose, 1 mM EDTA, 10 mM HEPES; HEPES, #H4034, Sigma-Aldrich Corporate Offices. St. Louis, MO, USA) on ice. 
  Homogenization of the tissue was done in SEH with a Potter-Elvehjem grinder (#358011, Wheaton. Millville, New Jersey, USA), four strokes at the bottom and 6 from top to bottom were applied to the tissue at a speed of 800 turns/min as described in [@doi:10.1038/nprot.2008.171]. 
  The whole process from decapitation to homogenization was done within 2-3 min, to obtain functional synaptosomes. 
@@ -383,11 +396,40 @@ The cerebral cortex and the hippocampi were removed in sucrose buffer (SEH: 0.32
  The resulting supernatant containing synaptosomes, but also gliosomes and mitochondria was then added to a discontinuous, isoosmotic Percoll (#P1644, Sigma) gradient with 5%, 10% and 23% in 0.32 M sucrose, 1 mM EDTA in centrifuge tubes (#344060, Beckman Coulter). 
  The samples were spun in an ultracentrifuge (rotor: SW 40 Ti; Beckman Coulter. Nyon, Switzerland) at 16400 rpm for 12 min at 4°C. 
  The layer with the highest amount of functional synaptosomes was between 10-23 % [@doi:10.1038/nprot.2008.171]. 
- The layer was carefully taken out and diluted 1:10 in HBM (140 mM NaCl, 5 mM KCl, 5 mM NaHCO3, 1.2 mM Na2HPO4, 1 mM MgCl2, 10 mM Glucose, 20 mM HEPES). 
+ The layer was carefully taken out and diluted 1:10 in HEPES buffered medium (HBM; 140 mM NaCl, 5 mM KCl, 5 mM NaHCO~3~, 1.2 mM Na~2~HPO~4~, 1 mM MgCl~2~, 10 mM Glucose, 20 mM HEPES). 
  The obtained solution was further spun with an ultracentrifuge (rotor 45 Ti; Beckman Coulter) at 11200 rpm for 20 min at 4°C. 
  The pellet was carefully and quickly aspirated with a Pasteur pipette to avoid mixture with the solution and then diluted in HBM.
 
-#### Plunge freezing and spray-mixing (synaptosomes)
+### Preparation of astrocytic and neuronal culture
+The procedure has been published before [@doi:10.3791/50783].
+Glial cells were ready to be used after 10 days. once they were triturated and counted with a Buerker chamber, 100,000 cells/ml were plated onto untreated 12 well plates containing 10% DMEM.
+Astrocytes were isolated from CD1 outbred mice (P0-P2).
+Pups were killed by decapitation and heads were placed in HBSS-HEPES medium (HBSS supplemented with 1 M HEPES).
+The cortices were isolated from the brains and the meninges were removed (dura, pia and arachnoid mater).
+The cortices were chopped into smaller fragments and transferred to a tube containing 0.25% trypsin dissolved in Dulbecco’s MEM (DMEM)supplemented with 10% foetal calf serum, 20000 IU penicillin, 20 mg streptomycin and 1% MEM non-essential amino acids. Fragments were incubated for 15 min at 37°C.
+Subsequently, inactivation medium (12.5 mg albumin + 12.5 mg trypsin-inhibitor in 10% DMEM) was added and the tissue washed with HBSS-HEPES. 
+Tissue was triturated until a smooth cloudy suspension appeared. 
+Cells were plated in 80 cm^2^ flasks with pre-warmed DMEM, one hemisphere per flask, and stored at 37°C with 5% CO~2~. Glial cells were ready to be used after 10 days.
+Glial cells were washed with pre-warmed HBSS-HEPES.
+Trypsin was added and the flasks were incubated at 37°C for 10 min.
+Cells were triturated and counted with a Buerker chamber before plating 100,000 cells/ml on untreated 12-well plates containing DMEM.
+After 2 days, neurons were plated. 
+
+Hippocampal neurons were isolated from either E18 SNAP-25 KO.
+The SNAP-25 KO pups were obtained by pairing two heterozygote animals, and the embryos were recovered at E18 by caesarean section. 
+Pups were selected based on the absence of motion after tactile stimulation and bloated neck [@doi:10.1038/nn783]; the genotype was confirmed by PCR in all cases. 
+The pups were killed by decapitation and heads were put in HBSS-HEPES medium. The cortices were isolated from the brains and the meninges were removed. 
+The hippocampi were cut from the cortices before being transferred to a tube containing 0.25% trypsin dissolved in HBSS-HEPES solution.
+Fragments were incubated for 20 min at 37°C. 
+Afterwards, the tissue was washed with HBSS-HEPES. 
+The hippocampi were triturated and the cell count was determined with a Buerker chamber. 
+20 µl of solution containing 250,000 cells/ml were plated onto the flame sterilized gold R2/2 or R2/1 EM grids as previously described in [@doi:10.3791/50783]. 
+Following a 30 min incubation at 37°C, the grid was transferred into the 12 well plate containing the astrocytes and medium was replaced with NB medium (Neurobasal with 2% B-27, 1 M HEPES, 0.26% lutamax, 14.3 mM β-mercaptoethanol, 20000 IU penicillin, 20 mg streptomycin) for the E18 pups or NB-A medium (Neurobasal-A with 2% B-27, 1% Glutamax , 20000 IU Penicillin, 20 mg Streptomycin) for the P0-P1.
+Between 4 h and 1 day later, lentiviral particles carrying either SNAP-25-WT, SNAP-25-4E, or SNAP-25-4K constructs were added to the culture.
+The cultures were incubated for 12 to 14 days before being plunge frozen.
+
+### Plunge freezing and spray-mixing
+Rat synaptosomes were prepared for plunge freezing and spray-mixing as follows.
 The following steps from incubation to plunge freezing were all done at room temperature (RT), equivalent to 23-25°C. 
  The synaptosomal solution was incubated with calcein blue AM (#C1429, Molecular Probes-Thermo Fisher Scientific. Waltham, MA, USA) 30 min prior to plunge freezing to visualize the cytosol of functional – esterase containing – cellular compartments such as synaptosomes. 
  Additionally, 1.3 mM CaCl2 and 10 nm gold fiducials were added (gold fiducials, #s10110/8. AURION Immuno Gold Reagents & Accessories. Wageningen, The Netherlands). 
@@ -409,30 +451,40 @@ This reduces the effective stimulation duration to anything between 0 ms and les
 Moreover, through diffusion, KCl concentration rapidly rises and then decreases.
 Hence synaptosomes are not permanently depolarized.
 
-#### Cryo-fluorescence microscopy (synaptosomes)
-After plunge freezing, the sample was imaged at the fluorescent microscope under cryo conditions, with a Zeiss Axio Scope.A1, equipped with an AxioCam MRm camera (Carl Zeiss AG, Germany), and a fluorescence lamp (HXP 120 C).
+After 12 to 14 days of incubation grids with mouse neurons were plunge frozen with a Vitrobot (Thermofisher Scientific, Mark IV) with a blot time of 3 s and a blot force of -10. 
+Wait time and drain time were not used. 
+Humidity was set to 100% at 4°C. 
+4 µl undiluted 10 nm BSA gold tracer (Aurion) was added directly onto the grid prior to plunge freezing.
+
+### Cryo-fluorescence microscopy
+After plunge freezing, rat synaptsome samples were imaged at the fluorescent microscope under cryo conditions, with a Zeiss Axio Scope.A1, equipped with an AxioCam MRm camera (Carl Zeiss AG, Germany), and a fluorescence lamp (HXP 120 C).
 The correlative microscopy stage (#CMS196, Linkam Scientific Instruments, UK) was cooled down to -190°C by liquid nitrogen and the frozen EM grid was placed into the chamber of the cryostage on a bridge that was not submerged in liquid nitrogen and was close to the objective, where the temperature was around -150°C.
 The filter set used for imaging fluorescein was #38 (#000000-1031-346, Zeiss) (BP 470/40, FT 495, BP 525/50; corresponds to GFP) and the one for calcein blue AM was #49 (#488049-9901-000, Zeiss) (G 365, FT 395, BP 445/50; corresponds to DAPI).
 The objective used was either a 10x (#420941-9911, NA = 0.25 Ph1, Zeiss) or a 50x (#422472-9900, NA = 0.55 Dic, Zeiss), the acquisition software used was AxioVision (AxioVs40x64 V 4.8.3.0, Zeiss) and the processing software was ZEN lite (Zeiss).
 
-#### Cryo-electron microscopy (synaptosomes)
-Following cryo-FM, the grid was mounted in a cryo-holder (Gatan, Pleasonton, CA, USA) and transferred to a Tecnai F20 (FEI, Eindhoven, The Netherlands) which was set to low dose conditions, operated at 200 kV, and equipped with a field emission gun.
+### Cryo-electron microscopy
+Following cryo-FM, the rat synaptosome grids were mounted in a cryo-holder (Gatan, Pleasonton, CA, USA) and transferred to a Tecnai F20 (FEI, Eindhoven, The Netherlands) which was set to low dose conditions, operated at 200 kV, and equipped with a field emission gun.
 Images were recorded with a 2k x 2k CCD camera (Gatan) mounted after a GIF Tridiem post-column filter (Gatan) operated in zero-loss mode.
 The sample was kept at about -180°C.
 Tilt series were acquired using SerialEM [@doi:10.1016/j.jsb.2005.07.007] for automated acquisition recorded typically from -50° to 50° with a 2° angular increment and an unbinned pixel size of 0.75 or 1.2 nm.
 Due to sample thickness (400-700 nm), tomograms were usually not recorded with higher tilt angles.
-Defocus was set between -8 to -12 µm and the total electron dose used was about 80-100 e-/Å2.
-Some tomograms were acquired at the Titan Krios, equipped with a K2 direct electron detector (Gatan) without energy filter.
+Defocus was set between -8 to -12 µm and the total electron dose used was about 80-100 e^-^/Å^2^.
+Some tomograms were acquired at a Titan Krios equipped with a K2 direct electron detector (Gatan) without energy filter.
 The K2 camera was operated in superresolution counting mode and between 8-40 frames per tilt angle were taken.
 Tilt series were acquired using the Latitude software (Gatan) for automated acquisition recorded typically from -60° to 60° with a 2° angular increment and an unbinned pixel size of 0.6 nm.
-Defocus was set between -8 to -12 µm and the total electron dose used was about 80-100 e-/Å2.
+Defocus was set between -8 to -12 µm and the total electron dose used was about 80-100 e^-^/Å^2^.
 Prior to image processing the frames at each tilt angle, frames were aligned and averaged in 2dx MC_Automator [@doi:10.1016/j.jsb.2014.03.016] with motioncor [@doi:10.1038/nmeth.2472].
 3D reconstruction was done in IMOD [@doi:10.1006/jsbi.1996.0013].
 The alignments were done using the automated fiducial tracking function and the 3D reconstructions were done using the weighted back projection followed by a nonlinear anisotropic diffusion (NAD) filtering.
 Following tomogram reconstruction only synaptosomes that fulfilled the following criteria were used: 1) even and non-broken PM, 2) synaptic cleft still attached to the presynapse, 3) spherical vesicles, and 4) a mitochondrion in the presynapse necessary to cover the energy demands of the synapse.
 These criteria indicate that the synaptosome is functional [@doi:10/b5tzcr].
 
-#### Manual and automatic segmentation procedures
+Cultured mouse neurons tilt series were acquired at a Titan Krios, equipped with a Falcon 3 direct electron detector (Thermofisher Scientific) without energy filter.
+The Falcon camera was operated in linear mode. 
+Tilt series were acquired using the TEM Tomography software (TFS) for automated acquisition recorded typically from -60° to 60° with a 2° angular increment and an unbinned pixel size of 0.37 nm. 
+Defocus was set between -6 to -10 µm and the total electron dose used was about 80-100 e^-^/Å^2^. Tomogram reconstruction was done as for synaptosome datasets. 
+
+### Manual and automatic segmentation procedures
 Manual segmentation of SVs, mitochondria, and the active zone PM was done in IMOD (Figure S4A&B).
 The boundary marked the region to be analyzed by Pyto [@doi:10.1016/j.jsb.2016.10.004].
  The analysis by Pyto was essentially the same as described previously [@doi:10.1083/jcb.200908082] [@doi:10.1016/j.jsb.2016.10.004].
@@ -449,7 +501,7 @@ The tomograms that were used for this analysis were binned by a factor of 2 to 3
 Tether and connector length were calculated using the midpoint method [@doi:10.1016/j.jsb.2016.10.004].
 From the stimulated synaptosomes only those that showed visible signs of exocytosis where used for analysis in Pyto.
 
-#### Data analysis
+### Data analysis
 If not stated otherwise data in the text are described as mean ± standard error to the mean (SEM).
 Wherever possible, data were presented as box plots with the following settings: orange bar, median; box extremities, lower and upper quartiles; whiskers extend up to 1.5 x interquartile range; dots, outliers.
 We used the same statistical tests as in [@doi:10.1083/jcb.200908082; @doi:10.1083/jcb.201206063].
@@ -460,45 +512,6 @@ To calculate the correlation coefficient for paired samples (such as vesicle dis
 The confidence values were calculated using two-tailed tests and were indicated in the graphs by *, P<0.05; **, P<0.01; ***, P<0.001.
 We did not apply statistical methods to predetermine sample size but similar sample sizes as previously reported have been used [@doi:10.1083/jcb.200908082].
 It was not necessary to apply randomization.
-
-
-
-### Neuron culture on EM grids
-
-#### Animals
-SNAP-25 KO C57/Bl6-mice: Heterozygous animals were routinely backcrossed to Bl6 to generate new heterozygotes.
-The strain was kept in the heterozygous condition and timed heterozygous crosses and caesarean section were used to recover knockout embryos at embryonic day 18 (E18).
-Pregnant females were killed by cervical dislocation; embryos of either sex were collected and killed by decapitation.
-Permission to keep and breed SNAP-25 and syt-1 mice was obtained from the Danish Animal Experiments Inspectorate and followed institutional guidelines as overseen by the Institutional Animal Care and Use Committee (IACUC).
-CD1 outbred mice stock: these were used to create astrocytic cultures.
-Newborns (P0-P2) of either sex were used.
-Pups were killed by decapitation.
-
-#### Preparation of astrocytic and neuronal culture
-The procedure has been published before [@doi:10.3791/50783].
-The following changes were made.
-Glial cells were ready to be used after 10 days, once they were triturated and counted with a Buerker chamber, 100,000 cells/ml were plated onto untreated 12 well plates containing 10% DMEM.
-After 2 days, neurons were plated.
-20 µl solution containing 250,000 cells/ml were plated onto the flame sterilized gold R2/2 or R2/1 EM grids as previously described in (Shahmoradian et al., 2014).
-Following a 30 min incubation at 37°C, the grid was transferred into the 12 well plate containing the astrocytes and medium was replaced with NB medium (Neurobasal with 2% ml B-27, 1 M HEPES, 0.26% Glutamax, 14.3 mMb-mercaptoethanol, 20000 IU Penicillin, 20 mg Streptomycin) for the E18 pups or NB-A medium (Neurobasal-A with 2% B27, 1% Glutamax 1, 20000 IU Penicillin, 20 mg Streptomycin) for the P0-P1.
-
-#### Constructs and viruses
-SNAP-25B was N-terminally fused to GFP and cloned into a pLenti construct with a CMV promoter [@doi:10.1523/JNEUROSCI.5092-06.2007].
-Mutations were made using the QuikChange II XL kit (Agilent).
-The mutations were verified by sequencing and have been published before [@doi:10.1016/j.celrep.2019.01.103].
-The preparation of lentiviral particles followed standard protocols.
-
-#### Cryo-electron microscopy
-Grids were plunge frozen with a Vitrobot (TFS) with a blot time of 3 s and a blot force of -10, wait time and drain time were not used, humidity was set to 100% at 4°C.
-4 µl undiluted 10 nm BSA gold tracer (Aurion) was added directly onto the grid prior to plunge freezing.
-Tomograms were acquired at the Titan Krios, equipped with a Falcon 3 direct electron detector (Thermo Fisher Scientific (TFS)) without energy filter.
-The Falcon camera was operated in linear mode.
-Tilt series were acquired using the TEM Tomography software (TFS) for automated acquisition recorded typically from -60° to 60° with a 2° angular increment and an unbinned pixel size of 0.37 nm.
-Defocus was set between -6 to -10 µm and the total electron dose used was about 80-100 e-/Å2.
-3D reconstruction was done in IMOD [@doi:10.1006/jsbi.1996.0013].
-The alignments were done using the automated fiducial tracking function and the 3D reconstructions were done using the weighted back projection followed by a nonlinear anisotropic diffusion (NAD) filtering.
-Following tomogram reconstruction all synapses with a clear synaptic cleft and attached postsynapse were used for semi-automatic segmentation and analysis of tethers and connectors.
-
 
 
 ## References {.page_break_before}
