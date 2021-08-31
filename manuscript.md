@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2021-08-30'
+date-meta: '2021-08-31'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -27,8 +27,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2021-08-30" />
-  <meta name="citation_publication_date" content="2021-08-30" />
+  <meta name="dc.date" content="2021-08-31" />
+  <meta name="citation_publication_date" content="2021-08-31" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -72,9 +72,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/ee8e64fc644037dd327ca0a843140851d3efb743/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/ee8e64fc644037dd327ca0a843140851d3efb743/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/ee8e64fc644037dd327ca0a843140851d3efb743/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/a8db744055c2b21d96af10f61a3befc708015506/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/a8db744055c2b21d96af10f61a3befc708015506/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/a8db744055c2b21d96af10f61a3befc708015506/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -96,10 +96,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/ee8e64fc644037dd327ca0a843140851d3efb743/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/a8db744055c2b21d96af10f61a3befc708015506/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@ee8e64f](https://github.com/aseedb/synaptic_tomo_ms/tree/ee8e64fc644037dd327ca0a843140851d3efb743)
-on August 30, 2021.
+from [aseedb/synaptic_tomo_ms@a8db744](https://github.com/aseedb/synaptic_tomo_ms/tree/a8db744055c2b21d96af10f61a3befc708015506)
+on August 31, 2021.
 </em></small>
 
 ## Authors
@@ -264,16 +264,28 @@ Altogether, our results indicate that connectors regulate SV mobility and their 
 ## Results
 To analyze the morphological changes occuring in the presynpase shortly after stimulation, we pursued a time-resolved cryo-electron tomography approach.
 A 52-mM KCl containing buffer was sprayed with an atomizer to depolarize synaptosomes and stimulate exocytosis milliseconds before vitrification.
-The spray droplet size was optimized by cutting a 1-ml pipet tip to a diameter matching an EM grid (3 mm) and fixed to the atomizer glass outlet to disperse the spray (Figure {@fig:workflow}A).
+The spray droplet size was optimized by cutting a 1-ml pipet tip to a diameter matching an EM grid (3 mm) and fixed to the atomizer glass outlet to disperse the spray (Figure {@fig:workflow}A1).
 Furthermore, to achieve a delay of 7 ms between spraying and freezing, the nozzle was set 1-2 mm above the liquid ethane container.
-This generated many small spray droplets spread throughout the grid (Figure {@fig:workflow}B-D).
+This generated many small spray droplets spread throughout the grid (Figure {@fig:workflow}A2-A4).
 Even if sprayed droplets were well distributed throughout the grid, not all synaptosomes were in contact with exocytosis-triggering KCl solution.
 Given the very low throughput of cryo-electron tomography, we followed a correlative light and electron microscopy approach.
-By cryo-fluorescence microscopy, we identified areas where fluorescently labeled synaptosomes and fluorescent spray droplets were colocalized .
+By cryo-fluorescence microscopy, we identified areas where fluorescently labeled synaptosomes and fluorescent spray droplets were colocalized.
 Additionally, phase contrast imaging enabled quality control of the frozen EM grid with respect to ice contamination and ice cracks, as shown previously [@doi:10.1016/j.jsb.2007.07.011].
-9 control and 9 stimulated synaptosome tomograms were analyzed. We restricted our analysis to synaptosomes that possessed a smooth PM, free of signs of rupturing and that had a mitochondrion, as we considered these factors essential for synaptosome function.
+9 control and 9 stimulated synaptosome tomograms were analyzed. 
+We restricted our analysis to synaptosomes that possessed a smooth PM, free of signs of rupturing and that had a mitochondrion, as we considered these factors essential for synaptosome function.
 
-In addition, we manipulated the electrostatic state of the SNARE complex through a series of point mutations introduced above and grew primary neurons on EM grids [@doi:10.1016/j.celrep.2019.01.103]. *__More text from Julika and Jakob to describe the procedure here__*.  Thereby we could image chronically overactive or depressed synapses and relate presynaptic architectural modifications to different functional states. 
+In addition, we manipulated the electrostatic state of the SNARE complex through a series of point mutations introduced above and grew primary neurons on EM grids [@doi:10.1016/j.celrep.2019.01.103] (Figure {@fig:workflow}B1-B4).
+*__More text from Julika and Jakob to describe the procedure here__*.
+Thereby we could image chronically overactive or depressed synapses and relate presynaptic architectural modifications to different functional states. 
+
+![Experimental models. 
+A1) Glass atomizer used to disperse depolarizing solution on the EM grid milliseconds before the grid is vitrified.
+A2) Spray droplets imaged with the GFP filter set.
+A3) Synaptosomes imaged with the DAPI filter set.
+A4) Overlay of spray droplets (green) and synaptosomes (red). 
+Scale bars, 20 μm.
+](images/workflow.svg){#fig:workflow width="15cm")
+
 ### Increased membrane curvature at the onset of exocytosis
 We analyzed the morphology of SVs fusing with the AZ PM.
 Synaptosomes of a single grid have not all been stimulated for the same duration.

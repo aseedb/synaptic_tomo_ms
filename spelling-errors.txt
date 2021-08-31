@@ -27,7 +27,7 @@ CMV
 colocalized
 complexin
 constitutively
-cryo
+Cryo
 cryostage
 cyro
 cytosol
@@ -69,7 +69,7 @@ Henning
 HEPES
 heterogenous
 heterozygotes
-Heterozygous
+heterozygous
 hippocampal
 hippocampi
 homebuilt
@@ -156,7 +156,7 @@ SVs
 Synapsin
 synaptobrevin
 synaptosomal
-synaptosome
+Synaptosome
 synaptosomes
 synaptotagmin
 syntaxin
