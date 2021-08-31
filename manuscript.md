@@ -72,9 +72,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/a8db744055c2b21d96af10f61a3befc708015506/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/a8db744055c2b21d96af10f61a3befc708015506/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/a8db744055c2b21d96af10f61a3befc708015506/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/cd6233ac9bb2bea857a1b6f913e4658786b3a249/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/cd6233ac9bb2bea857a1b6f913e4658786b3a249/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/cd6233ac9bb2bea857a1b6f913e4658786b3a249/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -96,9 +96,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/a8db744055c2b21d96af10f61a3befc708015506/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/cd6233ac9bb2bea857a1b6f913e4658786b3a249/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@a8db744](https://github.com/aseedb/synaptic_tomo_ms/tree/a8db744055c2b21d96af10f61a3befc708015506)
+from [aseedb/synaptic_tomo_ms@cd6233a](https://github.com/aseedb/synaptic_tomo_ms/tree/cd6233ac9bb2bea857a1b6f913e4658786b3a249)
 on August 31, 2021.
 </em></small>
 
@@ -278,13 +278,7 @@ In addition, we manipulated the electrostatic state of the SNARE complex through
 *__More text from Julika and Jakob to describe the procedure here__*.
 Thereby we could image chronically overactive or depressed synapses and relate presynaptic architectural modifications to different functional states. 
 
-![Experimental models. 
-A1) Glass atomizer used to disperse depolarizing solution on the EM grid milliseconds before the grid is vitrified.
-A2) Spray droplets imaged with the GFP filter set.
-A3) Synaptosomes imaged with the DAPI filter set.
-A4) Overlay of spray droplets (green) and synaptosomes (red). 
-Scale bars, 20 μm.
-](images/workflow.svg){#fig:workflow width="15cm")
+![Experimental models. A1) Glass atomizer used to disperse depolarizing solution on the EM grid milliseconds before the grid is vitrified. A2) Spray droplets imaged with the GFP filter set. A3) Synaptosomes imaged with the DAPI filter set. A4) Overlay of spray droplets (green) and synaptosomes (red). Scale bars, 20 μm.](images/workflow.svg){#fig:workflow width="15cm")
 
 ### Increased membrane curvature at the onset of exocytosis
 We analyzed the morphology of SVs fusing with the AZ PM.

@@ -27,7 +27,7 @@ CMV
 colocalized
 complexin
 constitutively
-Cryo
+cryo
 cryostage
 cyro
 cytosol
@@ -153,7 +153,7 @@ supernatant
 superresolution
 SV
 SVs
-Synapsin
+synapsin
 synaptobrevin
 synaptosomal
 Synaptosome
