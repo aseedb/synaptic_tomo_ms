@@ -4,7 +4,7 @@ Aldrich
 anisotropic
 arachnoid
 aseedb
-Astrocytes
+astrocytes
 astrocytic
 Aurion
 Automator
@@ -77,7 +77,7 @@ heterogenous
 heterozygote
 heterozygotes
 Heterozygous
-hippocampal
+Hippocampal
 hippocampi
 homebuilt
 HPO
@@ -161,11 +161,11 @@ supernatant
 superresolution
 SV
 SVs
-synapsin
+Synapsin
 synaptobrevin
 synaptosomal
 synaptosome
-Synaptosomes
+synaptosomes
 synaptotagmin
 synaptsome
 syntaxin
@@ -174,7 +174,7 @@ TEM
 TFS
 Thermo
 Thermofisher
-Tomogram
+tomogram
 tomograms
 Tridiem
 triturated
