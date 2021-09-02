@@ -76,8 +76,8 @@ HEPES
 heterogenous
 heterozygote
 heterozygotes
-Heterozygous
-hippocampal
+heterozygous
+Hippocampal
 hippocampi
 homebuilt
 HPO
@@ -164,7 +164,7 @@ SVs
 synapsin
 synaptobrevin
 synaptosomal
-synaptosome
+Synaptosome
 synaptosomes
 synaptotagmin
 synaptsome
