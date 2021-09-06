@@ -72,9 +72,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/38e79e3ef14ab2ffeede324b5413c65620a2b8b8/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/38e79e3ef14ab2ffeede324b5413c65620a2b8b8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/38e79e3ef14ab2ffeede324b5413c65620a2b8b8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/ecace11c4991681eb088bacb9179ca079b0ab23b/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/ecace11c4991681eb088bacb9179ca079b0ab23b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/ecace11c4991681eb088bacb9179ca079b0ab23b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -96,9 +96,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/38e79e3ef14ab2ffeede324b5413c65620a2b8b8/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/ecace11c4991681eb088bacb9179ca079b0ab23b/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@38e79e3](https://github.com/aseedb/synaptic_tomo_ms/tree/38e79e3ef14ab2ffeede324b5413c65620a2b8b8)
+from [aseedb/synaptic_tomo_ms@ecace11](https://github.com/aseedb/synaptic_tomo_ms/tree/ecace11c4991681eb088bacb9179ca079b0ab23b)
 on September 6, 2021.
 </em></small>
 
@@ -298,6 +298,7 @@ In the next observed fusion state, the vesicle was wide open (Figure {@fig:membr
 These structures were not observed in any of the non-sprayed control datasets.
 
 ![SV exocytosis morphology. Tomographic slice of non-stimulated (A) and stimulated rat synaptosomes (B-H). A) Image of a 2.2-nm thick tomographic slice showing a non-stimulated with SVs at the AZ and a straight PM. B1) Membrane curvature event, 2.2-nm thick tomographic slice. B2) Membrane curvature event, 6.5-nm thick tomographic slice. Orange arrows showing membrane curvature event. C1,C2) Lipid perturbations of PM and SV, 22-nm thick tomographic slices. The space between SV and PM is denser than in the non-stimulated synaptosomes (see pink arrow). D-F) Vesicles with a pore opening that might be on the way to full collapse fusion, 33-nm thick tomographic slice thickness: 22 nm (D), 30.8 (E), 33 nm (F). G) Wide pore opening, most likely on the way to full collapse fusion, 2.2-nm tomographic slice. H) Remaining bump at the end of full collapse fusion, 11-nm thick tomographic slice. Scale bar, 50 nm.](images/membrane_morphology.svg){#fig:membrane_morphology width="15cm"}
+
 Stimulated synaptosome datasets were divided into early and late fusion stages, respectively, based on the morphology of SV and AZ PM. Synapses showing membrane bending and direct lipid contact between SV and PM without an open pore were classified as early fusion. 
 Those with an open pore or a remaining small bump of a fully collapsed vesicle were classified as late fusion.
 

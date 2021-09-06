@@ -4,7 +4,7 @@ Aldrich
 anisotropic
 arachnoid
 aseedb
-astrocytes
+Astrocytes
 astrocytic
 Aurion
 Automator
@@ -76,7 +76,7 @@ heterogenous
 heterozygote
 heterozygotes
 heterozygous
-hippocampal
+Hippocampal
 hippocampi
 homebuilt
 HPO
