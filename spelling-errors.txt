@@ -4,9 +4,9 @@ Aldrich
 anisotropic
 arachnoid
 aseedb
-Astrocytes
+astrocytes
 astrocytic
-Aurion
+AURION
 Automator
 Axio
 AxioCam
@@ -30,7 +30,6 @@ complexin
 constitutively
 cryo
 cryostage
-cyro
 cytosol
 DAPI
 datasets
@@ -76,8 +75,8 @@ HEPES
 heterogenous
 heterozygote
 heterozygotes
-heterozygous
-Hippocampal
+Heterozygous
+hippocampal
 hippocampi
 homebuilt
 HPO
@@ -115,6 +114,7 @@ mercaptoethanol
 MgCl
 Millville
 Mopac
+morphologically
 motioncor
 MRm
 Munc
@@ -129,7 +129,6 @@ Nordisk
 Novo
 Nyon
 OC
-occuring
 outbred
 Oxfordshire
 PCR
@@ -161,11 +160,11 @@ supernatant
 superresolution
 SV
 SVs
-synapsin
+Synapsin
 synaptobrevin
 synaptosomal
-Synaptosome
-synaptosomes
+synaptosome
+Synaptosomes
 synaptotagmin
 synaptsome
 syntaxin

@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2021-09-02'
+date-meta: '2021-09-06'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -27,8 +27,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2021-09-02" />
-  <meta name="citation_publication_date" content="2021-09-02" />
+  <meta name="dc.date" content="2021-09-06" />
+  <meta name="citation_publication_date" content="2021-09-06" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -72,9 +72,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/b0fe7f6bd675907b6f747182e3bb1b3d8c147c35/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b0fe7f6bd675907b6f747182e3bb1b3d8c147c35/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b0fe7f6bd675907b6f747182e3bb1b3d8c147c35/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/26b35fd11a2295c6852e5412305e2d1e3565c3df/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/26b35fd11a2295c6852e5412305e2d1e3565c3df/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/26b35fd11a2295c6852e5412305e2d1e3565c3df/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -96,10 +96,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/b0fe7f6bd675907b6f747182e3bb1b3d8c147c35/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/26b35fd11a2295c6852e5412305e2d1e3565c3df/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@b0fe7f6](https://github.com/aseedb/synaptic_tomo_ms/tree/b0fe7f6bd675907b6f747182e3bb1b3d8c147c35)
-on September 2, 2021.
+from [aseedb/synaptic_tomo_ms@26b35fd](https://github.com/aseedb/synaptic_tomo_ms/tree/26b35fd11a2295c6852e5412305e2d1e3565c3df)
+on September 6, 2021.
 </em></small>
 
 ## Authors
@@ -250,9 +250,9 @@ The same mobility enhancement can be achieved through inhibition of synapsin dep
 Interestingly, ribbon synapses do not express synapsin and show higher SV mobility than conventional synapses [@doi:10.1016/j.cub.2003.12.053].
 It is therefore conceivable that inter-SV connectors restrain SV diffusion and that synaptic activity influences the level of inter-SV connectivity and thereby their mobility.
 
-To investigate this hypothesis and to better understand the impact of depolarization and synaptic activity on SV tethering, we designed two sets of cyro-ET experiments.
+To investigate this hypothesis and to better understand the impact of depolarization and synaptic activity on SV tethering, we designed two sets of cryo-ET experiments.
 On the one hand, we compared the morphology of wild-type rat synaptosome in resting state and a few milliseconds after depolarization.
-On the other hand, to study the consequences of increased or decreased spontaneous synaptic activity, we imaged synapses in mice neuronal culture expressing either wild-type SNAP-25, a more positively charged SNAP-25 mutant (4K mutant), or a more negatively charged mutant of SNAP-25 (4E mutant).
+On the other hand, to study the consequences of increased or decreased spontaneous synaptic activity, we imaged synapses in mice neuronal culture expressing either wild-type SNAP-25, a more positively charged SNAP-25 mutant (4K mutant), or a more negatively charged mutant of SNAP-25 (4E mutant) [@doi:10.1016/j.celrep.2019.01.103].
 The more positive SNAP-25 mutant, which is constitutively active showed no triple-tethered SV, which confirmed the morphological definition of the RRP.
 Our experiments revealed that immediately after depolarization additional SVs are recruited to the RRP.
 Shortly after exocytosis the level of inter-SV connectivity was decreased among SVs situated in a 25 to 75-nm distance range from the AZ PM.
@@ -262,7 +262,7 @@ Altogether, our results indicate that connectors regulate SV mobility and their 
 
 
 ## Results
-To analyze the morphological changes occuring in the presynpase shortly after stimulation, we pursued a time-resolved cryo-electron tomography approach.
+To analyze the morphological changes occurring in the presynpase shortly after stimulation, we pursued a time-resolved cryo-electron tomography approach.
 A 52-mM KCl containing buffer was sprayed with an atomizer to depolarize synaptosomes and stimulate exocytosis milliseconds before vitrification.
 The spray droplet size was optimized by cutting a 1-ml pipet tip to a diameter matching an EM grid (3 mm) and fixed to the atomizer glass outlet to disperse the spray (Figure {@fig:workflow}A1).
 Furthermore, to achieve a delay of 7 ms between spraying and freezing, the nozzle was set 1-2 mm above the liquid ethane container.
@@ -321,7 +321,10 @@ This decrease can also be explained by the high exocytosis rate, which leads to 
 ### RRP size evolution following stimulation
 As stated in the Introduction, SVs that are linked by more than 2 tethers to the AZ PM have been shown to belong to the RRP. 
 We investigated the tethering state of proximal SVs (i.e. those SVs within 45 nm of the AZ PM) prior and following stimulation in synaptosomes.
-In non-sprayed synaptosomes, 59% of the proximal vesicles were tethered, which is in agreement with previous results [@doi:10.1083/jcb.200908082]. Interestingly, in the early fusion group the fraction of tethered proximal vesicles significantly increased to 80% (P<0.05, χ^2^ test; Figure @fig:tethers).
+In non-sprayed synaptosomes, 59% of the proximal vesicles were tethered, which is in agreement with previous results [@doi:10.1083/jcb.200908082]. Interestingly, in the early fusion group the fraction of tethered proximal vesicles significantly increased to 80% (P<0.05, χ^2^ test; Figure @fig:tethers). 
+
+FIGURE TETHERS : one panel for fraction of proximal vesicles that are tethered in synaptosomes. One panel for the same but in neurons. Two panels for fraction of proximal vesicles in RRP (one for synaptosomes, one for neurons). Two panels for number of tethers per proximal sv (one for synaptosomes, one for neurons). two panels for swarm plot of vesicle distance.
+
 In the late fusion group, however, 47% of the proximal vesicles were tethered, which is not significantly different to the non sprayed group.
 We then analyzed whether the decreased occupancy in the late fusion group was associated with a decreased number of RRP SVs. 
 In resting, non-sprayed synapses about 11% of the proximal SVs resided in the RRP.
@@ -348,6 +351,9 @@ To shed some light on the role of connectors we analyzed SV connectivity in our 
 We focused most of _(all?)_ our analysis to the SVs located at distance of the AZ PM lower than 250 nm. 
 Furthermore, we defined 4 distance groups: proximal (0-45 nm), intermediate (45-75 nm), distal 1 (75-150 nm), distal 2 (150-250 nm), as in previous studies [@doi:10.1083/jcb.200908082 ;@doi:10.1083/jcb.201206063].
 We first analyzed synaptosomes.
+
+FIGURE CONNECTORS. two panels for fraction of proximal vesicles that are connected as a function of distance (distance groups; one for synaptosomes, one for snap-25). two panels for fraction of proximal vesicles that are connected as a function of RRP.
+
 In non-sprayed synaptosomes datasets, approximately 80% of the proximal and intermediate SVs were connected to other vesicles.
 In distal 1 and 2 regions, this value rose to 85 and 93%, respectively. sprayed, early and late fusion groups showed a similar pattern with one interesting exception.
 Proximal SV connectivity dropped to 58% in the late fusion group (P<0.05, χ^2^ test; Figure @figure:connectors).
@@ -367,6 +373,20 @@ These results indicate that prolonged abnormal exocytotic activity is correlated
 
 
 ## Discussion
+### SNAP-25 4K mutant further supports the RRP morphological definition
+Due to its transient nature, SV exocytosis has been difficult to characterize morphologically. 
+The optimal sample preservation delivered by cryo-ET makes it possible to investigate the role of tethers located between SVs and the AT PM and the function of inter-SV connectors. Previously it was shown that the number of tethers of a SV defines whether it is ready to release [@doi:10.1083/jcb.200908082;@doi:10.1016/j.sbi.2019.01.008].
+SVs with at least 3 tethers belong to the RRP. 
+In order to further assess this model, we investigated the presynapse of cultured hippocampal neurons obtained from SNAP-25 KO mice rescued with WT-SNAP-25 or expressing either a more positively charged SNAP-25 mutant (4K) or a more negatively charged mutant (4E). 
+ presented a significantly lower density of proximal SVs than the WT (between 0 and 25 nm from the AZ PM). This is in line with the elevated rate of spontaneous exocytosis (minis). 
+_Is this clear or should we state that when a vesicle fuses, it leaves an "empty space" behind?_
+Critically, the 4K mutant had neither triple-tethered SVs nor SVs with more than 3 tethers.
+As the RRP in this mutant was formerly shown through functional assays to be depleted, our observation further supports the previously introduced morphological definition of the RRP [@doi:10.1016/j.celrep.2019.01.103].  
+Interestingly, the 4E mutant, which possesses a normal-sized RRP as per functional assays, had no significant in proximal SV occupancy in comparison to WT synapses and it showed SVs with three or more tethers in the same proportion as WT SVs. 
+These observations are also consistent with a number of studies that have concluded that SV exocytosis requires a minimum of three SNARE complexes [@doi:10.1074/jbc.m109.047381;@doi:10.1126/science.1193134;@doi:10.1126/science.1214984].
+
+
+
 
 
 ## Materials and methods
