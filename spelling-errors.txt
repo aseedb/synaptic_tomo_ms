@@ -4,9 +4,9 @@ Aldrich
 anisotropic
 arachnoid
 aseedb
-Astrocytes
+astrocytes
 astrocytic
-Aurion
+AURION
 Automator
 Axio
 AxioCam
@@ -76,7 +76,7 @@ heterogenous
 heterozygote
 heterozygotes
 heterozygous
-Hippocampal
+hippocampal
 hippocampi
 homebuilt
 HPO
@@ -85,6 +85,7 @@ hypertonic
 IACUC
 Immuno
 IMOD
+intercalation
 interconnectors
 interquartile
 intervesicular
@@ -129,6 +130,7 @@ Nordisk
 Novo
 Nyon
 OC
+occuring
 outbred
 Oxfordshire
 PCR
@@ -142,6 +144,7 @@ pre
 presynapse
 presynaptic
 presynpase
+prox
 Pyto
 quartiles
 QuikChange
@@ -157,10 +160,12 @@ Stahlberg
 Stansted
 sthennin
 supernatant
+superprimed
+superpriming
 superresolution
 SV
 SVs
-synapsin
+Synapsin
 synaptobrevin
 synaptosomal
 synaptosome
@@ -173,11 +178,11 @@ TEM
 TFS
 Thermo
 Thermofisher
-Tomogram
+tomogram
 tomograms
 Tridiem
 triturated
-trypsin
+Trypsin
 Ulrike
 ultracentrifuge
 unbinned
