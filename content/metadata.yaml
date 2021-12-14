@@ -33,7 +33,7 @@ authors:
   - name: Anna Kádková
     initials: AK
     affiliations:
-      -  Department of Neuroscience, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen N, Denmark
+      - Department of Neuroscience, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen N, Denmark
   - name: Ulrike Laugks
     initials: UL
     orcid: 0000-0003-4175-4354
@@ -41,11 +41,10 @@ authors:
     affiliations:
       - Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
    - github: ameen-khosrowzadeh
-    name: Amin Khosrozadeh
-    initials: AK
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: mohammadamin.khosrozadeh@ana.unibe.ch
-    affiliations:
+     name: Amin Khosrozadeh
+     initials: AK
+     email: mohammadamin.khosrozadeh@ana.unibe.ch
+     affiliations:
       - Institute of Anatomy, University of Bern, Bern, Switzerland
       - Graduate School for Cellular and Biomedical Sciences, University of Bern
   - name: Kenneth N. Goldie
