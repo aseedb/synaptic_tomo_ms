@@ -40,11 +40,11 @@ authors:
     email: ulrike@unkown.address.com
     affiliations:
       - Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
-   - github: ameen-khosrowzadeh
-     name: Amin Khosrozadeh
-     initials: AK
-     email: mohammadamin.khosrozadeh@ana.unibe.ch
-     affiliations:
+  - github: ameen-khosrowzadeh
+    name: Amin Khosrozadeh
+    initials: AK
+    email: mohammadamin.khosrozadeh@ana.unibe.ch
+    affiliations:
       - Institute of Anatomy, University of Bern, Bern, Switzerland
       - Graduate School for Cellular and Biomedical Sciences, University of Bern
   - name: Kenneth N. Goldie
