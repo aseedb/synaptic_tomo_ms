@@ -8,7 +8,7 @@ arachnoid
 aseedb
 Astrocytes
 astrocytic
-AURION
+Aurion
 Automator
 Axio
 AxioCam
@@ -30,7 +30,7 @@ CMV
 colocalized
 complexin
 constitutively
-Cryo
+cryo
 cryostage
 cytosol
 DAPI
@@ -169,7 +169,7 @@ superpriming
 superresolution
 SV
 SVs
-Synapsin
+synapsin
 synaptobrevin
 synaptosomal
 Synaptosome
