@@ -6,9 +6,9 @@ Amin
 anisotropic
 arachnoid
 aseedb
-astrocytes
+Astrocytes
 astrocytic
-Aurion
+AURION
 Automator
 Axio
 AxioCam
@@ -78,7 +78,7 @@ heterogenous
 heterozygote
 heterozygotes
 heterozygous
-hippocampal
+Hippocampal
 hippocampi
 homebuilt
 HPO
@@ -167,12 +167,12 @@ supernatant
 superprimed
 superpriming
 superresolution
-sv
+SV
 SVs
-synapsin
+Synapsin
 synaptobrevin
 synaptosomal
-synaptosome
+Synaptosome
 synaptosomes
 synaptotagmin
 synaptsome
@@ -186,7 +186,7 @@ Tomogram
 tomograms
 Tridiem
 triturated
-Trypsin
+trypsin
 Ulrike
 ultracentrifuge
 unbinned
