@@ -6,12 +6,13 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2021-11-26'
+date-meta: '2021-12-15'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
 - Anna Kádková
 - Ulrike Laugks
+- Amin Khosrozadeh
 - Kenneth N. Goldie
 - Henning Stahlberg
 - Vladan Lučić
@@ -27,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2021-11-26" />
-  <meta name="citation_publication_date" content="2021-11-26" />
+  <meta name="dc.date" content="2021-12-15" />
+  <meta name="citation_publication_date" content="2021-12-15" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -49,6 +50,9 @@ header-includes: |-
   <meta name="citation_author" content="Ulrike Laugks" />
   <meta name="citation_author_institution" content="Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany" />
   <meta name="citation_author_orcid" content="0000-0003-4175-4354" />
+  <meta name="citation_author" content="Amin Khosrozadeh" />
+  <meta name="citation_author_institution" content="Institute of Anatomy, University of Bern, Bern, Switzerland" />
+  <meta name="citation_author_institution" content="Graduate School for Cellular and Biomedical Sciences, University of Bern" />
   <meta name="citation_author" content="Kenneth N. Goldie" />
   <meta name="citation_author_institution" content="Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland" />
   <meta name="citation_author_orcid" content="0000-0002-7405-0049" />
@@ -72,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/3d7902bebfb8608d82bc9d83b957c51af29c5628/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/3d7902bebfb8608d82bc9d83b957c51af29c5628/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/3d7902bebfb8608d82bc9d83b957c51af29c5628/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/eccc8e8aa4309d446819466ba9c12d04d37371e9/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/eccc8e8aa4309d446819466ba9c12d04d37371e9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/eccc8e8aa4309d446819466ba9c12d04d37371e9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -96,10 +100,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/3d7902bebfb8608d82bc9d83b957c51af29c5628/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/eccc8e8aa4309d446819466ba9c12d04d37371e9/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@3d7902b](https://github.com/aseedb/synaptic_tomo_ms/tree/3d7902bebfb8608d82bc9d83b957c51af29c5628)
-on November 26, 2021.
+from [aseedb/synaptic_tomo_ms@eccc8e8](https://github.com/aseedb/synaptic_tomo_ms/tree/eccc8e8aa4309d446819466ba9c12d04d37371e9)
+on December 15, 2021.
 </em></small>
 
 ## Authors
@@ -135,6 +139,13 @@ on November 26, 2021.
     [0000-0003-4175-4354](https://orcid.org/0000-0003-4175-4354)<br>
   <small>
      Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
+  </small>
+
++ **Amin Khosrozadeh**<br>
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [ameen-khosrowzadeh](https://github.com/ameen-khosrowzadeh)<br>
+  <small>
+     Institute of Anatomy, University of Bern, Bern, Switzerland; Graduate School for Cellular and Biomedical Sciences, University of Bern
   </small>
 
 + **Kenneth N. Goldie**<br>

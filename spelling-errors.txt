@@ -1,6 +1,8 @@
 Agilent
 AGS
 Aldrich
+ameen
+Amin
 anisotropic
 arachnoid
 aseedb
@@ -75,8 +77,8 @@ HEPES
 heterogenous
 heterozygote
 heterozygotes
-heterozygous
-hippocampal
+Heterozygous
+Hippocampal
 hippocampi
 homebuilt
 HPO
@@ -97,6 +99,8 @@ Julika
 julikaradecke
 Kádková
 KCl
+khosrowzadeh
+Khosrozadeh
 Klopferspitz
 Krios
 Kruskal
@@ -178,11 +182,11 @@ TEM
 TFS
 Thermo
 Thermofisher
-tomogram
+Tomogram
 tomograms
 Tridiem
 triturated
-Trypsin
+trypsin
 Ulrike
 ultracentrifuge
 unbinned
