@@ -76,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/79e4402c662482f907f80e727df73a506abb0621/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/79e4402c662482f907f80e727df73a506abb0621/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/79e4402c662482f907f80e727df73a506abb0621/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/4f471a6cfda03af5bdeb730bc647c36ebc833639/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/4f471a6cfda03af5bdeb730bc647c36ebc833639/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/4f471a6cfda03af5bdeb730bc647c36ebc833639/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,9 +100,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/79e4402c662482f907f80e727df73a506abb0621/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/4f471a6cfda03af5bdeb730bc647c36ebc833639/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@79e4402](https://github.com/aseedb/synaptic_tomo_ms/tree/79e4402c662482f907f80e727df73a506abb0621)
+from [aseedb/synaptic_tomo_ms@4f471a6](https://github.com/aseedb/synaptic_tomo_ms/tree/4f471a6cfda03af5bdeb730bc647c36ebc833639)
 on December 16, 2021.
 </em></small>
 
@@ -283,7 +283,7 @@ Additionally, phase contrast imaging enabled quality control of the frozen EM gr
 We restricted our analysis to synaptosomes that possessed a smooth PM, free of signs of rupturing and that had a mitochondrion, as we considered these factors essential for synaptosome function.
 
 In addition, we manipulated the electrostatic state of the SNARE complex through a series of point mutations introduced above and grew primary neurons on EM grids [@doi:10.1016/j.celrep.2019.01.103] (Figure {@fig:workflow}B1-B4).
-*__More text from Julika and Jakob to describe the procedure here__*.
+`*__More text from Julika and Jakob to describe the procedure here__*`{.yellow}.
 Thereby we could image chronically overactive or depressed synapses and relate presynaptic architectural modifications to different functional states. 
 
 ![Experimental models. A1) Glass atomizer used to disperse depolarizing solution on the EM grid milliseconds before the grid is vitrified. A2) Spray droplets imaged with the GFP filter set. A3) Synaptosomes imaged with the DAPI filter set. A4) Overlay of spray droplets (green) and synaptosomes (red). Scale bars, 20 μm.](images/workflow.svg){#fig:workflow width="15cm"}
@@ -312,79 +312,100 @@ Those with an open pore or a remaining small bump of a fully collapsed vesicle w
 
 ### Synaptic vesicle distribution is impacted by synaptic activity
 Non-sprayed rat synaptosomes as well as WT-SNAP-25 mouse cultured neuron synapses showed typical SV distribution, as observed in previous cryo-ET studies (Figure {@fig:vesicle_distribution})[@doi:10.1083/jcb.200908082].
-Vesicle occupancy in WT-SNAP-25 synapses was 0.08 in the most proximal zone (0-25 nm from the AZ PM), and peaked to 0.17 in 25-50 nm zone. It then dropped to 0.08 in the intermediate zone (50-75 nm) and rose steadily more distally to reach a plateau of ~0.16 spanning the range of 150 to 250 nm distance.Finally SV (Figure {@fig:vesicle_distribution}A).
+Vesicle occupancy in WT-SNAP-25 synapses was 0.09 in the most proximal zone (0-25 nm from the AZ PM), and peaked to 0.18 in 25-50 nm zone. It then dropped to 0.08 in the intermediate zone (50-75 nm) and rose steadily more distally to reach a plateau of ~0.16 spanning the range of 150 to 250 nm distance. 
+Finally SV occupancy gradually decreased as the distance from the AZ increased (Figure {@fig:vesicle_distribution}A).
 
-![SV distribution. Vesicle occupancy expressed as fraction of cytosol volume occupied by vesicles as a function of distance to AZ in (A) cultured neurons and (B) synaptosomes. Each solid lines represents the mean occupancy value for the experimental group, while the shaded areas depict the 95% confidence interval.](images/2111_Figure3.png){#fig:vesicle_distribution width="15cm"}
+![SV distribution. (A, B) Vesicle occupancy expressed as fraction of cytosol volume occupied by vesicles as a function of distance to AZ in (A) cultured neurons and (B) synaptosomes. Each solid lines represent the mean occupancy value for the experimental group, while the shaded areas depict the 95% confidence interval. (C, D) Distance of proximal SVs from the AZ. Horizontal line: mean; whiskers: 95% confidence interval. Statistical test: t-test.](images/2112_Figure3.png){#fig:vesicle_distribution width="15cm"}
 
 The absolute values differ between WT cultured mouse neurons and non-stimulated rat synaptosomes but the SV occupancy distribution follows the same pattern. The difference in absolute values can likely be attributed to the different experimental and animal models used.
 Sprayed synaptosomes that were showing early signs of exocytosis had a nearly identical SV occupancy pattern as non-sprayed synaptosomes (Figure {@fig:vesicle_distribution}B, dark blue and grey, respectively). 
 However, when SV full collapse figures were apparent, SV occupancy in the proximal zone was significantly reduced, whereas SV occupancy further away from the AZ PM was unchanged (Figure {@fig:vesicle_distribution}B, red).
 This is consistent with some membrane proximal SVs having engaged in exocytosis while none of the recycling and reserve pool SVs have.
 In order to investigate the consequences of chronic high or low synaptic activity, we investigated the 4E and 4K mutants (Figure {@fig:vesicle_distribution}A, green and gold, respectively).
-In the most proximal 50 nm, SV were significantly less concentrated in the constitutively depressed 4E mutant than in the WT. However, they were significantly more abundant between 75 and 100 nm.
-This is consistent with the fact the repulsion between SVs and the PM induced by the additional negative charges in SNAP-25. In the most distal zones, SV occupancy gradually decreased in the 4E mutant and was significantly lower than in the WT over most of the 250 to 750 nm distance range.
+In the most proximal 50 nm, SV were significantly less concentrated in the constitutively depressed 4E mutant than in the WT. 
+However, they were significantly more abundant between 75 and 100 nm.
+Furhtermore, proximal SVs were in average more distant to the AZ PM in the 4E mutant than in the WT (Figure {@fig:vesicle_distribution}C).
+These observations are consistent with the repulsion between SVs and the PM induced by the additional negative charges in SNAP-25. In the most distal zones, SV occupancy gradually decreased in the 4E mutant and was significantly lower than in the WT over most of the 250 to 750 nm distance range.
 The decrease may reflect deleterious effects associated with abnormally low synaptic activity.
-The 4K mutant displayed a significantly decreased SV occupancy in comparison to the WT in the most proximal 50 nm, which can be readily attributed to the high probability of spontaneous exocytosis generated by the additional positive charges of the SNARE bundle. 
-Between 50 nm and 75 nm away from the AZ PM SV occupancy was higher in the 4K mutant than in the WT, consistent with recycling pool SVs being recruited.
+The 4K mutant displayed a significantly decreased SV occupancy in comparison to the WT in the most proximal 50 nm. 
+4K proximal SVs were in average more located furhter away from the AZ PM than WT proximal SVs (Furhtermore, proximal SVs were in average more distant to the AZ PM in the 4E mutant than in the WT (Figure {@fig:vesicle_distribution}C). This can be readily attributed to the high probability of spontaneous exocytosis generated by the additional positive charges of the SNARE bundle. 
+Between 50 nm and 75 nm away from the AZ PM, SV occupancy was higher in the 4K mutant than in the WT, consistent with recycling pool SVs being recruited.
 From 100 to 250 nm, SV occupancy dropped steadily, in contrary to the WT, and from a distance of 170 nm, it was significantly lower.
-Yet, beyond 250 nm, it rose steadily until 450 nm, becoming indistinguishable from WT occupancy, and then experienced a sharp increase, peaking to 0.2 at a distance of 550 nm, significantly higher than WT occupancy, before dropping quickly and significantly lower than WT occupancy. 
-The overall decrease in the distal areas likely corresponds to a mostly exhausted reserve pool.
-_I would not comment the 550 nm peak here but in the discussion only_
+Yet, beyond 250 nm, it rose linearly until 450 nm, becoming indistinguishable from WT occupancy, and then experienced a sharp increase, peaking to 0.2 at a distance of 550 nm, significantly higher than WT occupancy, before dropping quickly and significantly lower than WT occupancy. 
+The overall decrease in the distal areas likely reflects the facts that the reserve pool in the 4K mutant is severely depleted.
+`_I would not comment the 550 nm peak here but in the discussion only_`{.green}.
 
 ### RRP size evolution following stimulation
-As stated in the Introduction, SVs that are linked by more than 2 tethers to the AZ PM have been shown to belong to the RRP. 
-We investigated the tethering state of proximal SVs (i.e. those SVs within 45 nm of the AZ PM) prior and following stimulation in synaptosomes.
-In non-sprayed synaptosomes, 59% of the proximal vesicles were tethered, which is in agreement with previous results [@doi:10.1083/jcb.200908082]. Interestingly, in the early fusion group the fraction of tethered proximal vesicles significantly increased to 80% (P<0.05, χ^2^ test; Figure @fig:tethers). 
+As stated in the introduction, SVs that are linked by more than 2 tethers to the AZ PM have been suggested to belong to the RRP. 
+We investigated the tethering state of proximal SVs (i.e. the SVs whose center is located within 45 nm of the AZ PM) prior and following stimulation in synaptosomes.
+In non-sprayed synaptosomes, 54% of the proximal vesicles were tethered, which is in agreement with previous results (Supplementary Figure {@fig:S1}B) [@doi:10.1083/jcb.200908082]. 
+`_this is a bit confusing because fig S1B does not directly show this. It shows that the fraction of untethered proximal SVs. The reader needs to calculate the fraction of tethered vesicles = 1 - fraction of untethered vesicles_`{.green}
+Interestingly, in the early fusion group the fraction of tethered proximal vesicles significantly increased to 80% (P<0.05, χ^2^ test).
+In the late fusion group, however, 53% of the proximal vesicles were tethered, which is not significantly different to the non sprayed group.
+The average number of tethers per proximal SV followed the same pattern. 
+Proximal SVs had 0.89 ± 0.12 tethers in the non-sprayed group (Figure {@fig:tethers}D).
+`mention in methods that ± values are standard error of the mean`{.yellow}.
+This parameter rose to 2.09 ± 0.33 in the early fusion group, while it returned to 1.00 ± 0.20 in the late fusion group.
 
-FIGURE TETHERS : one panel for fraction of proximal vesicles that are tethered in synaptosomes. One panel for the same but in neurons. Two panels for fraction of proximal vesicles in RRP (one for synaptosomes, one for neurons). Two panels for number of tethers per proximal sv (one for synaptosomes, one for neurons). two panels for swarm plot of vesicle distance.
+![Proximal SV tethering. (A, B) Fraction of proximal SVs not belonging and belonging to the RRP. Each bar shows the overall fraction of all proximal SVs from a given experimental condition. Each dot represents the value of an individual synapse. Statistical test: χ^2^ test. (C, D) Number of tethers per proximal SV. Each dot represents an individual SV. The vertical line represents the mean value and the horizontal whiskers correspond to the 95% confidence interval. Statistical test: t-test.](images/2112_Figure4.png){#fig:tethers width="15cm"}
 
-
-In the late fusion group, however, 47% of the proximal vesicles were tethered, which is not significantly different to the non sprayed group.
 We then analyzed whether the decreased occupancy in the late fusion group was associated with a decreased number of RRP SVs. 
-In resting, non-sprayed synapses about 11% of the proximal SVs resided in the RRP.
+In resting, non-sprayed synapses 8% of the proximal SVs resided in the RRP (Figure {@fig:tethers}B.
 This agrees with typical RRP size estimates based on electrophysiological measurements.
-Surprisingly, the fraction of proximal SVs belonging to the RRP drastically increased to 36% in the early fusion group (P<0.001, χ^2^ test; Figure @fig:tethers).
-The fraction returned to the initial value of 11% in the late fusion group. 
-Similarly, the fraction of proximal SVs that were tethered significantly rose from 59% in non-sprayed synaptosomes to 80% in the early group before going down to a value of 47% in the late group.
+Surprisingly, the fraction of proximal SVs belonging to the RRP drastically increased to 29% in the early fusion group (P<0.001, χ^2^ test).
+The fraction decreased to to 13% in the late fusion group.
 This, coupled to the 3-fold RRP-size increase in the early fusion group suggests that upon stimulation some proximal SVs very rapidly acquire new tethers, enter the RRP and become primed for exocytosis.
 Furthermore, the lower proximal vesicle occupancy in the late fusion group indicates that under our stimulation conditions, replenishing vesicles to the proximal zone is slower than their release.
 
 The situation in the WT-SNAP-25 neurons was similar to unstimulated synaptosomes. 
-53% of the all proximal SVs were tethered and 14% of all proximal SVs belonged to the RRP. WT proximal SVs 
-The corresponding values for the 4E mutants were not significantly different. 
-However, In all 4K mutant datasets there was not a single SV that was part of the RRP. 
-Consistently, the number of tethers per proximal SV was significantly lower in the 4K mutant than in the WT.
-These results are in line with physiological measurements that have shown that the RRP is depleted in the chronically spontaneously active 4K mutant, and they provide additional evidence that RRP-vesicles have at least 3 tethers. [@doi:10.1016/j.celrep.2019.01.103].  
-Furthermore, the average distance between proximal SVs and the AZ PM is significantly higher in  the 4K mutant than in the WT, suggesting that vesicles coming into close contact with the AZ PM undergo spontaneous exocytosis, and are depleted.
+53% of the all proximal SVs were tethered and 17% of all proximal SVs belonged to the RRP (Supplementary Figure {fig:S1}A and Figure {fig:tethers}A). 
+In average, proximal SVs had 1.17 ± 0.23 tethers.
+The corresponding values for the 4E mutants were not significantly different (15% and 0.96 ± 0.18, respectively).
+However, In all 4K mutant datasets there was not a single SV that was part of the RRP (0.41 ± 0.15 Figure {@fig:tethers}A). 
+Consistently, the number of tethers per proximal SV was significantly lower in the 4K mutant than in the WT (Figure {@fig:tethers}C.
+These results are in line with physiological measurements that have shown that the RRP is depleted in the chronically spontaneously active 4K mutant, and they provide additional evidence that RRP-vesicles have at least 3 tethers. [@doi:10.1016/j.celrep.2019.01.103].
 
 ### Synaptic activity modifies inter-SV connectivity
-The majority of SV are connected to other SVs through so-called connectors [@doi:10.1083/jcb.200908082; @doi:10.1016/j.sbi.2019.01.008]. Connector function and composition is not clear yet. 
+The majority of SV are linked to other SVs through so-called connectors [@doi:10.1083/jcb.200908082; @doi:10.1016/j.sbi.2019.01.008]. The function and composition of connectors are not clear yet. 
 It is generally assumed that synapsin is involved in connector formation and may be one of its components. 
 It has been suggested that connectors reduce SV mobility and maintain a local high SV concentration in the presynpase. 
 The connectivity level of an individual SV might be one of the factors defining the pool to which the SV belongs.
 To shed some light on the role of connectors we analyzed SV connectivity in our datasets. 
-We focused most of _(all?)_ our analysis to the SVs located at distance of the AZ PM lower than 250 nm. 
+We focused most of our analysis to the SVs located at distance of the AZ PM lower than 250 nm. 
 Furthermore, we defined 4 distance groups: proximal (0-45 nm), intermediate (45-75 nm), distal 1 (75-150 nm), distal 2 (150-250 nm), as in previous studies [@doi:10.1083/jcb.200908082 ;@doi:10.1083/jcb.201206063].
 We first analyzed synaptosomes.
-
-FIGURE CONNECTORS. two panels for fraction of proximal vesicles that are connected as a function of distance (distance groups; one for synaptosomes, one for snap-25). two panels for fraction of proximal vesicles that are connected as a function of RRP.
-
 In non-sprayed synaptosomes datasets, approximately 80% of the proximal and intermediate SVs were connected to other vesicles.
-In distal 1 and 2 regions, this value rose to 85 and 93%, respectively. sprayed, early and late fusion groups showed a similar pattern with one interesting exception.
-Proximal SV connectivity dropped to 58% in the late fusion group (P<0.05, χ^2^ test; Figure @figure:connectors).
-This decrease originates from SVs that are not in the RRP of which only 52.9% of the vesicles were connected as opposed to 77.5% before stimulation (P<0.01, χ^2^ test; Figure @fig:connectors).
-These results are consistent with an observed decrease in the number of connectors per proximal SV that are not part of the RRP, from 1.81±0.18 connector per SV in the non sprayed group to 0.85±0.16 in the late fusion group (P<0.01, K-W test) (Figure @fig:connectors). 
-Connectors between proximal vesicles (Figure @fig:connectors) were found to remain between fusing vesicles (Figure @fig:connectors and Supplementary movie S1).
-We hypothesize that given the free space made in the proximal region after some SVs have fused, non-connected vesicles from the intermediate region diffuse to the proximal zone and become tethered to the AZ PM. 
-Our data suggest that establishing connectivity is a slower process than tethering.
+`Raphaela please check values`{.yellow}
+In distal 1 and 2 regions, this value rose to 85 and 93%, respectively. 
+Similarly, the number of connectors per vesicles significantly increased from the proximal region (1.63 ± 0.13) to the distal 1 region (2.57 ± 0.09, p<0.0001) and the distal 2 region (2.78 ± 0.10, p<0.0001) (Figure {@fig:connectors}B).
+`Still need quantitative data for fractions of distance group SVs that are connected`{.yellow} 
+Sprayed early  and late fusion synapses showed a similar pattern, with significantly more connectors per SV in distal 1 region than in proximal region for the late fusion group, and more connectors per SV in distal 2 region for both early and late fusion groups.
+Nonetheless, proximal SV connectivity and number of connectors per SV dropped in the late fusion group to 58% (p<0.05, χ^2^ test) and 1.12 ± 0.15 (p<0.05), respectively  (Figure {@figure:connectors}B and D).
+`Raphaela please check fraction value`{.yellow}.
+This decrease originates from tethered SVs.
+Indeed xx ± yy connectors per tethered SVs were found in then non-sprayed group. This number increased to xx ± yy in the early fusion group (P<0.05) and droped to xx ± yy in the late fusion group (P<0.05), whereas no significant differences were found in in the numbers of connnectors per proximal non-tethered SVs (Figure {@fig:connectors}H).
+`Raphaela, please fill in the precise values`{.yellow}
+Furthermore, the decrease in proximal connectivity was only observed in SVs not belonging to the RRP, of which only 52.9% of the vesicles were connected as opposed to 77.5% before stimulation (P<0.01, χ^2^ test; Supplementary Figure {@fig:S1}J). 
+`Raphaela please check values`{.yellow}.
+Consistently, the number of connectors per non-RRP proximal SV went from 1.81±0.18 in the non-sprayed group, rose significantly to xx ± yy in the early fusion group (P<0.05) and droped to 0.85±0.16 in the late fusion group (P<0.05) (Figure {@fig:connectors}F). 
+`Raphaela please give exact values mean ± standard error of the mean`{.yellow}
+Taken together, our observations indicate that following depolarization, the number of connectors per proximal single- or double-tethered vesicles (i.e. non-RRP) first increases and then decreases to a value lower than the initial one. 
+We have seen earlier that the fraction of tethered proximal SVs does not differ between non-sprayed and late fusion synaptosomes. 
+Thus, our data suggest that establishing connectivity is a slower process than tethering.
+We hypothesize that given the free space made in the proximal region after some SVs have fused, non-connected vesicles from the intermediate region diffuse to the proximal zone and become tethered to the AZ PM.
+Only subsequently, these newly tethered vesicles get interconnected.
+Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:S2 and Supplementary Movie S1).
+This, in addition to passive diffusion, can contribute to replenishing the RRP.
 
-We then analyzed SNAP-25 mutants. Similarly to non-sprayed synaptosome, the fraction of connected SVs was significantly higher in the distal 2 group, albeit the absolute values were overall lower than in synaptosomes. 
-SNAP-25-WT synapses showed a higher level of connectivity in the distal group. 
+![SV connectivity. (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each solid line represents the average value of all SVs belonging to a particular experimental condition. Shaded areas represent 95%-confidence interval ranges. (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (B). _These line plots are going to be replaced by bar plots_. (E, F) Number of connectors per proximal SV belonging or not to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per tethered or non-tethered proximal SV for mouse neurons (G) and rat synaptosomes (H). *: P<0.05](images/2112_Figure5.png){#fig:connectors width="15cm"}
+
+We then analyzed SNAP-25 neurons. For SNAP-25-WT,  similarly to non-sprayed synaptosome, the fraction of connected SVs was significantly higher in the distal 2 region, albeit the absolute values were overall lower than in synaptosomes (Figure {@fig:connectors}C). 
+`Absolute values and p-volues please Raphaela`.
+Consistently, the number of connectors per SV in SNAP-25-WT synapses increased from 1.95 ± 0.38 in the proximal region to 3.23 ± 0.21 in the distal 2 region (Figure {@fig:connectors}A, P<0.01). 
 The fraction of connected SVs in both distal groups was significantly lower in the 4E mutant than in the WT.
-In the case of the 4K mutant, the difference was significant in the distal 2 group. 
-Consistently, a significantly lower number of connectors per SV was observed in both distal groups of the 4E and the 4K mutants with respect to the WT.
-Additionally, the 4E mutant had significantly less connectors per proximal SV than the WT, whereas the 4K mutant had significantly less connectors per intermediate SV than the WT.
-These results indicate that prolonged abnormal exocytotic activity is correlated with changes in intervesicular connectivity.
+`numerical data and p-values needed to confirm this Raphaela please`{.yellow}
+Again this was supported by a significantly lower number of connectors per SV in the distal 1 region between the WT and the 4K mutant (P<0.05), and in the distal 2 region between the WT and the 4E mutant (P<0.0001) as well as the 4K mutant (P<0.0001, (Figure {fig:connectors}A).
+These results indicate that prolonged abnormal exocytotic activity is correlated with severe changes in intervesicular connectivity in the distal region.
 
 
 ## Discussion

@@ -8,7 +8,7 @@ arachnoid
 aseedb
 astrocytes
 astrocytic
-AURION
+Aurion
 Automator
 Axio
 AxioCam
@@ -29,6 +29,7 @@ CMS
 CMV
 colocalized
 complexin
+connnectors
 constitutively
 cryo
 cryostage
@@ -42,6 +43,7 @@ Didcot
 disinhibit
 disinhibiting
 DMEM
+droped
 Dulbecco’s
 dura
 dx
@@ -63,6 +65,8 @@ fluorescein
 fluorescently
 foetal
 Fonden
+furhter
+Furhtermore
 Gatan
 genotype
 GFP
@@ -78,7 +82,7 @@ heterogenous
 heterozygote
 heterozygotes
 Heterozygous
-hippocampal
+Hippocampal
 hippocampi
 homebuilt
 HPO
@@ -169,11 +173,11 @@ superpriming
 superresolution
 SV
 SVs
-synapsin
+Synapsin
 synaptobrevin
 synaptosomal
-synaptosome
-Synaptosomes
+Synaptosome
+synaptosomes
 synaptotagmin
 synaptsome
 syntaxin
@@ -182,7 +186,7 @@ TEM
 TFS
 Thermo
 Thermofisher
-tomogram
+Tomogram
 tomograms
 Tridiem
 triturated
@@ -202,5 +206,6 @@ Wheaton
 Wistar
 XXXX
 XXXXXXXX
+yy
 Zeiss
 Zuber
