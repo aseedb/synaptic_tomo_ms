@@ -3,10 +3,11 @@ AGS
 Aldrich
 ameen
 Amin
+amongst
 anisotropic
 arachnoid
 aseedb
-astrocytes
+Astrocytes
 astrocytic
 Aurion
 Automator
@@ -67,6 +68,7 @@ foetal
 Fonden
 furhter
 Furhtermore
+futher
 Gatan
 genotype
 GFP
@@ -81,12 +83,13 @@ HEPES
 heterogenous
 heterozygote
 heterozygotes
-Heterozygous
-Hippocampal
+heterozygous
+hippocampal
 hippocampi
 homebuilt
 HPO
 HXP
+hyperosmotic
 hypertonic
 IACUC
 Immuno
@@ -152,7 +155,6 @@ pre
 presynapse
 presynaptic
 presynpase
-prox
 Pyto
 quartiles
 QuikChange
@@ -173,10 +175,10 @@ superpriming
 superresolution
 SV
 SVs
-Synapsin
+synapsin
 synaptobrevin
 synaptosomal
-Synaptosome
+synaptosome
 synaptosomes
 synaptotagmin
 synaptsome
