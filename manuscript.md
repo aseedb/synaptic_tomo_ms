@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2021-12-15'
+date-meta: '2021-12-16'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2021-12-15" />
-  <meta name="citation_publication_date" content="2021-12-15" />
+  <meta name="dc.date" content="2021-12-16" />
+  <meta name="citation_publication_date" content="2021-12-16" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -76,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/1028376a9d18398e28f8aaa1ef0b8d72c68f2417/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/1028376a9d18398e28f8aaa1ef0b8d72c68f2417/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/1028376a9d18398e28f8aaa1ef0b8d72c68f2417/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/79e4402c662482f907f80e727df73a506abb0621/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/79e4402c662482f907f80e727df73a506abb0621/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/79e4402c662482f907f80e727df73a506abb0621/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,10 +100,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/1028376a9d18398e28f8aaa1ef0b8d72c68f2417/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/79e4402c662482f907f80e727df73a506abb0621/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@1028376](https://github.com/aseedb/synaptic_tomo_ms/tree/1028376a9d18398e28f8aaa1ef0b8d72c68f2417)
-on December 15, 2021.
+from [aseedb/synaptic_tomo_ms@79e4402](https://github.com/aseedb/synaptic_tomo_ms/tree/79e4402c662482f907f80e727df73a506abb0621)
+on December 16, 2021.
 </em></small>
 
 ## Authors
@@ -220,18 +220,17 @@ These morphological observations likely correspond to the transition of SVs from
 ## Introduction
 In the central nervous system, neurons communicate through the release of neurotransmitters at synapses.
 This process relies on synaptic vesicle (SV) exocytosis, i.e. the fusion of SVs with the plasma membrane (PM).
-This in turn is eminently important for normal brain function such as movement coordination or memory formation.
+This in turn is essential for normal brain function such as movement, coordination or memory formation.
 SV exocytosis involves a sequence of steps [@doi:10.1111/j.1600-0854.2008.00759.x; @doi:10.1016/j.neuron.2013.10.022].
 The vesicle is docked to the active zone (AZ) PM and the exocytosis machinery goes through a maturation process, termed priming, after which the SV is ready to fuse.
-These SVs form the readily releasable pool (RRP) of SVs.
+These SVs form the readily releasable pool (RRP).
 Finally, a calcium influx triggers fusion of the SV with the PM.
-Docked SVs are defined as the SVs in very close proximity or direct contact with the PM as observed by electron microscopy (EM), whereas priming refers to SV ability to undergo exocytosis immediately upon stimulation.
+Docked SVs are defined as those in very close proximity or direct contact with the PM as observed by electron microscopy (EM), whereas priming refers to SV ability to undergo exocytosis immediately upon stimulation.
 Whether every docked SV is also primed has been debated [@doi:10.1111/j.1600-0854.2008.00759.x; @doi:10.1016/j.conb.2016.12.012;@doi:10.1016/j.neuron.2014.10.009].
-A high-pressure freezing/freeze-substitution EM study of genetically modified synapses has indicated that vesicles that are in direct contact with the PM, i.e.
-docked, are also primed and belong to the RRP and that this situation occurs downstream of vesicle tethering [@doi:10.1016/j.neuron.2014.10.009].
+A high-pressure freezing/freeze-substitution EM study of synapses has indicated that vesicles which are in direct contact with the PM, i.e. docked, are also primed and belong to the RRP and that this situation occurs downstream of vesicle tethering [@doi:10.1016/j.neuron.2014.10.009].
 From a molecular perspective, priming involves several proteins, including the SNARE complex (SNAP-25, syntaxin-1, and synaptobrevin-2), Munc13, Munc18, synaptotagmin-1, and complexin [@doi:10.1016/j.neuron.2013.10.022;@doi:10.1146/annurev-biophys-060414-034057].
 All three SNAREs form a highly stable tight four-helix bundle, known as trans-SNARE complex.
-The surfaces of the SV and the PM, respectively, are negatively charged and therefore tend to repulse each other.
+The surfaces of the SV and the PM, are both negatively charged and therefore tend to repulse each other.
 The formation of the trans-SNARE complex counteracts this repulsion and brings the SV and the PM in high proximity [@doi:10.1038/26412].
 Evidence has suggested that the SNARE complex is only partially zipped in primed SVs [@doi:10.1038/sj.emboj.7601003].
 Furthermore, various studies have suggested that the formation of at least three SNARE complexes provides the necessary energy for a SV to become fusion-competent [@doi:10.1074/jbc.M109.047381;@doi:10.1126/science.1193134;@doi:10.1126/science.1214984].
@@ -268,8 +267,6 @@ The more positive SNAP-25 mutant, which is constitutively active showed no tripl
 Our experiments revealed that immediately after depolarization additional SVs are recruited to the RRP.
 Shortly after exocytosis the level of inter-SV connectivity was decreased among SVs situated in a 25 to 75-nm distance range from the AZ PM.
 Altogether, our results indicate that connectors regulate SV mobility and their recruitment at the AZ PM.
-
-
 
 
 ## Results

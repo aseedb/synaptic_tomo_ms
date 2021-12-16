@@ -6,9 +6,9 @@ Amin
 anisotropic
 arachnoid
 aseedb
-Astrocytes
+astrocytes
 astrocytic
-Aurion
+AURION
 Automator
 Axio
 AxioCam
@@ -77,8 +77,8 @@ HEPES
 heterogenous
 heterozygote
 heterozygotes
-heterozygous
-Hippocampal
+Heterozygous
+hippocampal
 hippocampi
 homebuilt
 HPO
@@ -172,8 +172,8 @@ SVs
 synapsin
 synaptobrevin
 synaptosomal
-Synaptosome
-synaptosomes
+synaptosome
+Synaptosomes
 synaptotagmin
 synaptsome
 syntaxin
@@ -182,7 +182,7 @@ TEM
 TFS
 Thermo
 Thermofisher
-Tomogram
+tomogram
 tomograms
 Tridiem
 triturated
