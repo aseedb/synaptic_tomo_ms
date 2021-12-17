@@ -7,9 +7,9 @@ amongst
 anisotropic
 arachnoid
 aseedb
-Astrocytes
+astrocytes
 astrocytic
-Aurion
+AURION
 Automator
 Axio
 AxioCam
@@ -83,8 +83,8 @@ HEPES
 heterogenous
 heterozygote
 heterozygotes
-heterozygous
-hippocampal
+Heterozygous
+Hippocampal
 hippocampi
 homebuilt
 HPO
@@ -175,7 +175,7 @@ superpriming
 superresolution
 SV
 SVs
-synapsin
+Synapsin
 synaptobrevin
 synaptosomal
 synaptosome

@@ -76,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/bb9371a00f1a38dd6823659eef05e1fdd4f8ff4d/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/bb9371a00f1a38dd6823659eef05e1fdd4f8ff4d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/bb9371a00f1a38dd6823659eef05e1fdd4f8ff4d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/a21d85d9c23f853aba6c5b80ccb81f3076fd0a9c/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/a21d85d9c23f853aba6c5b80ccb81f3076fd0a9c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/a21d85d9c23f853aba6c5b80ccb81f3076fd0a9c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,9 +100,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/bb9371a00f1a38dd6823659eef05e1fdd4f8ff4d/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/a21d85d9c23f853aba6c5b80ccb81f3076fd0a9c/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@bb9371a](https://github.com/aseedb/synaptic_tomo_ms/tree/bb9371a00f1a38dd6823659eef05e1fdd4f8ff4d)
+from [aseedb/synaptic_tomo_ms@a21d85d](https://github.com/aseedb/synaptic_tomo_ms/tree/a21d85d9c23f853aba6c5b80ccb81f3076fd0a9c)
 on December 16, 2021.
 </em></small>
 
@@ -478,7 +478,7 @@ Interestingly, a number of recent publications have revisited the notion of RRP 
 Mounting evidence indicates that some SVs can get extremely quickly primed, or "superprimed", in response to Ca^2+^ influx. 
 Furthermore, proximal SVs have been reported to get tethered to the AZ PM as a result of Ca^2+^ rise [@doi:10.3389/fnsys.2019.00030;@doi:10.3389/fnsys.2019.00030]. 
 Our morphological observations may correspond to superpriming as well as to  Ca^2+^-dependent tethering.
-`Elaborate a bit`.{.green}
+`Elaborate a bit`{.green}
 
 ### Conclusion
 To be done.
