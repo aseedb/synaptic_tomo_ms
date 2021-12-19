@@ -9,7 +9,7 @@ arachnoid
 aseedb
 astrocytes
 astrocytic
-Aurion
+AURION
 Automator
 Axio
 AxioCam
@@ -32,7 +32,7 @@ colocalized
 complexin
 connnectors
 constitutively
-cryo
+Cryo
 cryostage
 cytosol
 DAPI
@@ -84,7 +84,7 @@ heterogenous
 heterozygote
 heterozygotes
 Heterozygous
-hippocampal
+Hippocampal
 hippocampi
 homebuilt
 HPO
@@ -175,7 +175,7 @@ superpriming
 superresolution
 SV
 SVs
-Synapsin
+synapsin
 synaptobrevin
 synaptosomal
 synaptosome
