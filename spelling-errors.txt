@@ -9,7 +9,7 @@ arachnoid
 aseedb
 astrocytes
 astrocytic
-AURION
+Aurion
 Automator
 Axio
 AxioCam
@@ -84,7 +84,7 @@ heterogenous
 heterozygote
 heterozygotes
 Heterozygous
-Hippocampal
+hippocampal
 hippocampi
 homebuilt
 HPO
@@ -188,11 +188,11 @@ TEM
 TFS
 Thermo
 Thermofisher
-Tomogram
+tomogram
 tomograms
 Tridiem
 triturated
-trypsin
+Trypsin
 Ulrike
 ultracentrifuge
 unbinned
