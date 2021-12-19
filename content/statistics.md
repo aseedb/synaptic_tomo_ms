@@ -1,4 +1,4 @@
-##number of connectors per SV
+## Number of connectors per SV
 ### SNAP-25
 |   group | distance   | mean     | count    | std | sem      |
 |----|----------|----------|-----|----------|----------|
@@ -36,7 +36,7 @@
 |             | 150                | 3.172662 | 278   | 2.354589 | 0.141219 |
 |             | 250                | 2.838710 | 403   | 2.338578 | 0.116493 |
 ### significances
-#### SNAP
+### SNAP
 |                                         |
 |-----------------------------------------|
 | WT proximal --> distal 1 : p = 0.32     |
@@ -47,7 +47,7 @@
 | distal 1 WT --> 4E. p=0.057             |
 | distal 2 WT --> 4K. p=0.0000000….       |
 | distal 2 WT --> 4E. p=0.00000002        |
-#### TimeRes
+### TimeRes
 |                                                   |
 |---------------------------------------------------|
 | spray_ctrl proximal --> distal 1: p = 0.00000004  |
@@ -63,8 +63,8 @@
 | distal 2 ctrl --> early. p = 0.0009               |
 | distal 2 ctrl --> late. p = 0.69                  | 
 
-### significances for fractions  of connected vesicles per distance group (Figure 5 C/D) 
-#### SNAP
+## significances for fractions  of connected vesicles per distance group (Figure 5 C/D) 
+### SNAP
 |         |                         |              WT             |         |                         |              4E             |         |                         |              4K             |         |
 |:-------:|:-----------------------:|:---------------------------:|:-------:|:-----------------------:|:---------------------------:|:-------:|:-----------------------:|:---------------------------:|:-------:|
 |         | number of connected SVs | number of non connected SVs | p-value | number of connected SVs | number of non connected SVs | p-value | number of connected SVs | number of non connected SVs | p-value |
@@ -88,7 +88,7 @@
 | 250-450 |           399           |             122             |    1    |           126           |              89             | 0.0000015 |           124           |              55             |   0.06  |
 | 450-900 |           369           |             169             |    1    |           124           |              96             |   0.0018  |           146           |              37             |  0.005  |
 
-#### TimeRes
+### TimeRes
 |         |                         |         spay control        |         |                         |         spray early         |         |                         |          spray late         |           |
 |:-------:|:-----------------------:|:---------------------------:|:-------:|:-----------------------:|:---------------------------:|:-------:|:-----------------------:|:---------------------------:|:---------:|
 |         | number of connected SVs | number of non connected SVs | p-value | number of connected SVs | number of non connected SVs | p-value | number of connected SVs | number of non connected SVs |  p-value  |
