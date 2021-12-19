@@ -76,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/48a10b3c40285970b4a7a15f1765a7dc5fe2f17c/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/48a10b3c40285970b4a7a15f1765a7dc5fe2f17c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/48a10b3c40285970b4a7a15f1765a7dc5fe2f17c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/afc5964d671615caee7a8352f884cdbc03ac20f0/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/afc5964d671615caee7a8352f884cdbc03ac20f0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/afc5964d671615caee7a8352f884cdbc03ac20f0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,9 +100,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/48a10b3c40285970b4a7a15f1765a7dc5fe2f17c/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/afc5964d671615caee7a8352f884cdbc03ac20f0/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@48a10b3](https://github.com/aseedb/synaptic_tomo_ms/tree/48a10b3c40285970b4a7a15f1765a7dc5fe2f17c)
+from [aseedb/synaptic_tomo_ms@afc5964](https://github.com/aseedb/synaptic_tomo_ms/tree/afc5964d671615caee7a8352f884cdbc03ac20f0)
 on December 19, 2021.
 </em></small>
 

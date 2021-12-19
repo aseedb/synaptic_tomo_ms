@@ -32,7 +32,7 @@ colocalized
 complexin
 connnectors
 constitutively
-cryo
+Cryo
 cryostage
 cytosol
 DAPI
@@ -83,8 +83,8 @@ HEPES
 heterogenous
 heterozygote
 heterozygotes
-heterozygous
-Hippocampal
+Heterozygous
+hippocampal
 hippocampi
 homebuilt
 HPO
