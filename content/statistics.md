@@ -170,18 +170,107 @@
 | 4K | 1.824 | 2.215 | 0.537 | 17 |     0.781    |     0.629    |
 
 ### Time Res
+#### RRP
+|       |  mean |  std  |  sem  |  n | t-confidence | t-confidence |
+|:-----:|:-----:|:-----:|:-----:|:--:|:------------:|:------------:|
+|  ctrl | 1.429 | 1.813 | 0.685 |  7 |       1      |       -      |
+| early | 2.692 | 2.496 | 0.692 | 13 |     0.255    |       1      |
+|  late |  1.2  | 1.304 | 0.583 |  5 |     0.815    |     0.227    |
 
-
+#### non RRP
+|       |  mean |  std  |  sem  |  n | t-confidence | t-confidence |
+|:-----:|:-----:|:-----:|:-----:|:--:|:------------:|:------------:|
+|  ctrl | 1.639 | 1.566 | 0.172 | 83 |       1      |       -      |
+| early | 2.688 | 3.053 |  0.54 | 32 |     0.017    |       1      |
+|  late | 0.909 | 1.071 | 0.186 | 33 |     0.016    |    0.0025    |
 
 ## (Figure 5 G/H)
 ### SNAP
+#### tethered
+|    |  mean |  std  |  sem  |  n | t-confidence | t-confidence |
+|:--:|:-----:|:-----:|:-----:|:--:|:------------:|:------------:|
+| WT | 2.609 | 2.572 | 0.536 | 23 |       1      |       -      |
+| 4E | 2.037 | 1.675 | 0.322 | 27 |     0.35     |       1      |
+| 4K |   3   |  2.28 | 0.931 |  6 |     0.74     |     0.24     |
+
+#### non tethered
+|    |  mean |  std  |  sem  |  n | t-confidence | t-confidence |
+|:--:|:-----:|:-----:|:-----:|:--:|:------------:|:------------:|
+| WT | 1.111 | 1.937 | 0.457 | 18 |       1      |       -      |
+| 4E |   1   |  1.18 | 0.241 | 24 |     0.82     |       1      |
+| 4K | 1.182 |  1.99 |  0.6  | 11 |     0.93     |     0.74     |
 
 ### Time Res
+#### tethered
+|       |  mean |  std  |  sem  |  n | t-confidence | t-confidence |
+|:-----:|:-----:|:-----:|:-----:|:--:|:------------:|:------------:|
+|  ctrl | 1.653 | 1.601 | 0.229 | 49 |       1      |       -      |
+| early | 2.583 | 2.687 | 0.448 | 36 |     0.05     |       1      |
+|  late |  0.85 | 1.137 | 0.254 | 20 |     0.045    |    0.0083    |
 
+#### non tethered
+|       |  mean |  std  |  sem  |  n | t-confidence | t-confidence |
+|:-----:|:-----:|:-----:|:-----:|:--:|:------------:|:------------:|
+|  ctrl | 1.585 | 1.565 | 0.244 | 41 |       1      |       -      |
+| early | 3.111 | 3.689 |  1.23 |  9 |     0.052    |       1      |
+|  late | 1.056 | 1.056 | 0.249 | 18 |     0.197    |     0.035    |
 
-## (Supplement 1 A/B)
+## (Supplement 1 A/B chi2)
+### SNAP
+|    |                       | Fraction (0 tethers) |   n   | p-value | p-value |
+|:--:|:---------------------:|:--------------------:|:-----:|:-------:|:-------:|
+| WT | tethered/non-tethered |         0.439        | 23/18 |    1    |    -    |
+| 4E | tethered/non-tethered |         0.471        | 27/24 |  0.927  |    1    |
+| 4K | tethered/non-tethered |         0.647        |  6/11 |  0.249  |  0.327  |
+
+### Time Res
+|       |                       | Fraction (0 tethers) |   n   | p-value | p-value |
+|:-----:|:---------------------:|:--------------------:|:-----:|:-------:|:-------:|
+|  ctrl | tethered/non-tethered |         0.456        | 49/41 |    1    |    -    |
+| early | tethered/non-tethered |          0.2         |  36/9 |  0.0067 |    1    |
+|  late | tethered/non-tethered |         0.474        | 20/18 |  0.995  |  0.016  |
+
+## (Supplement 1 C/D chi2)
 ### SNAP
 
 
 ### Time Res
+
+
+## (Supplement 1 E/F chi2)
+### SNAP
+
+
+### Time Res
+
+
+## (Supplement 1 G/H chi2)
+### SNAP
+#### tethered
+
+
+#### non tethered
+
+
+### Time Res
+#### tethered
+
+
+#### non tethered
+
+
+## (Supplement 1 I/J chi2)
+### SNAP
+#### RRP
+
+
+#### non RRP
+
+
+### Time Res
+#### RRP
+
+
+#### non RRP
+
 
