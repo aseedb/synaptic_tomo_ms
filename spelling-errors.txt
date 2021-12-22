@@ -175,11 +175,11 @@ superpriming
 superresolution
 SV
 SVs
-synapsin
+Synapsin
 synaptobrevin
 synaptosomal
 synaptosome
-synaptosomes
+Synaptosomes
 synaptotagmin
 synaptsome
 syntaxin
@@ -192,7 +192,7 @@ Tomogram
 tomograms
 Tridiem
 triturated
-Trypsin
+trypsin
 Ulrike
 ultracentrifuge
 unbinned
