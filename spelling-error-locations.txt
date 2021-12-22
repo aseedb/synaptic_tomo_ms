@@ -662,3 +662,15 @@ content/statistics.md:158:RRP
 content/statistics.md:159:sem
 content/statistics.md:165:RRP
 content/statistics.md:166:sem
+content/statistics.md:173:RRP
+content/statistics.md:174:sem
+content/statistics.md:180:RRP
+content/statistics.md:181:sem
+content/statistics.md:190:sem
+content/statistics.md:197:sem
+content/statistics.md:205:sem
+content/statistics.md:212:sem
+content/statistics.md:264:RRP
+content/statistics.md:267:RRP
+content/statistics.md:271:RRP
+content/statistics.md:274:RRP

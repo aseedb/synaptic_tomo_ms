@@ -7,9 +7,9 @@ amongst
 anisotropic
 arachnoid
 aseedb
-Astrocytes
+astrocytes
 astrocytic
-Aurion
+AURION
 Automator
 Axio
 AxioCam
@@ -171,12 +171,12 @@ superprimed
 superresolution
 SV
 SVs
-Synapsin
+synapsin
 synaptobrevin
 synaptosomal
 synaptosome
 Synaptosomes
-Synaptotagmin
+synaptotagmin
 synaptsome
 syntaxin
 Tecnai
@@ -188,7 +188,7 @@ Tomogram
 tomograms
 Tridiem
 triturated
-trypsin
+Trypsin
 Ulrike
 ultracentrifuge
 unbinned
