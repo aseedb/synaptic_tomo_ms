@@ -7,7 +7,7 @@ amongst
 anisotropic
 arachnoid
 aseedb
-Astrocytes
+astrocytes
 astrocytic
 Aurion
 Automator
@@ -32,7 +32,7 @@ colocalized
 complexin
 connnectors
 constitutively
-Cryo
+cryo
 cryostage
 cytosol
 DAPI
@@ -192,7 +192,7 @@ Tomogram
 tomograms
 Tridiem
 triturated
-trypsin
+Trypsin
 Ulrike
 ultracentrifuge
 unbinned
