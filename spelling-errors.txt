@@ -7,7 +7,7 @@ amongst
 anisotropic
 arachnoid
 aseedb
-astrocytes
+Astrocytes
 astrocytic
 Aurion
 Automator
@@ -44,7 +44,6 @@ Didcot
 disinhibit
 disinhibiting
 DMEM
-droped
 Dulbecco’s
 dura
 dx
@@ -66,8 +65,6 @@ fluorescein
 fluorescently
 foetal
 Fonden
-furhter
-Furhtermore
 futher
 Gatan
 genotype
@@ -83,8 +80,8 @@ HEPES
 heterogenous
 heterozygote
 heterozygotes
-Heterozygous
-hippocampal
+heterozygous
+Hippocampal
 hippocampi
 homebuilt
 HPO
@@ -141,7 +138,6 @@ Nordisk
 Novo
 Nyon
 OC
-occuring
 outbred
 Oxfordshire
 PCR
@@ -160,6 +156,7 @@ quartiles
 QuikChange
 Radecke
 Raphaela
+recruitement
 RRP
 SEH
 SEM
@@ -171,7 +168,6 @@ Stansted
 sthennin
 supernatant
 superprimed
-superpriming
 superresolution
 SV
 SVs
@@ -180,7 +176,7 @@ synaptobrevin
 synaptosomal
 synaptosome
 Synaptosomes
-synaptotagmin
+Synaptotagmin
 synaptsome
 syntaxin
 Tecnai
@@ -208,6 +204,5 @@ Wheaton
 Wistar
 XXXX
 XXXXXXXX
-yy
 Zeiss
 Zuber
