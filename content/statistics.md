@@ -237,11 +237,24 @@
 ### Time Res
 
 
+
 ## (Supplement 1 E/F chi2)
 ### SNAP
+|    | overall |
+|:--:|:-------:|
+| WT |    1    |
+| 4E |  0.129  |
+| 4K |  0.562  |
+
 
 
 ### Time Res
+|       | overall |
+|:-----:|:-------:|
+|  ctrl |    1    |
+| early |  0.526  |
+|  late |  0.323  |
+
 
 
 ## (Supplement 1 G/H chi2)
