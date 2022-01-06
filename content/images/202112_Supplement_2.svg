@@ -9,7 +9,7 @@
    id="svg3856"
    inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
    sodipodi:docname="202112_Supplement_2.svg"
-   inkscape:export-filename="/home/ela/Documents/2112_Supplement_2.png"
+   inkscape:export-filename="/home/ela/Documents/2201_Supplement_2.png"
    inkscape:export-xdpi="28.636965"
    inkscape:export-ydpi="28.636965"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -22,6 +22,12 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs3850">
+    <rect
+       x="11.942085"
+       y="7.7644434"
+       width="388.27316"
+       height="54.247361"
+       id="rect2861" />
     <inkscape:path-effect
        vertical="false"
        scale_y_rel="false"
@@ -327,10 +333,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.72776573"
-     inkscape:cx="268.6304"
-     inkscape:cy="351.07451"
+     inkscape:cx="363.44113"
+     inkscape:cy="349.70045"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1608"
      inkscape:window-height="986"
@@ -360,7 +366,15 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="whitelayer" />
+     inkscape:label="whitelayer">
+    <rect
+       style="opacity:0.526109;fill:#ffffff;stroke-width:0.465"
+       id="rect91"
+       width="177.69734"
+       height="122.36617"
+       x="-0.075977199"
+       y="0.026616739" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -374,7 +388,7 @@
        height="117.21042"
        width="126.20625"
        clip-path="url(#clipPath73352)"
-       transform="matrix(2.0261914,0,0,2.0628891,196.66214,-248.86549)"
+       transform="matrix(2.0261914,0,0,2.0628891,196.66214,-233.51956)"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <image
@@ -386,7 +400,7 @@
        height="117.21042"
        width="126.20626"
        clip-path="url(#clipPath19006)"
-       transform="matrix(2.0261914,0,0,2.0628891,169.41921,42.365154)"
+       transform="matrix(2.0261914,0,0,2.0628891,169.41921,57.710997)"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <text
@@ -399,7 +413,7 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.79964px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.488868px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="6.657383"
-       y="7.9222593"
+       y="23.130985"
        id="text61-5"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
@@ -407,7 +421,7 @@
          sodipodi:role="line"
          id="tspan59-4"
          x="6.657383"
-         y="7.9222593"
+         y="23.130985"
          style="fill:#000000;stroke-width:0.488868px">A</tspan></text>
     <image
        y="96.229973"
@@ -418,14 +432,14 @@
        height="118.02575"
        width="118.02575"
        clip-path="url(#clipPath73386)"
-       transform="matrix(2.0261914,0,0,2.0628891,-292.18895,-223.97664)"
+       transform="matrix(2.0261914,0,0,2.0628891,-292.18895,-208.63071)"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.79964px;line-height:100%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.488868px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="93.042427"
-       y="7.9222593"
+       y="23.130985"
        id="text61-4"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"
@@ -433,18 +447,18 @@
          sodipodi:role="line"
          id="tspan59-1"
          x="93.042427"
-         y="7.9222593"
+         y="23.130985"
          style="fill:#000000;stroke-width:0.488868px">B</tspan></text>
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.897889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 30.134858,60.052926 -2.11394,-10.018204 0.0092,-0.06824 -0.02461,-0.0037 -0.264611,-1.252545 -5.394417,10.21877 c 1.151633,-0.613036 2.415336,-0.861703 3.645134,-0.769623 l -0.128494,0.923787 0.879888,0.127708 0.128641,-0.924625 c 1.206065,0.256572 2.342945,0.849883 3.262444,1.767069 z"
+       d="m 30.134858,75.398769 -2.11394,-10.018204 0.0092,-0.06824 -0.02461,-0.0037 -0.264611,-1.252545 -5.394417,10.21877 c 1.151633,-0.613036 2.415336,-0.861703 3.645134,-0.769623 l -0.128494,0.923787 0.879888,0.127708 0.128641,-0.924625 c 1.206065,0.256572 2.342945,0.849883 3.262444,1.767069 z"
        id="path7162-0-7-5-2"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.897889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 126.2867,18.226633 -0.0337,10.246736 -0.0233,0.06451 0.0233,0.0093 -0.004,1.281182 7.41126,-8.812024 c -1.25357,0.348783 -2.54027,0.317294 -3.72249,-0.03971 l 0.31909,-0.874623 -0.83286,-0.315933 -0.31942,0.875425 c -1.12455,-0.512622 -2.11095,-1.339163 -2.81711,-2.434917 z"
+       d="m 126.2867,33.572476 -0.0337,10.246736 -0.0233,0.06451 0.0233,0.0093 -0.004,1.281182 7.41126,-8.812024 c -1.25357,0.348783 -2.54027,0.317294 -3.72249,-0.03971 l 0.31909,-0.874623 -0.83286,-0.315933 -0.31942,0.875425 c -1.12455,-0.512622 -2.11095,-1.339163 -2.81711,-2.434917 z"
        id="path7162-0-7-5-2-6"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="300"
@@ -458,5 +472,13 @@
        y="0.14221174"
        rx="0"
        ry="0" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,7.3313799,0.53489321)"
+       id="text2859"
+       style="font-size:29.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2861)"><tspan
+         x="11.941406"
+         y="33.716767"
+         id="tspan184">Supplemental Figure 2</tspan></text>
   </g>
 </svg>
