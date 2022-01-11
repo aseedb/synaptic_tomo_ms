@@ -80,7 +80,7 @@ HEPES
 heterogenous
 heterozygote
 heterozygotes
-heterozygous
+Heterozygous
 Hippocampal
 hippocampi
 homebuilt
@@ -171,11 +171,11 @@ superprimed
 superresolution
 SV
 SVs
-synapsin
+Synapsin
 synaptobrevin
 synaptosomal
 synaptosome
-Synaptosomes
+synaptosomes
 synaptotagmin
 synaptsome
 syntaxin
@@ -188,7 +188,7 @@ Tomogram
 tomograms
 Tridiem
 triturated
-Trypsin
+trypsin
 Ulrike
 ultracentrifuge
 unbinned

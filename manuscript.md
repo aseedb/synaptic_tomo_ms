@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2021-12-22'
+date-meta: '2022-01-11'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2021-12-22" />
-  <meta name="citation_publication_date" content="2021-12-22" />
+  <meta name="dc.date" content="2022-01-11" />
+  <meta name="citation_publication_date" content="2022-01-11" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -76,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/81dca4c55fa0572c88f568f8ec8e549b4308646b/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/81dca4c55fa0572c88f568f8ec8e549b4308646b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/81dca4c55fa0572c88f568f8ec8e549b4308646b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/e6fa6b8e846807173a8fb57d91f724df97226fbe/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/e6fa6b8e846807173a8fb57d91f724df97226fbe/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/e6fa6b8e846807173a8fb57d91f724df97226fbe/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,10 +100,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/81dca4c55fa0572c88f568f8ec8e549b4308646b/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/e6fa6b8e846807173a8fb57d91f724df97226fbe/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@81dca4c](https://github.com/aseedb/synaptic_tomo_ms/tree/81dca4c55fa0572c88f568f8ec8e549b4308646b)
-on December 22, 2021.
+from [aseedb/synaptic_tomo_ms@e6fa6b8](https://github.com/aseedb/synaptic_tomo_ms/tree/e6fa6b8e846807173a8fb57d91f724df97226fbe)
+on January 11, 2022.
 </em></small>
 
 ## Authors
@@ -321,7 +321,7 @@ Non-sprayed rat synaptosomes as well as WT-SNAP-25 mouse cultured neuron synapse
 Vesicle occupancy in WT-SNAP-25 synapses was 0.09 in the most proximal zone (0-25 nm from the AZ PM), and peaked to 0.18 in 25-50 nm zone. It then dropped to 0.08 in the intermediate zone (50-75 nm) and rose steadily more distally to reach a plateau of ~0.16 spanning the range of 150 to 250 nm distance.
 Finally, SV occupancy gradually decreased as the distance from the AZ increased (Figure {@fig:vesicle_distribution}A).
 
-![**SV distribution.** (A, B) Vesicle occupancy expressed as fraction of cytosol volume occupied by vesicles as a function of distance to AZ in (A) cultured neurons and (B) synaptosomes. Each solid line represents the mean occupancy value for the experimental group, while the shaded areas depict the 95% confidence interval. (C, D) Distance of proximal SVs from the AZ. Horizontal line: mean; whiskers: 95% confidence interval. Statistical test: t-test.](images/2112_Figure3.png){#fig:vesicle_distribution width="15cm"}
+![**SV distribution.** (A, B) Vesicle occupancy expressed as fraction of cytosol volume occupied by vesicles as a function of distance to AZ in (A) cultured neurons and (B) synaptosomes. Each solid line represents the mean occupancy value for the experimental group, while the shaded areas depict the 95% confidence interval. (C, D) Distance of proximal SVs from the AZ. Horizontal line: mean; whiskers: 95% confidence interval. Statistical test: t-test.](images/2201_Figure3.png){#fig:vesicle_distribution width="15cm"}
 
 The absolute values differ between WT cultured mouse neurons and non-stimulated rat synaptosomes but the SV occupancy distribution follows the same pattern.
 The difference in absolute values can likely be attributed to the different experimental and animal models used.
@@ -351,7 +351,7 @@ In non-sprayed synaptosomes, 54% of the proximal vesicles were tethered, which i
 `\_this is a bit confusing because fig S1B does not directly show this. It shows that the fraction of untethered proximal SVs. The reader needs to calculate the fraction of tethered vesicles = 1 - fraction of untethered vesicles*`{.green} Interestingly, in the early fusion group the fraction of tethered proximal vesicles significantly increased to 80% (P<0.05, χ^2^ test). In the late fusion group, however, 53% of the proximal vesicles were tethered, which is not significantly different to the non sprayed group. The average number of tethers per proximal SV followed the same pattern. Proximal SVs had 0.89 ± 0.12 tethers in the non-sprayed group (Figure {@fig:tethers}D). `mention in methods that ± values are standard error of the mean`{.yellow}.
 This parameter rose to 2.09 ± 0.33 in the early fusion group, while it returned to 1.00 ± 0.20 in the late fusion group.
 
-![**Proximal SV tethering.** (A, B) Fraction of proximal SVs not belonging and belonging to the RRP. Each bar shows the overall fraction of all proximal SVs from a given experimental condition. Each dot represents the value of an individual synapse. Statistical test: χ^2^ test. (C, D) Number of tethers per proximal SV. Each dot represents an individual SV. The vertical line represents the mean value, and the horizontal whiskers correspond to the 95% confidence interval. Statistical test: t-test.](images/2112_Figure4.png){#fig:tethers width="15cm"}
+![**Proximal SV tethering.** (A, B) Fraction of proximal SVs not belonging and belonging to the RRP. Each bar shows the overall fraction of all proximal SVs from a given experimental condition. Each dot represents the value of an individual synapse. Statistical test: χ^2^ test. (C, D) Number of tethers per proximal SV. Each dot represents an individual SV. The vertical line represents the mean value, and the horizontal whiskers correspond to the 95% confidence interval. Statistical test: t-test.](images/2201_Figure4.png){#fig:tethers width="15cm"}
 
 We then analyzed whether the decreased occupancy in the late fusion group was associated with a decreased number of RRP SVs.
 In resting, non-sprayed synapses 8% of the proximal SVs resided in the RRP (Figure {@fig:tethers}B).
@@ -396,7 +396,7 @@ Only subsequently, these newly tethered vesicles get interconnected.
 Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure S2 @fig:S2 and Supplementary Movie suppl_histograms).
 This, in addition to passive diffusion, can contribute to replenishing the RRP.
 
-![**SV connectivity.** (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each solid line represents the average value of all SVs belonging to a particular experimental condition. Shaded areas represent 95%-confidence interval ranges. (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (B). _These line plots are going to be replaced by bar plots_. (E, F) Number of connectors per proximal SV belonging or not to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per tethered or non-tethered proximal SV for mouse neurons (G) and rat synaptosomes (H). *: P<0.05](images/2112_Figure5.png){#fig:connectors width="15cm"}
+![**SV connectivity.** (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each solid line represents the average value of all SVs belonging to a particular experimental condition. Shaded areas represent 95%-confidence interval ranges. (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (B). _These line plots are going to be replaced by bar plots_. (E, F) Number of connectors per proximal SV belonging or not to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per tethered or non-tethered proximal SV for mouse neurons (G) and rat synaptosomes (H). *: P<0.05](images/2201_Figure5.png){#fig:connectors width="15cm"}
 
 We then analyzed SNAP-25 neurons.
 For SNAP-25-WT, similarly to non-sprayed synaptosome, the fraction of connected SVs was significantly higher at about 77% in the distal 2 region (p<0.01), albeit the absolute values were overall lower than in synaptosomes (Figure {@fig:connectors}C).
@@ -637,11 +637,14 @@ It was not necessary to apply randomization.
 (I, J) Histogram of connected SV amongst proximal non-RRP or RRP SVs.
 (A, C, E, G, I) Synapses in mouse cultured neurons.
 (B, D, F, H, J) Rat synaptosomes.
-](images/2112_Supplements.png){#fig:suppl_histograms width="15cm" tag="S1"}
+](images/2201_Supplement1.png){#fig:suppl_histograms width="15cm" tag="S1"}
 
-A figure with tethered connected vesicles will be added.
+![(A, B) Tomographic slices showing tethered connected vesicles, blue arrows highlight the connectors.
+Scale bar, 50 nm
+](images/2201_Supplement_2.png){#fig:suppl_histograms width="15cm" tag="S2"}
 
 Add some figures of tomograms
+
 
 ## References {.page_break_before}
 
