@@ -7,6 +7,7 @@ amongst
 anisotropic
 arachnoid
 aseedb
+astrocyte
 astrocytes
 astrocytic
 AURION
@@ -24,6 +25,7 @@ Buerker
 CaCl
 caesarean
 calcein
+cargos
 Carlsbergfondet
 CCD
 CMS
@@ -80,7 +82,7 @@ HEPES
 heterogenous
 heterozygote
 heterozygotes
-Heterozygous
+heterozygous
 Hippocampal
 hippocampi
 homebuilt
@@ -166,16 +168,17 @@ Spearman’s
 Stahlberg
 Stansted
 sthennin
+stimulatory
 supernatant
-superprimed
+Superprimed
 superresolution
 SV
 SVs
 Synapsin
 synaptobrevin
 synaptosomal
-synaptosome
-synaptosomes
+Synaptosome
+Synaptosomes
 synaptotagmin
 synaptsome
 syntaxin
@@ -184,7 +187,7 @@ TEM
 TFS
 Thermo
 Thermofisher
-Tomogram
+tomogram
 tomograms
 Tridiem
 triturated
@@ -194,6 +197,7 @@ ultracentrifuge
 unbinned
 UNIL
 unstimulated
+vitro
 Vitrobot
 Vladan
 vladanl
