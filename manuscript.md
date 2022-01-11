@@ -76,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/82f1afac2597bf3cae91006a4eb028a8419d9b93/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/82f1afac2597bf3cae91006a4eb028a8419d9b93/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/82f1afac2597bf3cae91006a4eb028a8419d9b93/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/51e94ab04f7ed6a5f4b80545a62e0099cde78ef6/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/51e94ab04f7ed6a5f4b80545a62e0099cde78ef6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/51e94ab04f7ed6a5f4b80545a62e0099cde78ef6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,9 +100,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/82f1afac2597bf3cae91006a4eb028a8419d9b93/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/51e94ab04f7ed6a5f4b80545a62e0099cde78ef6/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@82f1afa](https://github.com/aseedb/synaptic_tomo_ms/tree/82f1afac2597bf3cae91006a4eb028a8419d9b93)
+from [aseedb/synaptic_tomo_ms@51e94ab](https://github.com/aseedb/synaptic_tomo_ms/tree/51e94ab04f7ed6a5f4b80545a62e0099cde78ef6)
 on January 11, 2022.
 </em></small>
 
@@ -287,12 +287,8 @@ Additionally, phase contrast imaging enabled quality control of the frozen EM gr
 9 control and 9 stimulated synaptosome tomograms were analyzed.
 We restricted our analysis to synaptosomes that possessed a smooth PM, free of signs of rupturing and that had a mitochondrion, as we considered these factors essential for synaptosome function.
 
-In addition, we manipulated the electrostatic state of the SNARE complex through a series of point mutations introduced above and grew primary neurons on EM grids [@doi:10.1016/j.celrep.2019.01.103] (Figure {@fig:workflow}B1-B4).. 
-Primary neurons were initially grown under different culturing conditions in order to establish a protocol which provides thin enough functional synapses for direct imaging by cryo-ET. 
-Therefore, astrocytes were added to 12 well plates and were grown for 2 days. 
-After 2 days, the medium was exchanged to a medium that favors neuronal growth and impedes astrocyte growth. 
-At the same time a droplet of the neuronal suspension was added onto a flame sterilized EM grid and incubated for 30 min at 37 °C, hereafter the grids were placed into the 12 well plates containing the astrocytes. 
-Neurons were grown for 10-14 days until plunge freezing and were then analyzed at a Titan Krios by cryo-ET. 
+In addition, we manipulated the electrostatic state of the SNARE complex through a series of point mutations introduced above and grew primary neurons on EM grids [@doi:10.1016/j.celrep.2019.01.103] (Figure {@fig:workflow}B1-B4).
+`*__More text from Julika and Jakob to describe the procedure here__*`{.yellow}.
 Thereby, we could image chronically overactive or depressed synapses and relate presynaptic architectural modifications to different functional states.
 
 ![**Experimental models.** A1) Glass atomizer used to disperse depolarizing solution on the EM grid milliseconds before the grid is vitrified. A2) Spray droplets imaged with the GFP filter set. A3) Synaptosomes imaged with the DAPI filter set. A4) Overlay of spray droplets (green) and synaptosomes (red). Scale bars, 20 μm.](images/workflow.svg){#fig:workflow width="15cm"}
