@@ -7,6 +7,7 @@ amongst
 anisotropic
 arachnoid
 aseedb
+astrocyte
 astrocytes
 astrocytic
 Aurion
@@ -81,7 +82,7 @@ HEPES
 heterogenous
 heterozygote
 heterozygotes
-Heterozygous
+heterozygous
 Hippocampal
 hippocampi
 homebuilt
@@ -176,7 +177,7 @@ SVs
 synapsin
 synaptobrevin
 synaptosomal
-Synaptosome
+synaptosome
 synaptosomes
 synaptotagmin
 synaptsome
@@ -186,11 +187,11 @@ TEM
 TFS
 Thermo
 Thermofisher
-Tomogram
+tomogram
 tomograms
 Tridiem
 triturated
-trypsin
+Trypsin
 Ulrike
 ultracentrifuge
 unbinned
