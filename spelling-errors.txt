@@ -3,14 +3,13 @@ AGS
 Aldrich
 ameen
 Amin
-amongst
 anisotropic
 arachnoid
 aseedb
 astrocyte
-astrocytes
+Astrocytes
 astrocytic
-Aurion
+AURION
 Automator
 Axio
 AxioCam
@@ -83,7 +82,7 @@ heterogenous
 heterozygote
 heterozygotes
 heterozygous
-Hippocampal
+hippocampal
 hippocampi
 homebuilt
 HPO
@@ -187,7 +186,7 @@ TEM
 TFS
 Thermo
 Thermofisher
-tomogram
+Tomogram
 tomograms
 Tridiem
 triturated

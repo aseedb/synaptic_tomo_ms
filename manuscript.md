@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-01-11'
+date-meta: '2022-01-12'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-01-11" />
-  <meta name="citation_publication_date" content="2022-01-11" />
+  <meta name="dc.date" content="2022-01-12" />
+  <meta name="citation_publication_date" content="2022-01-12" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -76,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/7cd5d5d6bb4583e7c4610fc41edbf3b193f306ef/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/7cd5d5d6bb4583e7c4610fc41edbf3b193f306ef/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/7cd5d5d6bb4583e7c4610fc41edbf3b193f306ef/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/053ce7f4dc6aa42495b00b45aeb3a5248fe89278/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/053ce7f4dc6aa42495b00b45aeb3a5248fe89278/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/053ce7f4dc6aa42495b00b45aeb3a5248fe89278/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,10 +100,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/7cd5d5d6bb4583e7c4610fc41edbf3b193f306ef/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/053ce7f4dc6aa42495b00b45aeb3a5248fe89278/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@7cd5d5d](https://github.com/aseedb/synaptic_tomo_ms/tree/7cd5d5d6bb4583e7c4610fc41edbf3b193f306ef)
-on January 11, 2022.
+from [aseedb/synaptic_tomo_ms@053ce7f](https://github.com/aseedb/synaptic_tomo_ms/tree/053ce7f4dc6aa42495b00b45aeb3a5248fe89278)
+on January 12, 2022.
 </em></small>
 
 ## Authors
@@ -111,9 +111,9 @@ on January 11, 2022.
 
 
 + **Julika Radecke**^[\*](#equal_contribution)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-5815-5537](https://orcid.org/0000-0002-5815-5537)
-    · ![GitHub icon](images/github.svg){.inline_icon}
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [julikaradecke](https://github.com/julikaradecke)<br>
   <small>
      Institute of Anatomy, University of Bern, Bern, Switzerland; Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark; Diamond Light Source Ltd, Didcot, Oxfordshire, United Kingdom
@@ -121,9 +121,9 @@ on January 11, 2022.
   </small>
 
 + **Raphaela Seeger**^[\*](#equal_contribution)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [elatella](https://github.com/elatella)<br>
   <small>
      Institute of Anatomy, University of Bern, Bern, Switzerland; Graduate School for Cellular and Biomedical Sciences, University of Bern
@@ -135,48 +135,48 @@ on January 11, 2022.
   </small>
 
 + **Ulrike Laugks**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0003-4175-4354](https://orcid.org/0000-0003-4175-4354)<br>
   <small>
      Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
   </small>
 
 + **Amin Khosrozadeh**<br>
-    · ![GitHub icon](images/github.svg){.inline_icon}
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [ameen-khosrowzadeh](https://github.com/ameen-khosrowzadeh)<br>
   <small>
      Institute of Anatomy, University of Bern, Bern, Switzerland; Graduate School for Cellular and Biomedical Sciences, University of Bern
   </small>
 
 + **Kenneth N. Goldie**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-7405-0049](https://orcid.org/0000-0002-7405-0049)<br>
   <small>
      Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland
   </small>
 
 + **Henning Stahlberg**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-1185-4592](https://orcid.org/0000-0002-1185-4592)
-    · ![GitHub icon](images/github.svg){.inline_icon}
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [sthennin](https://github.com/sthennin)<br>
   <small>
      Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland; EPFL; UNIL
   </small>
 
 + **Vladan Lučić**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0003-3698-7436](https://orcid.org/0000-0003-3698-7436)
-    · ![GitHub icon](images/github.svg){.inline_icon}
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [vladanl](https://github.com/vladanl)<br>
   <small>
      Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
   </small>
 
 + **Jakob B. Sørensen**^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0001-5465-3769](https://orcid.org/0000-0001-5465-3769)
-    · ![GitHub icon](images/github.svg){.inline_icon}
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [JBSorensen](https://github.com/JBSorensen)<br>
   <small>
      Department of Neuroscience, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen N, Denmark
@@ -184,9 +184,9 @@ on January 11, 2022.
   </small>
 
 + **Benoît Zuber**^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0001-7725-5579](https://orcid.org/0000-0001-7725-5579)
-    · ![GitHub icon](images/github.svg){.inline_icon}
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [aseedb](https://github.com/aseedb)<br>
   <small>
      Institute of Anatomy, University of Bern, Bern, Switzerland
@@ -626,7 +626,7 @@ The segmentation procedure is conservative and tends to miss some tethers and co
 Consequently, the numbers of tethers and connectors should not be considered as absolute values but rather to compare experimental groups.
 All tomograms analyzed by Pyto were obtained on the same microscope with the same tilt range.
 The margin of error for false negatives and positives was found to be less than 10% by comparison with ground truth [@doi:10.1016/j.jsb.2016.10.004].
-As it was done before, an upper limit was set between 2100 and 3200 nm3 on segment volume.
+As it was done before, an upper limit was set between 2100 and 3200 nm³ on segment volume.
 The tomograms that were used for this analysis were binned by a factor of 2 to 3, resulting in voxel sizes between 2.1 and 2.4 nm.
 Tether and connector length were calculated using the midpoint method [@doi:10.1016/j.jsb.2016.10.004].
 From the stimulated synaptosomes only those that showed visible signs of exocytosis where used for analysis in Pyto.

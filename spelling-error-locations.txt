@@ -619,10 +619,8 @@ content/06.supplementary_material.md:5:RRP
 content/06.supplementary_material.md:5:SV
 content/06.supplementary_material.md:6:RRP
 content/06.supplementary_material.md:6:SV
-content/06.supplementary_material.md:7:amongst
 content/06.supplementary_material.md:7:SV
 content/06.supplementary_material.md:7:SVs
-content/06.supplementary_material.md:8:amongst
 content/06.supplementary_material.md:8:RRP
 content/06.supplementary_material.md:8:RRP
 content/06.supplementary_material.md:8:SV
