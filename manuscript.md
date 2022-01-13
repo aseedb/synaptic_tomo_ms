@@ -76,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/053ce7f4dc6aa42495b00b45aeb3a5248fe89278/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/053ce7f4dc6aa42495b00b45aeb3a5248fe89278/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/053ce7f4dc6aa42495b00b45aeb3a5248fe89278/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/eb5ab82c597db3f65874b40d76e2ec5f436ea5a1/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/eb5ab82c597db3f65874b40d76e2ec5f436ea5a1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/eb5ab82c597db3f65874b40d76e2ec5f436ea5a1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,9 +100,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/053ce7f4dc6aa42495b00b45aeb3a5248fe89278/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/eb5ab82c597db3f65874b40d76e2ec5f436ea5a1/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@053ce7f](https://github.com/aseedb/synaptic_tomo_ms/tree/053ce7f4dc6aa42495b00b45aeb3a5248fe89278)
+from [aseedb/synaptic_tomo_ms@eb5ab82](https://github.com/aseedb/synaptic_tomo_ms/tree/eb5ab82c597db3f65874b40d76e2ec5f436ea5a1)
 on January 13, 2022.
 </em></small>
 
@@ -486,9 +486,9 @@ This phenomenon was resolved in our measurements, because the spraying of synapt
 The phenomenon of rapid, depolarization-induced tethering leads to some free proximal SVs becoming tethered to the AZ PM, while some previously single- or double-tethered SVs gained the additional tether(s) that according to our definition of the RRP (as triple-tethered vesicles) would be expected to render them releasable. 
 There are several important implications of this finding. 
 First, during fusion itself additional tethering occurs rapidly - in excess of the three tethers formed during priming - which might help overcome the fusion barrier. 
-Functional reconstruction led to the suggestion by some that SNARE-complexes primarily form downstream of Ca^2+^-influx [@doi:10.1038/nsmb.2061], whereas mutagenesis studies in cells supported the notion that SNARE-complexes had already formed before arrival of the Ca^2+^-trigger, i.e. during priming [@doi: 10.1083/jcb.200907018]. 
-In fact, both notions might be partly correct, as the formation of a low number of SNARE-complexes might lead to a stable primed state, defined by a valley in the energy landscape due to the dual inhibitory/stimulatory features of the SNARE-complex [@doi:10.1038/emboj.2010.130;@doi: 10.1016/j.celrep.2019.01.103 ], whereas more SNARE-complexes might form dynamically after triggering, during membrane fusion itself. 
-Accordingly, in in vitro fusion assays additional SNARE-complexes, above those required for fusion pore formation, leads to fusion pore stabilization and release of larger cargos [@doi: 10.1126/science.1214984;@doi:10.1038/nature25481]. 
+Functional reconstruction led to the suggestion by some that SNARE-complexes primarily form downstream of Ca^2+^-influx [@doi:10.1038/nsmb.2061], whereas mutagenesis studies in cells supported the notion that SNARE-complexes had already formed before arrival of the Ca^2+^-trigger, i.e. during priming [@doi:10.1083/jcb.200907018]. 
+In fact, both notions might be partly correct, as the formation of a low number of SNARE-complexes might lead to a stable primed state, defined by a valley in the energy landscape due to the dual inhibitory/stimulatory features of the SNARE-complex [@doi:10.1038/emboj.2010.130;@doi:10.1016/j.celrep.2019.01.103 ], whereas more SNARE-complexes might form dynamically after triggering, during membrane fusion itself. 
+Accordingly, in in vitro fusion assays additional SNARE-complexes, above those required for fusion pore formation, leads to fusion pore stabilization and release of larger cargos [@doi:10.1126/science.1214984;@doi:10.1038/nature25481]. 
 Vesicles that have not formed three tethers before stimulation might fuse with delayed kinetics during triggering, which accounts for the variable exocytosis kinetics among SVs [@doi:10.1073/pnas.1606383113;@doi:10.1073/pnas.1314427110;@doi:10.1016/j.neuron.2015.08.038;@doi:10.7554/eLife.51032]. 
 Superprimed vesicles are expected to have formed the largest number of tethers before stimulation [@doi:10.1073/pnas.1314427110;@doi:10.1073/pnas.1606383113]. 
 Moreover, overlapping protein complexes might be involved in priming and triggering, depending on the timing of their formation. 
