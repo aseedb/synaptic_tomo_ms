@@ -33,7 +33,7 @@ colocalized
 complexin
 connnectors
 constitutively
-cryo
+Cryo
 cryostage
 cytosol
 DAPI
@@ -82,7 +82,7 @@ heterogenous
 heterozygote
 heterozygotes
 Heterozygous
-hippocampal
+Hippocampal
 hippocampi
 homebuilt
 HPO
@@ -173,10 +173,10 @@ Superprimed
 superresolution
 SV
 SVs
-synapsin
+Synapsin
 synaptobrevin
 synaptosomal
-Synaptosome
+synaptosome
 synaptosomes
 synaptotagmin
 synaptsome
