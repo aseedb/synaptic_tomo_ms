@@ -9,7 +9,7 @@ aseedb
 astrocyte
 astrocytes
 astrocytic
-Aurion
+AURION
 Automator
 Axio
 AxioCam
@@ -33,7 +33,7 @@ colocalized
 complexin
 connnectors
 constitutively
-Cryo
+cryo
 cryostage
 cytosol
 DAPI
@@ -190,7 +190,7 @@ Tomogram
 tomograms
 Tridiem
 triturated
-Trypsin
+trypsin
 Ulrike
 ultracentrifuge
 unbinned

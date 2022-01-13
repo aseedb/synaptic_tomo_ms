@@ -76,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/762418a16fe53ef5f50ca71ef7308d5b829dfa9e/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/762418a16fe53ef5f50ca71ef7308d5b829dfa9e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/762418a16fe53ef5f50ca71ef7308d5b829dfa9e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/3ac11f8b88a1bb0b24d41cd458164866eccd79a0/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/3ac11f8b88a1bb0b24d41cd458164866eccd79a0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/3ac11f8b88a1bb0b24d41cd458164866eccd79a0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,9 +100,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/762418a16fe53ef5f50ca71ef7308d5b829dfa9e/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/3ac11f8b88a1bb0b24d41cd458164866eccd79a0/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@762418a](https://github.com/aseedb/synaptic_tomo_ms/tree/762418a16fe53ef5f50ca71ef7308d5b829dfa9e)
+from [aseedb/synaptic_tomo_ms@3ac11f8](https://github.com/aseedb/synaptic_tomo_ms/tree/3ac11f8b88a1bb0b24d41cd458164866eccd79a0)
 on January 13, 2022.
 </em></small>
 
@@ -303,7 +303,7 @@ We analyzed the morphology of SVs fusing with the AZ PM.
 Synaptosomes of a single grid have not all been stimulated for the same duration.
 Some synaptosomes have been in contact with the stimulating solution from the moment the droplet touched the grid, while others were not at all in contact with the stimulating solution because no droplet landed close enough to them.
 Importantly, some synaptosomes were located near the point of impact of a droplet, in which case, it took some time for KCl to diffuse until the concentration around these synaptosomes rose sufficiently to trigger exocytosis.
-Therefore, the time interval between triggering exocytosis and freezing ranged between 0 ms and the interval between spray droplets hitting the grid and freezing, which was comprised between 7 and 35 ms depending on the experiments (Table S2, see also [@pmid:7831735]). 
+Therefore, the time interval between triggering exocytosis and freezing ranged between 0 ms and the interval between spray droplets hitting the grid and freezing, which was comprised between 7 and 35 ms depending on the experiments (Table S2, see also [@doi:ctwp5j]). 
 `*__Table S2 seems to be missing__*`{.blue}.
 
 Synaptosomes from both control and sprayed grids were thoroughly analyzed for signs of exocytosis, which consisted of  morphological changes of the AZ PM and the tethered SV occurring upon stimulation, which are described hereafter.
