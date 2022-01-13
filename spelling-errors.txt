@@ -9,7 +9,7 @@ aseedb
 astrocyte
 Astrocytes
 astrocytic
-AURION
+Aurion
 Automator
 Axio
 AxioCam
@@ -81,8 +81,8 @@ HEPES
 heterogenous
 heterozygote
 heterozygotes
-heterozygous
-hippocampal
+Heterozygous
+Hippocampal
 hippocampi
 homebuilt
 HPO
@@ -173,7 +173,7 @@ Superprimed
 superresolution
 SV
 SVs
-synapsin
+Synapsin
 synaptobrevin
 synaptosomal
 synaptosome
@@ -186,11 +186,11 @@ TEM
 TFS
 Thermo
 Thermofisher
-Tomogram
+tomogram
 tomograms
 Tridiem
 triturated
-Trypsin
+trypsin
 Ulrike
 ultracentrifuge
 unbinned
