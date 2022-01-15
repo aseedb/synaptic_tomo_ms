@@ -1950,6 +1950,7 @@
         ]
       ]
     },
+    "abstract": "Extensive research has yielded crucial insights into the mechanism of neurotransmitter release, and working models for the functions of key proteins involved in release. The SNAREs Syntaxin-1, Synaptobrevin, and SNAP-25 play a central role in membrane fusion, forming SNARE complexes that bridge the vesicle and plasma membranes and that are disassembled by NSF–SNAPs. Exocytosis likely starts with Syntaxin-1 folded into a self-inhibited closed conformation that binds to Munc18-1. Munc13s open Syntaxin-1, orchestrating SNARE complex assembly in an NSF–SNAP–resistant manner together with Munc18-1. In the resulting primed state, with partially assembled SNARE complexes, fusion is inhibited by Synaptotagmin-1 and Complexins, which also perform active functions in release. Upon influx of Ca , Synaptotagmin-1 activates fast release, likely by relieving the inhibition caused by Complexins and cooperating with the SNAREs in bringing the membranes together. Although alternative models exist and fundamental questions remain unanswered, a definitive description of the basic release mechanism may be available soon.",
     "container-title": "Annual Review of Biophysics",
     "DOI": "10.1146/annurev-biophys-060414-034057",
     "volume": "44",
