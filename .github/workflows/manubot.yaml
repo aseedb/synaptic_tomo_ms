@@ -19,7 +19,7 @@ on:
       BUILD_DOCX:
         type: boolean
         description: generate DOCX output
-        default: false
+        default: true
       BUILD_LATEX:
         type: boolean
         description: generate LaTeX output
@@ -27,7 +27,7 @@ on:
       SPELLCHECK:
         type: boolean
         description: Check spelling
-        default: true
+        default: false
       MANUBOT_USE_DOCKER:
         type: boolean
         description: Use Docker to generate PDF
