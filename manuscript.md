@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-01-15'
+date-meta: '2022-01-17'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-01-15" />
-  <meta name="citation_publication_date" content="2022-01-15" />
+  <meta name="dc.date" content="2022-01-17" />
+  <meta name="citation_publication_date" content="2022-01-17" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -103,7 +103,7 @@ This manuscript
 ([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/688f9f9d491b8ad380c3a92423a2869b73ea7de5/))
 was automatically generated
 from [aseedb/synaptic_tomo_ms@688f9f9](https://github.com/aseedb/synaptic_tomo_ms/tree/688f9f9d491b8ad380c3a92423a2869b73ea7de5)
-on January 15, 2022.
+on January 17, 2022.
 </em></small>
 
 ## Authors
