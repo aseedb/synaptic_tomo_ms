@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-01-17'
+date-meta: '2022-01-18'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-01-17" />
-  <meta name="citation_publication_date" content="2022-01-17" />
+  <meta name="dc.date" content="2022-01-18" />
+  <meta name="citation_publication_date" content="2022-01-18" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,6 +47,7 @@ header-includes: |-
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="citation_author" content="Anna Kádková" />
   <meta name="citation_author_institution" content="Department of Neuroscience, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen N, Denmark" />
+  <meta name="citation_author_orcid" content="0000-0001-6648-9679" />
   <meta name="citation_author" content="Ulrike Laugks" />
   <meta name="citation_author_institution" content="Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany" />
   <meta name="citation_author_orcid" content="0000-0003-4175-4354" />
@@ -76,9 +77,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/688f9f9d491b8ad380c3a92423a2869b73ea7de5/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/688f9f9d491b8ad380c3a92423a2869b73ea7de5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/688f9f9d491b8ad380c3a92423a2869b73ea7de5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/5b08adf250f6070bc20fd7466b9a45d0803be33a/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/5b08adf250f6070bc20fd7466b9a45d0803be33a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/5b08adf250f6070bc20fd7466b9a45d0803be33a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,10 +101,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/688f9f9d491b8ad380c3a92423a2869b73ea7de5/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/5b08adf250f6070bc20fd7466b9a45d0803be33a/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@688f9f9](https://github.com/aseedb/synaptic_tomo_ms/tree/688f9f9d491b8ad380c3a92423a2869b73ea7de5)
-on January 17, 2022.
+from [aseedb/synaptic_tomo_ms@5b08adf](https://github.com/aseedb/synaptic_tomo_ms/tree/5b08adf250f6070bc20fd7466b9a45d0803be33a)
+on January 18, 2022.
 </em></small>
 
 ## Authors
@@ -129,7 +130,9 @@ on January 17, 2022.
      Institute of Anatomy, University of Bern, Bern, Switzerland; Graduate School for Cellular and Biomedical Sciences, University of Bern
   </small>
 
-+ **Anna Kádková**<br><br>
++ **Anna Kádková**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-6648-9679](https://orcid.org/0000-0001-6648-9679)<br>
   <small>
      Department of Neuroscience, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen N, Denmark
   </small>
