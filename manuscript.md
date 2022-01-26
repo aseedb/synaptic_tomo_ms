@@ -77,9 +77,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/21e8ff9a753b07e7f4435f1c54b07c6e40d30c89/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/21e8ff9a753b07e7f4435f1c54b07c6e40d30c89/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/21e8ff9a753b07e7f4435f1c54b07c6e40d30c89/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/38ea085aa687f4a5cd33dc5518597f2a510316d5/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/38ea085aa687f4a5cd33dc5518597f2a510316d5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/38ea085aa687f4a5cd33dc5518597f2a510316d5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,9 +101,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/21e8ff9a753b07e7f4435f1c54b07c6e40d30c89/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/38ea085aa687f4a5cd33dc5518597f2a510316d5/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@21e8ff9](https://github.com/aseedb/synaptic_tomo_ms/tree/21e8ff9a753b07e7f4435f1c54b07c6e40d30c89)
+from [aseedb/synaptic_tomo_ms@38ea085](https://github.com/aseedb/synaptic_tomo_ms/tree/38ea085aa687f4a5cd33dc5518597f2a510316d5)
 on January 26, 2022.
 </em></small>
 
@@ -299,7 +299,7 @@ At the same time a droplet of the neuronal suspension was added onto a flame ste
 Neurons were grown for 10-14 days until plunge freezing and were then analyzed at a Titan Krios by cryo-ET. 
 Thereby, we could image chronically overactive or inactive synapses and relate presynaptic architectural modifications to different functional states.
 
-![**Experimental models.** A1) Glass atomizer used to disperse depolarizing solution on the EM grid milliseconds before the grid is vitrified. A2) Spray droplets imaged with the GFP filter set. A3) Synaptosomes imaged with the DAPI filter set. A4) Overlay of spray droplets (green) and synaptosomes (red). Scale bars, 20 μm. `\@Julika: We need figure text for panels B1-B4, including size of scale bars`{.blue}](images/workflow.svg){#fig:workflow width="15cm"}
+![**Experimental models.** A1) Glass atomizer used to disperse depolarizing solution on the EM grid milliseconds before the grid is vitrified. A2) Spray droplets imaged with the GFP filter set. A3) Synaptosomes imaged with the DAPI filter set. A4) Overlay of spray droplets (green) and synaptosomes (red). Scale bars, 20 μm. B1) Schematic drawing of a 6-well petridish depicting astrocytes (pink stars) growing at the bottom of the petridish and EM grids (black round grid overlaying the astrocytes) with neurons growing on the grids. B2) Gridsquare overview with neurons growing over it; scale bar = 5 µm. B3) Medium magnification overview of neurons growing over R2/1 holes; scale bar = 500 nm. B4) One slice of a tomogram depicting the synapse and its respective postsynapse; scale bar = 100 nm.](images/workflow.svg){#fig:workflow width="15cm"}
 
 ### Increased membrane curvature at the onset of exocytosis
 
