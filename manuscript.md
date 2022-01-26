@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-01-21'
+date-meta: '2022-01-26'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-01-21" />
-  <meta name="citation_publication_date" content="2022-01-21" />
+  <meta name="dc.date" content="2022-01-26" />
+  <meta name="citation_publication_date" content="2022-01-26" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -77,9 +77,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/9ee5dcaf5685290fd361df91099404b5ff971b76/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/9ee5dcaf5685290fd361df91099404b5ff971b76/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/9ee5dcaf5685290fd361df91099404b5ff971b76/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/21e8ff9a753b07e7f4435f1c54b07c6e40d30c89/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/21e8ff9a753b07e7f4435f1c54b07c6e40d30c89/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/21e8ff9a753b07e7f4435f1c54b07c6e40d30c89/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,10 +101,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/9ee5dcaf5685290fd361df91099404b5ff971b76/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/21e8ff9a753b07e7f4435f1c54b07c6e40d30c89/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@9ee5dca](https://github.com/aseedb/synaptic_tomo_ms/tree/9ee5dcaf5685290fd361df91099404b5ff971b76)
-on January 21, 2022.
+from [aseedb/synaptic_tomo_ms@21e8ff9](https://github.com/aseedb/synaptic_tomo_ms/tree/21e8ff9a753b07e7f4435f1c54b07c6e40d30c89)
+on January 26, 2022.
 </em></small>
 
 ## Authors
