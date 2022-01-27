@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-01-26'
+date-meta: '2022-01-27'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-01-26" />
-  <meta name="citation_publication_date" content="2022-01-26" />
+  <meta name="dc.date" content="2022-01-27" />
+  <meta name="citation_publication_date" content="2022-01-27" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -77,9 +77,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/38ea085aa687f4a5cd33dc5518597f2a510316d5/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/38ea085aa687f4a5cd33dc5518597f2a510316d5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/38ea085aa687f4a5cd33dc5518597f2a510316d5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/d23074fa6f3f84bed3e71bc23459aaa37162035e/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/d23074fa6f3f84bed3e71bc23459aaa37162035e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/d23074fa6f3f84bed3e71bc23459aaa37162035e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,10 +101,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/38ea085aa687f4a5cd33dc5518597f2a510316d5/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/d23074fa6f3f84bed3e71bc23459aaa37162035e/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@38ea085](https://github.com/aseedb/synaptic_tomo_ms/tree/38ea085aa687f4a5cd33dc5518597f2a510316d5)
-on January 26, 2022.
+from [aseedb/synaptic_tomo_ms@d23074f](https://github.com/aseedb/synaptic_tomo_ms/tree/d23074fa6f3f84bed3e71bc23459aaa37162035e)
+on January 27, 2022.
 </em></small>
 
 ## Authors
@@ -407,7 +407,7 @@ Thus, our data suggest that establishing connectivity is a slower process than t
 We hypothesize that given the free space made in the proximal region after some SVs have fused, non-connected vesicles from the intermediate region diffuse to the proximal zone and become tethered to the AZ PM.
 Only subsequently, these newly tethered vesicles get interconnected.
 `\How does this fit with the increase in connectiviness in the early fusion group? Is it because the non-connected vesicles have moved into the RRP by gaining tethers, or do you think that connectors form during stimulation? `{.blue}
-Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices and `\Supplementary Movie`{.yellow}).
+Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices and Supplementary Movies @mov:suppl_synaptosome_late & @mov:suppl_neuron_WT).
 This, in addition to passive diffusion, can contribute to replenishing the RRP.
 
 ![**SV connectivity.** (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each solid line represents the average value of all SVs belonging to a particular experimental condition. Shaded areas represent 95%-confidence interval ranges. (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (D). (E, F) Number of connectors per proximal SV belonging or not to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per tethered or non-tethered proximal SV for mouse neurons (G) and rat synaptosomes (H). \*: P<0.05.](images/2201_Figure5.png){#fig:connectors width="15cm"}
@@ -507,7 +507,7 @@ To be done.
 SNAP-25B was N-terminally fused to GFP and cloned into a pLenti construct with a CMV promoter [@doi:10.1523/JNEUROSCI.5092-06.2007].
 Mutations were made using the QuikChange II XL kit (Agilent).
 The mutations were verified by sequencing and have been published before [@doi:10.1016/j.celrep.2019.01.103].
-The preparation of lentiviral particles followed standard protocols. `\__cite the protocols maybe_*`{.orange}
+The preparation of lentiviral particles followed standard protocols. 
 
 ### Animals
 Synaptosomes were prepared from adult male or female Wistar rats obtained from the central animal facilities of the Department of Biomedical Research of the University of Bern.
@@ -617,11 +617,11 @@ Tilt series were acquired using the TEM Tomography software (TFS) for automated 
 Defocus was set between -6 to -10 µm and the total electron dose used was about 80-100 e^-^/Å^2^. Tomogram reconstruction was done as for synaptosome datasets. 
 
 ### Manual and automatic segmentation procedures
-Manual segmentation of SVs, mitochondria, and the active zone PM was done in IMOD (Figure S4A&B). `\__update Figure No_*`{.orange}
+Manual segmentation of SVs, mitochondria, and the active zone PM was done in IMOD (Supplementary Movies @mov:suppl_synaptosome_late & @mov:suppl_neuron_WT). 
 The boundary marked the region to be analyzed by Pyto [@doi:10.1016/j.jsb.2016.10.004].
  The analysis by Pyto was essentially the same as described previously [@doi:10.1083/jcb.200908082] [@doi:10.1016/j.jsb.2016.10.004].
 In short, the segmented area is divided in 1 voxel thick layers parallel to the active zone for distance calculations.
-A hierarchical connectivity segmentation detects densities interconnecting vesicles (so-called connectors) and densities connecting vesicles to the active zone PM (so-called tethers) (Figure S4C).`\__update Figure No_*`{.orange}
+A hierarchical connectivity segmentation detects densities interconnecting vesicles (so-called connectors) and densities connecting vesicles to the active zone PM (so-called tethers) (Supplementary Movies @mov:suppl_synaptosome_late & @mov:suppl_neuron_WT).
 Distance calculations are done with the center of the vesicle.
 Mainly default settings were used.
 The segmentation procedure is conservative and tends to miss some tethers and connectors because of noise.
@@ -662,7 +662,14 @@ It was not necessary to apply randomization.
 Scale bar, 50 nm
 ](images/2201_Supplement_2.png){#fig:suppl_connected_slices width="15cm" tag="S2"}
 
-Add some figures of tomograms
+### Supplementary Movies
+![Tomogram with segmentation of synaptosome with late fusion events. 
+off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; light green = cytomatrix; yellow = connectors, red = tethers, scale bar 100nm
+](images/spray1_raw2seg3.mp4){#mov:suppl_synaptosome_late width="15cm" tag="S3"}
+
+![Tomogram with segmentation of WT SNAP-25 neurons. 
+off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; light green = cytomatrix; yellow = connectors, red = tethers, scale bar 100nm
+](images/neuron73_rawseg2.mp4){#mov:suppl_neuron_WT width="15cm" tag="S4"}
 
 
 ## References {.page_break_before}
