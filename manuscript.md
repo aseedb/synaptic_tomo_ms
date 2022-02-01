@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-01-27'
+date-meta: '2022-02-01'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-01-27" />
-  <meta name="citation_publication_date" content="2022-01-27" />
+  <meta name="dc.date" content="2022-02-01" />
+  <meta name="citation_publication_date" content="2022-02-01" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -77,9 +77,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/d23074fa6f3f84bed3e71bc23459aaa37162035e/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/d23074fa6f3f84bed3e71bc23459aaa37162035e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/d23074fa6f3f84bed3e71bc23459aaa37162035e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/c6fb2acea96fe58ae9c8e7eecfaafb999cac6314/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c6fb2acea96fe58ae9c8e7eecfaafb999cac6314/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c6fb2acea96fe58ae9c8e7eecfaafb999cac6314/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,10 +101,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/d23074fa6f3f84bed3e71bc23459aaa37162035e/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/c6fb2acea96fe58ae9c8e7eecfaafb999cac6314/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@d23074f](https://github.com/aseedb/synaptic_tomo_ms/tree/d23074fa6f3f84bed3e71bc23459aaa37162035e)
-on January 27, 2022.
+from [aseedb/synaptic_tomo_ms@c6fb2ac](https://github.com/aseedb/synaptic_tomo_ms/tree/c6fb2acea96fe58ae9c8e7eecfaafb999cac6314)
+on February 1, 2022.
 </em></small>
 
 ## Authors
@@ -320,7 +320,7 @@ This was followed by further transitioning states prior to and during pore openi
 In the next observed fusion state, the vesicle was wide open (Figure {@fig:membrane_morphology}G), followed by almost completely collapsed vesicles where only a small bump on the PM remained visible (Figure {@fig:membrane_morphology}H).
 These structures were not observed in any of the non-sprayed control datasets.
 
-![**SV exocytosis morphology.** Tomographic slice of non-stimulated (A) and stimulated rat synaptosomes (B-H). A) Image of a 2.2-nm thick tomographic slice showing a non-stimulated with SVs at the AZ and a straight PM. B1) Membrane curvature event, 2.2-nm thick tomographic slice. B2) Membrane curvature event, 6.5-nm thick tomographic slice. Orange arrows showing membrane curvature event. `\B3 is not mentioned`{.blue} C1,C2) Lipid perturbations of PM and SV, 22-nm thick tomographic slices. The space between SV and PM is denser than in the non-stimulated synaptosomes (see pink arrow). D-F) Vesicles with a pore opening that might be on the way to full collapse fusion, 33-nm thick tomographic slice thickness: 22 nm (D), 30.8 (E), 33 nm (F). G) Wide pore opening, most likely on the way to full collapse fusion, 2.2-nm tomographic slice. H) Remaining bump at the end of full collapse fusion, 11-nm thick tomographic slice. Scale bar, 50 nm.](images/fig2_morphology_update2.svg){#fig:membrane_morphology width="15cm"}
+![**SV exocytosis morphology.** Tomographic slice of non-stimulated (A) and stimulated rat synaptosomes (B-H). A) Image of a 2.2-nm thick tomographic slice showing a non-stimulated with SVs at the AZ and a straight PM. B1) Membrane curvature event, 2.2-nm thick tomographic slice. B2) Membrane curvature event, 6.5-nm thick tomographic slice. B3) Membrane curvature event, 2.24 nm thick tomographic slice. Orange arrows showing membrane curvature event. C1,C2) Lipid perturbations of PM and SV, 22-nm thick tomographic slices. The space between SV and PM is denser than in the non-stimulated synaptosomes (see pink arrow). D-F) Vesicles with a pore opening that might be on the way to full collapse fusion, 33-nm thick tomographic slice thickness: 22 nm (D), 30.8 (E), 33 nm (F). G) Wide pore opening, most likely on the way to full collapse fusion, 2.2-nm tomographic slice. H) Remaining bump at the end of full collapse fusion, 11-nm thick tomographic slice. Scale bar, 50 nm.](images/fig2_morphology_update2.svg){#fig:membrane_morphology width="15cm"}
 
 Stimulated synaptosome datasets were divided into early and late fusion stages, respectively, based on the morphology of SV and AZ PM. 
 Synapses showing membrane bending and direct lipid contact between SV and PM without an open pore were classified as early fusion.
@@ -441,7 +441,7 @@ It may also be due to the tension/force induced by SNARE-complex zippering [@doi
 Subsequent snapshots showed a fuzzy contact point between the SV and the PM, which likely corresponds to lipid splaying or the merging of the two membranes.
 Membrane fusion then occurred and yielded classical Ω-figures with variable neck diameters.
 Finally, nearly fully collapsed SVs were imaged.
-Overall our observations support the standard model of full collapse SNARE-dependent membrane fusion [@doi:10.1073/pnas.1816495115; @doi: 10.1002/cbic.201100020] and reveal details of exocytosis early stage, prior to actual membrane fusion.
+Overall our observations support the standard model of full collapse SNARE-dependent membrane fusion [@doi:10.1073/pnas.1816495115; @doi:10.1002/cbic.201100020] and reveal details of exocytosis early stage, prior to actual membrane fusion.
 
 ### SV local concentration correlates with SV connectivity
 SV local concentration - a.k.a SV occupancy - is tightly correlated with the distance from the AZ PM. Under resting conditions, SV occupancy reaches a local maximum at 25 nm and a local minimum at 75 nm, before rising again with the distance increasing (Figure {@fig:vesicle_distribution}A and B), in agreement with previous reports [@doi:10.1083/jcb.200908082].
