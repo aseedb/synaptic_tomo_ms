@@ -77,9 +77,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/b55baab4822fb90332ec8df7a3db2e7b15c63808/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b55baab4822fb90332ec8df7a3db2e7b15c63808/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b55baab4822fb90332ec8df7a3db2e7b15c63808/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/d1cc9788f904703884929d39d1c7c6756ca7f11f/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/d1cc9788f904703884929d39d1c7c6756ca7f11f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/d1cc9788f904703884929d39d1c7c6756ca7f11f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,9 +101,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/b55baab4822fb90332ec8df7a3db2e7b15c63808/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/d1cc9788f904703884929d39d1c7c6756ca7f11f/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@b55baab](https://github.com/aseedb/synaptic_tomo_ms/tree/b55baab4822fb90332ec8df7a3db2e7b15c63808)
+from [aseedb/synaptic_tomo_ms@d1cc978](https://github.com/aseedb/synaptic_tomo_ms/tree/d1cc9788f904703884929d39d1c7c6756ca7f11f)
 on February 1, 2022.
 </em></small>
 
@@ -287,7 +287,7 @@ Even if sprayed droplets were well distributed throughout the grid, not all syna
 Given the very low throughput of cryo-electron tomography, we followed a correlative light and electron microscopy approach.
 By cryo-fluorescence microscopy, we identified areas where fluorescently labeled synaptosomes and fluorescent spray droplets were colocalized.
 Additionally, phase contrast imaging enabled quality control of the frozen EM grid with respect to ice contamination and ice cracks, as shown previously [@doi:10.1016/j.jsb.2007.07.011].
-9 control and 9 stimulated synaptosome tomograms were analyzed.
+9 control and 9 stimulated synaptosome tomograms were analyzed (Supplementary Figure {fig:suppl_tomogram_slices}A and B, Supplementary Movie [S1](#vid:synaptosome)).
 We restricted our analysis to synaptosomes that possessed a smooth PM, free of signs of rupturing and that had a mitochondrion, as we considered these factors essential for synaptosome function.
 
 In addition, we manipulated the electrostatic state of the SNARE complex through mutated SNAP-25 protein introduced using lentiviral vectors into primary SNAP-25 knockout neurons grown on EM grids [@doi:10.1016/j.celrep.2019.01.103] (Figure {@fig:workflow}B1-B4). 
@@ -296,7 +296,7 @@ Primary neurons were initially grown under different culturing conditions in ord
 Astrocytes were added to 12 well plates and were grown for 2 days. 
 After 2 days, the medium was exchanged to a medium that favors neuronal growth and impedes astrocyte growth. 
 At the same time a droplet of the neuronal suspension was added onto a flame sterilized EM grid and incubated for 30 min at 37 °C, hereafter the grids were placed into the 12 well plates containing the astrocytes. 
-Neurons were grown for 10-14 days until plunge freezing and were then analyzed at a Titan Krios by cryo-ET. 
+Neurons were grown for 10-14 days until plunge freezing and were then analyzed at a Titan Krios by cryo-ET (Supplementary Figure {fig:suppl_tomogram_slices}C and D, Supplementary Movie [S2](#vid:neuron). 
 Thereby, we could image chronically overactive or inactive synapses and relate presynaptic architectural modifications to different functional states.
 
 ![**Experimental models.** A1) Glass atomizer used to disperse depolarizing solution on the EM grid milliseconds before the grid is vitrified. A2) Spray droplets imaged with the GFP filter set. A3) Synaptosomes imaged with the DAPI filter set. A4) Overlay of spray droplets (green) and synaptosomes (red). Scale bars, 20 μm. B1) Schematic drawing of a 6-well petridish depicting astrocytes (pink stars) growing at the bottom of the petridish and EM grids (black round grid overlaying the astrocytes) with neurons growing on the grids. B2) Gridsquare overview with neurons growing over it; scale bar = 5 µm. B3) Medium magnification overview of neurons growing over R2/1 holes; scale bar = 500 nm. B4) One slice of a tomogram depicting the synapse and its respective postsynapse; scale bar = 100 nm.](images/workflow.svg){#fig:workflow width="15cm"}
@@ -405,7 +405,7 @@ We have seen earlier that the fraction of tethered proximal SVs does not differ 
 Thus, our data suggest that establishing connectivity is a slower process than tethering.
 We hypothesize that given the free space made in the proximal region after some SVs have fused, non-connected vesicles from the intermediate region diffuse to the proximal zone and become tethered to the AZ PM.
 Only subsequently, these newly tethered vesicles get interconnected.
-Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices, @fig:suppl_tomogram_slices).
+Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices).
 This, in addition to passive diffusion, can contribute to replenishing the RRP.
 
 ![**SV connectivity.** (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each solid line represents the average value of all SVs belonging to a particular experimental condition. Shaded areas represent 95%-confidence interval ranges. (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (D). (E, F) Number of connectors per proximal SV belonging or not to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per tethered or non-tethered proximal SV for mouse neurons (G) and rat synaptosomes (H). \*: P<0.05.](images/2201_Figure5.png){#fig:connectors width="15cm"}
@@ -618,11 +618,11 @@ Tilt series were acquired using the TEM Tomography software (TFS) for automated 
 Defocus was set between -6 to -10 µm and the total electron dose used was about 80-100 e^-^/Å^2^. Tomogram reconstruction was done as for synaptosome datasets. 
 
 ### Manual and automatic segmentation procedures
-Manual segmentation of SVs, mitochondria, and the active zone PM was done in IMOD (Supplementary [Movies S1](vid:synaptosome) and [S2](vid:neuron)). 
+Manual segmentation of SVs, mitochondria, and the active zone PM was done in IMOD (Supplementary Figure {fig:suppl_tomogram_slices}B and D, Supplementary [Movies S1](vid:synaptosome) and [S2](vid:neuron)). 
 The boundary marked the region to be analyzed by Pyto [@doi:10.1016/j.jsb.2016.10.004].
  The analysis by Pyto was essentially the same as described previously [@doi:10.1083/jcb.200908082] [@doi:10.1016/j.jsb.2016.10.004].
 In short, the segmented area is divided in 1 voxel thick layers parallel to the active zone for distance calculations.
-A hierarchical connectivity segmentation detects densities interconnecting vesicles (so-called connectors) and densities connecting vesicles to the active zone PM (so-called tethers) (Supplementary [Movies S1](vid:synaptosome) & [S2](vid:neuron)).
+A hierarchical connectivity segmentation detects densities interconnecting vesicles (so-called connectors) and densities connecting vesicles to the active zone PM (so-called tethers) (Supplementary Figure {fig:suppl_tomogram_slices}B and D, Supplementary [Movies S1](vid:synaptosome) & [S2](vid:neuron)).
 Distance calculations are done with the center of the vesicle.
 Mainly default settings were used.
 The segmentation procedure is conservative and tends to miss some tethers and connectors because of noise.
@@ -650,6 +650,12 @@ It was not necessary to apply randomization.
 ## Supplementary Material {.page_break_before}
 
 ### Supplementary Figures
+![(A, B) Tomographic slice without (A) and with (B) segmentation of synaptosome with late fusion events.
+(C,D) Tomographic slice without (C) and with (D) segmentation of WT SNAP-25 neurons.
+Segmentation colors: off-white = cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; yellow = connectors, red = tethers
+Scale bar, 100 nm
+](images/2202_tomogramfigure.png){#fig:suppl_tomogram_slices width="8cm" tag="S1"}
+
 ![(A, B) Histogram of the number of tethers per proximal SV. 
 (C, D) Histogram of  the number of connectors per proximal non-RRP SV.
 (E, F) Histogram of the number of connectors per RRP SV.
@@ -657,18 +663,12 @@ It was not necessary to apply randomization.
 (I, J) Histogram of connected SV amongst proximal non-RRP or RRP SVs.
 (A, C, E, G, I) Synapses in mouse cultured neurons.
 (B, D, F, H, J) Rat synaptosomes.
-](images/2201_Supplement1.png){#fig:suppl_histograms width="15cm" tag="S1"}
+](images/supplementary_graphs.png){#fig:suppl_histograms width="15cm" tag="S2"}
 
 ![(A, B) Tomographic slices showing tethered connected vesicles, blue arrows highlight the connectors.
 Scale bar, 50 nm
-](images/2201_Supplement_2.png){#fig:suppl_connected_slices width="8cm" tag="S2"}
+](images/supplementary_connected_vesicles.png){#fig:suppl_connected_slices width="8cm" tag="S3"}
 
-
-![(A, B) Tomographic slice without (A) and with (B) segmentation of synaptosome with late fusion events.
-(C,D) Tomographic slice without (C) and with (D) segmentation of WT SNAP-25 neurons.
-Segmentation colors: off-white = cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; yellow = connectors, red = tethers
-Scale bar, 100 nm
-](images/2202_tomogramfigure.png){#fig:suppl_tomogram_slices width="8cm" tag="S3"}
 
 ### Supplementary Movies
 <p id="vid:synaptosome">
