@@ -77,9 +77,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/c6fb2acea96fe58ae9c8e7eecfaafb999cac6314/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c6fb2acea96fe58ae9c8e7eecfaafb999cac6314/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c6fb2acea96fe58ae9c8e7eecfaafb999cac6314/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/1fabaecd59bf85903f13aa238be9fd86661131c9/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/1fabaecd59bf85903f13aa238be9fd86661131c9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/1fabaecd59bf85903f13aa238be9fd86661131c9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,9 +101,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/c6fb2acea96fe58ae9c8e7eecfaafb999cac6314/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/1fabaecd59bf85903f13aa238be9fd86661131c9/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@c6fb2ac](https://github.com/aseedb/synaptic_tomo_ms/tree/c6fb2acea96fe58ae9c8e7eecfaafb999cac6314)
+from [aseedb/synaptic_tomo_ms@1fabaec](https://github.com/aseedb/synaptic_tomo_ms/tree/1fabaecd59bf85903f13aa238be9fd86661131c9)
 on February 1, 2022.
 </em></small>
 
@@ -353,7 +353,6 @@ This can be readily attributed to the high probability of spontaneous exocytosis
 Between 50 nm and 75 nm away from the AZ PM, SV occupancy was higher in the 4K mutant than in the WT, consistent with recycling pool SVs being recruited.
 From 100 to 250 nm, SV occupancy dropped steadily, in contrary to the WT, and from a distance of 170 nm, it was significantly lower.
 Yet, beyond 250 nm, it rose linearly until 450 nm, becoming indistinguishable from WT occupancy, and then experienced a sharp increase, peaking to 0.2 at a distance of 550 nm, significantly higher than WT occupancy, before dropping quickly and significantly lower than WT occupancy.
-`\removed any comment about the reserve pool here`{.green}
 
 ### Proximal vesicles form additional tethers following stimulation
 We investigated the tethering state of proximal SVs (i.e. the SVs whose center is located within 45 nm of the AZ PM) prior to and following stimulation in synaptosomes. 
@@ -407,7 +406,7 @@ Thus, our data suggest that establishing connectivity is a slower process than t
 We hypothesize that given the free space made in the proximal region after some SVs have fused, non-connected vesicles from the intermediate region diffuse to the proximal zone and become tethered to the AZ PM.
 Only subsequently, these newly tethered vesicles get interconnected.
 `\How does this fit with the increase in connectiviness in the early fusion group? Is it because the non-connected vesicles have moved into the RRP by gaining tethers, or do you think that connectors form during stimulation? `{.blue}
-Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices and Supplementary Movies @mov:suppl_synaptosome_late & @mov:suppl_neuron_WT).
+Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices and Supplementary [Movies S1](#vid:synaptosome) and [S2](#vid:neuron):suppl_synaptosome_late & @mov:suppl_neuron_WT).
 This, in addition to passive diffusion, can contribute to replenishing the RRP.
 
 ![**SV connectivity.** (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each solid line represents the average value of all SVs belonging to a particular experimental condition. Shaded areas represent 95%-confidence interval ranges. (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (D). (E, F) Number of connectors per proximal SV belonging or not to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per tethered or non-tethered proximal SV for mouse neurons (G) and rat synaptosomes (H). \*: P<0.05.](images/2201_Figure5.png){#fig:connectors width="15cm"}
@@ -417,6 +416,7 @@ For SNAP-25-WT, similarly to non-sprayed synaptosome, the fraction of connected 
 Consistently, the number of connectors per SV in SNAP-25-WT synapses increased from 1.95 ± 0.38 in the proximal region to 3.23 ± 0.21 in the distal 2 region (Figure {@fig:connectors}A, P<0.01).
 The fraction of connected SVs in the distal 2 region was significantly lower in the 4E and 4K mutant than in the WT (p<0.05).
 This was supported by a significantly lower number of connectors per SV in the distal 1 region for 4K mutant versus the WT (P<0.05), and in the distal 2 region for the 4E mutant versus the WT (P<0.0001) as well as for the 4K mutant versus the WT (P<0.0001, (Figure {@fig:connectors}A). 
+The number of connectors per proximal SV was not affected by the mutations (Figure {@fig:connectors}E and G).
 These results indicate that prolonged abnormal exocytotic activity is correlated with severe changes in intervesicular connectivity in the distal region.
 
 
@@ -447,7 +447,6 @@ Overall our observations support the standard model of full collapse SNARE-depen
 SV local concentration - a.k.a SV occupancy - is tightly correlated with the distance from the AZ PM. Under resting conditions, SV occupancy reaches a local maximum at 25 nm and a local minimum at 75 nm, before rising again with the distance increasing (Figure {@fig:vesicle_distribution}A and B), in agreement with previous reports [@doi:10.1083/jcb.200908082].
 By definition, all SVs in the proximal region are directly facing the PM.
 Their high concentration can be attributed to the fact that more than 50% of them are tethered to the PM. 
-`removed the bit about irreversible tethering. Yet one can still expect that the tethering leads to a local increased concentration.`{.blue}
 On the other hand, the number of connectors per SV and SV connectivity gradually increases with the distance from the AZ (Figure {@fig:connectors}A-D).
 This increase correlates with the increase in occupancy.
 Thus, we may hypothesize that SV local concentration is a function of their level of tethering to the PM and of connection with other SVs.
@@ -663,9 +662,35 @@ Scale bar, 50 nm
 ](images/2201_Supplement_2.png){#fig:suppl_connected_slices width="15cm" tag="S2"}
 
 ### Supplementary Movies
-![Tomogram with segmentation of synaptosome with late fusion events. 
+<p id="vid:synaptosome">
+<video
+  controls
+  width="100%"
+  alt="Tomogram with segmentation of synaptosome with late fusion events"
+>
+  <source
+    src="images/spray1_raw2seg3.mp4"
+    type="video/mp4"
+  >
+</video>
+**Movie S1: Tomogram with segmentation of synaptosome with late fusion events.**
 off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; light green = cytomatrix; yellow = connectors, red = tethers, scale bar 100nm
-](images/spray1_raw2seg3.mp4){#mov:suppl_synaptosome_late width="15cm" tag="S3"}
+</p>
+
+<p id="vid:neuron">
+<video
+  controls
+  width="100%"
+  alt="Tomogram with segmentation of WT SNAP-25 neurons"
+>
+  <source
+    src="images/neuron73_rawseg2.mp4"
+    type="video/mp4"
+  >
+</video>
+**Movie S2: Tomogram with segmentation of WT SNAP-25 neurons.**
+off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; light green = cytomatrix; yellow =
+</p>
 
 ![Tomogram with segmentation of WT SNAP-25 neurons. 
 off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; light green = cytomatrix; yellow = connectors, red = tethers, scale bar 100nm
