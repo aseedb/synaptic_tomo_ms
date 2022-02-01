@@ -77,9 +77,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/2c7d8f6aa8b1bfc4a500a3a9c23e2f84886ccb05/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/2c7d8f6aa8b1bfc4a500a3a9c23e2f84886ccb05/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/2c7d8f6aa8b1bfc4a500a3a9c23e2f84886ccb05/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/b55baab4822fb90332ec8df7a3db2e7b15c63808/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b55baab4822fb90332ec8df7a3db2e7b15c63808/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b55baab4822fb90332ec8df7a3db2e7b15c63808/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,9 +101,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/2c7d8f6aa8b1bfc4a500a3a9c23e2f84886ccb05/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/b55baab4822fb90332ec8df7a3db2e7b15c63808/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@2c7d8f6](https://github.com/aseedb/synaptic_tomo_ms/tree/2c7d8f6aa8b1bfc4a500a3a9c23e2f84886ccb05)
+from [aseedb/synaptic_tomo_ms@b55baab](https://github.com/aseedb/synaptic_tomo_ms/tree/b55baab4822fb90332ec8df7a3db2e7b15c63808)
 on February 1, 2022.
 </em></small>
 
@@ -405,7 +405,7 @@ We have seen earlier that the fraction of tethered proximal SVs does not differ 
 Thus, our data suggest that establishing connectivity is a slower process than tethering.
 We hypothesize that given the free space made in the proximal region after some SVs have fused, non-connected vesicles from the intermediate region diffuse to the proximal zone and become tethered to the AZ PM.
 Only subsequently, these newly tethered vesicles get interconnected.
-Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices and Supplementary [Movies S1](#vid:synaptosome) and [S2](#vid:neuron)).
+Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices, @fig:suppl_tomogram_slices).
 This, in addition to passive diffusion, can contribute to replenishing the RRP.
 
 ![**SV connectivity.** (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each solid line represents the average value of all SVs belonging to a particular experimental condition. Shaded areas represent 95%-confidence interval ranges. (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (D). (E, F) Number of connectors per proximal SV belonging or not to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per tethered or non-tethered proximal SV for mouse neurons (G) and rat synaptosomes (H). \*: P<0.05.](images/2201_Figure5.png){#fig:connectors width="15cm"}
@@ -663,6 +663,13 @@ It was not necessary to apply randomization.
 Scale bar, 50 nm
 ](images/2201_Supplement_2.png){#fig:suppl_connected_slices width="8cm" tag="S2"}
 
+
+![(A, B) Tomographic slice without (A) and with (B) segmentation of synaptosome with late fusion events.
+(C,D) Tomographic slice without (C) and with (D) segmentation of WT SNAP-25 neurons.
+Segmentation colors: off-white = cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; yellow = connectors, red = tethers
+Scale bar, 100 nm
+](images/2202_tomogramfigure.png){#fig:suppl_tomogram_slices width="8cm" tag="S3"}
+
 ### Supplementary Movies
 <p id="vid:synaptosome">
 <video
@@ -676,7 +683,7 @@ Scale bar, 50 nm
   >
 </video>
 **Movie S1: Tomogram with segmentation of synaptosome with late fusion events.**
-off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; light green = cytomatrix; yellow = connectors, red = tethers, scale bar 100nm
+off-white = cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; light green = cytomatrix; yellow = connectors, red = tethers, scale bar 100nm
 </p>
 
 <p id="vid:neuron">
