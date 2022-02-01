@@ -77,9 +77,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/1fabaecd59bf85903f13aa238be9fd86661131c9/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/1fabaecd59bf85903f13aa238be9fd86661131c9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/1fabaecd59bf85903f13aa238be9fd86661131c9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/ab4c53addb76552da9abba73d9710925c9222b17/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/ab4c53addb76552da9abba73d9710925c9222b17/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/ab4c53addb76552da9abba73d9710925c9222b17/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,9 +101,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/1fabaecd59bf85903f13aa238be9fd86661131c9/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/ab4c53addb76552da9abba73d9710925c9222b17/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@1fabaec](https://github.com/aseedb/synaptic_tomo_ms/tree/1fabaecd59bf85903f13aa238be9fd86661131c9)
+from [aseedb/synaptic_tomo_ms@ab4c53a](https://github.com/aseedb/synaptic_tomo_ms/tree/ab4c53addb76552da9abba73d9710925c9222b17)
 on February 1, 2022.
 </em></small>
 
@@ -689,12 +689,8 @@ off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = m
   >
 </video>
 **Movie S2: Tomogram with segmentation of WT SNAP-25 neurons.**
-off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; light green = cytomatrix; yellow =
-</p>
-
-![Tomogram with segmentation of WT SNAP-25 neurons. 
 off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; light green = cytomatrix; yellow = connectors, red = tethers, scale bar 100nm
-](images/neuron73_rawseg2.mp4){#mov:suppl_neuron_WT width="15cm" tag="S4"}
+</p>
 
 
 ## References {.page_break_before}
