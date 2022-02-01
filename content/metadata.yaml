@@ -17,13 +17,12 @@ authors:
       - Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark
       - Diamond Light Source Ltd, Didcot, Oxfordshire, United Kingdom
     funders:
-      - Grant XXXXXXXX
+      - Swiss National Science Foundation, P2BEP3_172242
     symbol_str: "*"
     equal_contribution: true
   - github: elatella
     name: Raphaela Seeger
     initials: RS
-    orcid: XXXX-XXXX-XXXX-XXXX
     email: raphaela.seeger@ana.unibe.ch
     affiliations:
       - Institute of Anatomy, University of Bern, Bern, Switzerland
@@ -38,13 +37,12 @@ authors:
   - name: Ulrike Laugks
     initials: UL
     orcid: 0000-0003-4175-4354
-    email: ulrike@unkown.address.com
     affiliations:
       - Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
   - github: ameen-khosrowzadeh
     name: Amin Khosrozadeh
     initials: AK
-    email: mohammadamin.khosrozadeh@ana.unibe.ch
+    email: mohammadamin.khosrozadeh@unibe.ch
     affiliations:
       - Institute of Anatomy, University of Bern, Bern, Switzerland
       - Graduate School for Cellular and Biomedical Sciences, University of Bern
