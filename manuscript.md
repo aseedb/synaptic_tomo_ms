@@ -76,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/c92bb64a11fa3cda746683c4be40d1696fd32d2f/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c92bb64a11fa3cda746683c4be40d1696fd32d2f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c92bb64a11fa3cda746683c4be40d1696fd32d2f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/402bc66892e7158a5f9eff4f6b904032648ae15e/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/402bc66892e7158a5f9eff4f6b904032648ae15e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/402bc66892e7158a5f9eff4f6b904032648ae15e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,9 +100,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/c92bb64a11fa3cda746683c4be40d1696fd32d2f/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/402bc66892e7158a5f9eff4f6b904032648ae15e/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@c92bb64](https://github.com/aseedb/synaptic_tomo_ms/tree/c92bb64a11fa3cda746683c4be40d1696fd32d2f)
+from [aseedb/synaptic_tomo_ms@402bc66](https://github.com/aseedb/synaptic_tomo_ms/tree/402bc66892e7158a5f9eff4f6b904032648ae15e)
 on February 1, 2022.
 </em></small>
 
@@ -645,8 +645,8 @@ We did not apply statistical methods to predetermine sample size but similar sam
 It was not necessary to apply randomization.
 
 ### Manuscript preparation
-The manuscript was written with the open and collaborative scientific writing package Manubot [@doi:10.1371/journal.pcbi.100712]. 
-he source code and data for this manuscript are available at 
+The manuscript was written with the open and collaborative scientific writing package Manubot [@doi:10.1371/journal.pcbi.1007128]. 
+he source code and data for this manuscript are available at <https://github.com/aseedb/synaptic_tomo_ms>.
 
 ## Supplementary Material {.page_break_before}
 
