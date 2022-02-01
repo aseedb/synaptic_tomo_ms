@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="171.02843mm"
-   height="47.829384mm"
-   viewBox="0 0 171.02843 47.829384"
+   width="171.68242mm"
+   height="47.930492mm"
+   viewBox="0 0 171.68242 47.930493"
    version="1.1"
    id="svg36220"
    inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
@@ -111,16 +111,16 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3084115"
-     inkscape:cx="244.18923"
-     inkscape:cy="131.83926"
+     inkscape:cx="131.83926"
+     inkscape:cy="155.53211"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="801"
-     inkscape:window-x="480"
-     inkscape:window-y="1517"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="945"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
      inkscape:snap-grids="false"
      inkscape:snap-global="false"
      showguides="true"
@@ -133,8 +133,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid53250"
-       originx="-29.666007"
-       originy="-18.071521" />
+       originx="-29.564899"
+       originy="-17.970413" />
   </sodipodi:namedview>
   <metadata
      id="metadata36217">
@@ -148,11 +148,27 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Background"
+     style="display:inline"
+     sodipodi:insensitive="true"
+     transform="translate(0.10110893,0.10110802)">
+    <rect
+       style="display:inline;opacity:0.96;fill:#ffffff;fill-opacity:0.717213;stroke-width:0.264583"
+       id="rect389"
+       width="171.68242"
+       height="47.92548"
+       x="-0.10110893"
+       y="-0.10110802" />
+  </g>
+  <g
      inkscape:label="pre-stimulation"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-29.666008,-18.071521)">
+     transform="translate(-29.564899,-17.970413)"
+     sodipodi:insensitive="true">
     <path
        id="path144754"
        d="m 44.832587,64.935433 v -0.118918 -0.110983 h 48.997934 v 0.110983 0.118918 z"
@@ -1042,11 +1058,6 @@
        d="m 53.582998,41.713531 0.936499,2.038262"
        id="path4556"
        inkscape:connector-curvature="0" />
-    <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.66;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 141.22859,62.730788 -1.01278,1.869753"
-       id="path3883"
-       inkscape:connector-curvature="0" />
     <text
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
@@ -1806,40 +1817,14 @@
        d="m 64.214762,59.483324 h 1.607834"
        id="path4488"
        inkscape:connector-curvature="0" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g96704-1"
-       id="use8726"
-       transform="translate(42.573439)"
-       width="100%"
-       height="100%"
-       style="opacity:0.98" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g96704-1"
-       id="use8728"
-       transform="translate(52.939146)"
-       width="100%"
-       height="100%"
-       style="opacity:0.98" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g96704-1"
-       id="use8730"
-       transform="translate(125.8693)"
-       width="100%"
-       height="100%"
-       style="opacity:0.98" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="early"
      style="display:inline"
-     transform="translate(-29.666008,-18.071521)">
+     transform="translate(-29.564899,-17.970413)"
+     sodipodi:insensitive="true">
     <use
        style="display:inline;opacity:0.98;stroke-width:1.24893"
        x="0"
@@ -2161,13 +2146,38 @@
        d="m 115.72005,44.994239 2.9239,1.398386"
        id="path8709"
        inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#008000;stroke-width:0.66;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 141.22859,62.730788 -1.01278,1.869753"
+       id="path3883"
+       inkscape:connector-curvature="0"
+       transform="translate(1.2708333e-6)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g96704-1"
+       id="use8726"
+       transform="translate(42.573439)"
+       width="100%"
+       height="100%"
+       style="display:inline;opacity:0.98" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g96704-1"
+       id="use8728"
+       transform="translate(52.939146)"
+       width="100%"
+       height="100%"
+       style="display:inline;opacity:0.98" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="late"
      style="display:inline"
-     transform="translate(-29.666008,-18.071521)">
+     transform="translate(-29.564899,-17.970413)"
+     sodipodi:insensitive="true">
     <use
        style="display:inline;stroke-width:0.66;stroke-miterlimit:4;stroke-dasharray:none"
        x="0"
@@ -2421,5 +2431,14 @@
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:0.968627;stroke:#ff0000;stroke-width:0.352778;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker9168)"
        inkscape:transform-center-x="42.553567"
        inkscape:transform-center-y="-6.1584253" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g96704-1"
+       id="use8730"
+       transform="translate(125.8693)"
+       width="100%"
+       height="100%"
+       style="display:inline;opacity:0.98" />
   </g>
 </svg>
