@@ -77,9 +77,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/ab4c53addb76552da9abba73d9710925c9222b17/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/ab4c53addb76552da9abba73d9710925c9222b17/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/ab4c53addb76552da9abba73d9710925c9222b17/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/89c33d55a4300a11136fab6dcf62988b48c5ab63/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/89c33d55a4300a11136fab6dcf62988b48c5ab63/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/89c33d55a4300a11136fab6dcf62988b48c5ab63/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,9 +101,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/ab4c53addb76552da9abba73d9710925c9222b17/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/89c33d55a4300a11136fab6dcf62988b48c5ab63/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@ab4c53a](https://github.com/aseedb/synaptic_tomo_ms/tree/ab4c53addb76552da9abba73d9710925c9222b17)
+from [aseedb/synaptic_tomo_ms@89c33d5](https://github.com/aseedb/synaptic_tomo_ms/tree/89c33d55a4300a11136fab6dcf62988b48c5ab63)
 on February 1, 2022.
 </em></small>
 
@@ -405,7 +405,6 @@ We have seen earlier that the fraction of tethered proximal SVs does not differ 
 Thus, our data suggest that establishing connectivity is a slower process than tethering.
 We hypothesize that given the free space made in the proximal region after some SVs have fused, non-connected vesicles from the intermediate region diffuse to the proximal zone and become tethered to the AZ PM.
 Only subsequently, these newly tethered vesicles get interconnected.
-`\How does this fit with the increase in connectiviness in the early fusion group? Is it because the non-connected vesicles have moved into the RRP by gaining tethers, or do you think that connectors form during stimulation? `{.blue}
 Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices and Supplementary [Movies S1](#vid:synaptosome) and [S2](#vid:neuron):suppl_synaptosome_late & @mov:suppl_neuron_WT).
 This, in addition to passive diffusion, can contribute to replenishing the RRP.
 
@@ -478,7 +477,8 @@ As the RRP (assessed with hyperosmotic sucrose treatment) in this mutant was for
 Our observations are also consistent with a number of studies that have concluded that SV exocytosis requires a minimum of three SNARE complexes [@doi:10.1074/jbc.m109.047381;@doi:10.1126/science.1193134;@doi:10.1126/science.1214984].
 
 ### Depolarization rapidly induces additional tethering in proximal vesicles
-We compared SV tethering before and shortly after depolarization. 
+We compared SV tethering before and shortly after depolarization.
+Our observations are schematically summarized in Figure {@fig:model}.
 Interestingly, the fraction of proximal SVs that were tethered increased by 50% shortly after stimulation, in synapses showing early signs of exocytosis. 
 Simultaneously, the number of tethers per proximal SV more than doubled and, the fraction of proximal SVs with 3 or more tethers tripled. 
 In presynaptic terminals presenting more advanced stages of exocytosis (Ω-figures), all these measurements returned to pre-stimulation values. 
@@ -496,6 +496,8 @@ Superprimed vesicles are expected to have formed the largest number of tethers b
 Third, overlapping protein complexes might be involved in priming and triggering, depending on the timing of their formation. 
 Accordingly, triggering that stimulates tether-formation might also stimulate priming for those vesicles that were not tethered before stimulation. 
 Indeed, a number of recent publications have suggested that some SVs can get primed extremely quickly in response to Ca^2+^ influx [@doi:10.3389/fnsys.2019.00030;@doi:10.1016/j.tins.2021.04.003;@doi:10.1038/s41593-020-00716-1;@doi:10.1016/j.neuron.2016.07.033;@doi:10.7554/eLife.51032].
+
+![**Model depicting a synapse transitioning from resting state to early and late fusion states.** Tethering and connectivity changes upon synapse stimulation are depicted. Proximal non triple-tethered vesicles (black proximal SVs) gain additional tethers and some of them become triple-tethered (yellow SVs) shortly after stimulation. Primed vesicles then fuse with the plasma membrane (late fusion) and leave an empty space in the AZ cytoplasm. The number of connectors (depicted in blue) per proximal SV increases in late fusion tripled-tethered vesicles. The red arrow shows a vesicle initially located in the intermediate region, which diffuses to the proximal region in the late fusion state. Tethers are shown in green.](images/model.svg){#fig:model width="15cm"}
 
 ### Conclusion
 To be done.
@@ -659,7 +661,7 @@ It was not necessary to apply randomization.
 
 ![(A, B) Tomographic slices showing tethered connected vesicles, blue arrows highlight the connectors.
 Scale bar, 50 nm
-](images/2201_Supplement_2.png){#fig:suppl_connected_slices width="15cm" tag="S2"}
+](images/2201_Supplement_2.png){#fig:suppl_connected_slices width="8cm" tag="S2"}
 
 ### Supplementary Movies
 <p id="vid:synaptosome">
