@@ -44,7 +44,6 @@ header-includes: |-
   <meta name="citation_author" content="Raphaela Seeger" />
   <meta name="citation_author_institution" content="Institute of Anatomy, University of Bern, Bern, Switzerland" />
   <meta name="citation_author_institution" content="Graduate School for Cellular and Biomedical Sciences, University of Bern" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="citation_author" content="Anna Kádková" />
   <meta name="citation_author_institution" content="Department of Neuroscience, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen N, Denmark" />
   <meta name="citation_author_orcid" content="0000-0001-6648-9679" />
@@ -77,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/d1cc9788f904703884929d39d1c7c6756ca7f11f/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/d1cc9788f904703884929d39d1c7c6756ca7f11f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/d1cc9788f904703884929d39d1c7c6756ca7f11f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/c92bb64a11fa3cda746683c4be40d1696fd32d2f/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c92bb64a11fa3cda746683c4be40d1696fd32d2f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c92bb64a11fa3cda746683c4be40d1696fd32d2f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,9 +100,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/d1cc9788f904703884929d39d1c7c6756ca7f11f/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/c92bb64a11fa3cda746683c4be40d1696fd32d2f/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@d1cc978](https://github.com/aseedb/synaptic_tomo_ms/tree/d1cc9788f904703884929d39d1c7c6756ca7f11f)
+from [aseedb/synaptic_tomo_ms@c92bb64](https://github.com/aseedb/synaptic_tomo_ms/tree/c92bb64a11fa3cda746683c4be40d1696fd32d2f)
 on February 1, 2022.
 </em></small>
 
@@ -118,12 +117,10 @@ on February 1, 2022.
     [julikaradecke](https://github.com/julikaradecke)<br>
   <small>
      Institute of Anatomy, University of Bern, Bern, Switzerland; Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark; Diamond Light Source Ltd, Didcot, Oxfordshire, United Kingdom
-     · Funded by Grant XXXXXXXX
+     · Funded by Swiss National Science Foundation, P2BEP3_172242
   </small>
 
 + **Raphaela Seeger**^[\*](#equal_contribution)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [elatella](https://github.com/elatella)<br>
   <small>
@@ -500,8 +497,10 @@ Indeed, a number of recent publications have suggested that some SVs can get pri
 ![**Model depicting a synapse transitioning from resting state to early and late fusion states.** Tethering and connectivity changes upon synapse stimulation are depicted. Proximal non triple-tethered vesicles (black proximal SVs) gain additional tethers and some of them become triple-tethered (yellow SVs) shortly after stimulation. Primed vesicles then fuse with the plasma membrane (late fusion) and leave an empty space in the AZ cytoplasm. The number of connectors (depicted in blue) per proximal SV increases in late fusion tripled-tethered vesicles. The red arrow shows a vesicle initially located in the intermediate region, which diffuses to the proximal region in the late fusion state. Tethers are shown in green.](images/model.svg){#fig:model width="15cm"}
 
 ### Conclusion
-To be done.
-
+Our study revealed fine morphological changes occurring in the presynaptic terminal immediately after the onset of exocytosis, as well as in chronically active or inactive synapses.
+It indicates increased SV tethering induced the rise in presynaptic Ca^2+^, potentially corresponding to SV superpriming, and preceding SV fusion. 
+It also highlights modifications of proximal SV interconnections in response to evoked exocytosis, as well as more drastic modifications of distal SV interconnections in chronically active synapses and in inactive synapses.
+These changes likely affect SV mobility and recruitement at the AZ.
 
 ## Materials and methods
 ### Constructs and viruses
@@ -639,13 +638,15 @@ If not stated otherwise data in the text are described as mean ± standard error
 Wherever possible, data were presented as box plots with the following settings: orange bar, median; box extremities, lower and upper quartiles; whiskers extend up to 1.5 x interquartile range; dots, outliers.
 We used the same statistical tests as in [@doi:10.1083/jcb.200908082; @doi:10.1083/jcb.201206063].
 For normal distributed data, the Student’s t-test was used.
-*__remove the following sentence if necessary__* For data deviating from the normal distribution, the Kruskal-Wallis (K-W) test was used.
 In addition, for data that required to be split into discrete bins (e.g. fraction of connected vesicles by distance to active zone), the χ2 test was used.
 To calculate the correlation coefficient for paired samples (such as vesicle distance to active zone and number of tethers), Spearman’s rank correlation was used (ρ-test).
 The confidence values were calculated using two-tailed tests and were indicated in the graphs by *, P<0.05; **, P<0.01; ***, P<0.001.
 We did not apply statistical methods to predetermine sample size but similar sample sizes as previously reported have been used [@doi:10.1083/jcb.200908082].
 It was not necessary to apply randomization.
 
+### Manuscript preparation
+The manuscript was written with the open and collaborative scientific writing package Manubot [@doi:10.1371/journal.pcbi.100712]. 
+he source code and data for this manuscript are available at 
 
 ## Supplementary Material {.page_break_before}
 
@@ -701,6 +702,21 @@ off-white = cell outline; pink = active zone; blue = synaptic vesicles; green = 
 off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; light green = cytomatrix; yellow = connectors, red = tethers, scale bar 100nm
 </p>
 
+
+## Author contributions
+
+JR, RS, JBS, and BZ designed the study. 
+JR, RS, and AK performed the experiments.
+KG and HS provided access to and assistance at one of the Titan Krios microscopes.
+JR, RS, JBS and BZ analyzed the data.
+VL, UL, and AK contributed to the Pyto analysis.
+JR, RS, JBS, and BZ wrote the manuscript with contribution from all authors.
+JBS and BZ supervised the project.
+## Acknowledgments
+
+We would like to thank Marek Kaminek for supporting and maintaining the electron microscope in Bern. 
+Part of the data was acquired on a machine supported by the [Microscopy Imaging Center (MIC) of the University of Bern](https://www.mic.unibe.ch/).
+This work was funded through the grants mentioned in the author list.
 
 ## References {.page_break_before}
 
