@@ -77,9 +77,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/8087918f480fc847db8c6dd2050aadd50b1127cc/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/8087918f480fc847db8c6dd2050aadd50b1127cc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/8087918f480fc847db8c6dd2050aadd50b1127cc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/2c7d8f6aa8b1bfc4a500a3a9c23e2f84886ccb05/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/2c7d8f6aa8b1bfc4a500a3a9c23e2f84886ccb05/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/2c7d8f6aa8b1bfc4a500a3a9c23e2f84886ccb05/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,9 +101,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/8087918f480fc847db8c6dd2050aadd50b1127cc/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/2c7d8f6aa8b1bfc4a500a3a9c23e2f84886ccb05/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@8087918](https://github.com/aseedb/synaptic_tomo_ms/tree/8087918f480fc847db8c6dd2050aadd50b1127cc)
+from [aseedb/synaptic_tomo_ms@2c7d8f6](https://github.com/aseedb/synaptic_tomo_ms/tree/2c7d8f6aa8b1bfc4a500a3a9c23e2f84886ccb05)
 on February 1, 2022.
 </em></small>
 
@@ -405,7 +405,7 @@ We have seen earlier that the fraction of tethered proximal SVs does not differ 
 Thus, our data suggest that establishing connectivity is a slower process than tethering.
 We hypothesize that given the free space made in the proximal region after some SVs have fused, non-connected vesicles from the intermediate region diffuse to the proximal zone and become tethered to the AZ PM.
 Only subsequently, these newly tethered vesicles get interconnected.
-Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices and Supplementary [Movies S1](#vid:synaptosome) and [S2](#vid:neuron):suppl_synaptosome_late & @mov:suppl_neuron_WT).
+Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices and Supplementary [Movies S1](#vid:synaptosome) and [S2](#vid:neuron)).
 This, in addition to passive diffusion, can contribute to replenishing the RRP.
 
 ![**SV connectivity.** (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each solid line represents the average value of all SVs belonging to a particular experimental condition. Shaded areas represent 95%-confidence interval ranges. (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (D). (E, F) Number of connectors per proximal SV belonging or not to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per tethered or non-tethered proximal SV for mouse neurons (G) and rat synaptosomes (H). \*: P<0.05.](images/2201_Figure5.png){#fig:connectors width="15cm"}
@@ -618,11 +618,11 @@ Tilt series were acquired using the TEM Tomography software (TFS) for automated 
 Defocus was set between -6 to -10 µm and the total electron dose used was about 80-100 e^-^/Å^2^. Tomogram reconstruction was done as for synaptosome datasets. 
 
 ### Manual and automatic segmentation procedures
-Manual segmentation of SVs, mitochondria, and the active zone PM was done in IMOD (Supplementary Movies @mov:suppl_synaptosome_late & @mov:suppl_neuron_WT). 
+Manual segmentation of SVs, mitochondria, and the active zone PM was done in IMOD (Supplementary [Movies S1](vid:synaptosome) and [S2](vid:neuron)). 
 The boundary marked the region to be analyzed by Pyto [@doi:10.1016/j.jsb.2016.10.004].
  The analysis by Pyto was essentially the same as described previously [@doi:10.1083/jcb.200908082] [@doi:10.1016/j.jsb.2016.10.004].
 In short, the segmented area is divided in 1 voxel thick layers parallel to the active zone for distance calculations.
-A hierarchical connectivity segmentation detects densities interconnecting vesicles (so-called connectors) and densities connecting vesicles to the active zone PM (so-called tethers) (Supplementary Movies @mov:suppl_synaptosome_late & @mov:suppl_neuron_WT).
+A hierarchical connectivity segmentation detects densities interconnecting vesicles (so-called connectors) and densities connecting vesicles to the active zone PM (so-called tethers) (Supplementary [Movies S1](vid:synaptosome) & [S2](vid:neuron)).
 Distance calculations are done with the center of the vesicle.
 Mainly default settings were used.
 The segmentation procedure is conservative and tends to miss some tethers and connectors because of noise.
