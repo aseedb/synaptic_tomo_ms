@@ -76,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/cca568d061d45f324114eb115633fbba4c48ae03/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/cca568d061d45f324114eb115633fbba4c48ae03/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/cca568d061d45f324114eb115633fbba4c48ae03/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/64bd8c379b0b346b861cf439fa8fd5b19e3bfaf3/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/64bd8c379b0b346b861cf439fa8fd5b19e3bfaf3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/64bd8c379b0b346b861cf439fa8fd5b19e3bfaf3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,9 +100,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/cca568d061d45f324114eb115633fbba4c48ae03/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/64bd8c379b0b346b861cf439fa8fd5b19e3bfaf3/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@cca568d](https://github.com/aseedb/synaptic_tomo_ms/tree/cca568d061d45f324114eb115633fbba4c48ae03)
+from [aseedb/synaptic_tomo_ms@64bd8c3](https://github.com/aseedb/synaptic_tomo_ms/tree/64bd8c379b0b346b861cf439fa8fd5b19e3bfaf3)
 on February 2, 2022.
 </em></small>
 
@@ -317,7 +317,7 @@ This was followed by further transitioning states prior to and during pore openi
 In the next observed fusion state, the vesicle was wide open (Figure {@fig:membrane_morphology}G), followed by almost completely collapsed vesicles where only a small bump on the PM remained visible (Figure {@fig:membrane_morphology}H).
 These structures were not observed in any of the non-sprayed control datasets.
 
-![**SV exocytosis morphology.** Tomographic slice of non-stimulated (A) and stimulated rat synaptosomes (B-H). A) Image of a 2.2-nm thick tomographic slice showing a non-stimulated with SVs at the AZ and a straight PM. B1) Membrane curvature event, 2.2-nm thick tomographic slice. B2) Membrane curvature event, 6.5-nm thick tomographic slice. B3) Membrane curvature event, 2.24 nm thick tomographic slice. Orange arrows showing membrane curvature event. C1,C2) Lipid perturbations of PM and SV, 22-nm thick tomographic slices. The space between SV and PM is denser than in the non-stimulated synaptosomes (see pink arrow). D-F) Vesicles with a pore opening that might be on the way to full collapse fusion, 33-nm thick tomographic slice thickness: 22 nm (D), 30.8 (E), 33 nm (F). G) Wide pore opening, most likely on the way to full collapse fusion, 2.2-nm tomographic slice. H) Remaining bump at the end of full collapse fusion, 11-nm thick tomographic slice. Scale bar, 50 nm.](images/fig2_morphology_update2.svg){#fig:membrane_morphology width="15cm"}
+![**SV exocytosis morphology.** Tomographic slice of non-stimulated (A) and stimulated rat synaptosomes (B-H). A) Image of a 2.2-nm thick tomographic slice showing a non-stimulated with SVs at the AZ and a straight PM. B1) Membrane curvature event, 2.2-nm thick tomographic slice. B2) Membrane curvature event, 6.5-nm thick tomographic slice. B3) Membrane curvature event, 2.24 nm thick tomographic slice. Orange arrows showing membrane curvature event. C1,C2) Lipid perturbations of PM and SV, 22-nm thick tomographic slices. The space between SV and PM is denser than in the non-stimulated synaptosomes (see pink arrow). D-F) Vesicles with a pore opening that might be on the way to full collapse fusion, 33-nm thick tomographic slice thickness: 22 nm (D), 30.8 (E), 33 nm (F). G) Wide pore opening, most likely on the way to full collapse fusion, 2.2-nm tomographic slice. H) Remaining bump at the end of full collapse fusion, 11-nm thick tomographic slice. Scale bar, 50 nm.](images/vesicle_morphology.svg){#fig:membrane_morphology width="15cm"}
 
 Stimulated synaptosome datasets were divided into early and late fusion stages, respectively, based on the morphology of SV and AZ PM. 
 Synapses showing membrane bending and direct lipid contact between SV and PM without an open pore were classified as early fusion.
@@ -329,7 +329,7 @@ Non-sprayed rat synaptosomes as well as WT-SNAP-25 mouse cultured neuron synapse
 Vesicle occupancy in WT-SNAP-25 synapses was 0.09 in the most proximal zone (0-25 nm from the AZ PM), and peaked to 0.18 in 25-50 nm zone. It then dropped to 0.08 in the intermediate zone (50-75 nm) and rose steadily more distally to reach a plateau of ~0.16 spanning the range of 150 to 250 nm distance.
 Finally, SV occupancy gradually decreased as the distance from the AZ increased (Figure {@fig:vesicle_distribution}A).
 
-![**SV distribution.** (A, B) Vesicle occupancy expressed as fraction of cytosol volume occupied by vesicles as a function of distance to AZ in (A) cultured neurons and (B) synaptosomes. Each solid line represents the mean occupancy value for the experimental group, while the shaded areas depict the 95% confidence interval. (C, D) Distance of proximal SVs from the AZ. Horizontal line: mean; whiskers: 95% confidence interval. Statistical test: t-test.](images/2201_Figure3.png){#fig:vesicle_distribution width="15cm"}
+![**SV distribution.** (A, B) Vesicle occupancy expressed as fraction of cytosol volume occupied by vesicles as a function of distance to AZ in (A) cultured neurons and (B) synaptosomes. Each solid line represents the mean occupancy value for the experimental group, while the shaded areas depict the 95% confidence interval. (C, D) Distance of proximal SVs from the AZ. Horizontal line: mean; whiskers: 95% confidence interval. Statistical test: t-test.](images/vesicle_occupancy_and_distance.png){#fig:vesicle_distribution width="15cm"}
 
 The absolute values differ between WT cultured mouse neurons and non-stimulated rat synaptosomes but the SV occupancy distribution follows the same pattern.
 The difference in absolute values can likely be attributed to the different experimental and animal models used.
@@ -360,7 +360,7 @@ In the late fusion group, however, 53% of the proximal vesicles were tethered, w
 The average number of tethers per proximal SV followed the same pattern. Proximal SVs had 0.89 ± 0.12 tethers in the non-sprayed group (Figure {@fig:tethers}D). 
 This parameter rose to 2.09 ± 0.33 in the early fusion group, while it returned to 1.00 ± 0.20 in the late fusion group.
 
-![**Proximal SV tethering.** (A, B) Fraction of proximal SVs that are triple tethered. Each bar shows the overall fraction of all proximal SVs from a given experimental condition. Each dot represents the value of an individual synapse. Statistical test: χ^2^ test. (C, D) Number of tethers per proximal SV. Each dot represents an individual SV. The vertical line represents the mean value, and the horizontal whiskers correspond to the 95% confidence interval. Statistical test: t-test.](images/2201_Figure4.png){#fig:tethers width="15cm"}
+![**Proximal SV tethering.** (A, B) Fraction of proximal SVs that are triple tethered. Each bar shows the overall fraction of all proximal SVs from a given experimental condition. Each dot represents the value of an individual synapse. Statistical test: χ^2^ test. (C, D) Number of tethers per proximal SV. Each dot represents an individual SV. The vertical line represents the mean value, and the horizontal whiskers correspond to the 95% confidence interval. Statistical test: t-test.](images/vesicle_tethers.png){#fig:tethers width="15cm"}
 
 We then analyzed whether the decreased occupancy in the late fusion group was associated with a decreased number of triple-tethered SVs, (defined as SV with at least three tethers) which as mentioned in the introduction are suggested to belong to the RRP. 
 In resting, non-sprayed synapses 8% of the proximal SVs were triple-tethered (Figure {@fig:tethers}B). 
@@ -405,7 +405,7 @@ Only subsequently, these newly tethered vesicles get interconnected.
 Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices).
 This, in addition to passive diffusion, can contribute to replenishing the RRP.
 
-![**SV connectivity.** (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each solid line represents the average value of all SVs belonging to a particular experimental condition. Shaded areas represent 95%-confidence interval ranges. (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (D). (E, F) Number of connectors per proximal SV belonging or not to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per tethered or non-tethered proximal SV for mouse neurons (G) and rat synaptosomes (H). \*: P<0.05.](images/2201_Figure5.png){#fig:connectors width="15cm"}
+![**SV connectivity.** (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each solid line represents the average value of all SVs belonging to a particular experimental condition. Shaded areas represent 95%-confidence interval ranges. (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (D). (E, F) Number of connectors per proximal SV belonging or not to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per tethered or non-tethered proximal SV for mouse neurons (G) and rat synaptosomes (H). \*: P<0.05.](images/vesicle_tethers.png){#fig:connectors width="15cm"}
 
 We then analyzed SNAP-25 neurons.
 For SNAP-25-WT, similarly to non-sprayed synaptosome, the fraction of connected SVs was significantly higher in the distal 2 region than in the proximal region (p<0.01), albeit the absolute values were overall lower than in synaptosomes (Figure {@fig:connectors}C).
@@ -494,7 +494,7 @@ Third, overlapping protein complexes might be involved in priming and triggering
 Accordingly, triggering that stimulates tether-formation might also stimulate priming for those vesicles that were not tethered before stimulation. 
 Indeed, a number of recent publications have suggested that some SVs can get primed extremely quickly in response to Ca^2+^ influx [@doi:10.3389/fnsys.2019.00030;@doi:10.1016/j.tins.2021.04.003;@doi:10.1038/s41593-020-00716-1;@doi:10.1016/j.neuron.2016.07.033;@doi:10.7554/eLife.51032].
 
-![**Model depicting a synapse transitioning from resting state to early and late fusion states.** Tethering and connectivity changes upon synapse stimulation are depicted. Proximal non triple-tethered vesicles (black proximal SVs) gain additional tethers and some of them become triple-tethered (yellow SVs) shortly after stimulation. Primed vesicles then fuse with the plasma membrane (late fusion) and leave an empty space in the AZ cytoplasm. The number of connectors (depicted in blue) per proximal SV increases in late fusion tripled-tethered vesicles. The red arrow shows a vesicle initially located in the intermediate region, which diffuses to the proximal region in the late fusion state. Tethers are shown in green.](images/model.svg){#fig:model width="15cm"}
+![**Model depicting a synapse transitioning from resting state to early and late fusion states.** Tethering and connectivity changes upon synapse stimulation are depicted. Proximal non triple-tethered vesicles (black proximal SVs) gain additional tethers and some of them become triple-tethered (yellow SVs) shortly after stimulation. Primed vesicles then fuse with the plasma membrane (late fusion) and leave an empty space in the AZ cytoplasm. The number of connectors (depicted in blue) per proximal SV increases in late fusion tripled-tethered vesicles. The red arrow shows a vesicle initially located in the intermediate region, which diffuses to the proximal region in the late fusion state. Tethers are shown in green.](images/model_cartoon.svg){#fig:model width="15cm"}
 
 ### Conclusion
 Our study revealed fine morphological changes occurring in the presynaptic terminal immediately after the onset of exocytosis, as well as in chronically active or inactive synapses.
@@ -655,7 +655,7 @@ he source code and data for this manuscript are available at <https://github.com
 (C,D) Tomographic slice without (C) and with (D) segmentation of WT SNAP-25 neurons.
 Segmentation colors: off-white = cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; yellow = connectors, red = tethers
 Scale bar, 100 nm
-](images/2202_tomogramfigure.png){#fig:suppl_tomogram_slices width="8cm" tag="S1"}
+](images/tomogram_slices.png){#fig:suppl_tomogram_slices width="8cm" tag="S1"}
 
 ![(A, B) Histogram of the number of tethers per proximal SV. 
 (C, D) Histogram of  the number of connectors per proximal non-RRP SV.
@@ -712,6 +712,7 @@ JR, RS, and BZ analyzed the data.
 VL, UL, and Amin K contributed to the Pyto analysis.
 JR, RS, JBS, and BZ wrote the manuscript with contribution from all authors.
 JBS and BZ supervised the project.
+
 ## Acknowledgments
 
 We would like to thank Marek Kamínek for maintaining the electron microscope and supporting it use in Bern, and Tillmann Hanns Pape for support in specimen preparation and electron microscope operation in Copenhagen. 
