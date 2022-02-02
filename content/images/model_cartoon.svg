@@ -110,17 +110,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3084115"
-     inkscape:cx="131.83926"
-     inkscape:cy="155.53211"
+     inkscape:zoom="1.2221087"
+     inkscape:cx="324.43922"
+     inkscape:cy="90.826616"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1680"
-     inkscape:window-height="945"
+     inkscape:window-height="942"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-y="26"
+     inkscape:window-maximized="0"
      inkscape:snap-grids="false"
      inkscape:snap-global="false"
      showguides="true"
@@ -1823,8 +1823,7 @@
      id="layer2"
      inkscape:label="early"
      style="display:inline"
-     transform="translate(-29.564899,-17.970413)"
-     sodipodi:insensitive="true">
+     transform="translate(-29.564899,-17.970413)">
     <use
        style="display:inline;opacity:0.98;stroke-width:1.24893"
        x="0"
@@ -1949,7 +1948,7 @@
        id="use3696"
        width="100%"
        height="100%"
-       transform="matrix(1.4806749,0,0,1,21.672377,-0.0505543)"
+       transform="matrix(0.87038133,0,0,1,61.286558,0.16160803)"
        style="stroke-width:0.66;stroke-miterlimit:4;stroke-dasharray:none" />
     <use
        x="0"
@@ -1958,7 +1957,7 @@
        id="use3696-8"
        width="100%"
        height="100%"
-       transform="matrix(1.5251303,0,0,1,18.697096,-1.4414301)"
+       transform="matrix(0.84885906,0,0,1,62.6541,-1.7331533)"
        style="display:inline;stroke-width:0.66;stroke-miterlimit:4;stroke-dasharray:none" />
     <use
        x="0"
