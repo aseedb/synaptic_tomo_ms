@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-02-01'
+date-meta: '2022-02-02'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-02-01" />
-  <meta name="citation_publication_date" content="2022-02-01" />
+  <meta name="dc.date" content="2022-02-02" />
+  <meta name="citation_publication_date" content="2022-02-02" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -76,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/402bc66892e7158a5f9eff4f6b904032648ae15e/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/402bc66892e7158a5f9eff4f6b904032648ae15e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/402bc66892e7158a5f9eff4f6b904032648ae15e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/cca568d061d45f324114eb115633fbba4c48ae03/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/cca568d061d45f324114eb115633fbba4c48ae03/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/cca568d061d45f324114eb115633fbba4c48ae03/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,10 +100,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/402bc66892e7158a5f9eff4f6b904032648ae15e/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/cca568d061d45f324114eb115633fbba4c48ae03/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@402bc66](https://github.com/aseedb/synaptic_tomo_ms/tree/402bc66892e7158a5f9eff4f6b904032648ae15e)
-on February 1, 2022.
+from [aseedb/synaptic_tomo_ms@cca568d](https://github.com/aseedb/synaptic_tomo_ms/tree/cca568d061d45f324114eb115633fbba4c48ae03)
+on February 2, 2022.
 </em></small>
 
 ## Authors
@@ -706,16 +706,16 @@ off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = m
 ## Author contributions
 
 JR, RS, JBS, and BZ designed the study. 
-JR, RS, and AK performed the experiments.
+JR, RS, and Anna K performed the experiments.
 KG and HS provided access to and assistance at one of the Titan Krios microscopes.
-JR, RS, JBS and BZ analyzed the data.
-VL, UL, and AK contributed to the Pyto analysis.
+JR, RS, and BZ analyzed the data.
+VL, UL, and Amin K contributed to the Pyto analysis.
 JR, RS, JBS, and BZ wrote the manuscript with contribution from all authors.
 JBS and BZ supervised the project.
 ## Acknowledgments
 
-We would like to thank Marek Kaminek for supporting and maintaining the electron microscope in Bern. 
-Part of the data was acquired on a machine supported by the [Microscopy Imaging Center (MIC) of the University of Bern](https://www.mic.unibe.ch/).
+We would like to thank Marek Kamínek for maintaining the electron microscope and supporting it use in Bern, and Tillmann Hanns Pape for support in specimen preparation and electron microscope operation in Copenhagen. 
+Data was acquired on a machine supported by the [Microscopy Imaging Center (MIC) of the University of Bern](https://www.mic.unibe.ch/) and a machine supported by the [Core Facility for Integrated Microscopy (CFIM) of the University of Copenhagen](https://cfim.ku.dk/publications/).
 This work was funded through the grants mentioned in the author list.
 
 ## References {.page_break_before}
