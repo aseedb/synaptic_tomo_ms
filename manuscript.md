@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-02-03'
+date-meta: '2022-02-07'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -28,8 +28,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-02-03" />
-  <meta name="citation_publication_date" content="2022-02-03" />
+  <meta name="dc.date" content="2022-02-07" />
+  <meta name="citation_publication_date" content="2022-02-07" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -76,9 +76,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/268cc895ac7288f2dc25e9e59ad9979930de2dc0/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/268cc895ac7288f2dc25e9e59ad9979930de2dc0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/268cc895ac7288f2dc25e9e59ad9979930de2dc0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/fca178fef80b1b6700148e58f24e0db369e7f4d3/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/fca178fef80b1b6700148e58f24e0db369e7f4d3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/fca178fef80b1b6700148e58f24e0db369e7f4d3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,10 +100,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/268cc895ac7288f2dc25e9e59ad9979930de2dc0/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/fca178fef80b1b6700148e58f24e0db369e7f4d3/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@268cc89](https://github.com/aseedb/synaptic_tomo_ms/tree/268cc895ac7288f2dc25e9e59ad9979930de2dc0)
-on February 3, 2022.
+from [aseedb/synaptic_tomo_ms@fca178f](https://github.com/aseedb/synaptic_tomo_ms/tree/fca178fef80b1b6700148e58f24e0db369e7f4d3)
+on February 7, 2022.
 </em></small>
 
 ## Authors
@@ -516,7 +516,7 @@ The procedures used were in accordance with the Swiss Veterinary Law guidelines.
 Heterozygous SNAP-25 KO C57/Bl6-mice were routinely backcrossed to Bl6 to generate new heterozygotes.
 The strain was kept in the heterozygous condition and timed heterozygous crosses and caesarean section were used to recover knockout embryos at embryonic day 18 (E18). 
 Pregnant females were killed by cervical dislocation; embryos of either sex were collected and killed by decapitation. Permission to keep and breed SNAP-25 mice was obtained from the Danish Animal Experiments Inspectorate and followed institutional guidelines as overseen by the Institutional Animal Care and Use Committee (IACUC).
-Newborns (P0-P2) CD1 outbred mice of either sex were used to create astrocytic cultures and for that were killed by decapitation.
+Newborn (P0-P2) CD1 outbred mice of either sex were used to create astrocytic cultures and for that were killed by decapitation.
 
 ### Synaptosome preparation
 Rat synaptosomes were prepared as previously described [@doi:10.1038/nprot.2008.171], with some modifications. 
@@ -534,20 +534,21 @@ The cerebral cortex and the hippocampi were removed in sucrose buffer (SEH: 0.32
 ### Preparation of astrocytic and neuronal culture
 The procedure has been published before [@doi:10.3791/50783].
 Glial cells were ready to be used after 10 days. 
-Once they were triturated and counted with a Buerker chamber, 100,000 cells/ml were plated onto untreated 12-well plates containing 10% DMEM.
+Once they were triturated and counted with a Buerker chamber, 100,000 cells/ml were plated onto untreated 12-well plates containing DMEM supplemented with 10% foetal bovine serum (FBS), 10000 IU penicillin, 10 mg streptomycin and 1% MEM non-essential amino acids (DMEM+10% FBS).
 Astrocytes were isolated from CD1 outbred mice (P0-P2).
 Pups were killed by decapitation and heads were placed in HBSS-HEPES medium (HBSS supplemented with 1 M HEPES).
 The cortices were isolated from the brains and the meninges were removed (dura, pia and arachnoid mater).
-The cortices were chopped into smaller fragments and transferred to a tube containing 0.25% trypsin dissolved in Dulbecco’s MEM (DMEM)supplemented with 10% foetal calf serum, 20000 IU penicillin, 20 mg streptomycin and 1% MEM non-essential amino acids. Fragments were incubated for 15 min at 37°C.
-Subsequently, inactivation medium (12.5 mg albumin + 12.5 mg trypsin-inhibitor in 10% DMEM) was added and the tissue washed with HBSS-HEPES. 
+The cortices were chopped into smaller fragments and transferred to a tube containing 0.25% trypsin dissolved in Dulbecco’s MEM (DMEM).
+Fragments were incubated for 15 min at 37°C.
+Subsequently, inactivation medium (12.5 mg albumin + 12.5 mg trypsin-inhibitor in DMEM+10% FBS) was added and the tissue washed with HBSS-HEPES. 
 Tissue was triturated until a smooth cloudy suspension appeared. 
-Cells were plated in 80 cm^2^ flasks with pre-warmed DMEM, one hemisphere per flask, and stored at 37°C with 5% CO~2~. Glial cells were ready to be used after 10 days.
+Cells were plated in 75 cm^2^ flasks with pre-warmed DMEM, one hemisphere per flask, and stored at 37°C with 5% CO~2~. Glial cells were ready to be used after 10 days.
 Glial cells were washed with pre-warmed HBSS-HEPES.
 Trypsin was added and the flasks were incubated at 37°C for 10 min.
-Cells were triturated and counted with a Buerker chamber before plating 100,000 cells/ml on untreated 12-well plates containing DMEM.
+Cells were triturated and counted with a Buerker chamber before plating 100,000 cells/ml on untreated 12-well plates containing DMEM+10% FBS.
 After 2 days, neurons were plated. 
 
-Hippocampal neurons were isolated from either E18 SNAP-25 KO.
+Hippocampal neurons were isolated from E18 SNAP-25 KO of either sex.
 The SNAP-25 KO pups were obtained by pairing two heterozygote animals, and the embryos were recovered at E18 by caesarean section. 
 Pups were selected based on the absence of motion after tactile stimulation and bloated neck [@doi:10.1038/nn783]; the genotype was confirmed by PCR in all cases. 
 The pups were killed by decapitation and heads were put in HBSS-HEPES medium. The cortices were isolated from the brains and the meninges were removed. 
@@ -556,7 +557,7 @@ Fragments were incubated for 20 min at 37°C.
 Afterwards, the tissue was washed with HBSS-HEPES. 
 The hippocampi were triturated and the cell count was determined with a Buerker chamber. 
 20 µl of solution containing 250,000 cells/ml were plated onto the flame sterilized gold R2/2 or R2/1 EM grids as previously described in [@doi:10.3791/50783]. 
-Following a 30-min incubation at 37°C, the grid was transferred into the 12-well plate containing the astrocytes and medium was replaced with NB medium (Neurobasal with 2% B-27, 1 M HEPES, 0.26% lutamax, 14.3 mM β-mercaptoethanol, 20000 IU penicillin, 20 mg streptomycin) for the E18 pups or NB-A medium (Neurobasal-A with 2% B-27, 1% Glutamax , 20000 IU Penicillin, 20 mg Streptomycin) for the P0-P1.
+Following a 30-min incubation at 37°C, the grid was transferred into the 12-well plate containing the astrocytes and medium was replaced with NB medium (Neurobasal with 2% B-27, 1 M HEPES, 0.26% lutamax, 14.3 mM β-mercaptoethanol, 10000 IU penicillin, 10 mg streptomycin) for the E18 pups or NB-A medium (Neurobasal-A with 2% B-27, 1% Glutamax , 10000 IU Penicillin, 10 mg Streptomycin) for the P0-P1. `Did we actually use the newborn pups for neuronal preparation? I haven’t found it in the paper and I think it’s quite confusing because in the section ”Animals” we state that the newborns were only used for the glial prep.---Anna`
 Between 4 h and 1 day later, lentiviral particles carrying either SNAP-25-WT, SNAP-25-4E, or SNAP-25-4K constructs were added to the culture [@doi:10.1016/j.celrep.2019.01.103].
 The cultures were incubated for 12 to 14 days before being plunge frozen.
 
@@ -646,7 +647,8 @@ It was not necessary to apply randomization.
 
 ### Manuscript preparation
 The manuscript was written with the open and collaborative scientific writing package Manubot [@doi:10.1371/journal.pcbi.1007128]. 
-he source code and data for this manuscript are available at <https://github.com/aseedb/synaptic_tomo_ms>.
+The source code and data for this manuscript are available at <https://github.com/aseedb/synaptic_tomo_ms>.
+
 
 ## Supplementary Material {.page_break_before}
 
