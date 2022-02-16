@@ -53,15 +53,6 @@ authors:
     email: k.goldie@unibas.ch
     affiliations:
       - BioEM Lab, Biozentrum, University of Basel, Basel, Switzerland
-  - github: sthennin
-    name: Henning Stahlberg
-    initials: HS
-    orcid: 0000-0002-1185-4592
-    email: henning.stahlberg@epfl.ch 
-    affiliations: 
-      - Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland
-      - EPFL
-      - UNIL
   - github: vladanl
     name: Vladan Lučić
     initials: VL
