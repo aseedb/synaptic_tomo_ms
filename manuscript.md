@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-02-07'
+date-meta: '2022-02-18'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -14,7 +14,6 @@ author-meta:
 - Ulrike Laugks
 - Amin Khosrozadeh
 - Kenneth N. Goldie
-- Henning Stahlberg
 - Vladan Lučić
 - Jakob B. Sørensen
 - Benoît Zuber
@@ -28,8 +27,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-02-07" />
-  <meta name="citation_publication_date" content="2022-02-07" />
+  <meta name="dc.date" content="2022-02-18" />
+  <meta name="citation_publication_date" content="2022-02-18" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -54,13 +53,8 @@ header-includes: |-
   <meta name="citation_author_institution" content="Institute of Anatomy, University of Bern, Bern, Switzerland" />
   <meta name="citation_author_institution" content="Graduate School for Cellular and Biomedical Sciences, University of Bern" />
   <meta name="citation_author" content="Kenneth N. Goldie" />
-  <meta name="citation_author_institution" content="Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland" />
+  <meta name="citation_author_institution" content="BioEM Lab, Biozentrum, University of Basel, Basel, Switzerland" />
   <meta name="citation_author_orcid" content="0000-0002-7405-0049" />
-  <meta name="citation_author" content="Henning Stahlberg" />
-  <meta name="citation_author_institution" content="Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland" />
-  <meta name="citation_author_institution" content="EPFL" />
-  <meta name="citation_author_institution" content="UNIL" />
-  <meta name="citation_author_orcid" content="0000-0002-1185-4592" />
   <meta name="citation_author" content="Vladan Lučić" />
   <meta name="citation_author_institution" content="Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany" />
   <meta name="citation_author_orcid" content="0000-0003-3698-7436" />
@@ -76,9 +70,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/fca178fef80b1b6700148e58f24e0db369e7f4d3/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/fca178fef80b1b6700148e58f24e0db369e7f4d3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/fca178fef80b1b6700148e58f24e0db369e7f4d3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/3e52d217996a7f253870b0a041e53b90ea02e046/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/3e52d217996a7f253870b0a041e53b90ea02e046/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/3e52d217996a7f253870b0a041e53b90ea02e046/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -100,10 +94,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/fca178fef80b1b6700148e58f24e0db369e7f4d3/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/3e52d217996a7f253870b0a041e53b90ea02e046/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@fca178f](https://github.com/aseedb/synaptic_tomo_ms/tree/fca178fef80b1b6700148e58f24e0db369e7f4d3)
-on February 7, 2022.
+from [aseedb/synaptic_tomo_ms@3e52d21](https://github.com/aseedb/synaptic_tomo_ms/tree/3e52d217996a7f253870b0a041e53b90ea02e046)
+on February 18, 2022.
 </em></small>
 
 ## Authors
@@ -152,16 +146,7 @@ on February 7, 2022.
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-7405-0049](https://orcid.org/0000-0002-7405-0049)<br>
   <small>
-     Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland
-  </small>
-
-+ **Henning Stahlberg**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [0000-0002-1185-4592](https://orcid.org/0000-0002-1185-4592)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [sthennin](https://github.com/sthennin)<br>
-  <small>
-     Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel, Basel, Switzerland; EPFL; UNIL
+     BioEM Lab, Biozentrum, University of Basel, Basel, Switzerland
   </small>
 
 + **Vladan Lučić**<br>
@@ -557,7 +542,7 @@ Fragments were incubated for 20 min at 37°C.
 Afterwards, the tissue was washed with HBSS-HEPES. 
 The hippocampi were triturated and the cell count was determined with a Buerker chamber. 
 20 µl of solution containing 250,000 cells/ml were plated onto the flame sterilized gold R2/2 or R2/1 EM grids as previously described in [@doi:10.3791/50783]. 
-Following a 30-min incubation at 37°C, the grid was transferred into the 12-well plate containing the astrocytes and medium was replaced with NB medium (Neurobasal with 2% B-27, 1 M HEPES, 0.26% lutamax, 14.3 mM β-mercaptoethanol, 10000 IU penicillin, 10 mg streptomycin) for the E18 pups or NB-A medium (Neurobasal-A with 2% B-27, 1% Glutamax , 10000 IU Penicillin, 10 mg Streptomycin) for the P0-P1. `Did we actually use the newborn pups for neuronal preparation? I haven’t found it in the paper and I think it’s quite confusing because in the section ”Animals” we state that the newborns were only used for the glial prep.---Anna`
+Following a 30-min incubation at 37°C, the grid was transferred into the 12-well plate containing the astrocytes and medium was replaced with NB medium (Neurobasal with 2% B-27, 1 M HEPES, 0.26% lutamax, 14.3 mM β-mercaptoethanol, 10000 IU penicillin, 10 mg streptomycin) for the E18 pups.
 Between 4 h and 1 day later, lentiviral particles carrying either SNAP-25-WT, SNAP-25-4E, or SNAP-25-4K constructs were added to the culture [@doi:10.1016/j.celrep.2019.01.103].
 The cultures were incubated for 12 to 14 days before being plunge frozen.
 
@@ -709,7 +694,7 @@ off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = m
 
 JR, RS, JBS, and BZ designed the study. 
 JR, RS, and Anna K performed the experiments.
-KG and HS provided access to and assistance at one of the Titan Krios microscopes.
+KG provided access to and assistance at one of the Titan Krios microscopes.
 JR, RS, and BZ analyzed the data.
 VL, UL, and Amin K contributed to the Pyto analysis.
 JR, RS, JBS, and BZ wrote the manuscript with contribution from all authors.
@@ -717,8 +702,8 @@ JBS and BZ supervised the project.
 
 ## Acknowledgments
 
-We would like to thank Marek Kamínek for maintaining the electron microscope and supporting it use in Bern, and Tillmann Hanns Pape for support in specimen preparation and electron microscope operation in Copenhagen. 
-Data was acquired on a machine supported by the [Microscopy Imaging Center (MIC) of the University of Bern](https://www.mic.unibe.ch/) and a machine supported by the [Core Facility for Integrated Microscopy (CFIM) of the University of Copenhagen](https://cfim.ku.dk/publications/).
+We would like to thank Marek Kamínek for maintaining the electron microscope and supporting its use in Bern, and Tillmann Hanns Pape for support in specimen preparation and electron microscope operation in Copenhagen. 
+Data was acquired on a machine supported by the [Microscopy Imaging Center (MIC) of the University of Bern](https://www.mic.unibe.ch/), a machine supported by the [Core Facility for Integrated Microscopy (CFIM) of the University of Copenhagen](https://cfim.ku.dk/publications/), and a machine supported by the Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel.
 This work was funded through the grants mentioned in the author list.
 
 ## References {.page_break_before}
