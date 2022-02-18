@@ -70,9 +70,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/a77e95f27385ddc04161ae711641ca213bcd190a/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/a77e95f27385ddc04161ae711641ca213bcd190a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/a77e95f27385ddc04161ae711641ca213bcd190a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/1f2c2a983c855e55cf3205674b730667468a9222/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/1f2c2a983c855e55cf3205674b730667468a9222/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/1f2c2a983c855e55cf3205674b730667468a9222/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -94,9 +94,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/a77e95f27385ddc04161ae711641ca213bcd190a/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/1f2c2a983c855e55cf3205674b730667468a9222/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@a77e95f](https://github.com/aseedb/synaptic_tomo_ms/tree/a77e95f27385ddc04161ae711641ca213bcd190a)
+from [aseedb/synaptic_tomo_ms@1f2c2a9](https://github.com/aseedb/synaptic_tomo_ms/tree/1f2c2a983c855e55cf3205674b730667468a9222)
 on February 18, 2022.
 </em></small>
 
@@ -406,7 +406,7 @@ Only subsequently, these newly tethered vesicles get interconnected.
 Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices).
 This, in addition to passive diffusion, can contribute to replenishing the RRP.
 
-![**SV connectivity.** (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each solid line represents the average value of all SVs belonging to a particular experimental condition. Shaded areas represent 95%-confidence interval ranges. (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (D). (E, F) Number of connectors per proximal SV belonging or not to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per tethered or non-tethered proximal SV for mouse neurons (G) and rat synaptosomes (H). \*: P<0.05.](images/vesicle_tethers.png){#fig:connectors width="15cm"}
+![**SV connectivity.** (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each solid line represents the average value of all SVs belonging to a particular experimental condition. Shaded areas represent 95%-confidence interval ranges. (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (D). (E, F) Number of connectors per proximal SV belonging or not to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per tethered or non-tethered proximal SV for mouse neurons (G) and rat synaptosomes (H). \*: P<0.05.](images/vesicle_connectors.png){#fig:connectors width="15cm"}
 
 We then analyzed SNAP-25 neurons.
 For SNAP-25-WT, similarly to non-sprayed synaptosome, the fraction of connected SVs was significantly higher in the distal 2 region than in the proximal region (p<0.01), albeit the absolute values were overall lower than in synaptosomes (Figure {@fig:connectors}C).
@@ -452,7 +452,7 @@ In order to further assess the relation between SV tethering, connectivity, and 
 The 4K mutant has a decreased energy barrier to membrane fusion and causes constitutively active exocytosis, whereas the 4E mutant shows a decreased exocytotic activity because of a higher energy barrier to membrane fusion.
 Both mutants had a significantly decreased proximal SV occupancy (Figure {@fig:vesicle_distribution}A).
 In the case of the 4K mutant, this was probably due to the high frequency of spontaneous exocytosis.
-On the other hand, the 4E mutant, because of its additive negative charges, tends to repel SVs from the PM (Figure {fig:vesicle_distribution}C}, which can explain their decreased proximal occupancy.
+On the other hand, the 4E mutant, because of its additive negative charges, tends to repel SVs from the PM (Figure {@fig:vesicle_distribution}C}, which can explain their decreased proximal occupancy.
 *** I honestly don't know whether charges can repel each other when they are sufficiently far appart that water moleculas fill the smace between them and screen the charges. I't ok to leave it as a possibility. Another possibility is that the function of SNAP25 is affected. This is what I think is more likely based on our (still unfinished) manuscript. ***
 Over a narrow distance range, around 75 nm, SV occupancy of both mutants was significantly higher than that of the WT.
 Further away, SV occupancy was most significantly lower for the 4E mutants than for the WT.
