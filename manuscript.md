@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-02-21'
+date-meta: '2022-03-05'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -27,8 +27,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-02-21" />
-  <meta name="citation_publication_date" content="2022-02-21" />
+  <meta name="dc.date" content="2022-03-05" />
+  <meta name="citation_publication_date" content="2022-03-05" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,9 +70,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/a1c92428ae2658612d484a88e69c55f013cff3a9/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/a1c92428ae2658612d484a88e69c55f013cff3a9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/a1c92428ae2658612d484a88e69c55f013cff3a9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/cfed8af10166c10c3056bce7e2fc92ff31af281e/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/cfed8af10166c10c3056bce7e2fc92ff31af281e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/cfed8af10166c10c3056bce7e2fc92ff31af281e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -94,10 +94,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/a1c92428ae2658612d484a88e69c55f013cff3a9/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/cfed8af10166c10c3056bce7e2fc92ff31af281e/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@a1c9242](https://github.com/aseedb/synaptic_tomo_ms/tree/a1c92428ae2658612d484a88e69c55f013cff3a9)
-on February 21, 2022.
+from [aseedb/synaptic_tomo_ms@cfed8af](https://github.com/aseedb/synaptic_tomo_ms/tree/cfed8af10166c10c3056bce7e2fc92ff31af281e)
+on March 5, 2022.
 </em></small>
 
 ## Authors
@@ -377,9 +377,9 @@ Furthermore, we defined 4 distance groups: proximal (0-45 nm), intermediate (45-
 We first analyzed synaptosomes.
 In non-sprayed synaptosomes datasets, approximately 70% of the proximal and intermediate SVs were connected to other vesicles.
 In distal 1 and 2 regions, this value rose to 84 and 87%, respectively.
-Similarly, the number of connectors per vesicles significantly increased from the proximal region (1.63 ± 0.13) to the distal 1 region (2.57 ± 0.09, p<0.01) and the distal 2 region (2.78 ± 0.10, p<0.0001) (Figure {@fig:connectors}B).
+Similarly, the number of connectors per vesicles significantly increased from the proximal region (1.63 ± 0.13) to the distal 1 region (2.57 ± 0.09, P<0.01) and the distal 2 region (2.78 ± 0.10, P<0.0001) (Figure {@fig:connectors}B).
 Sprayed early and late fusion synapses showed a similar pattern, with significantly more connectors per SV in distal 1 region than in proximal region for the late fusion group, and more connectors per SV in distal 2 region for both early and late fusion groups.
-Nonetheless, proximal SV connectivity and number of connectors per SV dropped in the late fusion group to 53% (p<0.09, χ^2^ test) and 1.12 ± 0.15 (p<0.05), respectively (Figure {@fig:connectors}B and D).
+Nonetheless, proximal SV connectivity and number of connectors per SV dropped in the late fusion group to 53% (P<0.09, χ^2^ test) and 1.12 ± 0.15 (P<0.05), respectively (Figure {@fig:connectors}D and B).
 This decrease originates from tethered SVs.
 Indeed, 1.65 ± 0.23 connectors per tethered SVs were found in the non-sprayed group. This number increased to 2.58 ± 0.45 in the early fusion group (P<0.05) and dropped to 0.85 ± 0.25 in the late fusion group (P<0.05), whereas no significant differences were found in the numbers of connnectors per proximal non-tethered SVs (Figure {@fig:connectors}H).
 Furthermore, the decrease in proximal connectivity was only observed in non triple-tethered SVs, of which only 51.5% of the vesicles were connected as opposed to 72.3% before stimulation (P<0.01, χ^2^ test; Supplementary Figure {@fig:suppl_histograms}J).
@@ -398,7 +398,7 @@ We then analyzed SNAP-25 neurons.
 For SNAP-25-WT, similarly to non-sprayed synaptosome, the fraction of connected SVs was significantly higher in the distal 2 region than in the proximal region (p<0.01), albeit the absolute values were overall lower than in synaptosomes (Figure {@fig:connectors}C).
 Consistently, the number of connectors per SV in SNAP-25-WT synapses increased from 1.95 ± 0.38 in the proximal region to 3.23 ± 0.21 in the distal 2 region (Figure {@fig:connectors}A, P<0.01).
 The fraction of connected SVs in the distal 2 region was significantly lower in the 4E and 4K mutant than in the WT (p<0.05).
-This was supported by a significantly lower number of connectors per SV in the distal 1 region for 4K mutant versus the WT (P<0.05), and in the distal 2 region for the 4E mutant versus the WT (P<0.0001) as well as for the 4K mutant versus the WT (P<0.0001, (Figure {@fig:connectors}A). 
+This was supported by a significantly lower number of connectors per SV in the distal 1 region for the 4K mutant versus the WT (P<0.05), and in the distal 2 region for the 4E mutant versus the WT (P<0.0001) as well as for the 4K mutant versus the WT (P<0.0001, Figure {@fig:connectors}A). 
 The number of connectors per proximal SV was not affected by the mutations (Figure {@fig:connectors}E and G).
 These results indicate that prolonged abnormal exocytotic activity is correlated with severe changes in intervesicular connectivity in the distal region.
 
@@ -438,7 +438,7 @@ In order to further assess the relation between SV tethering, connectivity, and 
 The 4K mutant has a decreased energy barrier to membrane fusion and causes constitutively active exocytosis, whereas the 4E mutant shows a decreased exocytotic activity because of a higher energy barrier to membrane fusion.
 Both mutants had a significantly decreased proximal SV occupancy (Figure {@fig:vesicle_distribution}A).
 In the case of the 4K mutant, this was probably due to the high frequency of spontaneous exocytosis.
-On the other hand, the 4E mutant, because of its additive negative charges, tends to repel SVs from the PM (Figure {@fig:vesicle_distribution}C}, which can explain their decreased proximal occupancy.
+On the other hand, the 4E mutant, because of its additive negative charges, tends to repel SVs from the PM (Figure {@fig:vesicle_distribution}C), which can explain their decreased proximal occupancy.
 Over a narrow distance range, around 75 nm, SV occupancy of both mutants was significantly higher than that of the WT.
 Further away, SV occupancy was most significantly lower for the 4E mutants than for the WT.
 The 4K mutant followed the same trend but had a massive increase of SV occupancy between 500 and 600 nm, before falling again.

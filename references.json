@@ -1441,6 +1441,7 @@
   {
     "publisher": "Proceedings of the National Academy of Sciences",
     "issue": "37",
+    "abstract": "<jats:title>Significance</jats:title>\n          <jats:p>During sustained nerve activity, synapses must continuously recycle vesicles. We used the unique opportunities for quantitative analysis offered by the calyx of Held synapse to study late stages in the process that renders vesicles release-ready. We dissect two sequential steps with distinct pharmacology and kinetics, the characterization of which is essential for an understanding of molecular mechanisms of transmitter release and short-term plasticity.</jats:p>",
     "DOI": "10.1073/pnas.1314427110",
     "type": "article-journal",
     "page": "15079-15084",
@@ -1449,19 +1450,19 @@
     "volume": "110",
     "author": [
       {
-        "given": "J. S.",
+        "given": "Jae Sung",
         "family": "Lee"
       },
       {
-        "given": "W.-K.",
+        "given": "Won-Kyung",
         "family": "Ho"
       },
       {
-        "given": "E.",
+        "given": "Erwin",
         "family": "Neher"
       },
       {
-        "given": "S.-H.",
+        "given": "Suk-Ho",
         "family": "Lee"
       }
     ],
@@ -1477,7 +1478,7 @@
       ]
     },
     "URL": "https://doi.org/f494g4",
-    "container-title-short": "Proceedings of the National Academy of Sciences",
+    "container-title-short": "Proc. Natl. Acad. Sci. U.S.A.",
     "PMCID": "PMC3773744",
     "PMID": "23980146",
     "id": "HUxTgHP7",
@@ -1486,10 +1487,9 @@
   {
     "publisher": "Proceedings of the National Academy of Sciences",
     "issue": "31",
-    "abstract": "<jats:p>Glutamatergic synapses show large variations in strength and short-term plasticity (STP). We show here that synapses displaying an increased strength either after posttetanic potentiation (PTP) or through activation of the phospholipase-C–diacylglycerol pathway share characteristic properties with intrinsically strong synapses, such as (<jats:italic>i</jats:italic>) pronounced short-term depression (STD) during high-frequency stimulation; (<jats:italic>ii</jats:italic>) a conversion of that STD into a sequence of facilitation followed by STD after a few conditioning stimuli at low frequency; (<jats:italic>iii</jats:italic>) an equalizing effect of such conditioning stimulation, which reduces differences among synapses and abolishes potentiation; and (<jats:italic>iv</jats:italic>) a requirement of long periods of rest for reconstitution of the original STP pattern. These phenomena are quantitatively described by assuming that a small fraction of “superprimed” synaptic vesicles are in a state of elevated release probability (<jats:italic>p</jats:italic> ∼ 0.5). This fraction is variable in size among synapses (typically about 30%), but increases after application of phorbol ester or during PTP. The majority of vesicles, released during repetitive stimulation, have low release probability (<jats:italic>p</jats:italic> ∼ 0.1), are relatively uniform in number across synapses, and are rapidly recruited. In contrast, superprimed vesicles need several seconds to be regenerated. They mediate enhanced synaptic strength at the onset of burst-like activity, the impact of which is subject to modulation by slow modulatory transmitter systems.</jats:p>",
+    "abstract": "<jats:title>Significance</jats:title>\n          <jats:p>Short-term plasticity (STP) of synaptic connections underlies many basic signal processing capabilities of the brain, such as gain control, temporal filtering, and adaptation. Glutamatergic synapses, the predominant excitatory synapses in the brain, display large variability both in basal synaptic strength and in STP. We show that a small fraction of release-ready vesicles are released with much higher probability than other vesicles. The number of these “superprimed” vesicles is variable among synapses, but increases strongly after application of phorbol ester, an analogue of the second messenger diacylglycerol, and after inducing posttetanic potentiation. Thus, modulatory transmitter systems, acting through the phospholipase-C–diacylglycerol pathway, will be able to upregulate superprimed vesicles and thereby boost synaptic strength at the onset of burst-like activity.</jats:p>",
     "DOI": "10.1073/pnas.1606383113",
     "type": "article-journal",
-    "page": "E4548-E4557",
     "source": "Crossref",
     "title": "Superpriming of synaptic vesicles as a common basis for intersynapse variability and modulation of synaptic strength",
     "volume": "113",
@@ -1519,7 +1519,7 @@
       ]
     },
     "URL": "https://doi.org/f8w9vc",
-    "container-title-short": "Proc Natl Acad Sci USA",
+    "container-title-short": "Proc. Natl. Acad. Sci. U.S.A.",
     "PMCID": "PMC4978258",
     "PMID": "27432975",
     "id": "GwRRPuyV",
