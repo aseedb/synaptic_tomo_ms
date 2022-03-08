@@ -63,6 +63,16 @@
 | distal 2 ctrl --> early. p = 0.0009               |
 | distal 2 ctrl --> late. p = 0.69                  | 
 
+## significances for min distance to the AZ for near SVs (Figure 3 A first 100nm)
+### SNAP
+|               |   10  |   20   |    30   |    40   |   50   |  60  |   70   |   80   |   90   |  100  |
+|:-------------:|:-----:|:------:|:-------:|:-------:|:------:|:----:|:------:|:------:|:------:|:-----:|
+|  WT-4E t-test | -0.87 |   1.3  |   5.18  |   7.43  |  5.78  | 0.36 |  -5.73 |  -5.45 |  -3.86 | -2.64 |
+| WT-4E p-value |  0.38 |   0.2  |  2.8e-6 | 4.6e-10 | 2.8e-7 | 0.72 | 3.4e-7 | 1.0e-6 | 2.7e-4 |  0.01 |
+|  WT-4K t-test |  1.15 |  5.56  |  16.53  |  10.86  |  3.64  | -0.9 |  -5.51 |  -3.67 |  -1.83 | -1.26 |
+| WT-4K p-value |  0.25 | 7.9e-7 | 3.3e-23 | 2.1e-15 | 6.0e-4 | 0.37 | 9.3e-7 | 5.5e-4 |  0.07  |  0.21 |
+
+
 ## significances for min distance to the AZ for near SVs (Figure 3 C/D) 
 ### SNAP
 |    | mean |  std |  sem |  n | t-confidence |
