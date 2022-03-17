@@ -1528,7 +1528,7 @@
   {
     "publisher": "Proceedings of the National Academy of Sciences",
     "issue": "50",
-    "abstract": "<jats:p>Release of neurotransmitters from synaptic vesicles begins with a narrow fusion pore, the structure of which remains unresolved. To obtain a structural model of the fusion pore, we performed coarse-grained molecular dynamics simulations of fusion between a nanodisc and a planar bilayer bridged by four partially unzipped SNARE complexes. The simulations revealed that zipping of SNARE complexes pulls the polar C-terminal residues of the synaptobrevin 2 and syntaxin 1A transmembrane domains to form a hydrophilic core between the two distal leaflets, inducing fusion pore formation. The estimated conductances of these fusion pores are in good agreement with experimental values. Two SNARE protein mutants inhibiting fusion experimentally produced no fusion pore formation. In simulations in which the nanodisc was replaced by a 40-nm vesicle, an extended hemifusion diaphragm formed but a fusion pore did not, indicating that restricted SNARE mobility is required for rapid fusion pore formation. Accordingly, rapid fusion pore formation also occurred in the 40-nm vesicle system when SNARE mobility was restricted by external forces. Removal of the restriction is required for fusion pore expansion.</jats:p>",
+    "abstract": "<jats:title>Significance</jats:title>\n          <jats:p>SNARE proteins facilitate the synaptic vesicle fusion with the plasma membrane. The structure of the fusion pore and the mechanism of its formation are not clearly understood. Using coarse-grained molecular dynamics simulations of a nanodisc bridged by four SNARE proteins to a bilayer, we identify the importance of the C termini of synaptobrevin 2 and syntaxin 1 in facilitating fusion pore formation. The conductances of the simulated fusion pores agree with experimental values, and SNARE mutants that inhibit fusion experimentally fail to form fusion pores in the simulations. Confinement of SNARE complexes is essential for rapid fusion pore formation, but release of the SNARE complexes from this confinement is required for fusion pore expansion.</jats:p>",
     "DOI": "10.1073/pnas.1816495115",
     "type": "article-journal",
     "page": "12751-12756",
@@ -1557,7 +1557,7 @@
       ]
     },
     "URL": "https://doi.org/gfsd3m",
-    "container-title-short": "Proc Natl Acad Sci USA",
+    "container-title-short": "Proc. Natl. Acad. Sci. U.S.A.",
     "PMCID": "PMC6294955",
     "PMID": "30482862",
     "id": "8Axaq8nk",
