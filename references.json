@@ -46,7 +46,7 @@
     "type": "article-journal",
     "page": "308-314",
     "source": "Crossref",
-    "title": "SNARE\n            and regulatory proteins induce local membrane protrusions to prime docked vesicles for fast calcium‐triggered fusion",
+    "title": "<scp>SNARE</scp>\n            and regulatory proteins induce local membrane protrusions to prime docked vesicles for fast calcium‐triggered fusion",
     "volume": "15",
     "author": [
       {
@@ -1291,7 +1291,7 @@
         "family": "Jahn"
       }
     ],
-    "container-title": "Nature Structural & Molecular Biology",
+    "container-title": "Nature Structural &amp; Molecular Biology",
     "language": "en",
     "issued": {
       "date-parts": [
