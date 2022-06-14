@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/54ec2cdb769c70121826bd39cc51c2cb2678803f/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/54ec2cdb769c70121826bd39cc51c2cb2678803f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/54ec2cdb769c70121826bd39cc51c2cb2678803f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/ddc223741526b9f6b562dbd671c443bf2c1e3b74/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/ddc223741526b9f6b562dbd671c443bf2c1e3b74/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/ddc223741526b9f6b562dbd671c443bf2c1e3b74/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/54ec2cdb769c70121826bd39cc51c2cb2678803f/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/54ec2cdb769c70121826bd39cc51c2cb2678803f/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/ddc223741526b9f6b562dbd671c443bf2c1e3b74/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/ddc223741526b9f6b562dbd671c443bf2c1e3b74/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,9 +96,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/54ec2cdb769c70121826bd39cc51c2cb2678803f/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/ddc223741526b9f6b562dbd671c443bf2c1e3b74/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@54ec2cd](https://github.com/aseedb/synaptic_tomo_ms/tree/54ec2cdb769c70121826bd39cc51c2cb2678803f)
+from [aseedb/synaptic_tomo_ms@ddc2237](https://github.com/aseedb/synaptic_tomo_ms/tree/ddc223741526b9f6b562dbd671c443bf2c1e3b74)
 on June 14, 2022.
 </em></small>
 
@@ -581,7 +581,7 @@ Humidity was set to 100% at 4°C.
 
 ### Cryo-fluorescence microscopy
 After plunge freezing, rat synaptsome samples were imaged at the fluorescent microscope under cryo conditions, with a Zeiss Axio Scope.A1, equipped with an AxioCam MRm camera (Carl Zeiss AG, Germany), and a fluorescence lamp (HXP 120 C).
-The correlative microscopy stage (#CMS196, Linkam Scientific Instruments, UK) was cooled down to -190°C by liquid nitrogen and the frozen EM grid was placed into the chamber of the cryostage on a bridge that was not submerged in liquid nitrogen and was close to the objective, where the temperature was around -150°C.
+The correlative microscopy stage (#CMS196, Linkam Scientific Instruments, UK) was cooled down to -190°C by liquid nitrogen and the frozen EM grid was placed into the chamber of the cryostage on a bridge that was partially submerged in liquid nitrogen and was close to the objective, where the temperature was around -150°C.
 The filter set used for imaging fluorescein was #38 (#000000-1031-346, Zeiss) (BP 470/40, FT 495, BP 525/50; corresponds to GFP) and the one for calcein blue AM was #49 (#488049-9901-000, Zeiss) (G 365, FT 395, BP 445/50; corresponds to DAPI).
 The objective used was either a 10x (#420941-9911, NA = 0.25 Ph1, Zeiss) or a 50x (#422472-9900, NA = 0.55 Dic, Zeiss), the acquisition software used was AxioVision (AxioVs40x64 V 4.8.3.0, Zeiss) and the processing software was ZEN lite (Zeiss).
 
