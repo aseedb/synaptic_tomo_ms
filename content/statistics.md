@@ -234,12 +234,11 @@
 | 4K | tethered/non-tethered |         0.647        |  6/11 |  0.249  |  0.327  |
 
 ### Time Res
-|       |                       | Fraction (0 tethers) |   n   | p-value | p-value |
-|:-----:|:---------------------:|:--------------------:|:-----:|:-------:|:-------:|
-|  ctrl | tethered/non-tethered |         0.456        | 49/41 |    1    |    -    |
-| early | tethered/non-tethered |          0.2         |  36/9 |  0.0067 |    1    |
-|  late | tethered/non-tethered |         0.474        | 20/18 |  0.995  |  0.016  |
-
+|       |                       | Fraction (0 tethers) |   n   | p-value | fdr_bh corrected | p-value (not considered) |
+|:-----:|:---------------------:|:--------------------:|:-----:|:-------:|------------------|:------------------------:|
+|  ctrl | tethered/non-tethered |         0.456        | 49/41 |    1    |                  |             -            |
+| early | tethered/non-tethered |          0.2         |  36/9 |  0.0067 | 0.0134           |             1            |
+|  late | tethered/non-tethered |         0.474        | 20/18 |  0.995  | 0.995            |           0.016          |
 ## (Supplement 1 C/D chi2)
 ### SNAP
 |    | overall |
