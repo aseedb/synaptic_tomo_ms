@@ -39,14 +39,33 @@
 ### SNAP
 |                                         |
 |-----------------------------------------|
-| WT proximal --> distal 1 : p = 0.32     |
-| WT proximal --> distal 2 : p = 0.0043   |
-| 4K proximal --> intermediate : p =0.023 |
-| intermediate WT --> 4K : p = 0.082      |
-| distal 1 WT --> 4K. p=0.011             |
-| distal 1 WT --> 4E. p=0.057             |
-| distal 2 WT --> 4K. p=0.0000000….       |
-| distal 2 WT --> 4E. p=0.00000002        |
+| WT proximal --> intermediate: p = 0.494   fdr_bh corrected p = 1.35133245e-01 |
+| WT proximal --> distal 1 : p = 0.344   fdr_bh corrected p =  4.88842105e-01|
+| WT proximal --> distal 2 : p = 0.01821122  fdr_bh corrected p = 7.03302943e-02|
+| WT proximal --> distal 3 : p = 0.06005922 fdr_bh corrected p = 1.35133245e-01|
+| WT proximal --> distal 4 : p = 0.06679468 fdr_bh corrected p = 1.38727412e-01|
+| 4K proximal --> intermediate : p = 0.01823378  fdr_bh corrected p = 7.03302943e-02 |
+| 4K proximal --> distal 1 : p = 0.6756571 fdr_bh corrected p = 7.93162683e-01 |
+| 4K proximal --> distal 2 : p = 0.4965661 fdr_bh corrected p = 6.09422032e-01 |
+| 4K proximal --> distal 3 : p = 0.27723454 fdr_bh corrected p = 4.40313681e-01|
+| 4K proximal --> distal 4 : p = 0.3117293 fdr_bh corrected p = 4.67593950e-01 |
+| 4E proximal --> intermediate : p = 0.17284558  fdr_bh corrected p =  3.33345047e-01|
+| 4E proximal --> distal 1 : p = 0.2174384  fdr_bh corrected p = 3.66927300e-01|
+| 4E proximal --> distal 2 : p = 0.3976569 fdr_bh corrected p =  5.25102557e-01 |
+| 4E proximal --> distal 3 : p = 0.920432 fdr_bh corrected p =  9.91000000e-01 |
+| 4E proximal --> distal 4 : p = 0.9647386 fdr_bh corrected p = 9.91000000e-01 |
+| proximal WT --> 4K : p = 0.851537    fdr_bh corrected p = 9.57979125e-0    |
+| proximal WT --> 4E : p = 0.2070669  fdr_bh corrected p = 3.66927300e-01 |
+| intermediate WT --> 4K : p = 0.03501468   fdr_bh corrected p = 1.18174545e-01  |
+| intermediate WT --> 4E : p = 0.4084131   fdr_bh corrected p = 5.25102557e-01 |
+| distal 1 WT --> 4K. p=0.01641802   fdr_bh corrected p =  7.03302943e-02     |
+| distal 1 WT --> 4E. p=0.0566294    fdr_bh corrected p =   1.35133245e-01     |
+| distal 2 WT --> 4K. p=0.0000006   fdr_bh corrected p =    5.40000000e-06  |
+| distal 2 WT --> 4E. p=0.00000086   fdr_bh corrected p =  5.80500000e-06   |
+| distal 3 WT --> 4K p=0.991 fdr_bh corrected p = 9.91000000e-01 |
+| distal 3 WT --> 4E p=0.0000000001 fdr_bh corrected p =  1.35000000e-09 |
+| distal 4 WT --> 4K p= 0.05405452 fdr_bh corrected p = 1.35133245e-01 |
+| distal 4 WT --> 4E p= 0.0000000001 fdr_bh corrected p = 1.35000000e-09 |
 ### TimeRes
 |                                                   |
 |---------------------------------------------------|
