@@ -50,18 +50,18 @@
 ### TimeRes
 |                                                   |
 |---------------------------------------------------|
-| spray_ctrl proximal --> distal 1: p = 0.00000004  |
-| spray_ctrl proximal --> distal 2: p = 0.0000000…. |
-| early proximal --> distal 1: p = 0.0044           |
-| early proximal --> distal 2 : p = 0.0034          |
-| late proximal --> distal 1: p = 0.000000000..     |
-| late proximal --> distal 2: p = 0.000000000..     |
-| proximal ctrl --> early p = 0.09                  |
-| proximal ctrl --> late. p = 0.013                 |
-| distal 1 ctrl --> early. p = 0.0002               |
-| distal 1 ctrl --> late. p = 0.0004                |
-| distal 2 ctrl --> early. p = 0.0009               |
-| distal 2 ctrl --> late. p = 0.69                  | 
+| spray_ctrl proximal --> distal 1: p = 0.00000004   fdr_bh corrected p = 1.2e-7 |
+| spray_ctrl proximal --> distal 2: p = 0.0000000….  fdr_bh corrected p = 4e-9 |
+| early proximal --> distal 1: p = 0.0044  fdr_bh corrected p = 6.6e-3  |
+| early proximal --> distal 2 : p = 0.0034  fdr_bh corrected p =   5.83e-3 |
+| late proximal --> distal 1: p = 0.000000000..  fdr_bh corrected p = 4e-9   |
+| late proximal --> distal 2: p = 0.000000000..  fdr_bh corrected p = 4e-9  |
+| proximal ctrl --> early p = 0.09   fdr_bh corrected p = 0.0981               |
+| proximal ctrl --> late. p = 0.013   fdr_bh corrected p = 0.0156              |
+| distal 1 ctrl --> early. p = 0.0002  fdr_bh corrected p = 4.8e-4             |
+| distal 1 ctrl --> late. p = 0.0004   fdr_bh corrected p = 8e-4             |
+| distal 2 ctrl --> early. p = 0.0009  fdr_bh corrected p = 0.012             |
+| distal 2 ctrl --> late. p = 0.69    fdr_bh corrected p = 0.69              | 
 
 ## significances for min distance to the AZ for near SVs (Figure 3 A first 100nm)
 ### SNAP
