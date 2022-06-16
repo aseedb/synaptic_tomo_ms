@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/c4c0667591f37f626b16d9184365047b43892d2b/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c4c0667591f37f626b16d9184365047b43892d2b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c4c0667591f37f626b16d9184365047b43892d2b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/2a3116630aa686e14d7d060ec4d3b187715ee6f6/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/2a3116630aa686e14d7d060ec4d3b187715ee6f6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/2a3116630aa686e14d7d060ec4d3b187715ee6f6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/c4c0667591f37f626b16d9184365047b43892d2b/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/c4c0667591f37f626b16d9184365047b43892d2b/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/2a3116630aa686e14d7d060ec4d3b187715ee6f6/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/2a3116630aa686e14d7d060ec4d3b187715ee6f6/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,9 +96,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/c4c0667591f37f626b16d9184365047b43892d2b/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/2a3116630aa686e14d7d060ec4d3b187715ee6f6/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@c4c0667](https://github.com/aseedb/synaptic_tomo_ms/tree/c4c0667591f37f626b16d9184365047b43892d2b)
+from [aseedb/synaptic_tomo_ms@2a31166](https://github.com/aseedb/synaptic_tomo_ms/tree/2a3116630aa686e14d7d060ec4d3b187715ee6f6)
 on June 16, 2022.
 </em></small>
 
