@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/1c2182316e3387770cc94e20f3272b7b652b9168/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/1c2182316e3387770cc94e20f3272b7b652b9168/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/1c2182316e3387770cc94e20f3272b7b652b9168/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/044e925541df42a4e20b6a24f619cdb934ae8b3e/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/044e925541df42a4e20b6a24f619cdb934ae8b3e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/044e925541df42a4e20b6a24f619cdb934ae8b3e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/1c2182316e3387770cc94e20f3272b7b652b9168/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/1c2182316e3387770cc94e20f3272b7b652b9168/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/044e925541df42a4e20b6a24f619cdb934ae8b3e/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/044e925541df42a4e20b6a24f619cdb934ae8b3e/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,9 +96,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/1c2182316e3387770cc94e20f3272b7b652b9168/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/044e925541df42a4e20b6a24f619cdb934ae8b3e/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@1c21823](https://github.com/aseedb/synaptic_tomo_ms/tree/1c2182316e3387770cc94e20f3272b7b652b9168)
+from [aseedb/synaptic_tomo_ms@044e925](https://github.com/aseedb/synaptic_tomo_ms/tree/044e925541df42a4e20b6a24f619cdb934ae8b3e)
 on June 19, 2022.
 </em></small>
 
@@ -348,7 +348,7 @@ In the late fusion group, however, 53% of the proximal vesicles were tethered, w
 The average number of tethers per proximal SV followed the same pattern. Proximal SVs had 0.89 ± 0.12 tethers in the non-sprayed group (Figure {@fig:tethers}D). 
 This parameter rose to 2.09 ± 0.33 in the early fusion group, while it returned to 1.00 ± 0.20 in the late fusion group.
 
-![**Proximal SV tethering.** (A, B) Fraction of proximal SVs that are triple tethered. Each bar shows the overall fraction of all proximal SVs from a given experimental condition. Each dot represents the value of an individual synapse. Statistical test: χ^2^ test. (C, D) Number of tethers per proximal SV. Each dot represents an individual SV. The vertical line represents the mean value, and the horizontal whiskers correspond to the 95% confidence interval. Statistical test: t-test.](images/202201_Figure4_tether.svg){#fig:tethers width="15cm"}
+![**Proximal SV tethering.** (A, B) Fraction of proximal SVs that are triple tethered. Each bar shows the overall fraction of all proximal SVs from a given experimental condition. Each dot represents the value of an individual synapse. Statistical test: χ^2^ test. (C, D) Number of tethers per proximal SV. Each dot represents an individual SV. The vertical line represents the mean value, and the horizontal whiskers correspond to the 95% confidence interval. Statistical test: t-test.](images/vesicle_tethers.svg){#fig:tethers width="15cm"}
 
 We then analyzed whether the decreased occupancy in the late fusion group was associated with a decreased number of triple-tethered SVs, (defined as SV with at least three tethers) which as mentioned in the introduction are suggested to belong to the RRP. 
 In resting, non-sprayed synapses 8% of the proximal SVs were triple-tethered (Figure {@fig:tethers}B). 
@@ -394,7 +394,7 @@ Only subsequently, these newly tethered vesicles get interconnected.
 Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices).
 This, in addition to passive diffusion, can contribute to replenishing the RRP.
 
-![**SV connectivity.** (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each solid line represents the average value of all SVs belonging to a particular experimental condition. Shaded areas represent 95%-confidence interval ranges. (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (D). (E, F) Number of connectors per proximal SV belonging or not to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per tethered or non-tethered proximal SV for mouse neurons (G) and rat synaptosomes (H). \*: P<0.05.](images/202201_Figure5_connectors.svg){#fig:connectors width="15cm"}
+![**SV connectivity.** (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each solid line represents the average value of all SVs belonging to a particular experimental condition. Shaded areas represent 95%-confidence interval ranges. (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (D). (E, F) Number of connectors per proximal SV belonging or not to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per tethered or non-tethered proximal SV for mouse neurons (G) and rat synaptosomes (H). \*: P<0.05.](images/vesicle_connectors.svg){#fig:connectors width="15cm"}
 
 We then analyzed SNAP-25 neurons.
 For SNAP-25-WT, similarly to non-sprayed synaptosome, the fraction of connected SVs was significantly higher in the distal 2 region than in the proximal region (p<0.01), albeit the absolute values were overall lower than in synaptosomes (Figure {@fig:connectors}C).
@@ -643,11 +643,13 @@ The source code and data for this manuscript are available at <https://github.co
 ## Supplementary Material {.page_break_before}
 
 ### Supplementary Figures
+![**Schematic representation of a spray-mixing plunge-freezing experiment. In a single experiment different synaptosomes get stimulated for between less than 1 ms and 7 ms.** An EM-grid is held by tweezers and is covered with synaptosomes in HBM-solution. A magnified view of a grid squares shows synaptosomes in blue and their synpatic state of three synapsomes is represented on the rightmost part of each panel. Panel (A) represents the situation right after blotting off solution excess. The grid is accelerated towards the spray and the cryogen. Panel (B) shows a snapshot of the experiment when the grid crosses the spray, 7 ms before the freezing. Some fluorescently dyed droplets containing HBM with 52 mM KCl land on the grid and are depicted in green. At this time point, a synaptosome located at the impact point of a droplet is activated and is depicted in dark blue. Panel (C) shows a snapshot 5 ms later, i.e. 2 ms before freezing. As KCl diffuses away from droplet impacts points, another synaptosomes gets activated because, locally KCl concentration has reached reached a concentration to depolarize enough the synaptosome so that voltage-gated calcium chanels open. Panel (D) shows a synaptosome at the time of impact with ethane. 0.1 ms before freezing a third synaptosome got exposed to a high enough concentration of KCl and got stimulated.](images/spray_freeze_workflow.png){#fig:suppl_spray_workflow width="15cm" tag="S1"}
+
 ![(A, B) Tomographic slice without (A) and with (B) segmentation of synaptosome with late fusion events.
 (C,D) Tomographic slice without (C) and with (D) segmentation of WT SNAP-25 neurons.
 Segmentation colors: off-white = cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; yellow = connectors, red = tethers
 Scale bar, 100 nm
-](images/tomogram_slices.png){#fig:suppl_tomogram_slices width="15cm" tag="S1"}
+](images/tomogram_slices.png){#fig:suppl_tomogram_slices width="15cm" tag="S2"}
 
 ![(A, B) Histogram of the number of tethers per proximal SV. 
 (C, D) Histogram of  the number of connectors per proximal non-RRP SV.
@@ -656,11 +658,11 @@ Scale bar, 100 nm
 (I, J) Histogram of connected SV amongst proximal non-RRP or RRP SVs.
 (A, C, E, G, I) Synapses in mouse cultured neurons.
 (B, D, F, H, J) Rat synaptosomes.
-](images/2201_Supplement2.png){#fig:suppl_histograms width="15cm" tag="S2"}
+](images/supplementary_graphs.png){#fig:suppl_histograms width="15cm" tag="S3"}
 
 ![(A, B) Tomographic slices showing tethered connected vesicles, blue arrows highlight the connectors.
 Scale bar, 50 nm
-](images/supplementary_connected_vesicles.png){#fig:suppl_connected_slices width="8cm" tag="S3"}
+](images/supplementary_connected_vesicles.png){#fig:suppl_connected_slices width="8cm" tag="S4"}
 
 
 ### Supplementary Movies
