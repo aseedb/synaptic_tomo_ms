@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/044e925541df42a4e20b6a24f619cdb934ae8b3e/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/044e925541df42a4e20b6a24f619cdb934ae8b3e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/044e925541df42a4e20b6a24f619cdb934ae8b3e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/c319aba248027cc18f127c7d012be2c24eb6c346/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c319aba248027cc18f127c7d012be2c24eb6c346/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c319aba248027cc18f127c7d012be2c24eb6c346/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/044e925541df42a4e20b6a24f619cdb934ae8b3e/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/044e925541df42a4e20b6a24f619cdb934ae8b3e/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/c319aba248027cc18f127c7d012be2c24eb6c346/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/c319aba248027cc18f127c7d012be2c24eb6c346/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,9 +96,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/044e925541df42a4e20b6a24f619cdb934ae8b3e/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/c319aba248027cc18f127c7d012be2c24eb6c346/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@044e925](https://github.com/aseedb/synaptic_tomo_ms/tree/044e925541df42a4e20b6a24f619cdb934ae8b3e)
+from [aseedb/synaptic_tomo_ms@c319aba](https://github.com/aseedb/synaptic_tomo_ms/tree/c319aba248027cc18f127c7d012be2c24eb6c346)
 on June 19, 2022.
 </em></small>
 
@@ -262,16 +262,24 @@ Altogether, our results indicate a regulation through connectors of SV mobility 
 
 ## Results
 
-To analyze the morphological changes occurring in the presynpase shortly after stimulation, we pursued a time-resolved cryo-electron tomography approach.
-A 52-mM KCl containing buffer was sprayed with an atomizer to depolarize synaptosomes and stimulate exocytosis milliseconds before vitrification.
+To analyze the morphological changes occurring in the presynpase shortly after stimulation, we pursued a time-resolved cryo-electron tomography approach `similar to the one introduced by Heuser, Reese, and colleagues [@doi:10.1083/jcb.81.2.275].
+Whereas Heuser et al. used an electrical stimulus, we chose to trigger exocytosis by spraying a depolarizing solution containing 52-mM KCl onto the specimen a few milliseconds before freezing for two reasons.
+Firstly, cryo-ET requires samples to be plunge-frozen directly on an EM grid, which is not compatible with electrical stimulation.
+Secondly, this method allows to catch synapses at delays between stimulation and freezing lower than a millisecond, as explained below. 
+The delays achieved here are shorter than those attained by electrical stimulation given the uncertainty on the exact time of freezing.
+The solution was sprayed with an atomizer and droplets hit the EM grid a few milliseconds before freezing.
+The spray-mixing plunge freezing setup was custom built based on a system introduced by Berriman and Unwin [@doi:10/ctwp5j]`{.yellow}
 The spray droplet size was optimized by cutting a 1-ml pipet tip to a diameter matching an EM grid (3 mm) and fixed to the atomizer glass outlet to disperse the spray (Figure {@fig:workflow}A1).
 Furthermore, to achieve the shortest possible delay between spraying and freezing, the nozzle was set 1-2 mm above the liquid ethane container.
-This generated many small spray droplets spread throughout the grid (Figure {@fig:workflow}A2-A4).
+This generated many small spray droplets spread throughout the grid (Figure {@fig:workflow}A2-A4, Supplementary Figure @fig:suppl_spray_workflow).
 Even if sprayed droplets were well distributed throughout the grid, not all synaptosomes were in contact with exocytosis-triggering KCl solution.
+`Synaptosomes located on the landing spot of a droplet were stimulated instantly and therefore were frozen for a delay equal to the time between the grid crossing the spray and hitting the cryogen (typically set at 7 or 35 ms; Supplementary Figure @{fig:suppl_spray_workflow}B).
+However, synaptosomes situated at a distance from a landing spot were only stimulated when the KCl concentration rose due to diffusion reached a threshold triggering voltage-gated calcium chanel opening (Supplementary Figure @{fig:suppl_spray_workflow}C and D). 
+Through this process, we were able to trap stimulated synapses at the very earliest stages of exocytosis.`{.yellow}
 Given the very low throughput of cryo-electron tomography, we followed a correlative light and electron microscopy approach.
-By cryo-fluorescence microscopy, we identified areas where synaptosomes fluorescently labeled by calcein blue and spray droplets labeled by fluorescine were colocalized.
+By cryo-fluorescence microscopy, we identified areas where synaptosomes fluorescently labeled by calcein blue and spray droplets labeled by fluoresceine were colocalized.
 Additionally, phase contrast imaging enabled quality control of the frozen EM grid with respect to ice contamination and ice cracks, as shown previously [@doi:10.1016/j.jsb.2007.07.011].
-9 control and 9 stimulated synaptosome tomograms were analyzed (Supplementary Figure {fig:suppl_tomogram_slices}A and B, Supplementary Movie [S1](#vid:synaptosome)).
+9 control and 9 stimulated synaptosome tomograms were analyzed (Supplementary Figure {@fig:suppl_tomogram_slices}A and B, Supplementary Movie [S1](#vid:synaptosome)).
 We restricted our analysis to synaptosomes that possessed a smooth PM, free of signs of rupturing and that had a mitochondrion, as we considered these factors essential for synaptosome function.
 
 In addition, we manipulated the electrostatic state of the SNARE complex through mutated SNAP-25 protein introduced using lentiviral vectors into primary SNAP-25 knockout neurons grown on EM grids [@doi:10.1016/j.celrep.2019.01.103] (Figure {@fig:workflow}B1-B4). 
@@ -288,15 +296,15 @@ Thereby, we could image chronically overactive or inactive synapses and relate p
 ### Increased membrane curvature at the onset of exocytosis
 
 We analyzed the morphology of SVs fusing with the AZ PM.
-Synaptosomes of a single grid have not all been stimulated for the same duration.
-Some synaptosomes have been in contact with the stimulating solution from the moment the droplet touched the grid, while others were not at all in contact with the stimulating solution because no droplet landed close enough to them.
-Importantly, some synaptosomes were located near the point of impact of a droplet, in which case, it took some time for KCl to diffuse until the concentration around these synaptosomes rose sufficiently to trigger exocytosis.
-Therefore, the time interval between triggering exocytosis and freezing ranged between 0 ms and the interval between spray droplets hitting the grid and freezing, which was comprised between 7 and 35 ms depending on the experiments (see [@doi:10/ctwp5j]).
-This time window, and the diffusional delay of the 52 mM KCl, made it possible to identify synaptosomes at different stages of fusion.
+`As explained above,`{.yellow} synaptosomes of a single grid have not all been stimulated for the same duration (Supplementary Figure @fig:suppl_spray_workflow).
+The time interval between triggering exocytosis and freezing ranged between 0 ms and the interval between spray droplets hitting the grid and freezing, which was comprised between 7 and 35 ms depending on the experiments (see [@doi:10/ctwp5j]). 
+`This offered the unique possibility to observe SV exocytosis events immediately after their initiation, and even before membranes have started to mix.`{.yellow})
 
 
 Synaptosomes from both control and sprayed grids were thoroughly analyzed for signs of exocytosis, which consisted of  morphological changes of the AZ PM and the tethered SV occurring upon stimulation, which are described hereafter.
-These signs were only detected in synaptosomes from sprayed grids and are presented in the most parsimonious  chronological order.
+These signs were only detected in synaptosomes from sprayed grids`.
+We analysed non-sprayed tomograms not only acquired specifically for this study but also from past studies and from hundreds of SVs at the active zone we found no sign of exocytosis.`{.yellow}
+Thereafter the snapshots of exocytosis are presented in the most parsimonious chronological order.
 Upon stimulation, both the vesicle membrane and the PM were slightly bent towards each other (Figure {@fig:membrane_morphology}B1-B3; orange arrows).
 These structures, which have previously been reported in liposomes but not in synapses, have been referred to as membrane curvature events [@doi:10.1016/j.cell.2010.02.017].
 Control synaptosomes (i.e. not sprayed) on the other hand, had a straight PM, and no SV membrane was buckled (Figure {@fig:membrane_morphology}A).
@@ -416,11 +424,13 @@ Combining cryo-ET with spray-mixing plunge-freezing enabled us to investigate th
 
 ### Membrane curvature increases following depolarization
 Depolarization through spraying droplets of KCl solution on synaptosomes milliseconds before freezing allowed us to capture snapshots of exocytosis (Figure {@fig:membrane_morphology}B1-B3).
+`In spite of the uncertainty on the exact delay between stimulation and freezing, our approach allowed access to shorter delays than any other time-resolved cryo-EM technique.
+The temporal sorting of observed exocytosis snapshots was done in the most parsimonious way.`{.yellow}
 We observed that the curvature of some PM regions facing some SVs increased following depolarization.
 The SV facing such a PM buckling also seemed to get kinked.
 These deformations were not seen in non-sprayed synaptosomes.
-This indicates that in functional synapses exocytosis starts with a Ca^2+^-dependent membrane deformation.
-The latter may be caused by the intercalation of synaptotagmin-1 C2A and C2B domains between membrane head groups.
+This indicates that in functional synapses exocytosis starts with a Ca^2+^-dependent membrane deformation`, which is supported by a wealth of in vitro biochemical data [@doi:10.1016/j.cell.2010.02.017;@doi:10.1146/annurev-biophys-111821-104732].`{.yellow}
+Deformation may be caused in part by the intercalation of synaptotagmin-1 C2A and C2B domains between membrane head groups.
 A recent biophysical study indicated that C2A and C2B preferably insert in SV membrane and PM, respectively [@doi:10.1016/j.bpj.2019.06.016].
 It may also be due to the tension/force induced by SNARE-complex zippering [@doi:10.1126/science.1224492].
 Subsequent snapshots showed a fuzzy contact point between the SV and the PM, which likely corresponds to lipid splaying or the merging of the two membranes.
