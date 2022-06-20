@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="241.53754mm"
-   height="299.16995mm"
-   viewBox="0 0 241.53754 299.16995"
+   width="247.97226mm"
+   height="306.33881mm"
+   viewBox="0 0 247.97226 306.3388"
    version="1.1"
    id="svg44699"
    inkscape:version="1.2 (56b05e47e7, 2022-06-09, custom)"
@@ -58236,11 +58236,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.96102398"
-     inkscape:cx="454.7233"
-     inkscape:cy="281.4706"
+     inkscape:zoom="0.63"
+     inkscape:cx="442.85714"
+     inkscape:cy="603.96825"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1608"
      inkscape:window-height="986"
@@ -58266,7 +58266,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(4.6506775,-7.0600055)">
+     transform="translate(7.0243582,-3.631044)">
+    <rect
+       style="fill:#ffffff;stroke:#373737;stroke-width:0.465;stroke-dashoffset:2.00315"
+       id="rect15887"
+       width="247.50726"
+       height="305.87381"
+       x="-6.7918582"
+       y="3.863544" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot31906-3"
@@ -59705,7 +59712,7 @@
     </g>
     <g
        id="legend_1-9"
-       transform="matrix(0.2912608,0,0,0.28609269,85.315903,39.309551)"
+       transform="matrix(0.2912608,0,0,0.28609269,85.315903,38.780384)"
        style="stroke-linecap:butt;stroke-linejoin:round">
       <g
          id="patch_7-1">
@@ -59756,7 +59763,7 @@
            style="font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect535305);display:inline"><tspan
              x="545.0625"
              y="413.1875"
-             id="tspan31573">non sprayed</tspan></text>
+             id="tspan79106">non sprayed</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.90840694,0,0,0.85208563,-63.688563,-303.35185)"
@@ -59764,7 +59771,7 @@
            style="font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect543333);display:inline"><tspan
              x="561.98438"
              y="454.66797"
-             id="tspan31575">early fusion</tspan></text>
+             id="tspan79108">early fusion</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.90840694,0,0,0.85208563,-64.114379,-286.87164)"
@@ -59772,7 +59779,7 @@
            style="font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect543333-8);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
              x="561.98438"
              y="454.66797"
-             id="tspan31577">late fusion</tspan></text>
+             id="tspan79110">late fusion</tspan></text>
       </g>
       <g
          id="line2d_11">
@@ -69112,7 +69119,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect50154);display:inline"><tspan
          x="283.74219"
          y="-113.15427"
-         id="tspan31579">Distance [nm]</tspan></text>
+         id="tspan79112">Distance [nm]</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,95.954194,107.55127)"
@@ -69120,7 +69127,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect50154-4);display:inline"><tspan
          x="283.74219"
          y="-113.15427"
-         id="tspan31581">Distance [nm]</tspan></text>
+         id="tspan79114">Distance [nm]</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,95.20962,193.3045)"
@@ -69128,7 +69135,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect50154-4-5);display:inline"><tspan
          x="283.74219"
          y="-113.15427"
-         id="tspan31583">Distance [nm]</tspan></text>
+         id="tspan79116">Distance [nm]</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458333,0.26458333,0,28.931925,139.13731)"
@@ -69136,7 +69143,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect61742);display:inline"><tspan
          x="255.96094"
          y="-93.81833"
-         id="tspan31585">Number of connectors per SVs</tspan></text>
+         id="tspan79118">Number of connectors per SVs</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458333,0.26458333,0,151.16248,139.0316)"
@@ -69144,7 +69151,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect61742-84);display:inline"><tspan
          x="255.96094"
          y="-93.81833"
-         id="tspan31587">Number of connectors per SVs</tspan></text>
+         id="tspan79120">Number of connectors per SVs</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-26.964275,193.3045)"
@@ -69152,7 +69159,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect50154-4-5-3);display:inline"><tspan
          x="283.74219"
          y="-113.15427"
-         id="tspan31589">Distance [nm]</tspan></text>
+         id="tspan79122">Distance [nm]</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458333,0.26458333,0,-101.64041,99.112176)"
@@ -69160,7 +69167,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect94385-1);display:inline"><tspan
          x="-199.125"
          y="401.7637"
-         id="tspan31591">Fraction of connected SVs</tspan></text>
+         id="tspan79124">Fraction of connected SVs</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458333,0.26458333,0,20.527724,99.138036)"
@@ -69168,7 +69175,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect94385-1-6);display:inline"><tspan
          x="-199.125"
          y="401.7637"
-         id="tspan31593">Fraction of connected SVs</tspan></text>
+         id="tspan79126">Fraction of connected SVs</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:47.5703;display:inline;stroke-width:0.264583"
@@ -69178,14 +69185,14 @@
        transform="rotate(-90,-4.2084354,193.49266)"><tspan
          x="-36.220608"
          y="197.21864"
-         id="tspan31597"><tspan
+         id="tspan79130"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan31595">Number of connectors </tspan></tspan><tspan
+           id="tspan79128">Number of connectors </tspan></tspan><tspan
          x="-36.220608"
          y="202.06934"
-         id="tspan31601"><tspan
+         id="tspan79134"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan31599">per proximal SVs</tspan></tspan></text>
+           id="tspan79132">per proximal SVs</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:47.5703;display:inline;stroke-width:0.264583"
@@ -69195,14 +69202,14 @@
        transform="rotate(-90,56.44418,133.14892)"><tspan
          x="-36.220608"
          y="197.21864"
-         id="tspan31605"><tspan
+         id="tspan79138"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan31603">Number of connectors </tspan></tspan><tspan
+           id="tspan79136">Number of connectors </tspan></tspan><tspan
          x="-36.220608"
          y="202.06934"
-         id="tspan31609"><tspan
+         id="tspan79142"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan31607">per proximal SVs</tspan></tspan></text>
+           id="tspan79140">per proximal SVs</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:47.5703;display:inline;stroke-width:0.264583"
@@ -69212,14 +69219,14 @@
        transform="rotate(-90,30.137912,228.32585)"><tspan
          x="-36.220608"
          y="197.21864"
-         id="tspan31613"><tspan
+         id="tspan79146"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan31611">Number of connectors </tspan></tspan><tspan
+           id="tspan79144">Number of connectors </tspan></tspan><tspan
          x="-36.220608"
          y="202.06934"
-         id="tspan31617"><tspan
+         id="tspan79150"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan31615">per proximal SVs</tspan></tspan></text>
+           id="tspan79148">per proximal SVs</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.88056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:47.5703;display:inline;stroke-width:0.264583"
@@ -69229,14 +69236,14 @@
        transform="rotate(-90,91.841046,168.64472)"><tspan
          x="-36.220608"
          y="197.21864"
-         id="tspan31621"><tspan
+         id="tspan79154"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan31619">Number of connectors </tspan></tspan><tspan
+           id="tspan79152">Number of connectors </tspan></tspan><tspan
          x="-36.220608"
          y="202.06934"
-         id="tspan31625"><tspan
+         id="tspan79158"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan31623">per proximal SVs</tspan></tspan></text>
+           id="tspan79156">per proximal SVs</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458334,0,0,0.26458335,51.289417,-159.80879)"
@@ -69244,11 +69251,11 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect89195-7);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="89.939453"
          y="1490.6153"
-         id="tspan31627">vesicles with 
+         id="tspan79160">vesicles with 
 </tspan><tspan
          x="89.939453"
          y="1508.9486"
-         id="tspan31629">≥,3 tethers</tspan></text>
+         id="tspan79162">≥,3 tethers</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458334,0,0,0.26458335,172.97343,-159.80879)"
@@ -69256,11 +69263,11 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect89195-7-0);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="89.939453"
          y="1490.6153"
-         id="tspan31631">vesicles with 
+         id="tspan79164">vesicles with 
 </tspan><tspan
          x="89.939453"
          y="1508.9486"
-         id="tspan31633">≥,3 tethers</tspan></text>
+         id="tspan79166">≥,3 tethers</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458334,0,0,0.26458335,0.13453841,-159.61078)"
@@ -69268,11 +69275,11 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect89195-7-3);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="89.939453"
          y="1490.6153"
-         id="tspan31635">vesicles with 
+         id="tspan79168">vesicles with 
 </tspan><tspan
          x="89.939453"
          y="1508.9486"
-         id="tspan31637">0-2 tethers</tspan></text>
+         id="tspan79170">0-2 tethers</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458334,0,0,0.26458335,121.34356,-159.61078)"
@@ -69280,11 +69287,11 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect89195-7-3-0);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="89.939453"
          y="1490.6153"
-         id="tspan31639">vesicles with 
+         id="tspan79172">vesicles with 
 </tspan><tspan
          x="89.939453"
          y="1508.9486"
-         id="tspan31641">0-2 tethers</tspan></text>
+         id="tspan79174">0-2 tethers</tspan></text>
     <g
        id="legend_1-7"
        transform="matrix(0.28942169,0,0,0.28701732,-111.51961,38.658269)"
@@ -69400,7 +69407,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="statistics"
-     transform="translate(4.6506775,-7.0600055)">
+     transform="translate(7.0243582,-3.631044)">
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.275889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 141.13505,170.87109 0.13151,-2.30788 v 0 0 l 32.91737,0.0309 0.0482,2.30512"
@@ -71051,7 +71058,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect259818);display:inline"><tspan
          x="-226.27344"
          y="881.77542"
-         id="tspan31643">tethered SVs</tspan></text>
+         id="tspan79176">tethered SVs</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,80.303126,72.87193)"
@@ -71059,7 +71066,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect259818-4);display:inline"><tspan
          x="-226.27344"
          y="881.77542"
-         id="tspan31645">non-tethered SVs</tspan></text>
+         id="tspan79178">non-tethered SVs</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,257.14724,72.87193)"
@@ -71067,7 +71074,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect259818-3);display:inline"><tspan
          x="-226.27344"
          y="881.77542"
-         id="tspan31647">tethered SVs</tspan></text>
+         id="tspan79180">tethered SVs</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,200.85151,72.87193)"
@@ -71075,6 +71082,6 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect259818-4-0);display:inline"><tspan
          x="-226.27344"
          y="881.77542"
-         id="tspan31649">non-tethered SVs</tspan></text>
+         id="tspan79182">non-tethered SVs</tspan></text>
   </g>
 </svg>
