@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="260.67813mm"
-   height="145.21893mm"
-   viewBox="0 0 260.67813 145.21893"
+   width="266.1817mm"
+   height="149.79817mm"
+   viewBox="0 0 266.1817 149.79817"
    version="1.1"
    id="svg31353"
-   inkscape:version="1.2 (56b05e47e7, 2022-06-09, custom)"
-   sodipodi:docname="202201_Figure4_tether.svg"
-   inkscape:export-filename="../../../../../home/ela/Documents/2201_Figure4.png"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="vesicle_tethers.svg"
+   inkscape:export-filename="../../../phd_thesis/content/images/2201_Figure4.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -64704,15 +64704,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.63"
-     inkscape:cx="504.7619"
-     inkscape:cy="345.2381"
+     inkscape:cx="360.31746"
+     inkscape:cy="357.93651"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1608"
-     inkscape:window-height="986"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
+     inkscape:window-width="761"
+     inkscape:window-height="870"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="0"
      inkscape:snap-midpoints="false"
@@ -64723,7 +64723,7 @@
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
-       position="297.80867,-16.557075"
+       position="300.12533,-13.930306"
        orientation="1,0"
        id="guide186128"
        inkscape:locked="false" />
@@ -64743,37 +64743,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1.5505804,-14.150752)">
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot31906-1"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-9.9460471,58.176328)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion31908-7"><rect
-           id="rect31910-7"
-           width="21.126757"
-           height="50.704216"
-           x="42.253521"
-           y="88.716866" /></flowRegion><flowPara
-         id="flowPara31912-1"
-         style="font-size:21.3333px">C </flowPara></flowRoot>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot31906-1-1"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,116.79922,58.101914)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion31908-7-5"><rect
-           id="rect31910-7-9"
-           width="56.566414"
-           height="46.644024"
-           x="42.253521"
-           y="88.716866" /></flowRegion><flowPara
-         id="flowPara31912-1-7"
-         style="font-size:21.3333px">D </flowPara></flowRoot>
+     transform="translate(0.76608515,-12.198282)">
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.450001;stroke-opacity:1"
+       id="rect33992"
+       width="265.73169"
+       height="149.34818"
+       x="-0.54108465"
+       y="12.423283" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot28220"
@@ -64797,36 +64774,6 @@
          x="373.47766"
          y="-23.645395"
          sodipodi:role="line" /></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot31906"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-9.673196,-14.571187)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion31908"><rect
-           id="rect31910"
-           width="21.126757"
-           height="50.704216"
-           x="42.253521"
-           y="88.716866" /></flowRegion><flowPara
-         id="flowPara31912"
-         style="font-size:21.3333px">A </flowPara></flowRoot>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot31906-3"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,117.03624,-14.571187)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"><flowRegion
-         id="flowRegion31908-1"><rect
-           id="rect31910-9"
-           width="21.126757"
-           height="50.704216"
-           x="42.253521"
-           y="88.716866" /></flowRegion><flowPara
-         id="flowPara31912-4"
-         style="font-size:21.3333px">B </flowPara></flowRoot>
     <g
        id="axes_1"
        style="stroke-linecap:butt;stroke-linejoin:round"
@@ -66534,24 +66481,24 @@
          id="text432887"
          style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect432889);display:inline"><tspan
            x="13.494141"
-           y="386.97659"
-           id="tspan31645">WT</tspan></text>
+           y="387.34487"
+           id="tspan116964">WT</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.86746697,0,0,0.98996123,18.148709,-236.03966)"
          id="text432887-5"
          style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect432889-8);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
            x="13.494141"
-           y="386.97659"
-           id="tspan31647">4E</tspan></text>
+           y="387.34487"
+           id="tspan116966">4E</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.86746697,0,0,0.98996123,17.456033,-162.82608)"
          id="text432887-4"
          style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect432889-3);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
            x="13.494141"
-           y="386.97659"
-           id="tspan31649">4K</tspan></text>
+           y="387.34487"
+           id="tspan116968">4K</tspan></text>
     </g>
     <g
        id="axes_1-9"
@@ -69726,24 +69673,24 @@
          id="text396835"
          style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect396837);display:inline"><tspan
            x="458.38672"
-           y="393.71097"
-           id="tspan31651">non sprayed</tspan></text>
+           y="394.07924"
+           id="tspan116970">non sprayed</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.86761406,0,0,0.99709041,-356.43923,-310.68965)"
          id="text406047"
          style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect406049);display:inline"><tspan
            x="434.44727"
-           y="457.48245"
-           id="tspan31653">early fusion</tspan></text>
+           y="457.85073"
+           id="tspan116972">early fusion</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.86761406,0,0,0.99709041,-348.66628,-235.62829)"
          id="text406047-6"
          style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect406049-8);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
            x="434.44727"
-           y="457.48245"
-           id="tspan31655">late fusion</tspan></text>
+           y="457.85073"
+           id="tspan116974">late fusion</tspan></text>
     </g>
     <g
        id="g2418"
@@ -70426,16 +70373,16 @@
        id="text24319"
        style="font-size:14.3804px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect24321);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="-252.57422"
-         y="201.02016"
-         id="tspan31657">Fraction of proximal SVs</tspan></text>
+         y="201.38124"
+         id="tspan116976">Fraction of proximal SVs</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458335,0.27522323,0,90.724532,8.3406264)"
        id="text24319-49"
        style="font-size:14.3804px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect24321-6);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="-252.57422"
-         y="201.02016"
-         id="tspan31659">Fraction of proximal SVs</tspan></text>
+         y="201.38124"
+         id="tspan116978">Fraction of proximal SVs</tspan></text>
     <g
        id="matplotlib.axis_2-9-1"
        style="stroke-linecap:butt;stroke-linejoin:round"
@@ -70612,55 +70559,115 @@
        id="text89193-1"
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect89195-7);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="89.939453"
-         y="1490.6153"
-         id="tspan31661">vesicles with 
+         y="1490.9835"
+         id="tspan116980">vesicles with 
 </tspan><tspan
          x="89.939453"
-         y="1508.9486"
-         id="tspan31663">≥,3 tethers</tspan></text>
+         y="1509.3169"
+         id="tspan116982">≥,3 tethers</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458334,0,0,0.26458335,143.81495,-311.76439)"
        id="text89193-2-4"
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect89195-0-4);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="89.939453"
-         y="1490.6153"
-         id="tspan31665">vesicles with 
+         y="1490.9835"
+         id="tspan116984">vesicles with 
 </tspan><tspan
          x="89.939453"
-         y="1508.9486"
-         id="tspan31667">0-2 tethers</tspan></text>
+         y="1509.3169"
+         id="tspan116986">0-2 tethers</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458334,0,0,0.26458335,57.963188,-312.27107)"
        id="text89193-1-7"
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect89195-7-3);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="89.939453"
-         y="1490.6153"
-         id="tspan31669">vesicles with 
+         y="1490.9835"
+         id="tspan116988">vesicles with 
 </tspan><tspan
          x="89.939453"
-         y="1508.9486"
-         id="tspan31671">≥,3 tethers</tspan></text>
+         y="1509.3169"
+         id="tspan116990">≥,3 tethers</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458334,0,0,0.26458335,6.4019968,-312.27107)"
        id="text89193-2-4-5"
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect89195-0-4-6);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="89.939453"
-         y="1490.6153"
-         id="tspan31673">vesicles with 
+         y="1490.9835"
+         id="tspan116992">vesicles with 
 </tspan><tspan
          x="89.939453"
-         y="1508.9486"
-         id="tspan31675">0-2 tethers</tspan></text>
+         y="1509.3169"
+         id="tspan116994">0-2 tethers</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot31906-1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.9460471,58.176328)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion31908-7"><rect
+           id="rect31910-7"
+           width="21.126757"
+           height="50.704216"
+           x="42.253521"
+           y="88.716866" /></flowRegion><flowPara
+         id="flowPara31912-1"
+         style="font-size:21.3333px">C </flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot31906-1-1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,116.79922,58.101914)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion31908-7-5"><rect
+           id="rect31910-7-9"
+           width="56.566414"
+           height="46.644024"
+           x="42.253521"
+           y="88.716866" /></flowRegion><flowPara
+         id="flowPara31912-1-7"
+         style="font-size:21.3333px">D </flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot31906"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.673196,-14.571187)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion31908"><rect
+           id="rect31910"
+           width="21.126757"
+           height="50.704216"
+           x="42.253521"
+           y="88.716866" /></flowRegion><flowPara
+         id="flowPara31912"
+         style="font-size:21.3333px">A </flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot31906-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,117.03624,-14.571187)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion31908-1"><rect
+           id="rect31910-9"
+           width="21.126757"
+           height="50.704216"
+           x="42.253521"
+           y="88.716866" /></flowRegion><flowPara
+         id="flowPara31912-4"
+         style="font-size:21.3333px">B </flowPara></flowRoot>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="significance"
      style="display:inline"
-     transform="translate(-1.5505804,-14.150752)">
+     transform="translate(0.76608515,-12.198282)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.209304;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 215.80867,48.774893 0.0738,-2.366989 v 0 0 l 18.4726,0.03168 0.0271,2.364159"
@@ -70732,15 +70739,15 @@
        id="text38565-5-2-9-6"
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect38567-3-1-8-3);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="-204.17188"
-         y="320.46292"
-         id="tspan31677">Number of tethers</tspan></text>
+         y="320.83119"
+         id="tspan116996">Number of tethers</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458335,102.64823,74.525576)"
        id="text38565-5-2-9-6-2"
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect38567-3-1-8-3-8);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="-204.17188"
-         y="320.46292"
-         id="tspan31679">Number of tethers</tspan></text>
+         y="320.83119"
+         id="tspan116998">Number of tethers</tspan></text>
   </g>
 </svg>
