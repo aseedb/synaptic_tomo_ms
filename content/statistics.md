@@ -1,5 +1,67 @@
-## Number of connectors per SV
-### SNAP-25
+## significances for min distance to the AZ for near SVs (Figure 3 A first 100nm)
+### SNAP
+|               |   10  |   20   |    30   |    40   |   50   |  60  |   70   |   80   |   90   |  100  |
+|:-------------:|:-----:|:------:|:-------:|:-------:|:------:|:----:|:------:|:------:|:------:|:-----:|
+|  WT-4E t-test | -0.87 |   1.3  |   5.18  |   7.43  |  5.78  | 0.36 |  -5.73 |  -5.45 |  -3.86 | -2.64 |
+| WT-4E p-value |  0.38 |   0.2  |  2.8e-6 | 4.6e-10 | 2.8e-7 | 0.72 | 3.4e-7 | 1.0e-6 | 2.7e-4 |  0.01 |
+|  WT-4K t-test |  1.15 |  5.56  |  16.53  |  10.86  |  3.64  | -0.9 |  -5.51 |  -3.67 |  -1.83 | -1.26 |
+| WT-4K p-value |  0.25 | 7.9e-7 | 3.3e-23 | 2.1e-15 | 6.0e-4 | 0.37 | 9.3e-7 | 5.5e-4 |  0.07  |  0.21 |
+
+
+## significances for min distance to the AZ for near SVs (Figure 3 C/D) 
+### SNAP
+
+
+
+|    | mean |  std |  sem |  n | t-confidence | fdr_bh corrected |
+|:--:|:----:|:----:|:----:|:--:|:------------:| :---------------:|
+| WT | 5.85 | 3.45 | 0.54 | 41 |       1      |                  |      
+| 4E | 8.16 | 5.96 | 0.93 | 41 |    0.0343    |      0.0371      |
+| 4K | 8.54 | 6.08 | 1.47 | 17 |    0.0371    |      0.0371      |
+
+### Time Res
+
+|       | mean |  std |  sem |  n | t-confidence |
+|:-----:|:----:|:----:|:----:|:--:|:------------:|
+|  ctrl | 8.93 | 5.49 | 0.58 | 90 |       1      |
+| early | 7.65 | 4.06 | 0.61 | 45 |     0.168    |
+|  late |  9.7 | 6.01 | 0.97 | 38 |     0.484    |
+
+## (Figure 4 A/B)
+### SNAP
+
+|    | Fraction |  n |  chi2  | confidence |
+|:--:|:--------:|:--:|:------:|:----------:|
+| WT |   0.171  | 41 |    0   |      1     |
+| 4E |   0.146  | 41 | 0.0914 |   0.7624   |
+| 4K |     0    | 17 | 3.3008 |   0.0692   |
+
+### Time Res
+
+|       | Fraction |  n |   chi2  | confidence | fdr_bh corrected |
+|:-----:|:--------:|:--:|:-------:|:----------:|:----------------:|
+|  ctrl |   0.078  | 90 |    0    |      1     |                  |
+| early |   0.289  | 45 | 10.5946 |   0.0011   |       0.0022     |
+|  late |   0.132  | 38 |  0.9103 |    0.34    |        0.34      |
+
+## (Figure 4 C/D)
+### SNAP
+
+|    |  mean |  std  |  n | t-test p-value | frd_bh corrected | t-test p-value |
+|:--:|:-----:|:-----:|:--:|:--------------:|:----------------:|:--------------:|
+| WT | 1.171 | 1.482 | 41 |        1       |                  |                |
+| 4E | 0.961 | 1.264 | 51 |      0.465     |      0.465       |         1      |
+| 4K | 0.412 | 0.618 | 17 |      0.047     |      0.047       |       0.091    |
+
+### Time Res
+|       |  mean |  std  |  n | t-test p-value | frd_bh corrected |   t-test p-value |
+|:-----:|:-----:|:-----:|:--:|:--------------:|:----------------:|:----------------:|
+|  ctrl | 0.889 | 1.116 | 90 |        1       |                  |                  |
+| early | 2.089 | 2.244 | 45 |     0.0001     |      0.0002      |         1        |
+|  late |   1   | 1.208 | 38 |      0.617     |      0.617       |        0.0089    |
+
+## Number of connectors per SV (Figure 5 A and B)
+### SNAP-25 (panel A)
 |   group | distance   | mean     | count    | std | sem      |
 |----|----------|----------|-----|----------|----------|
 | 4E | 45       | 1.414634 | 41  | 1.224247 | 0.191195 |
@@ -20,7 +82,7 @@
 |    | 250      | 3.234310 | 239 | 3.309573 | 0.214078 |
 |    | 450      | 2.819578 | 521 | 2.871960 | 0.125823 |
 |    | 900      | 2.801115 | 538 | 2.886983 | 0.124467 |
-### Time resolved
+### Time resolved (panel B)
 |      group       |   distance                 |   mean   | count |    std   |    sem   |
 |-------------|--------------------|:--------:|:-----:|:--------:|:--------:|
 | spray_ctrl  | 45                 | 1.632812 | 128   | 1.515646 | 0.133965 |
@@ -36,7 +98,7 @@
 |             | 150                | 3.172662 | 278   | 2.354589 | 0.141219 |
 |             | 250                | 2.838710 | 403   | 2.338578 | 0.116493 |
 ### significances
-### SNAP
+### SNAP (panel A)
 |                                         |
 |-----------------------------------------|
 | WT proximal --> intermediate: p = 0.494   fdr_bh corrected p = 1.35133245e-01 |
@@ -66,76 +128,26 @@
 | distal 3 WT --> 4E p=0.0000000001 fdr_bh corrected p =  1.35000000e-09 |
 | distal 4 WT --> 4K p= 0.05405452 fdr_bh corrected p = 1.35133245e-01 |
 | distal 4 WT --> 4E p= 0.0000000001 fdr_bh corrected p = 1.35000000e-09 |
-### TimeRes
-|                                                   |
-|---------------------------------------------------|
-| spray_ctrl proximal --> distal 1: p = 0.00000004   fdr_bh corrected p = 1.2e-7 |
-| spray_ctrl proximal --> distal 2: p = 0.0000000….  fdr_bh corrected p = 4e-9 |
-| early proximal --> distal 1: p = 0.0044  fdr_bh corrected p = 6.6e-3  |
-| early proximal --> distal 2 : p = 0.0034  fdr_bh corrected p =   5.83e-3 |
-| late proximal --> distal 1: p = 0.000000000..  fdr_bh corrected p = 4e-9   |
-| late proximal --> distal 2: p = 0.000000000..  fdr_bh corrected p = 4e-9  |
-| proximal ctrl --> early p = 0.09   fdr_bh corrected p = 0.0981               |
-| proximal ctrl --> late. p = 0.013   fdr_bh corrected p = 0.0156              |
-| distal 1 ctrl --> early. p = 0.0002  fdr_bh corrected p = 4.8e-4             |
-| distal 1 ctrl --> late. p = 0.0004   fdr_bh corrected p = 8e-4             |
-| distal 2 ctrl --> early. p = 0.0009  fdr_bh corrected p = 0.012             |
-| distal 2 ctrl --> late. p = 0.69    fdr_bh corrected p = 0.69              | 
-
-## significances for min distance to the AZ for near SVs (Figure 3 A first 100nm)
-### SNAP
-|               |   10  |   20   |    30   |    40   |   50   |  60  |   70   |   80   |   90   |  100  |
-|:-------------:|:-----:|:------:|:-------:|:-------:|:------:|:----:|:------:|:------:|:------:|:-----:|
-|  WT-4E t-test | -0.87 |   1.3  |   5.18  |   7.43  |  5.78  | 0.36 |  -5.73 |  -5.45 |  -3.86 | -2.64 |
-| WT-4E p-value |  0.38 |   0.2  |  2.8e-6 | 4.6e-10 | 2.8e-7 | 0.72 | 3.4e-7 | 1.0e-6 | 2.7e-4 |  0.01 |
-|  WT-4K t-test |  1.15 |  5.56  |  16.53  |  10.86  |  3.64  | -0.9 |  -5.51 |  -3.67 |  -1.83 | -1.26 |
-| WT-4K p-value |  0.25 | 7.9e-7 | 3.3e-23 | 2.1e-15 | 6.0e-4 | 0.37 | 9.3e-7 | 5.5e-4 |  0.07  |  0.21 |
-
-
-## significances for min distance to the AZ for near SVs (Figure 3 C/D) 
-### SNAP
-|    | mean |  std |  sem |  n | t-confidence | fdr_bh corrected |
-|:--:|:----:|:----:|:----:|:--:|:------------:| :---------------:|
-| WT | 5.85 | 3.45 | 0.54 | 41 |       1      |                  |      
-| 4E | 8.16 | 5.96 | 0.93 | 41 |    0.0343    |      0.0371      |
-| 4K | 8.54 | 6.08 | 1.47 | 17 |    0.0371    |      0.0371      |
-
-### Time Res
-|       | mean |  std |  sem |  n | t-confidence |
-|:-----:|:----:|:----:|:----:|:--:|:------------:|
-|  ctrl | 8.93 | 5.49 | 0.58 | 90 |       1      |
-| early | 7.65 | 4.06 | 0.61 | 45 |     0.168    |
-|  late |  9.7 | 6.01 | 0.97 | 38 |     0.484    |
-
-## (Figure 4 A/B)
-### SNAP
-|    | Fraction |  n |  chi2  | confidence |
-|:--:|:--------:|:--:|:------:|:----------:|
-| WT |   0.171  | 41 |    0   |      1     |
-| 4E |   0.146  | 41 | 0.0914 |   0.7624   |
-| 4K |     0    | 17 | 3.3008 |   0.0692   |
-
-### Time Res
-|       | Fraction |  n |   chi2  | confidence | fdr_bh corrected |
-|:-----:|:--------:|:--:|:-------:|:----------:|:----------------:|
-|  ctrl |   0.078  | 90 |    0    |      1     |                  |
-| early |   0.289  | 45 | 10.5946 |   0.0011   |       0.0022     |
-|  late |   0.132  | 38 |  0.9103 |    0.34    |        0.34      |
-
-## (Figure 4 C/D)
-### SNAP
-|    |  mean |  std  |  n | t-test p-value | frd_bh corrected | t-test p-value |
-|:--:|:-----:|:-----:|:--:|:--------------:|:----------------:|:--------------:|
-| WT | 1.171 | 1.482 | 41 |        1       |                  |                |
-| 4E | 0.961 | 1.264 | 51 |      0.465     |      0.465       |         1      |
-| 4K | 0.412 | 0.618 | 17 |      0.047     |      0.047       |       0.091    |
-
-### Time Res
-|       |  mean |  std  |  n | t-test p-value | frd_bh corrected |   t-test p-value |
-|:-----:|:-----:|:-----:|:--:|:--------------:|:----------------:|:----------------:|
-|  ctrl | 0.889 | 1.116 | 90 |        1       |                  |                  |
-| early | 2.089 | 2.244 | 45 |     0.0001     |      0.0002      |         1        |
-|  late |   1   | 1.208 | 38 |      0.617     |      0.617       |        0.0089    |
+### TimeRes (panel B)
+|                                                                                 |
+|---------------------------------------------------------------------------------|
+| spray_ctrl proximal --> intermediate: p = 0.6092888 fdr_bh corrected p = 0.739  |
+| spray_ctrl proximal --> distal 1: p = 0.00000004   fdr_bh corrected p = 1.7e-7  |
+| spray_ctrl proximal --> distal 2: p = 0.0000000….  fdr_bh corrected p = 5.67e-9 |
+| early proximal --> intermediate : p = 0.9055866  fdr_bh corrected p = 0.906     |
+| early proximal --> distal 1: p = 0.0044  fdr_bh corrected p = 0.00935           |
+| early proximal --> distal 2 : p = 0.0034  fdr_bh corrected p =   0.00826        |
+| late proximal --> intermediate : p = 0.00841648 fdr_bh corrected p =  0.0153    |          
+| late proximal --> distal 1: p = 0.000000000..  fdr_bh corrected p = 5.67e-9     |
+| late proximal --> distal 2: p = 0.000000000..  fdr_bh corrected p = 5.67e-9     |
+| proximal ctrl --> early p = 0.09   fdr_bh corrected p = 0.1275                  |
+| proximal ctrl --> late. p = 0.013   fdr_bh corrected p = 0.0201                 |
+| intermediate ctrl --> early. p = 0.1512062 fdr_bh corrected p = 0.19773         |
+| intermediate ctrl --> late. p = 0.7581789  fdr_bh corrected p = 0.8056          |
+| distal 1 ctrl --> early. p = 0.0002  fdr_bh corrected p = 0.00068               |
+| distal 1 ctrl --> late. p = 0.0004   fdr_bh corrected p = 0.00113               |
+| distal 2 ctrl --> early. p = 0.0009  fdr_bh corrected p = 0.015299              |
+| distal 2 ctrl --> late. p = 0.69    fdr_bh corrected p = 0.78199                | 
 
 ## significances for fractions  of connected vesicles per distance group (Figure 5 C/D) 
 ### SNAP
