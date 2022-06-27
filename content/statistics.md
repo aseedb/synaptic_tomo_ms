@@ -1,3 +1,17 @@
+## General numbers
+### SNAP
+
+
+
+
+
+### Time Res
+
+
+
+
+
+
 ## significances for min distance to the AZ for near SVs (Figure 3 A first 100nm)
 ### SNAP
 |               |   10  |   20   |    30   |    40   |   50   |  60  |   70   |   80   |   90   |  100  |
