@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/c322d9c7a2ccf210aec91f96f4ab42f4d51caef6/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c322d9c7a2ccf210aec91f96f4ab42f4d51caef6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c322d9c7a2ccf210aec91f96f4ab42f4d51caef6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/26ebae5163c0231336bc3691c8b331f142133ca2/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/26ebae5163c0231336bc3691c8b331f142133ca2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/26ebae5163c0231336bc3691c8b331f142133ca2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/c322d9c7a2ccf210aec91f96f4ab42f4d51caef6/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/c322d9c7a2ccf210aec91f96f4ab42f4d51caef6/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/26ebae5163c0231336bc3691c8b331f142133ca2/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/26ebae5163c0231336bc3691c8b331f142133ca2/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,9 +96,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/c322d9c7a2ccf210aec91f96f4ab42f4d51caef6/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/26ebae5163c0231336bc3691c8b331f142133ca2/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@c322d9c](https://github.com/aseedb/synaptic_tomo_ms/tree/c322d9c7a2ccf210aec91f96f4ab42f4d51caef6)
+from [aseedb/synaptic_tomo_ms@26ebae5](https://github.com/aseedb/synaptic_tomo_ms/tree/26ebae5163c0231336bc3691c8b331f142133ca2)
 on June 28, 2022.
 </em></small>
 
@@ -672,7 +672,7 @@ The source code and data for this manuscript are available at <https://github.co
   >
 </video>
 **Movie S1: Tomogram with segmentation of synaptosome with late fusion events.**
-off-white = cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; light green = cytomatrix; yellow = connectors, red = tethers, scale bar 100nm
+off-white = cell outline; pink = active zone; blue = synaptic vesicles; dark green = mitochondria; light green = large vesicles; yellow = connectors, red = tethers, scale bar 100nm
 </p>
 
 <p id="vid:neuron">
@@ -687,7 +687,7 @@ off-white = cell outline; pink = active zone; blue = synaptic vesicles; green = 
   >
 </video>
 **Movie S2: Tomogram with segmentation of WT SNAP-25 neurons.**
-off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; light green = cytomatrix; yellow = connectors, red = tethers, scale bar 100nm
+off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = large vesicles; yellow = connectors, red = tethers, scale bar 100nm
 </p>
 
 ### Supplementary Tables
