@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/a593d9df14f73446ba6a40b9d05de9d605c95ed3/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/a593d9df14f73446ba6a40b9d05de9d605c95ed3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/a593d9df14f73446ba6a40b9d05de9d605c95ed3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/008fd6844527c591df6534eb59f1af600932fef0/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/008fd6844527c591df6534eb59f1af600932fef0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/008fd6844527c591df6534eb59f1af600932fef0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/a593d9df14f73446ba6a40b9d05de9d605c95ed3/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/a593d9df14f73446ba6a40b9d05de9d605c95ed3/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/008fd6844527c591df6534eb59f1af600932fef0/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/008fd6844527c591df6534eb59f1af600932fef0/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,9 +96,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/a593d9df14f73446ba6a40b9d05de9d605c95ed3/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/008fd6844527c591df6534eb59f1af600932fef0/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@a593d9d](https://github.com/aseedb/synaptic_tomo_ms/tree/a593d9df14f73446ba6a40b9d05de9d605c95ed3)
+from [aseedb/synaptic_tomo_ms@008fd68](https://github.com/aseedb/synaptic_tomo_ms/tree/008fd6844527c591df6534eb59f1af600932fef0)
 on June 28, 2022.
 </em></small>
 
@@ -422,12 +422,12 @@ Combining cryo-ET with spray-mixing plunge-freezing enabled us to investigate th
 
 ### Membrane curvature increases following depolarization
 Depolarization through spraying droplets of KCl solution on synaptosomes milliseconds before freezing allowed us to capture snapshots of exocytosis (Figure {@fig:membrane_morphology}B1-B3).
-`In spite of the uncertainty on the exact delay between stimulation and freezing, our approach allowed access to shorter delays than any other time-resolved cryo-EM technique.
-The temporal sorting of observed exocytosis snapshots was done in the most parsimonious way.`{.yellow}
+In spite of the uncertainty on the exact delay between stimulation and freezing, our approach allowed access to shorter delays than any other time-resolved cryo-EM technique.
+The temporal sorting of observed exocytosis snapshots was done in the most parsimonious way.
 We observed that the curvature of some PM regions facing some SVs increased following depolarization.
 The SV facing such a PM buckling also seemed to get kinked.
 These deformations were not seen in non-sprayed synaptosomes.
-This indicates that in functional synapses exocytosis starts with a Ca^2+^-dependent membrane deformation`, which is supported by a wealth of in vitro biochemical data [@doi:10.1016/j.cell.2010.02.017;@doi:10.1146/annurev-biophys-111821-104732].`{.yellow}
+This indicates that in functional synapses exocytosis starts with a Ca^2+^-dependent membrane deformation, which is supported by a wealth of in vitro biochemical data [@doi:10.1016/j.cell.2010.02.017;@doi:10.1146/annurev-biophys-111821-104732].
 Deformation may be caused in part by the intercalation of synaptotagmin-1 C2A and C2B domains between membrane head groups.
 A recent biophysical study indicated that C2A and C2B preferably insert in SV membrane and PM, respectively [@doi:10.1016/j.bpj.2019.06.016].
 It may also be due to the tension/force induced by SNARE-complex zippering [@doi:10.1126/science.1224492].
