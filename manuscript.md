@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/86de6335ad81db94ca7c1f29ad0097aff4af8af1/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/86de6335ad81db94ca7c1f29ad0097aff4af8af1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/86de6335ad81db94ca7c1f29ad0097aff4af8af1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/11a2bc850d70969c86ad97e8574ef13ad77d14c5/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/11a2bc850d70969c86ad97e8574ef13ad77d14c5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/11a2bc850d70969c86ad97e8574ef13ad77d14c5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/86de6335ad81db94ca7c1f29ad0097aff4af8af1/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/86de6335ad81db94ca7c1f29ad0097aff4af8af1/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/11a2bc850d70969c86ad97e8574ef13ad77d14c5/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/11a2bc850d70969c86ad97e8574ef13ad77d14c5/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,9 +96,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/86de6335ad81db94ca7c1f29ad0097aff4af8af1/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/11a2bc850d70969c86ad97e8574ef13ad77d14c5/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@86de633](https://github.com/aseedb/synaptic_tomo_ms/tree/86de6335ad81db94ca7c1f29ad0097aff4af8af1)
+from [aseedb/synaptic_tomo_ms@11a2bc8](https://github.com/aseedb/synaptic_tomo_ms/tree/11a2bc850d70969c86ad97e8574ef13ad77d14c5)
 on June 30, 2022.
 </em></small>
 
@@ -288,7 +288,7 @@ Optimization of Primary neurons  culturing conditions allowed us to establish a 
 Astrocytes were added to 12 well plates and were grown for 2 days. 
 After 2 days, the medium was exchanged to a medium that favors neuronal growth and impedes astrocyte growth. 
 At the same time a droplet of the neuronal suspension was added onto a flame sterilized EM grid and incubated for 30 min at 37 °C, hereafter the grids were placed into the 12 well plates containing the astrocytes. 
-Neurons were grown for 10-14 days until plunge freezing and were then analyzed at a Titan Krios by cryo-ET (Supplementary Figure {fig:suppl_tomogram_slices}C and D, Supplementary Movie [S2](#vid:neuron), Supplementary table @tbl:neuron-tomograms). 
+Neurons were grown for 10-14 days until plunge freezing and were then analyzed at a Titan Krios by cryo-ET (Supplementary Figure {@fig:suppl_tomogram_slices}C and D, Supplementary Figure @fig:suppl_segmentation, Supplementary Movie [S2](#vid:neuron), Supplementary table @tbl:neuron-tomograms). 
 Thereby, we could image chronically overactive or inactive synapses and relate presynaptic architectural modifications to different functional states.
 
 ![**Experimental models.** A1) Glass atomizer used to disperse depolarizing solution on the EM grid milliseconds before the grid is vitrified. A2) Spray droplets imaged with the GFP filter set. A3) Synaptosomes imaged with the DAPI filter set. A4) Overlay of spray droplets (green) and synaptosomes (red). Scale bars, 20 μm. B1) Schematic drawing of a 6-well petridish depicting astrocytes (pink) growing at the bottom of the petridish below EM grids (black round grid overlaying the astrocytes) with neurons (blue) growing on top of the grids. B2) Gridsquare overview with neurons growing over it; scale bar = 5 µm. B3) Medium magnification overview of neurons growing over R2/1 holes; scale bar = 500 nm. B4) One slice of a tomogram depicting the synapse and its respective postsynapse; scale bar = 100 nm.](images/workflow.svg){#fig:workflow width="15cm"}
@@ -616,11 +616,11 @@ Tilt series were acquired using the TEM Tomography software (TFS) for automated 
 Defocus was set between -6 to -10 µm and the total electron dose used was about 80-100 e^-^/Å^2^. Tomogram reconstruction was done as for synaptosome datasets. 
 
 ### Manual and automatic segmentation procedures
-Manual segmentation of SVs, mitochondria, and the active zone PM was done in IMOD (Supplementary Figure {fig:suppl_tomogram_slices}B and D, Supplementary [Movies S1](vid:synaptosome) and [S2](vid:neuron)). 
+Manual segmentation of SVs, mitochondria, and the active zone PM was done in IMOD (Supplementary Figure {@fig:suppl_tomogram_slices}B and D, Supplementary [Movies S1](vid:synaptosome) and [S2](vid:neuron)). 
 The boundary marked the region to be analyzed by Pyto [@doi:10.1016/j.jsb.2016.10.004].
  The analysis by Pyto was essentially the same as described previously [@doi:10.1083/jcb.200908082] [@doi:10.1016/j.jsb.2016.10.004].
 In short, the segmented area is divided in 1 voxel thick layers parallel to the active zone for distance calculations.
-A hierarchical connectivity segmentation detects densities interconnecting vesicles (so-called connectors) and densities connecting vesicles to the active zone PM (so-called tethers) (Supplementary Figure {fig:suppl_tomogram_slices}B and D, Supplementary [Movies S1](vid:synaptosome) & [S2](vid:neuron)).
+A hierarchical connectivity segmentation detects densities interconnecting vesicles (so-called connectors) and densities connecting vesicles to the active zone PM (so-called tethers) (Supplementary Figure {@fig:suppl_tomogram_slices}B and D, Supplementary [Movies S1](vid:synaptosome) & [S2](vid:neuron)).
 Distance calculations are done with the center of the vesicle.
 Mainly default settings were used.
 The segmentation procedure is conservative and tends to miss some tethers and connectors because of noise.
@@ -652,11 +652,13 @@ The source code and data for this manuscript are available at <https://github.co
 ### Supplementary Figures
 ![**Schematic representation of a spray-mixing plunge-freezing experiment. In a single experiment different synaptosomes get stimulated for between less than 1 ms and 7 ms.** An EM-grid is held by tweezers and is covered with synaptosomes in HBM-solution. A magnified view of a grid squares shows synaptosomes in blue and their synpatic state of three synapsomes is represented on the rightmost part of each panel. Panel (A) represents the situation right after blotting off solution excess. The grid is accelerated towards the spray and the cryogen. Panel (B) shows a snapshot of the experiment when the grid crosses the spray, 7 ms before the freezing. Some fluorescently dyed droplets containing HBM with 52 mM KCl land on the grid and are depicted in green. At this time point, a synaptosome located at the impact point of a droplet is activated and is depicted in dark blue. Panel (C) shows a snapshot 5 ms later, i.e. 2 ms before freezing. As KCl diffuses away from droplet impacts points, another synaptosomes gets activated because, locally KCl concentration has reached reached a concentration to depolarize enough the synaptosome so that voltage-gated calcium chanels open. Panel (D) shows a synaptosome at the time of impact with ethane. 0.1 ms before freezing a third synaptosome got exposed to a high enough concentration of KCl and got stimulated.](images/spray_freeze_workflow.png){#fig:suppl_spray_workflow width="15cm" tag="S1"}
 
-![(A, B) Tomographic slice without (A) and with (B) segmentation of synaptosome with late fusion events. (C,D) Tomographic slice without (C) and with (D) segmentation of WT SNAP-25 neurons. Segmentation colors: off-white = cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; yellow = connectors, red = tethers. Scale bar, 100 nm.](images/tomogram_slices.png){#fig:suppl_tomogram_slices width="15cm" tag="S2"}
+![**Representative slices through tomograms**. (A, B) Tomographic slice without (A) and with (B) segmentation of synaptosome with late fusion events. (C,D) Tomographic slice without (C) and with (D) segmentation of WT SNAP-25 neurons. Segmentation colors: off-white = cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; yellow = connectors, red = tethers. Scale bar, 100 nm.](images/tomogram_slices.png){#fig:suppl_tomogram_slices width="15cm" tag="S2"}
 
-![(A, B) Histogram of the number of tethers per proximal SV. Statistical test: pairwise χ^2^-test between control and each experimental condition in the 0-tether group with Benjamini-Hochberg correction. \*: P<0.05. (C, D) Histogram of  the number of connectors per proximal non-RRP SV. (E, F) Histogram of the number of connectors per RRP SV. (G, H) Histogram of connected SV amongst tethered or non-tethered proximal SVs. (I, J) Histogram of connected SV amongst proximal non-RRP or RRP SVs. (A, C, E, G, I) Synapses in mouse cultured neurons. (B, D, F, H, J) Rat synaptosomes.](images/supplementary_graphs.png){#fig:suppl_histograms width="15cm" tag="S3"}
+![**Segmented tomogram of a SNAP-25 4E neuron**. (left) Overview. (right) Detail. Blue: synaptic vesicles; purple: active zone plasma memmbrane; yellow: connectors; red: tethers. Scale bar: 100 nm.](images/segmentation_4e_73.png){#fig:suppl_segmentation width="15cm" tag="S3"}
 
-![(A, B) **Tomographic slices showing tethered connected vesicles**. Blue arrows highlight the connectors. Scale bar, 50 nm.](images/supplementary_connected_vesicles.png){#fig:suppl_connected_slices width="8cm" tag="S4"}
+![(A, B) Histogram of the number of tethers per proximal SV. Statistical test: pairwise χ^2^-test between control and each experimental condition in the 0-tether group with Benjamini-Hochberg correction. \*: P<0.05. (C, D) Histogram of  the number of connectors per proximal non-RRP SV. (E, F) Histogram of the number of connectors per RRP SV. (G, H) Histogram of connected SV amongst tethered or non-tethered proximal SVs. (I, J) Histogram of connected SV amongst proximal non-RRP or RRP SVs. (A, C, E, G, I) Synapses in mouse cultured neurons. (B, D, F, H, J) Rat synaptosomes.](images/supplementary_graphs.png){#fig:suppl_histograms width="15cm" tag="S4"}
+
+![(A, B) **Tomographic slices showing tethered connected vesicles**. Blue arrows highlight the connectors. Scale bar, 50 nm.](images/supplementary_connected_vesicles.png){#fig:suppl_connected_slices width="8cm" tag="S5"}
 
 
 ### Supplementary Movies
@@ -694,24 +696,6 @@ off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = l
 
 ### Supplementary Tables
 
-|  ID | Mutation | Vesicles per Tomogram | Tethers per AZ | AZ surface area [µm²] | Connectors per synapse (0-250 nm) |
-|:---:|:--------:|:---------------------:|:--------------:|:---------------------:|:---------------------------------:|
-|  73 |    4E    |          459          |       23       |          0.23         |                269                |
-|  80 |    4E    |          105          |        6       |          0.21         |                 84                |
-|  84 |    4E    |          109          |       10       |          0.12         |                107                |
-|  88 |    4E    |          154          |       10       |          0.13         |                159                |
-| 102 |    4E    |          103          |        0       |          0.29         |                 94                |
-| 114 |    4K    |          123          |        2       |          0.09         |                 68                |
-| 115 |    4K    |          137          |        1       |          0.26         |                 70                |
-| 116 |    4K    |          278          |        1       |          0.13         |                154                |
-| 123 |    4K    |           55          |        3       |          0.09         |                 52                |
-| 128 |   WT-KO  |          243          |       12       |          0.18         |                683                |
-| 132 |   WT-KO  |          126          |        2       |          0.24         |                110                |
-| 133 |   WT-KO  |          505          |       27       |          0.17         |                229                |
-| 134 |   WT-KO  |          600          |        7       |          0.34         |                144                |
-Table: Summary of the neuron tomograms.
-{#tbl:neuron-tomograms}
-
 |                    ID                    | Timepoint [ms] | Vesicles per Tomogram | Tethers per AZ | AZ surface area [µm²] | Connectors per synapse (0-250 nm) |
 |:----------------------------------------:|:--------------:|:---------------------:|:--------------:|:---------------------:|:---------------------------------:|
 |                 Control 1                |        0       |          220          |       15       |          0.11         |                331                |
@@ -734,7 +718,26 @@ Table: Summary of the neuron tomograms.
 |                  Spray 8                 |      late      |           99          |        4       |          0.02         |                202                |
 |                 Spray 10                 |      late      |           76          |        4       |          0.02         |                 96                |
 Table: Summary of the synaptosome tomograms.
-{#tbl:synaptosome-tomograms}
+{#tbl:synaptosome-tomograms tag="S1"}
+
+|  ID | Mutation | Vesicles per Tomogram | Tethers per AZ | AZ surface area [µm²] | Connectors per synapse (0-250 nm) |
+|:---:|:--------:|:---------------------:|:--------------:|:---------------------:|:---------------------------------:|
+|  73 |    4E    |          459          |       23       |          0.23         |                269                |
+|  80 |    4E    |          105          |        6       |          0.21         |                 84                |
+|  84 |    4E    |          109          |       10       |          0.12         |                107                |
+|  88 |    4E    |          154          |       10       |          0.13         |                159                |
+| 102 |    4E    |          103          |        0       |          0.29         |                 94                |
+| 114 |    4K    |          123          |        2       |          0.09         |                 68                |
+| 115 |    4K    |          137          |        1       |          0.26         |                 70                |
+| 116 |    4K    |          278          |        1       |          0.13         |                154                |
+| 123 |    4K    |           55          |        3       |          0.09         |                 52                |
+| 128 |   WT-KO  |          243          |       12       |          0.18         |                683                |
+| 132 |   WT-KO  |          126          |        2       |          0.24         |                110                |
+| 133 |   WT-KO  |          505          |       27       |          0.17         |                229                |
+| 134 |   WT-KO  |          600          |        7       |          0.34         |                144                |
+Table: Summary of the neuron tomograms.
+{#tbl:neuron-tomograms tag="S2"}
+
 
 ## Author contributions
 
