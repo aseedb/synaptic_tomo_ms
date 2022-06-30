@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-06-28'
+date-meta: '2022-06-30'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -27,8 +27,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-06-28" />
-  <meta name="citation_publication_date" content="2022-06-28" />
+  <meta name="dc.date" content="2022-06-30" />
+  <meta name="citation_publication_date" content="2022-06-30" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/26ebae5163c0231336bc3691c8b331f142133ca2/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/26ebae5163c0231336bc3691c8b331f142133ca2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/26ebae5163c0231336bc3691c8b331f142133ca2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/86de6335ad81db94ca7c1f29ad0097aff4af8af1/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/86de6335ad81db94ca7c1f29ad0097aff4af8af1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/86de6335ad81db94ca7c1f29ad0097aff4af8af1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/26ebae5163c0231336bc3691c8b331f142133ca2/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/26ebae5163c0231336bc3691c8b331f142133ca2/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/86de6335ad81db94ca7c1f29ad0097aff4af8af1/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/86de6335ad81db94ca7c1f29ad0097aff4af8af1/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,10 +96,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/26ebae5163c0231336bc3691c8b331f142133ca2/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/86de6335ad81db94ca7c1f29ad0097aff4af8af1/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@26ebae5](https://github.com/aseedb/synaptic_tomo_ms/tree/26ebae5163c0231336bc3691c8b331f142133ca2)
-on June 28, 2022.
+from [aseedb/synaptic_tomo_ms@86de633](https://github.com/aseedb/synaptic_tomo_ms/tree/86de6335ad81db94ca7c1f29ad0097aff4af8af1)
+on June 30, 2022.
 </em></small>
 
 ## Authors
@@ -279,7 +279,7 @@ Through this process, we were able to trap stimulated synapses at the very earli
 Given the very low throughput of cryo-electron tomography, we followed a correlative light and electron microscopy approach.
 By cryo-fluorescence microscopy, we identified areas where synaptosomes fluorescently labeled by calcein blue and spray droplets labeled by fluoresceine were colocalized.
 Additionally, phase contrast imaging enabled quality control of the frozen EM grid with respect to ice contamination and ice cracks, as shown previously [@doi:10.1016/j.jsb.2007.07.011].
-9 control and 9 stimulated synaptosome tomograms were analyzed (Supplementary Figure {@fig:suppl_tomogram_slices}A and B, Supplementary Movie [S1](#vid:synaptosome)).
+9 control and 9 stimulated synaptosome tomograms were analyzed (Supplementary Figure {@fig:suppl_tomogram_slices}A and B, Supplementary Movie [S1](#vid:synaptosome), Supplementary Table @tbl:synaptosome-tomograms).
 We restricted our analysis to synaptosomes that possessed a smooth PM, free of signs of rupturing and that had a mitochondrion, as we considered these factors essential for synaptosome function.
 
 In addition, we manipulated the electrostatic state of the SNARE complex through mutated SNAP-25 protein introduced using lentiviral vectors into primary SNAP-25 knockout neurons grown on EM grids [@doi:10.1016/j.celrep.2019.01.103] (Figure {@fig:workflow}B1-B4). 
@@ -288,7 +288,7 @@ Optimization of Primary neurons  culturing conditions allowed us to establish a 
 Astrocytes were added to 12 well plates and were grown for 2 days. 
 After 2 days, the medium was exchanged to a medium that favors neuronal growth and impedes astrocyte growth. 
 At the same time a droplet of the neuronal suspension was added onto a flame sterilized EM grid and incubated for 30 min at 37 °C, hereafter the grids were placed into the 12 well plates containing the astrocytes. 
-Neurons were grown for 10-14 days until plunge freezing and were then analyzed at a Titan Krios by cryo-ET (Supplementary Figure {fig:suppl_tomogram_slices}C and D, Supplementary Movie [S2](#vid:neuron). 
+Neurons were grown for 10-14 days until plunge freezing and were then analyzed at a Titan Krios by cryo-ET (Supplementary Figure {fig:suppl_tomogram_slices}C and D, Supplementary Movie [S2](#vid:neuron), Supplementary table @tbl:neuron-tomograms). 
 Thereby, we could image chronically overactive or inactive synapses and relate presynaptic architectural modifications to different functional states.
 
 ![**Experimental models.** A1) Glass atomizer used to disperse depolarizing solution on the EM grid milliseconds before the grid is vitrified. A2) Spray droplets imaged with the GFP filter set. A3) Synaptosomes imaged with the DAPI filter set. A4) Overlay of spray droplets (green) and synaptosomes (red). Scale bars, 20 μm. B1) Schematic drawing of a 6-well petridish depicting astrocytes (pink) growing at the bottom of the petridish below EM grids (black round grid overlaying the astrocytes) with neurons (blue) growing on top of the grids. B2) Gridsquare overview with neurons growing over it; scale bar = 5 µm. B3) Medium magnification overview of neurons growing over R2/1 holes; scale bar = 500 nm. B4) One slice of a tomogram depicting the synapse and its respective postsynapse; scale bar = 100 nm.](images/workflow.svg){#fig:workflow width="15cm"}
@@ -661,13 +661,14 @@ The source code and data for this manuscript are available at <https://github.co
 
 ### Supplementary Movies
 <p id="vid:synaptosome">
-<video
-  controls
-  width="100%"
-  alt="Tomogram with segmentation of synaptosome with late fusion events"
+<video 
+    controls
+    width="100%" 
+    alt="Tomogram with segmentation of synaptosome with late fusion events"
+    poster="https://figshare.com/ndownloader/files/36069404/preview/36069404/img_preview.png"
 >
-  <source
-    src="images/spray1_raw2seg3.mp4"
+  <source 
+    src="https://figshare.com/ndownloader/files/36069404/preview/36069404/video_preview.mp4" 
     type="video/mp4"
   >
 </video>
@@ -680,9 +681,10 @@ off-white = cell outline; pink = active zone; blue = synaptic vesicles; dark gre
   controls
   width="100%"
   alt="Tomogram with segmentation of WT SNAP-25 neurons"
+  poster="https://figshare.com/ndownloader/files/36067523/preview/36067523/img_preview.png"
 >
   <source
-    src="images/neuron73_rawseg2.mp4"
+    src="https://figshare.com/ndownloader/files/36067523/preview/36067523/video_preview.mp4"
     type="video/mp4"
   >
 </video>
