@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-06-30'
+date-meta: '2022-07-05'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -27,8 +27,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-06-30" />
-  <meta name="citation_publication_date" content="2022-06-30" />
+  <meta name="dc.date" content="2022-07-05" />
+  <meta name="citation_publication_date" content="2022-07-05" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/11a2bc850d70969c86ad97e8574ef13ad77d14c5/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/11a2bc850d70969c86ad97e8574ef13ad77d14c5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/11a2bc850d70969c86ad97e8574ef13ad77d14c5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/b45baa9ff6dbad56a3e3a12ad42cc5fb52c9dd14/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b45baa9ff6dbad56a3e3a12ad42cc5fb52c9dd14/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b45baa9ff6dbad56a3e3a12ad42cc5fb52c9dd14/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/11a2bc850d70969c86ad97e8574ef13ad77d14c5/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/11a2bc850d70969c86ad97e8574ef13ad77d14c5/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/b45baa9ff6dbad56a3e3a12ad42cc5fb52c9dd14/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/b45baa9ff6dbad56a3e3a12ad42cc5fb52c9dd14/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,10 +96,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/11a2bc850d70969c86ad97e8574ef13ad77d14c5/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/b45baa9ff6dbad56a3e3a12ad42cc5fb52c9dd14/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@11a2bc8](https://github.com/aseedb/synaptic_tomo_ms/tree/11a2bc850d70969c86ad97e8574ef13ad77d14c5)
-on June 30, 2022.
+from [aseedb/synaptic_tomo_ms@b45baa9](https://github.com/aseedb/synaptic_tomo_ms/tree/b45baa9ff6dbad56a3e3a12ad42cc5fb52c9dd14)
+on July 5, 2022.
 </em></small>
 
 ## Authors
@@ -262,7 +262,7 @@ Altogether, our results indicate a regulation through connectors of SV mobility 
 
 ## Results
 
-To analyze the morphological changes occurring in the presynpase shortly after stimulation, we pursued a time-resolved cryo-electron tomography approach similar to the one introduced by Heuser, Reese, and colleagues [@doi:10.1083/jcb.81.2.275].
+To analyze the morphological changes occurring in the presynapse shortly after stimulation, we pursued a time-resolved cryo-electron tomography approach similar to the one introduced by Heuser, Reese, and colleagues [@doi:10.1083/jcb.81.2.275].
 Whereas Heuser et al. used an electrical stimulus, we chose to trigger exocytosis by spraying a depolarizing solution containing 52-mM KCl onto the specimen a few milliseconds before freezing for two reasons.
 Firstly, cryo-ET requires samples to be plunge-frozen directly on an EM grid, which is not compatible with electrical stimulation.
 Secondly, this method allows to catch synapses at delays between stimulation and freezing lower than a millisecond, as explained below. 
@@ -376,7 +376,7 @@ These results are in line with physiological measurements that have shown that t
 
 ### Synaptic activity modifies inter-SV connectivity
 
-The majority of SV are linked to other SVs via molecular bridges previously termed connectors connectors [@doi:10.1083/jcb.200908082; @doi:10.1016/j.sbi.2019.01.008]. The function and composition of connectors are not clear yet.
+The majority of SV are linked to other SVs via molecular bridges previously termed connectors [@doi:10.1083/jcb.200908082; @doi:10.1016/j.sbi.2019.01.008]. The function and composition of connectors are not clear yet.
 It was earlier proposed that connectors limit SV dispersion and allow SV mobilization for release.
 It is generally assumed that synapsin is involved in connector formation and may be one of its components.
 It has been suggested that connectors reduce SV mobility and maintain a local high SV concentration in the presynapse.
