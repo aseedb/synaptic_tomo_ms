@@ -7,7 +7,7 @@
    viewBox="0 0 321.5073 282.2413"
    version="1.1"
    id="svg27143"
-   inkscape:version="1.2.1 (2ed6d7ae0b, 2022-08-22, custom)"
+   inkscape:version="1.2.1 (0b8a7e5fb6, 2022-09-14, custom)"
    sodipodi:docname="vesicle_distribution.svg"
    inkscape:export-filename="/home/ela/Documents/2201_Figure3.png"
    inkscape:export-xdpi="300"
@@ -22015,8 +22015,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.63"
-     inkscape:cx="577.77778"
-     inkscape:cy="786.50794"
+     inkscape:cx="546.03175"
+     inkscape:cy="407.14286"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -22050,7 +22050,10 @@
        width="321.08377"
        height="281.81778"
        x="-3.2011468"
-       y="-14.883603" />
+       y="-14.883603"
+       inkscape:export-filename="../eecc7263/vesicle_distribution.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot31296"
@@ -23130,7 +23133,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect513733);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="-255.53906"
          y="382.74026"
-         id="tspan29882">Distance [nm]</tspan></text>
+         id="tspan93112">Distance [nm]</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.24508608,-92.356016,81.771048)"
@@ -23138,7 +23141,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect513733-0);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="-255.53906"
          y="382.74026"
-         id="tspan29884">Distance [nm]</tspan></text>
+         id="tspan93114">Distance [nm]</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458333,0.26458333,0,62.527008,169.61185)"
@@ -23146,7 +23149,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect513733-7);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="-255.53906"
          y="382.74026"
-         id="tspan29886">Distance [nm]</tspan></text>
+         id="tspan93116">Distance [nm]</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458333,0.26458333,0,-99.412156,171.65719)"
@@ -23154,7 +23157,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect513733-7-8);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="-255.53906"
          y="382.74026"
-         id="tspan29888">Distance [nm]</tspan></text>
+         id="tspan93118">Distance [nm]</tspan></text>
     <g
        id="matplotlib.axis_2"
        transform="matrix(0.2912608,0,0,0.28609269,-232.03923,94.512361)"
@@ -23569,7 +23572,7 @@
            style="font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect535305);display:inline"><tspan
              x="545.0625"
              y="413.1875"
-             id="tspan29890">non sprayed</tspan></text>
+             id="tspan93120">non sprayed</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.90840694,0,0,0.85208563,-63.688563,-303.35185)"
@@ -23577,7 +23580,7 @@
            style="font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect543333);display:inline"><tspan
              x="561.98438"
              y="454.66797"
-             id="tspan29892">early fusion</tspan></text>
+             id="tspan93122">early fusion</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.90840694,0,0,0.85208563,-64.114379,-286.87164)"
@@ -23585,7 +23588,7 @@
            style="font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect543333-8);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
              x="561.98438"
              y="454.66797"
-             id="tspan29894">late fusion</tspan></text>
+             id="tspan93124">late fusion</tspan></text>
       </g>
       <g
          id="line2d_11">
@@ -27659,7 +27662,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect553141);display:inline"><tspan
          x="31.615234"
          y="-82.507783"
-         id="tspan29896">Vesicle Occupany</tspan></text>
+         id="tspan93126">Vesicle Occupany</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0,-0.26458333,0.26458333,0,-200.66917,159.82097)"
@@ -27667,7 +27670,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect553141-7);display:inline"><tspan
          x="31.615234"
          y="-82.507783"
-         id="tspan29898">Vesicle Occupany</tspan></text>
+         id="tspan93128">Vesicle Occupany</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,5.2916669,-19.396326)"
@@ -27675,7 +27678,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect563908);display:inline"><tspan
          x="73.197266"
          y="1055.5371"
-         id="tspan29900">WT</tspan></text>
+         id="tspan93130">WT</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,39.699508,-19.396326)"
@@ -27683,7 +27686,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect563908-3);display:inline"><tspan
          x="73.197266"
          y="1055.5371"
-         id="tspan29902">4E</tspan></text>
+         id="tspan93132">4E</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,73.843359,-19.396326)"
@@ -27691,7 +27694,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect563908-7);display:inline"><tspan
          x="73.197266"
          y="1055.5371"
-         id="tspan29904">4K</tspan></text>
+         id="tspan93134">4K</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,157.57796,-20.335287)"
@@ -27699,7 +27702,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect563908-5);display:inline"><tspan
          x="73.197266"
          y="1055.5371"
-         id="tspan29906">non sprayed</tspan></text>
+         id="tspan93136">non sprayed</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,193.01535,-20.335287)"
@@ -27707,7 +27710,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect563908-2);display:inline"><tspan
          x="73.197266"
          y="1055.5371"
-         id="tspan29908">early fusion</tspan></text>
+         id="tspan93138">early fusion</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,227.67157,-20.335287)"
@@ -27715,7 +27718,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect563908-8);display:inline"><tspan
          x="73.197266"
          y="1055.5371"
-         id="tspan29910">late fusion</tspan></text>
+         id="tspan93140">late fusion</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,154.77018,-23.088502)"
@@ -27723,7 +27726,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect513733-3);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="-255.53906"
          y="382.74026"
-         id="tspan29912">Distance [nm]</tspan></text>
+         id="tspan93142">Distance [nm]</tspan></text>
     <g
        id="legend_1-7-0"
        transform="matrix(0.2894217,0,0,0.28701733,70.459317,-11.838751)"
@@ -27745,7 +27748,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect513733-0-9);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="-255.53906"
          y="382.74026"
-         id="tspan29914">Distance [nm]</tspan></text>
+         id="tspan93144">Distance [nm]</tspan></text>
     <g
        id="g163858"
        transform="translate(160.51552,-1.8320469)">
@@ -27863,7 +27866,7 @@
            style="font-size:13.8907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect535305-1);display:inline"><tspan
              x="545.0625"
              y="414.86033"
-             id="tspan29916">non sprayed
+             id="tspan93146">non sprayed
 </tspan></text>
         <text
            xml:space="preserve"
@@ -27872,7 +27875,7 @@
            style="font-size:13.8907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect543333-5);display:inline"><tspan
              x="561.98438"
              y="456.3408"
-             id="tspan29918">early fusion</tspan></text>
+             id="tspan93148">early fusion</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.90840694,0,0,0.85208563,-64.114379,-192.54051)"
@@ -27880,7 +27883,7 @@
            style="font-size:13.8907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect543333-8-4);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
              x="561.98438"
              y="456.3408"
-             id="tspan29920">late fusion</tspan></text>
+             id="tspan93150">late fusion</tspan></text>
         <g
            id="line2d_11-5"
            transform="translate(0,94.331332)">
@@ -29897,7 +29900,7 @@
            style="font-size:13.8907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect535305-1-1);display:inline"><tspan
              x="545.0625"
              y="414.86033"
-             id="tspan29922">non sprayed
+             id="tspan93152">non sprayed
 </tspan></text>
         <text
            xml:space="preserve"
@@ -29906,7 +29909,7 @@
            style="font-size:13.8907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect543333-5-8);display:inline"><tspan
              x="561.98438"
              y="456.3408"
-             id="tspan29924">early fusion</tspan></text>
+             id="tspan93154">early fusion</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.90840694,0,0,0.85208563,-64.114379,-192.54051)"
@@ -29914,7 +29917,7 @@
            style="font-size:13.8907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect543333-8-4-7);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
              x="561.98438"
              y="456.3408"
-             id="tspan29926">late fusion</tspan></text>
+             id="tspan93156">late fusion</tspan></text>
         <g
            id="line2d_11-5-9"
            transform="translate(0,94.331332)">
