@@ -41,6 +41,40 @@
 |                 Spray 10                 |      late      |           76          |        4       |          0.02         |                 96                |
 
 
+## significance for vesicle occupancy
+### SNAP
+| comparison | t-test p-value | frd_bh corrected |
+|------------|----------------|------------------|
+| 0-45 nm    |                |                  |
+| ctrl vs 4E | 0.2097         | 0.42336          |
+| ctrl vs 4K | 0.0049         | 0.0392           |
+| 45-75      |                |                  |
+| ctrl vs 4E | 0.8758         | 0.8758           |
+| ctrl vs 4K | 0.8554         | 0.8758           |
+| 75-150     |                |                  |
+| ctrl vs 4E | 0.2646         | 0.42336          |
+| ctrl vs 4K | 0.0338         | 0.1352           |
+| 150-250    |                |                  |
+| ctrl vs 4E | 0.4397         | 0.58626667       |
+| ctrl vs 4K | 0.2243         | 0.42336          |
+
+### time-resolved
+| comparison    | t-test p-value | frd_bh corrected |
+|---------------|----------------|------------------|
+| 0-45 nm       |                |                  |
+| ctrl vs early | 0.9967         | 0.9967           |
+| ctrl vs late  | 0.0059         | 0.0479           |
+| 45-75         |                |                  |
+| ctrl vs early | 0.5274         | 0.9967           |
+| ctrl vs late  | 0.9587         | 0.9967           |
+| 75-150        |                |                  |
+| ctrl vs early | 0.4535         | 0.9967           |
+| ctrl vs late  | 0.9806         | 0.9967           |
+| 150-250       |                |                  |
+| ctrl vs early | 0.8609         | 0.9967           |
+| ctrl vs late  | 0.8486         | 0.9967           |
+
+
 ## significances for min distance to the AZ for near SVs (Figure 3 A first 100nm)
 ### SNAP
 
