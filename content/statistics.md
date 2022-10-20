@@ -92,7 +92,7 @@
 |    | mean |  std |  sem |  n | t-confidence | fdr_bh corrected |
 |:--:|:----:|:----:|:----:|:--:|:------------:| :---------------:|
 | WT | 5.85 | 3.45 | 0.54 | 41 |       1      |                  |      
-| 4E | 8.16 | 5.96 | 0.93 | 51 |    0.0343    |      0.0371      |
+| 4E | 8.16 | 5.96 | 0.93 | 51 |    0.0302    |      0.0371      |
 | 4K | 8.54 | 6.08 | 1.47 | 17 |    0.0371    |      0.0371      |
 
 ### Time Res
@@ -103,7 +103,7 @@
 | early | 7.65 | 4.06 | 0.61 | 45 |     0.168    |
 |  late |  9.7 | 6.01 | 0.97 | 38 |     0.484    |
 
-## (Figure 4 A/B)
+## Fraction of Proximal SVs in RRP(Figure 4 A/B)
 ### SNAP
 
 |    | Fraction |  n |  chi2  | confidence |
@@ -120,7 +120,7 @@
 | early |   0.289  | 45 | 10.5946 |   0.0011   |       0.0022     |
 |  late |   0.132  | 38 |  0.9103 |    0.34    |        0.34      |
 
-## (Figure 4 C/D)
+## Number of tethers (Figure 4 C/D)
 ### SNAP
 
 |    |  mean |  std  |  n | t-test p-value | frd_bh corrected | t-test p-value |
@@ -233,7 +233,7 @@
 | distal 2 ctrl --> early. p = 0.0009  fdr_bh corrected p = 0.015299              |
 | distal 2 ctrl --> late. p = 0.69    fdr_bh corrected p = 0.78199                | 
 
-## significances for fractions  of connected vesicles per distance group (Figure 5 C/D) 
+## significances for fractions of connected vesicles per distance group (Figure 5 C/D) 
 ### SNAP
 |           | WT                        |                               |           |                  | 4E                        |                               |           |                  | 4K                        |                               |           |                  |
 |-----------|---------------------------|-------------------------------|-----------|------------------|---------------------------|-------------------------------|-----------|------------------|---------------------------|-------------------------------|-----------|------------------|
@@ -279,8 +279,8 @@
 | 75-150    | 323                       | 61                            | 1         | 129                       | 23                            | 0.93      | 0.99             | 213                       | 32                            | 0.39      | 0.663            |
 | 150-250   | 483                       | 71                            | 1         | 258                       | 23                            | 0.06      | 0.1457           | 333                       | 57                            | 0.48      | 0.7418           |
 
-## (Figure 5 E/F)
-### SNAP
+## Number of connectors per RRP / non-RRP proximal SV (Figure 5 E/F)
+### SNAP (Figure 5E)
 #### RRP
 |    |  mean |  std  |  sem  | n | t-confidence |
 |:--:|:-----:|:-----:|:-----:|:-:|:------------:|
@@ -295,13 +295,13 @@
 | 4E | 1.578 | 1.588 | 0.237 | 45 |     0.342    |       1      |
 | 4K | 1.824 | 2.215 | 0.537 | 17 |     0.781    |     0.629    |
 
-### Time Res
+### Time Res (Figure 5F)
 #### RRP
 |       | mean  | std   | sem   | n  | t-confidence | fdr_bh corrected | t-confidence (not considered) |
 |-------|-------|-------|-------|----|--------------|------------------|-------------------------------|
 | ctrl  | 1.429 | 1.813 | 0.685 |  7 | 1            |                  | -                             |
-| early | 2.692 | 2.496 | 0.692 | 13 | 0.05         | 0.05             | 1                             |
-| late  | 1.200 | 1.304 | 0.583 |  5 | 0.045        | 0.05             | 0.0083                        |
+| early | 2.692 | 2.496 | 0.692 | 13 | 0.25         | 0.5              | 1                             |
+| late  | 1.200 | 1.304 | 0.583 |  5 | 0.81         | 0.81             | 0.22                          |
 #### non RRP
 |       |  mean |  std  |  sem  |  n | t-confidence | fdr_bh corrected | t-confidence (not considered) |
 |:-----:|:-----:|:-----:|:-----:|:--:|:------------:|------------------|:-----------------------------:|
@@ -309,7 +309,7 @@
 | early | 2.688 | 3.053 |  0.54 | 32 |     0.017    | 0.034            |               1               |
 |  late | 0.909 | 1.071 | 0.186 | 33 |     0.016    | 0.034            |             0.0025            |
 
-## (Figure 5 G/H)
+## number of connector per tethered / non tethered proximal SVs (Figure 5 G/H)
 ### SNAP
 #### tethered
 |    |  mean |  std  |  sem  |  n | t-confidence | t-confidence |
