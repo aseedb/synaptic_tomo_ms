@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/e3d4f3be6f90866f59e3a9e4f8461ea3410387a5/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/e3d4f3be6f90866f59e3a9e4f8461ea3410387a5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/e3d4f3be6f90866f59e3a9e4f8461ea3410387a5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/b8cb1b1813806008c439a76d339507928c23c506/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b8cb1b1813806008c439a76d339507928c23c506/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b8cb1b1813806008c439a76d339507928c23c506/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/e3d4f3be6f90866f59e3a9e4f8461ea3410387a5/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/e3d4f3be6f90866f59e3a9e4f8461ea3410387a5/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/b8cb1b1813806008c439a76d339507928c23c506/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/b8cb1b1813806008c439a76d339507928c23c506/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,9 +96,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/e3d4f3be6f90866f59e3a9e4f8461ea3410387a5/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/b8cb1b1813806008c439a76d339507928c23c506/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@e3d4f3b](https://github.com/aseedb/synaptic_tomo_ms/tree/e3d4f3be6f90866f59e3a9e4f8461ea3410387a5)
+from [aseedb/synaptic_tomo_ms@b8cb1b1](https://github.com/aseedb/synaptic_tomo_ms/tree/b8cb1b1813806008c439a76d339507928c23c506)
 on November 17, 2022.
 </em></small>
 
@@ -270,11 +270,9 @@ The delays achieved here are shorter than those attained by electrical stimulati
 The solution was sprayed with an atomizer and droplets hit the EM grid a few milliseconds before freezing.
 The spray-mixing plunge freezing setup was custom built based on a system introduced by Berriman and Unwin [@doi:10/ctwp5j].
 
-![**Schematic representation of a spray-mixing plunge-freezing experiment. In a single experiment different synaptosomes get stimulated for between less than 1 ms and 7 ms.** An EM-grid is held by tweezers and is covered with synaptosomes in HBM-solution. A magnified view of a grid squares shows synaptosomes in blue and their synpatic state of three synapsomes is represented on the rightmost part of each panel. Panel (A) represents the situation right after blotting off solution excess. The grid is accelerated towards the spray and the cryogen. Panel (B) shows a snapshot of the experiment when the grid crosses the spray, 7 ms before the freezing. Some fluorescently dyed droplets containing HBM with 52 mM KCl land on the grid and are depicted in green. At this time point, a synaptosome located at the impact point of a droplet is activated and is depicted in dark blue. Panel (C) shows a snapshot 5 ms later, i.e. 2 ms before freezing. As KCl diffuses away from droplet impacts points, another synaptosomes gets activated because, locally KCl concentration has reached reached a concentration to depolarize enough the synaptosome so that voltage-gated calcium chanels open. Panel (D) shows a synaptosome at the time of impact with ethane. 0.1 ms before freezing a third synaptosome got exposed to a high enough concentration of KCl and got stimulated.](images/spray_freeze_workflow.png){#fig:spray_workflow width="15cm"}
-
 The spray droplet size was optimized by cutting a 1-ml pipet tip to a diameter matching an EM grid (3 mm) and fixed to the atomizer glass outlet to disperse the spray (Figure {@fig:workflow}A1).
 Furthermore, to achieve the shortest possible delay between spraying and freezing, the nozzle was set 1-2 mm above the liquid ethane container.
-This generated many small spray droplets spread throughout the grid (Figure {@fig:workflow}A2-A4, Supplementary Figure @fig:spray_workflow).
+This generated many small spray droplets spread throughout the grid (Figure {@fig:workflow}A2-A4, Figure @fig:spray_workflow).
 Even if sprayed droplets were well distributed throughout the grid, not all synaptosomes were in contact with exocytosis-triggering KCl solution.
 Synaptosomes located on the landing spot of a droplet were stimulated instantly and therefore were frozen for a delay equal to the time between the grid crossing the spray and hitting the cryogen (typically set at 7 or 35 ms; Supplementary Figure @{fig:spray_workflow}B).
 However, synaptosomes situated at a distance from a landing spot were only stimulated when the KCl concentration rose due to diffusion reached a threshold triggering voltage-gated calcium chanel opening (Supplementary Figure @{fig:spray_workflow}C and D). 
@@ -286,6 +284,8 @@ Additionally, phase contrast imaging enabled quality control of the frozen EM gr
 We restricted our analysis to synaptosomes that possessed a smooth PM, free of signs of rupturing and that had a mitochondrion, as we considered these factors essential for synaptosome function.
 
 ![**Experimental models.** A1) Glass atomizer used to disperse depolarizing solution on the EM grid milliseconds before the grid is vitrified. A2) Spray droplets imaged with the GFP filter set. A3) Synaptosomes imaged with the DAPI filter set. A4) Overlay of spray droplets (green) and synaptosomes (red). Scale bars, 20 μm. B1) Schematic drawing of a 6-well petridish depicting astrocytes (pink) growing at the bottom of the petridish below EM grids (black round grid overlaying the astrocytes) with neurons (blue) growing on top of the grids. B2) Gridsquare overview with neurons growing over it; scale bar = 5 µm. B3) Medium magnification overview of neurons growing over R2/1 holes; scale bar = 500 nm. B4) One slice of a tomogram depicting the synapse and its respective postsynapse; scale bar = 100 nm.](images/workflow.svg){#fig:workflow width="15cm"}
+
+![**Schematic representation of a spray-mixing plunge-freezing experiment. In a single experiment different synaptosomes get stimulated for between less than 1 ms and 7 ms.** An EM-grid is held by tweezers and is covered with synaptosomes in HBM-solution. A magnified view of a grid squares shows synaptosomes in blue and their synpatic state of three synapsomes is represented on the rightmost part of each panel. Panel (A) represents the situation right after blotting off solution excess. The grid is accelerated towards the spray and the cryogen. Panel (B) shows a snapshot of the experiment when the grid crosses the spray, 7 ms before the freezing. Some fluorescently dyed droplets containing HBM with 52 mM KCl land on the grid and are depicted in green. At this time point, a synaptosome located at the impact point of a droplet is activated and is depicted in dark blue. Panel (C) shows a snapshot 5 ms later, i.e. 2 ms before freezing. As KCl diffuses away from droplet impacts points, another synaptosomes gets activated because, locally KCl concentration has reached reached a concentration to depolarize enough the synaptosome so that voltage-gated calcium chanels open. Panel (D) shows a synaptosome at the time of impact with ethane. 0.1 ms before freezing a third synaptosome got exposed to a high enough concentration of KCl and got stimulated.](images/spray_freeze_workflow.png){#fig:spray_workflow width="15cm"}
 
 In addition, we manipulated the electrostatic state of the SNARE complex through mutated SNAP-25 protein introduced using lentiviral vectors into primary SNAP-25 knockout neurons grown on EM grids [@doi:10.1016/j.celrep.2019.01.103] (Figure {@fig:workflow}B1-B4). 
 The “4E” mutation contains four glutamic acid substitutions, whereas the “4K” contains four lysine substitutions; all mutations are placed in the second SNARE-motif of SNAP-25 and were shown to decrease and increase the rate of spontaneous miniature release, respectively [@doi:10.1016/j.celrep.2019.01.103]. 
@@ -299,7 +299,7 @@ Thereby, we could image chronically overactive or inactive synapses and relate p
 ### Increased membrane curvature at the onset of exocytosis
 
 We analyzed the morphology of SVs fusing with the AZ PM.
-As explained above, synaptosomes of a single grid have not all been stimulated for the same duration (Supplementary Figure @fig:spray_workflow).
+As explained above, synaptosomes of a single grid have not all been stimulated for the same duration (Figure @fig:spray_workflow).
 The time interval between triggering exocytosis and freezing ranged between 0 ms and the interval between spray droplets hitting the grid and freezing, which was comprised between 7 and 35 ms depending on the experiments (see [@doi:10/ctwp5j]). 
 This offered the unique possibility to observe SV exocytosis events immediately after their initiation, and even before membranes have started to mix.
 
