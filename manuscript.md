@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-11-17'
+date-meta: '2022-11-18'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -27,8 +27,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-11-17" />
-  <meta name="citation_publication_date" content="2022-11-17" />
+  <meta name="dc.date" content="2022-11-18" />
+  <meta name="citation_publication_date" content="2022-11-18" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/8f3dae98c62e00495705e27bb78b71e4c6c1f816/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/8f3dae98c62e00495705e27bb78b71e4c6c1f816/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/8f3dae98c62e00495705e27bb78b71e4c6c1f816/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/6aab973fc3e68cdde0da480b35b81bce2efbdde5/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/6aab973fc3e68cdde0da480b35b81bce2efbdde5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/6aab973fc3e68cdde0da480b35b81bce2efbdde5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/8f3dae98c62e00495705e27bb78b71e4c6c1f816/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/8f3dae98c62e00495705e27bb78b71e4c6c1f816/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/6aab973fc3e68cdde0da480b35b81bce2efbdde5/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/6aab973fc3e68cdde0da480b35b81bce2efbdde5/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,10 +96,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/8f3dae98c62e00495705e27bb78b71e4c6c1f816/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/6aab973fc3e68cdde0da480b35b81bce2efbdde5/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@8f3dae9](https://github.com/aseedb/synaptic_tomo_ms/tree/8f3dae98c62e00495705e27bb78b71e4c6c1f816)
-on November 17, 2022.
+from [aseedb/synaptic_tomo_ms@6aab973](https://github.com/aseedb/synaptic_tomo_ms/tree/6aab973fc3e68cdde0da480b35b81bce2efbdde5)
+on November 18, 2022.
 </em></small>
 
 ## Authors
@@ -341,7 +341,7 @@ Furthermore, the proximal SVs of both mutants were located significantly further
 The larger mean distance between proximal SVs and plasma membrane in the 4E mutant might result the repulsion between negative charges present in SNAP-25 and on the plasma membrane. 
 In the case of the 4K mutant, the larger mean distance may be due to the high spontaneous exocytotic activity of this mutant. 
 Indeed, SVs getting in close proximity of the plasma membrane have a very high probability of fusing and therefore "disappear".
-Of note, no significant difference in the mean distance between proximal SVs and the plasma membrane was observed following stimulation in rat synapatosomes (Figure @fig:vesicle_distribution}D). 
+Of note, no significant difference in the mean distance between proximal SVs and the plasma membrane was observed following stimulation in rat synaptosomes (Figure {@fig:vesicle_distribution}D). 
 In the most distal zones of neuronal synapses, SV occupancy in both mutants mostly got lower than in the WT although the differences were not significant ({@fig:vesicle_distribution}A).
 
 ### Proximal vesicles form additional tethers following stimulation
@@ -641,13 +641,18 @@ From the stimulated synaptosomes only those that showed visible signs of exocyto
 
 ### Data analysis
 If not stated otherwise data in the text are described as mean ± standard error of the mean (SEM).
-Wherever possible, data were presented as box plots with the following settings: orange bar, median; box extremities, lower and upper quartiles; whiskers extend up to 1.5 x interquartile range; dots, outliers.
-Multiple pairwise ANOVA comparisons with with Benjamini-Hochberg correction was used [@doi:10/gfpkdx].
-All against control and/or all against reference pairwise comparisons were performed. 
-See figure legends for details. 
-In addition, for data that required to be split into discrete bins (e.g. fraction of connected vesicles by distance to active zone), pairwaise χ2 tests with Benjamini-Hochberg correction were used.
+Statistical tests are described in figure legends. 
+Multiple pairwise χ2-test with Benjamini-Hochberg correction was used to compare data in form of a fraction of SVs pooled from all active zones of an experimental group (e.g. in Figure {@fig:tethers}A-B) [@doi:10/gfpkdx].
+Multiple pairwise ANOVA comparisons with Benjamini-Hochberg correction was used in all other cases.
+All-against-reference pairwise comparisons were performed.
+The definition of references is described for each comparison in the corresponding figure legend.
 We did not apply statistical methods to predetermine sample size but similar sample sizes as previously reported have been used [@doi:10.1083/jcb.200908082].
 It was not necessary to apply randomization.
+We performed Benjamini-Hochberg correction with the _multipletests_ function implemented in the Python module _statsmodels_ [@doi:10.25080/Majora-92bf1922-011].
+A list of P-values resulting form pairwise comparisons was input and _multipletests_ output a list of corrected P-values.
+The used implementation of the Benjamini-Hochberg correction does not require a false discovery rate to be input.
+If a corrected P-value is smaller than the defined acceptable false discovery rate, then the null hypothesis is rejected, i.e. the difference is considered statistically significant.
+In the figures, \*\*\*, \*\*, and \* indicate a corrected P-value lower than false discovery rates of 0.001, 0.01, and 0.05, respectively.
 
 ### Manuscript preparation
 The manuscript was written with the open and collaborative scientific writing package Manubot [@doi:10.1371/journal.pcbi.1007128]. 
