@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/6aab973fc3e68cdde0da480b35b81bce2efbdde5/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/6aab973fc3e68cdde0da480b35b81bce2efbdde5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/6aab973fc3e68cdde0da480b35b81bce2efbdde5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/9aa977451d6039aebc6f324ed404edcb2ec2316e/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/9aa977451d6039aebc6f324ed404edcb2ec2316e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/9aa977451d6039aebc6f324ed404edcb2ec2316e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/6aab973fc3e68cdde0da480b35b81bce2efbdde5/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/6aab973fc3e68cdde0da480b35b81bce2efbdde5/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/9aa977451d6039aebc6f324ed404edcb2ec2316e/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/9aa977451d6039aebc6f324ed404edcb2ec2316e/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,9 +96,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/6aab973fc3e68cdde0da480b35b81bce2efbdde5/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/9aa977451d6039aebc6f324ed404edcb2ec2316e/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@6aab973](https://github.com/aseedb/synaptic_tomo_ms/tree/6aab973fc3e68cdde0da480b35b81bce2efbdde5)
+from [aseedb/synaptic_tomo_ms@9aa9774](https://github.com/aseedb/synaptic_tomo_ms/tree/9aa977451d6039aebc6f324ed404edcb2ec2316e)
 on November 18, 2022.
 </em></small>
 
@@ -625,7 +625,7 @@ Defocus was set between -6 to -10 µm and the total electron dose used was about
 ### Manual and automatic segmentation procedures
 Manual segmentation of SVs, mitochondria, and the active zone PM was done in IMOD (Supplementary Figure {@fig:suppl_tomogram_slices}B and D, Supplementary [Movies S1](vid:synaptosome) and [S2](vid:neuron)). 
 The boundary marked the region to be analyzed by Pyto [@doi:10.1016/j.jsb.2016.10.004].
- The analysis by Pyto was essentially the same as described previously [@doi:10.1083/jcb.200908082] [@doi:10.1016/j.jsb.2016.10.004].
+ The analysis by Pyto was essentially the same as described previously [@doi:10.1083/jcb.200908082; @doi:10.1016/j.jsb.2016.10.004].
 In short, the segmented area is divided in 1 voxel thick layers parallel to the active zone for distance calculations.
 A hierarchical connectivity segmentation detects densities interconnecting vesicles (so-called connectors) and densities connecting vesicles to the active zone PM (so-called tethers) (Supplementary Figure {@fig:suppl_tomogram_slices}B and D, Supplementary [Movies S1](vid:synaptosome) & [S2](vid:neuron)).
 Distance calculations are done with the center of the vesicle.
