@@ -7,7 +7,7 @@ keywords:
   - synaptic vesicles
 lang: en-US
 authors:
-  - github: julikaradecke
+  - #github: julikaradecke
     name: Julika Radecke
     initials: JR
     orcid: 0000-0002-5815-5537
@@ -20,7 +20,7 @@ authors:
       - Swiss National Science Foundation, P2BEP3_172242
     symbol_str: "*"
     equal_contribution: true
-  - github: elatella
+  - #github: elatella
     name: Raphaela Seeger
     initials: RS
     email: raphaela.seeger@ana.unibe.ch
@@ -41,7 +41,7 @@ authors:
     email: ulrike.laugks@cssb-hamburg.de
     affiliations:
       - Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
-  - github: ameen-khosrowzadeh
+  - #github: ameen-khosrowzadeh
     name: Amin Khosrozadeh
     initials: AK
     email: amin.khosrozadeh@unibe.ch
@@ -54,14 +54,14 @@ authors:
     email: k.goldie@unibas.ch
     affiliations:
       - BioEM Lab, Biozentrum, University of Basel, Basel, Switzerland
-  - github: vladanl
+  - #github: vladanl
     name: Vladan Lučić
     initials: VL
     orcid: 0000-0003-3698-7436
     email: vladan@biochem.mpg.de
     affiliations: 
       - Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
-  - github: JBSorensen
+  - #github: JBSorensen
     name: Jakob B. Sørensen
     initials: JBS
     orcid: 0000-0001-5465-3769
@@ -75,7 +75,7 @@ authors:
       - Lundbeckfonden, R277-2018-802
     symbol_str: "†"
     correspondence: true
-  - github: aseedb
+  - #github: aseedb
     name: Benoît Zuber
     initials: BZ
     orcid: 0000-0001-7725-5579
