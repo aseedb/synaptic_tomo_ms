@@ -7,7 +7,7 @@
    viewBox="0 0 347.27078 151.60942"
    version="1.1"
    id="svg31353"
-   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
    sodipodi:docname="vesicle_tethers.svg"
    inkscape:export-filename="../../../../../../Microscopic Anatomy Dropbox/Benoit Zuber/papers/synaptic_tomo_ms/content/images/vesicle_tethers.png"
    inkscape:export-xdpi="300"
@@ -65202,15 +65202,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70737049"
-     inkscape:cx="422.69222"
-     inkscape:cy="299.7015"
+     inkscape:cx="290.51254"
+     inkscape:cy="301.11519"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1455"
      inkscape:window-height="1138"
      inkscape:window-x="1055"
-     inkscape:window-y="165"
+     inkscape:window-y="137"
      inkscape:window-maximized="0"
      inkscape:pagecheckerboard="0"
      inkscape:snap-midpoints="false"
@@ -67577,7 +67577,7 @@
          style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect396837);display:inline"><tspan
            x="458.38672"
            y="394.11525"
-           id="tspan178042">non sprayed</tspan></text>
+           id="tspan47697">non sprayed</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.86761406,0,0,0.99709041,-356.43923,-310.68965)"
@@ -67585,7 +67585,7 @@
          style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect406049);display:inline"><tspan
            x="434.44727"
            y="457.88673"
-           id="tspan178044">early fusion</tspan></text>
+           id="tspan47699">early fusion</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.86761406,0,0,0.99709041,-348.66628,-235.62829)"
@@ -67593,7 +67593,7 @@
          style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect406049-8);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
            x="434.44727"
            y="457.88673"
-           id="tspan178046">late fusion</tspan></text>
+           id="tspan47701">late fusion</tspan></text>
     </g>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.242324;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -67620,7 +67620,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect38567-3-1-8-3);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="-204.17188"
          y="320.8672"
-         id="tspan178048">Number of tethers</tspan></text>
+         id="tspan47703">Number of tethers</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
@@ -67764,7 +67764,7 @@
            style="font-size:13.8907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect535305-1-1);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
              x="545.0625"
              y="415.24322"
-             id="tspan178050">non sprayed
+             id="tspan47705">non sprayed
 </tspan></text>
         <text
            xml:space="preserve"
@@ -67773,7 +67773,7 @@
            style="font-size:13.8907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect543333-5-8);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
              x="561.98438"
              y="456.72369"
-             id="tspan178052">early fusion</tspan></text>
+             id="tspan47707">early fusion</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.26458333,0,0,0.24377547,131.69294,33.153083)"
@@ -67781,7 +67781,7 @@
            style="font-size:13.8907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect543333-8-4-7);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
              x="561.98438"
              y="456.72369"
-             id="tspan178054">late fusion</tspan></text>
+             id="tspan47709">late fusion</tspan></text>
         <g
            id="line2d_11-5-9"
            transform="matrix(0.2912608,0,0,0.28609269,150.36695,115.22502)"
@@ -69388,7 +69388,7 @@
          style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect432889);display:inline"><tspan
            x="13.494141"
            y="387.38088"
-           id="tspan178056">WT</tspan></text>
+           id="tspan47711">WT</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.86746697,0,0,0.98996123,18.148709,-236.03966)"
@@ -69396,7 +69396,7 @@
          style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect432889-8);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
            x="13.494141"
            y="387.38088"
-           id="tspan178058">4E</tspan></text>
+           id="tspan47713">4E</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.86746697,0,0,0.98996123,17.456033,-162.82608)"
@@ -69404,7 +69404,7 @@
          style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect432889-3);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
            x="13.494141"
            y="387.38088"
-           id="tspan178060">4K</tspan></text>
+           id="tspan47715">4K</tspan></text>
     </g>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.324408;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -69430,7 +69430,7 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect38567-3-1-8-3-8);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="-204.17188"
          y="320.8672"
-         id="tspan178062">Number of tethers</tspan></text>
+         id="tspan47717">Number of tethers</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
@@ -70202,11 +70202,11 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect89195-7);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="89.939453"
          y="1491.0195"
-         id="tspan178064">vesicles with 
+         id="tspan47719">vesicles with 
 </tspan><tspan
          x="89.939453"
          y="1509.3529"
-         id="tspan178066">≥3 tethers</tspan></text>
+         id="tspan47721">≥3 tethers</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,183.73112,-324.18928)"
@@ -70214,11 +70214,11 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect89195-0-4);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="89.939453"
          y="1491.0195"
-         id="tspan178068">vesicles with 
+         id="tspan47723">vesicles with 
 </tspan><tspan
          x="89.939453"
          y="1509.3529"
-         id="tspan178070">0-2 tethers</tspan></text>
+         id="tspan47725">0-2 tethers</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
@@ -70361,7 +70361,7 @@
          style="font-size:13.8907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect535305-1-6);display:inline;stroke-width:0.967676;stroke-linecap:butt;stroke-linejoin:round"><tspan
            x="545.0625"
            y="415.24322"
-           id="tspan178072">non sprayed
+           id="tspan47727">non sprayed
 </tspan></text>
       <text
          xml:space="preserve"
@@ -70370,7 +70370,7 @@
          style="font-size:13.8907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect543333-5-7-0);display:inline;stroke-width:0.967676;stroke-linecap:butt;stroke-linejoin:round"><tspan
            x="561.98438"
            y="456.72369"
-           id="tspan178074">early fusion</tspan></text>
+           id="tspan47729">early fusion</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458333,0,0,0.26033365,135.69812,-80.511763)"
@@ -70378,7 +70378,7 @@
          style="font-size:13.8907px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect543333-8-4-8-8);display:inline;stroke-width:0.967676;stroke-linecap:butt;stroke-linejoin:round"><tspan
            x="561.98438"
            y="456.72369"
-           id="tspan178076">late fusion</tspan></text>
+           id="tspan47731">late fusion</tspan></text>
       <g
          id="line2d_11-5-6"
          transform="matrix(0.2912608,0,0,0.30552522,154.37213,7.13482)"
@@ -70428,16 +70428,17 @@
        y="0"><tspan
          x="-244.82912"
          y="201.41655"
-         id="tspan178078">Fraction of total number of </tspan><tspan
-         x="-175.83409"
+         id="tspan47733">Fraction of total number of </tspan><tspan
+         x="-209.65401"
          y="219.39204"
-         id="tspan178080">vesicles</tspan></text>
+         id="tspan47735">proximal vesicles</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="panel A"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot31906"
@@ -70962,10 +70963,10 @@
        y="0"><tspan
          x="-244.82912"
          y="201.41655"
-         id="tspan178082">Fraction of total number of </tspan><tspan
-         x="-175.83409"
+         id="tspan47737">Fraction of total number of </tspan><tspan
+         x="-209.65401"
          y="219.39204"
-         id="tspan178084">vesicles</tspan></text>
+         id="tspan47739">proximal vesicles</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,58.191606,-324.69595)"
@@ -70973,11 +70974,11 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect89195-7-3);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="89.939453"
          y="1491.0195"
-         id="tspan178086">vesicles with 
+         id="tspan47741">vesicles with 
 </tspan><tspan
          x="89.939453"
          y="1509.3529"
-         id="tspan178088">≥3 tethers</tspan></text>
+         id="tspan47743">≥3 tethers</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,6.630416,-324.69595)"
@@ -70985,11 +70986,11 @@
        style="font-size:14.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect89195-0-4-6);display:inline;stroke-linecap:butt;stroke-linejoin:round"><tspan
          x="89.939453"
          y="1491.0195"
-         id="tspan178090">vesicles with 
+         id="tspan47745">vesicles with 
 </tspan><tspan
          x="89.939453"
          y="1509.3529"
-         id="tspan178092">0-2 tethers</tspan></text>
+         id="tspan47747">0-2 tethers</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
