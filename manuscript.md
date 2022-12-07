@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-11-29'
+date-meta: '2022-12-07'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -27,8 +27,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-11-29" />
-  <meta name="citation_publication_date" content="2022-11-29" />
+  <meta name="dc.date" content="2022-12-07" />
+  <meta name="citation_publication_date" content="2022-12-07" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/18d0ed55778b3370b98a8386a20103b41b5c29db/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/18d0ed55778b3370b98a8386a20103b41b5c29db/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/18d0ed55778b3370b98a8386a20103b41b5c29db/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/b83a5ba8a8e84102587e2aef6e8c0d2ca083f242/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b83a5ba8a8e84102587e2aef6e8c0d2ca083f242/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b83a5ba8a8e84102587e2aef6e8c0d2ca083f242/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/18d0ed55778b3370b98a8386a20103b41b5c29db/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/18d0ed55778b3370b98a8386a20103b41b5c29db/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/b83a5ba8a8e84102587e2aef6e8c0d2ca083f242/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/b83a5ba8a8e84102587e2aef6e8c0d2ca083f242/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,10 +96,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/18d0ed55778b3370b98a8386a20103b41b5c29db/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/b83a5ba8a8e84102587e2aef6e8c0d2ca083f242/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@18d0ed5](https://github.com/aseedb/synaptic_tomo_ms/tree/18d0ed55778b3370b98a8386a20103b41b5c29db)
-on November 29, 2022.
+from [aseedb/synaptic_tomo_ms@b83a5ba](https://github.com/aseedb/synaptic_tomo_ms/tree/b83a5ba8a8e84102587e2aef6e8c0d2ca083f242)
+on December 7, 2022.
 </em></small>
 
 ## Authors
@@ -192,12 +192,12 @@ on November 29, 2022.
 ## Abstract {.page_break_before}
 The fusion of synaptic vesicles (SVs) with the plasma membrane (PM) proceeds through intermediate steps that remain poorly resolved.
 Additionally, the effect of persistent high or low exocytosis activity on intermediate steps remains unknown.
-Through time-resolved cryo-electron tomography, we ordered events into a sequence.
-Following stimulation, proximal tethered SVs rapidly form additional tethers with the PM.
-Simultaneously, fusion initiation occurs  by membrane curvature (‘buckling’) of the SV and PM.
-It is followed by the formation of a fusion pore, and the collapse of SV membrane.
-At this time, membrane-proximal, but not membrane-distal, vesicles lose their interconnections, allowing them to move towards the PM.
-Two mutations of SNAP-25 that arrests or disinhibit spontaneous release, respectively, both caused a loss of interconnectors, while the disinhibiting mutant also caused a loss of membrane proximal multiple-tethered SVs.
+Using time-resolved cryo-electron tomography allowed us to observe events following synaptic stimulation at a single nanometer resolution in fully hydrated, preparation artefact-free samples.
+Our data strongly suggest that during the stage that immediately follows the stimulation, termed early fusion, the PM and SV membrane curvature change ('buckling') and establish a point contact. 
+The next stage, termed late fusion, is characterized by opening of the fusion pore and the collapse of SV membrane.
+Our characterization of SV bound protein complexes showed that during early fusion proximal tethered SVs rapidly form additional tethers with the PM and increase the number of connectors that interlink SVs.
+In the late fusion stage, PM-proximal, but not PM-distal SVs lose their interconnections, allowing them to move towards the PM. 
+Two mutations of SNAP-25, one that arrests and one that disinhibits spontaneous release, caused a loss of connectors, while the disinhibiting mutant also caused a loss of membrane proximal multiple-tethered SVs.
 Overall, tether formation and connector dissolution are triggered by stimulation and respond to the spontaneous fusion rate.
 These morphological observations likely correspond to the transition of SVs from one functional pool to another.
 
@@ -209,12 +209,14 @@ For normal brain function such as movement coordination or memory formation, com
 In the central nervous system, neurons communicate through the release of neurotransmitters at synapses.
 This process relies on synaptic vesicle (SV) exocytosis, i.e. the fusion of neurotransmitter-filled SVs with the plasma membrane (PM).
 SV exocytosis involves a sequence of steps [@doi:10.1111/j.1600-0854.2008.00759.x; @doi:10.1016/j.neuron.2013.10.022].
-The vesicle is docked to the active zone (AZ) PM and the exocytosis machinery goes through a maturation process, termed priming, after which the SV is ready to fuse.
+Namely, the vesicle is brought to the active zone (AZ) PM and the exocytosis machinery goes through a maturation process, termed priming, which renders the vesicle able to undergo exocytosis immediately upon stimulation.
 These SVs form the readily releasable pool (RRP).
 Finally, a calcium influx triggers fusion of the SV with the PM.
-Docked SVs are defined as those in very close proximity or direct contact with the PM as observed by electron microscopy (EM), whereas priming refers to SV ability to undergo exocytosis immediately upon stimulation.
+
+In electron microscopy (EM) of of resin embedded, heavy metal stained samples, Docked SVs are defined as SVs in very close proximity or direct contact with the PM, whereas priming refers to SV ability to undergo exocytosis immediately upon stimulation.
 Whether every docked SV is also primed has been debated [@doi:10.1111/j.1600-0854.2008.00759.x; @doi:10.1016/j.conb.2016.12.012;@doi:10.1016/j.neuron.2014.10.009].
 A high-pressure freezing/freeze-substitution EM study of synapses has indicated that vesicles which are in direct contact with the PM, i.e. docked, are also primed and belong to the RRP and that this situation occurs downstream of vesicle tethering [@doi:10.1016/j.neuron.2014.10.009].
+
 From a molecular perspective, priming involves several proteins, including the SNARE complex (SNAP-25, syntaxin-1, and synaptobrevin-2), Munc13, Munc18, synaptotagmin-1, and complexin [@doi:10.1016/j.neuron.2013.10.022;@doi:10.1146/annurev-biophys-060414-034057].
 All three SNAREs form a highly stable, tight four-helix bundle, known as trans-SNARE complex.
 The surfaces of the SV and the PM, are both negatively charged and therefore tend to repulse each other.
@@ -227,16 +229,17 @@ Upon Ca^2+^ binding, synaptotagmin-1 was proposed to insert between the head gro
 Interestingly, much of the trans-SNARE bundle surface is negatively charged.
 This contributes to the electrostatic barrier that minimizes spontaneous fusion.
 Synaptotagmin-1 can then act as an electrostatic switch that triggers exocytosis.
-Introducing negatively charged side chains by site-directed mutagenesis reduces the rate of spontaneous and evoked exocytosis, whereas introducing more positive side chains enhances the rate of spontaneous exocytosis and depletes the RRP. [@doi:10.1016/j.celrep.2019.01.103]
+Introducing negatively charged side chains to SNAP-25 by site-directed mutagenesis reduces the rate of spontaneous and evoked exocytosis, whereas introducing more positive side chains enhances the rate of spontaneous exocytosis and depletes the RRP [@doi:10.1016/j.celrep.2019.01.103].
 
-Cryo-electron tomography (cryo-ET), which preserves samples to atomic resolution, revealed that under resting conditions, no SV is in direct contact with the PM and the majority of AZ-proximal SVs are connected to the PM by a variable number of short tethers [@doi:10.1083/jcb.200908082; @doi:10.1016/j.sbi.2019.01.008].
+Cryo-electron tomography (cryo-ET) allows imaging of fully hydrated, vitrified samples where structural information is preserved  to atomic resolution. It revealed that under resting conditions, SVs are rarely in direct contact with the PM and the majority of AZ-proximal SVs are connected to the PM by a variable number of short tethers [@doi:10.1083/jcb.200908082; @doi:10.1016/j.sbi.2019.01.008].
 The observed gap between the SV and the PM is consistent with the model of an electrostatic barrier formed by the negative charges of the SV, the PM, and the trans-SNARE bundle [@doi:10.1016/j.celrep.2019.01.103].
-In synaptosomes treated with hypertonic-sucrose solution, which depletes the RRP, the majority of tethered vesicles had only 1 or 2 tethers [@doi:10/c76twv; @doi:10.1074/jbc.M504137200; @doi:10.1083/jcb.200908082].
+In synaptosomes treated with hypertonic-sucrose solution, which is known to deplete the RRP, the majority of tethered vesicles had only 1 or 2 tethers [@doi:10/c76twv; @doi:10.1074/jbc.M504137200; @doi:10.1083/jcb.200908082].
 This observation suggested that the RRP consists of SV, which are linked to the PM by 3 or more tethers.
 The RRP, as identified by morphological criteria, only represents a minority of AZ-proximal vesicles.
 This is in agreement with previous reports.
-In one of them, the term pre-primed pool was used for the few vesicles (~1 vesicle at hippocampal synapses) that are rapidly released and another publication showed that the RRP is made up of only 10-20% of SVs located on the AZ (equal to ~1 vesicle on hippocampal synapses) [@doi:10.1111/j.1469-7793.2001.0481i.x; @doi:10.1523/JNEUROSCI.5231-04.2005].
+In one of them, the term pre-primed pool was used for the few vesicles (~1 vesicle at hippocampal synapses) that are rapidly released. Another publication showed that the RRP is made up of only 10-20% of SVs located on the AZ (equal to ~1 vesicle on hippocampal synapses) [@doi:10.1111/j.1469-7793.2001.0481i.x; @doi:10.1523/JNEUROSCI.5231-04.2005].
 The ensemble of proximal vesicles that are not in the RRP have been termed non-RRP and presumably belong to the recycling pool that releases more slowly [@doi:10.1083/jcb.200908082; @doi:10.3389/fnsyn.2010.00135].
+
 Farther away from the AZ, partially intermixed with the recycling pool, is the reserve pool containing vesicles that only release upon high frequency stimulation.
 Vesicles in the reserve pool are tightly clustered and well interconnected by structures that were termed connectors [@doi:10.1083/jcb.200908082; @doi:10.3389/fnsyn.2010.00135].
 It should be noted, that the molecular nature of connectors is not known and is possibly heterogenous.
@@ -252,9 +255,8 @@ It is therefore conceivable that inter-SV connectors restrain SV diffusion and t
 
 To investigate this hypothesis and to better understand the impact of depolarization and synaptic activity on SV tethering, we designed two sets of cryo-ET experiments.
 On the one hand, we compared the morphology of wild-type rat synaptosomes in resting state and a few milliseconds after depolarization.
-On the other hand, to study the consequences of increased or decreased spontaneous synaptic activity, we imaged synapses in mouse neuronal culture expressing either wild-type SNAP-25, a more positively charged SNAP-25 mutant (4K mutant), or a more negatively charged mutant of SNAP-25 (4E mutant) [@doi:10.1016/j.celrep.2019.01.103]
-The more positively charged SNAP-25 mutant, which is constitutive active, showed no triple-tethered SV [@doi:10.1016/j.celrep.2019.01.103].
-This confirmed the morphological definition of the RRP.
+On the other hand, to study the consequences of increased or decreased spontaneous synaptic activity, we imaged synapses in mouse neuronal culture expressing either wild-type SNAP-25, a more positively charged SNAP-25 mutant (4K mutant), or a more negatively charged, consitutively active mutant of SNAP-25 (4E mutant) [@doi:10.1016/j.celrep.2019.01.103]
+The more positively charged SNAP-25 mutant showed no triple-tethered SV, confirming the morphological definition of the RRP [@doi:10.1016/j.celrep.2019.01.103].
 Our experiments revealed an immediate formation of additional tethers between proximal RRP vesicles and the PM after depolarization.
 Shortly after exocytosis, the level of inter-SV connectivity was decreased among SVs situated in a 25 to 75-nm distance range from the AZ PM.
 Altogether, our results indicate a regulation through connectors of SV mobility and their recruitment at the AZ PM.
@@ -264,9 +266,9 @@ Altogether, our results indicate a regulation through connectors of SV mobility 
 
 To analyze the morphological changes occurring in the presynapse shortly after stimulation, we pursued a time-resolved cryo-electron tomography approach similar to the one introduced by Heuser, Reese, and colleagues [@doi:10.1083/jcb.81.2.275].
 Whereas Heuser et al. used an electrical stimulus, we chose to trigger exocytosis by spraying a depolarizing solution containing 52-mM KCl onto the specimen a few milliseconds before freezing for two reasons.
-First, cryo-ET requires samples to be plunge-frozen directly on an EM grid, which is not compatible with electrical stimulation.
+First, spraying allows cryo-ET imaging because it is compatible with plunge freezing directly on an EM grid, which is not the case of electrical stimulation.
 Second, this method allows catching synapses at delays between stimulation and freezing lower than a millisecond, as explained below. 
-The delays achieved here are shorter than those attained by electrical stimulation, given the uncertainty on the exact time of freezing.
+Some of the delays achieved here are shorter than those attained by electrical stimulation.
 The solution was sprayed with an atomizer and droplets hit the EM grid a few milliseconds before freezing.
 The spray-mixing plunge freezing setup was custom-built based on a system introduced by Berriman and Unwin [@doi:10/ctwp5j].
 
@@ -274,7 +276,7 @@ The spray droplet size was optimized by cutting a 1-ml pipette tip to a diameter
 Furthermore, to achieve the shortest possible delay between spraying and freezing, the nozzle was set 1-2 mm above the liquid ethane container.
 This generated many small spray droplets spread throughout the grid (Figure {@fig:workflow}A2-A4, Figure @fig:spray_workflow).
 Even if sprayed droplets were well distributed throughout the grid, not all synaptosomes were in contact with exocytosis-triggering KCl solution.
-Synaptosomes located on the landing spot of a droplet were stimulated instantly and therefore were frozen for a delay equal to the time between the grid crossing the spray and hitting the cryogen (typically set at 7 or 35 ms; Figure @{fig:spray_workflow}B).
+Synaptosomes located on the landing spot of a droplet were stimulated instantly and therefore were frozen for a delay equal to the time between the grid crossing the spray and hitting the cryogen, which was typically set at 7 or 35 ms (Figure @{fig:spray_workflow}B).
 However, synaptosomes situated at a distance from a landing spot were only stimulated when the KCl concentration rose due to diffusion reached a threshold triggering voltage-gated calcium channel opening (Figure @{fig:spray_workflow}C and D). 
 Through this process, we were able to trap stimulated synapses at the very earliest stages of exocytosis.
 Given the very low throughput of cryo-electron tomography, we followed a correlative light and electron microscopy approach.
@@ -285,7 +287,7 @@ We restricted our analysis to synaptosomes that possessed a smooth PM, free of s
 
 ![**Experimental models.** A1) Glass atomizer used to disperse depolarizing solution on the EM grid milliseconds before the grid is vitrified. A2) Spray droplets imaged with the GFP filter set. A3) Synaptosomes imaged with the DAPI filter set. A4) Overlay of spray droplets (green) and synaptosomes (red). Scale bars, 20 μm. B1) Schematic drawing of a 6-well Petri dish depicting astrocytes (pink) growing at the bottom of the Petri dish below EM grids (black round grid overlaying the astrocytes) with neurons (blue) growing on top of the grids. B2) Grid square overview with neurons growing over it; scale bar = 5 µm. B3) Medium magnification overview of neurons growing over R2/1 holes; scale bar = 500 nm. B4) One slice of a tomogram depicting a synapse; scale bar = 100 nm.](images/workflow.png){#fig:workflow width="15cm"}
 
-![**Schematic representation of a spray-mixing plunge-freezing experiment. In a single experiment different synaptosomes get stimulated for between less than 1 ms and 7 ms.** An EM-grid is held by tweezers and is covered with synaptosomes in HBM-solution. A magnified view of a grid square shows synaptosomes in blue and their synaptic state of three synaptosomes is represented on the rightmost part of each panel. Panel (A) represents the situation right after blotting off solution excess. The grid is accelerated towards the spray and the cryogen. Panel (B) shows a snapshot of the experiment when the grid crosses the spray, 7 ms before the freezing. Some fluorescently dyed droplets containing HBM with 52 mM KCl land on the grid and are depicted in green. At this time point, a synaptosome located at the impact point of a droplet is activated and is depicted in dark blue. Panel (C) shows a snapshot 5 ms later, i.e. 2 ms before freezing. As KCl diffuses away from droplet impacts points, another synaptosome gets activated because locally KCl concentration has reached a concentration to depolarize the synaptosome sufficiently so that voltage-gated calcium channels open. Panel (D) shows a synaptosome at the time of impact with ethane. 0.1 ms before freezing a third synaptosome got exposed to a high enough concentration of KCl and got stimulated.](images/spray_freeze_workflow.png){#fig:spray_workflow width="15cm"}
+![**Schematic representation of a spray-mixing plunge-freezing experiment. In a single experiment different synaptosomes get stimulated for between less than 1 ms and 7 ms.** An EM-grid is held by tweezers and is covered with synaptosomes in HBM-solution. A magnified view of a grid square shows synaptosomes in blue and their synaptic state of three synaptosomes is represented on the rightmost part of each panel. Panel (A) represents the situation immediately after blotting off solution excess, before the grid is sprayed. The grid is accelerated towards the cryogen. Panel (B) shows a snapshot of the experiment when the grid crosses the spray, 7 ms before the freezing. Some fluorescently dyed droplets containing HBM with 52 mM KCl land on the grid and are depicted in green. At this time point, a synaptosome located at the impact point of a droplet is activated and is depicted in dark blue. Panel (C) shows a snapshot 5 ms later, i.e. 2 ms before freezing. As KCl diffuses away from droplet impacts points, another synaptosome gets activated because locally KCl concentration has reached a concentration to depolarize the synaptosome sufficiently so that voltage-gated calcium channels open. Panel (D) shows a synaptosome at the time of immersion with ethane. 0.1 ms before freezing a third synaptosome got exposed to a high enough concentration of KCl and got stimulated.](images/spray_freeze_workflow.png){#fig:spray_workflow width="15cm"}
 
 In addition, we manipulated the electrostatic state of the SNARE complex through mutated SNAP-25 protein introduced using lentiviral vectors into primary SNAP-25 knockout neurons grown on EM grids [@doi:10.1016/j.celrep.2019.01.103] (Figure {@fig:workflow}B1-B4). 
 The “4E” mutation contains four glutamic acid substitutions, whereas the “4K” contains four lysine substitutions; all mutations are placed in the second SNARE-motif of SNAP-25 and were shown to decrease and increase the rate of spontaneous miniature release, respectively [@doi:10.1016/j.celrep.2019.01.103]. 
@@ -298,29 +300,33 @@ Thereby, we could image chronically overactive or inactive synapses and relate p
 
 ### Increased membrane curvature at the onset of exocytosis
 
-We analyzed the morphology of SVs fusing with the AZ PM.
+We first analyzed the morphology of SVs fusing with the AZ PM.
 As explained above, synaptosomes of a single grid have not all been stimulated for the same duration (Figure @fig:spray_workflow).
-The time interval between triggering exocytosis and freezing ranged between 0 ms and the interval between spray droplets hitting the grid and freezing, which was comprised between 7 and 35 ms depending on the experiments (see [@doi:10/ctwp5j]). 
+The time interval between triggering exocytosis and freezing ranged between 0 ms and the interval between spray droplets hitting the grid and freezing (maximum 35 ms; see [@doi:10/ctwp5j]). 
 This offered the unique possibility to observe SV exocytosis events immediately after their initiation, and even before membranes have started to mix.
 
-Synaptosomes from both control and sprayed grids were thoroughly analyzed for signs of exocytosis, which consisted of  morphological changes of the AZ PM and the tethered SV occurring upon stimulation, which are described hereafter.
-These signs were only detected in synaptosomes from sprayed grids.
-We analyzed non-sprayed tomograms not only acquired specifically for this study but also from past studies and from hundreds of SVs at the active zone we found no sign of exocytosis.
-Thereafter, the snapshots of exocytosis are presented in the most parsimonious chronological order.
-Upon stimulation, both the vesicle membrane and the PM were slightly bent towards each other (Figure {@fig:membrane_morphology}B1-B3; orange arrows; n=8).
+Synaptosomes from both control and sprayed grids were thoroughly analyzed for signs of exocytosis, which consisted of  morphological changes of the AZ PM and the SV membrane occurring upon stimulation.
+These signs were only detected in synaptosomes from sprayed grids and neither non-sprayed tomograms acquired specifically for this study nor in past studies containing hundreds of SVs at the active zone.
+
+Among the synapses that showed bent lipid membranes, we distinguished early and late fusion stages. 
+The early stage events were defined as those that do not show open fusion pore. 
+We observed two different types of these events, as follows. 
+(i) Both the vesicle membrane and the PM were slightly bent towards each other, without making a contact (Figure {@fig:membrane_morphology}B1-B3; orange arrows; n=8). 
 These structures, which have previously been reported in liposomes but not in synapses, have been referred to as membrane curvature events [@doi:10.1016/j.cell.2010.02.017].
-Control synaptosomes (i.e. not sprayed) on the other hand, had a straight PM, and no SV membrane was buckled (Figure {@fig:membrane_morphology}A).
-Following membrane bending, we observed contacts between vesicles and the PM bilayer where both membranes lose their clear contours (Figure {@fig:membrane_morphology}C1 & C2; pink arrows; n=3).
-This was followed by further transitioning states prior to and during pore opening (Figure {@fig:membrane_morphology}D-F; blue arrows; n=8).
-In the next observed fusion state, the vesicle was wide open (Figure {@fig:membrane_morphology}G; n=1), followed by almost completely collapsed vesicles where only a small bump on the PM remained visible (Figure {@fig:membrane_morphology}H; n=14).
-These structures were not observed in any of the non-sprayed control datasets.
-Interestingly, using high-pressure freezing and freeze-substitution, Imig et al. observed very similar structures in mouse hippocampal organotypic slices [@doi:10.1016/j.neuron.2014.10.009]. Nevertheless, very fine membrane deformations and SV deformations such as in Figure {@fig:membrane_morphology}B1-3 were not reported before, possibly because the required sample preservation to image them is only provided by cryo-ET.  
+Control synaptosomes (i.e. not sprayed) on the other hand, had a straight PM, and no SV membrane was buckled (Figure {@fig:membrane_morphology}A). 
+(ii) A contact was formed between the vesicle and the PM bilayer where both membranes lose their clear contours (Figure {@fig:membrane_morphology}C1 & C2; pink arrows; n=3), or where they establish a point contact (Figure {@fig:membrane_morphology}D-E; blue arrows; n=5). Similar events were observed previously only by cryo-ET in chronically stimulated synaptosomes, but could not be firmly associated with a particular SV exocytosis state [@doi:10.1083/jcb.200908082].
 
-![**SV exocytosis morphology.** Tomographic slice of non-stimulated (A) and stimulated rat synaptosomes (B-H). A) Image of a 2.2-nm thick tomographic slice showing a non-stimulated with SVs at the AZ and a straight PM. B1) Membrane curvature event, 2.2-nm thick tomographic slice. B2) Membrane curvature event, 6.5-nm thick tomographic slice. B3) Membrane curvature event, 2.24 nm thick tomographic slice. Orange arrows showing membrane curvature event. C1,C2) Lipid perturbations of PM and SV, 22-nm thick tomographic slices. The space between SV and PM is denser than in the non-stimulated synaptosomes (see pink arrow). D-F) Vesicles with a pore opening that might be on the way to full collapse fusion, 33-nm thick tomographic slice thickness: 22 nm (D), 30.8 (E), 33 nm (F). G) Wide pore opening, most likely on the way to full collapse fusion, 2.2-nm tomographic slice. H) Remaining bump at the end of full collapse fusion, 11-nm thick tomographic slice. Scale bar, 50 nm. Total number of observations of each type of exocytosis events: B, 8; C, 3; D, 3; E, 2; F, 3; G, 1; H, 14. Events of type B to E were classified as early, while events of type F to H were classified as late.](images/vesicle_morphology.png){#fig:membrane_morphology width="15cm"}
+The late fusion stage events were defined as those where SV lumenal and the extracellular regions were in direct contact. These events include small SV fusion pore opening (Figure 3F; blue arrows; n=3) wide fusion pore opening (Figure 3G; n=1), and cases where SVs collapsed almost completely and only a small bump on the PM remained visible (Figure 3H; n=11). Using high-pressure freezing and freeze-substitution, Imig et al. observed very similar structures in mouse hippocampal organotypic slices [@doi:10.1016/j.neuron.2014.10.009]. Nevertheless, very fine lipid membrane deformations such as those in Figure {@fig:membrane_morphology}B1-3 and SVs located at a few nanometer distance to the AZ PM were not observed, possibly because of the application of dehydration and heavy metal staining.
 
-Stimulated synaptosome datasets were divided into early and late fusion stages, respectively, based on the morphology of SV and AZ PM. 
-Synapses showing membrane bending and direct lipid contact between SV and PM without an open pore were classified as early fusion (Figure {@fig:membrane_morphology}B-E).
-Those with an open pore or a remaining small bump of a fully collapsed vesicle were classified as late fusion (Figure {@fig:membrane_morphology}F-H).
+![**SV exocytosis morphology.** Tomographic slice of non-stimulated (A) and stimulated rat synaptosomes (B-H). A) Image of a 2.2-nm thick tomographic slice showing a non-stimulated with SVs at the AZ and a straight PM. B1) Membrane curvature event, 2.2-nm thick tomographic slice. B2) Membrane curvature event, 6.5-nm thick tomographic slice. B3) Membrane curvature event, 2.24 nm thick tomographic slice. Orange arrows showing membrane curvature event. C1,C2) Lipid perturbations of PM and SV, 22-nm thick tomographic slices. The space between SV and PM is denser than in the non-stimulated synaptosomes (see pink arrow). D-F) Vesicles with a pore opening that might be on the way to full collapse fusion, 33-nm thick tomographic slice thickness: 22 nm (D), 30.8 (E), 33 nm (F). G) Wide pore opening, most likely on the way to full collapse fusion, 2.2-nm tomographic slice. H) Remaining bump at the end of full collapse fusion, 11-nm thick tomographic slice. Scale bar, 50 nm. Total number of observations of each type of exocytosis events: B, 8; C, 3; D, 3; E, 2; F, 3; G, 1; H, 11. Events of type B to E were classified as early, while events of type F to H were classified as late.](images/vesicle_morphology.png){#fig:membrane_morphology width="15cm"}
+
+The notion that the SV fusion pore opening is the last step before the full SV collapse is well established, and it was hypothesized that lipid membrane perturbation and/or lipid point contact precede pore opening [@doi:10.1002/pro.3445]. 
+Therefore, our temporal assignment of the early and late fusion stages is dictated by the current understanding of neurotransmitter release. 
+Regarding the temporal assignment of events comprising the early and the late stage, it is very likely that lipid membrane perturbation events precede establishing the contact between SV and PM lipids  (Figure {@fig:membrane_morphology}B-E). Also, it is expected that in the full-collapse fusion, the SV pore progressively widens  (Figure {@fig:membrane_morphology}F-H). 
+These establish the most likely temporal sequence of the events we observed. 
+
+Importantly, in the analysis that follows, only the early and the late fusion stages are distinguished. 
+Furthermore, while the fusion stages were defined based on the observed lipid deformations, the further analysis concerns features that were not used to define the fusion stages, namely SV-bound protein complexes and the position of SVs within the presynaptic terminal.
 
 ### Synaptic vesicle distribution is impacted by synaptic activity
 
@@ -333,14 +339,15 @@ The absolute values differ between WT cultured mouse neurons and non-stimulated 
 The difference in absolute values can likely be attributed to the different experimental and animal models used.
 Sprayed synaptosomes that were showing early signs of exocytosis had a nearly identical SV occupancy pattern as non-sprayed synaptosomes (Figure {@fig:vesicle_distribution}B, dark blue and gray, respectively).
 However, when SV full collapse figures were apparent, SV occupancy in the proximal zone was reduced (P<0.08 with Benjamini-Hochberg correction), whereas SV occupancy further away from the AZ PM was unchanged.
-This is consistent with some membrane proximal SVs having engaged in exocytosis, while none of the recycling and reserve pool SVs have.
+This is similar but less pronounced than the redcution of the proximal SV occupancy observed after prolonged stimulation (30 to 60 s), which we reported earlier [@doi:10.1083/jcb.200908082]. Thus it is consistent with some membrane proximal SVs having engaged in exocytosis, while none of the recycling and reserve pool SVs have.
+
 In order to investigate the consequences of chronic high or low synaptic activity, we investigated the 4E and 4K mutants (Figure {@fig:vesicle_distribution}A, green and gold, respectively).
 In the proximal zone, SV were significantly less concentrated in the constitutive active 4K mutant than in the WT (P<0.05, ANOVA test with Benjamini-Hochberg correction).
 This can be readily attributed to the high probability of spontaneous exocytosis generated by the additional positive charges of the SNARE bundle.
 Furthermore, the proximal SVs of both mutants were located significantly further away from the active zone plasma membrane (P<0.05 in both cases, ANOVA test with Benjamini-Hochberg correction, Figure {@fig:vesicle_distribution}C). 
 The larger mean distance between proximal SVs and plasma membrane in the 4E mutant might result from the repulsion between negative charges present in SNAP-25 and on the plasma membrane. 
 In the case of the 4K mutant, the larger mean distance may be due to the high spontaneous exocytotic activity of this mutant. 
-Indeed, SVs getting in close proximity of the plasma membrane have a very high probability of fusing and therefore "disappear".
+Indeed, SVs located in close proximity of the plasma membrane have a very high probability of fusing, which then leaves proximal SVs located a higher distance to the PM.
 Of note, no significant difference in the mean distance between proximal SVs and the plasma membrane was observed following stimulation in rat synaptosomes (Figure {@fig:vesicle_distribution}D). 
 In the most distal zones of neuronal synapses, SV occupancy in both mutants mostly got lower than in the WT, although the differences were not significant ({@fig:vesicle_distribution}A).
 
@@ -349,11 +356,11 @@ In the most distal zones of neuronal synapses, SV occupancy in both mutants most
 We investigated the tethering state of proximal SVs (i.e. the SVs whose center is located within 45 nm of the AZ PM) prior to and following stimulation in synaptosomes. 
 In non-sprayed synaptosomes, 54% of the proximal vesicles were tethered, which is in agreement with previous results (Supplementary Figure {@fig:suppl_histograms}B) [@doi:10.1083/jcb.200908082].
 Interestingly, in the early fusion group the fraction of tethered proximal vesicles significantly increased to 80% (P<0.05, χ2 test with Benjamini-Hochberg correction). 
-In the late fusion group, however, 53% of the proximal vesicles were tethered, which is not significantly different from the non-sprayed group. 
+In the late fusion group, however, 53% of the proximal vesicles were tethered, which was not significantly different from the non-sprayed group. 
 The average number of tethers per proximal SV followed the same pattern. Proximal SVs had 0.89 ± 0.12 tethers in the non-sprayed group (Figure {@fig:tethers}D). 
 This parameter significantly rose to 2.09 ± 0.33 in the early fusion group (P<0.001, ANOVA test with Benjamini-Hochberg correction), while it returned to 1.00 ± 0.20 in the late fusion group.
 
-![**Proximal SV tethering.** (A, B) Fraction of proximal SVs that are triple tethered. Each bar shows the overall fraction of all proximal SVs from a given experimental condition. Each dot represents the value of an individual active zone. Statistical test: multiple all against control pairwise χ^2^-test comparisons with Benjamini-Hochberg correction. The reference was the WT genotype (A) or non sprayed synaptosomes (B). (C, D) Number of tethers per proximal SV. Each dot represents an individual SV. The vertical line represents the mean value, and the horizontal whiskers correspond to the 95% confidence interval. Statistical test: multiple all against control pairwise ANOVA comparisons with Benjamini-Hochberg correction; \*: P<0.05, \*\*: P<0.01, \*\*\*: P<0.001.](images/vesicle_tethers.png){#fig:tethers width="15cm"}
+![**Proximal SV tethering.** (A, B) Fraction of proximal SVs that are triple-tethered. Each bar shows the overall fraction of all proximal SVs from a given experimental condition. Each dot represents the value of an individual active zone. Statistical test: multiple all against control pairwise χ^2^-test comparisons with Benjamini-Hochberg correction. The reference was the WT genotype (A) or non sprayed synaptosomes (B). (C, D) Number of tethers per proximal SV. Each dot represents an individual SV. The vertical line represents the mean value, and the horizontal whiskers correspond to the 95% confidence interval. Statistical test: multiple all against control pairwise ANOVA comparisons with Benjamini-Hochberg correction; \*: P<0.05, \*\*: P<0.01, \*\*\*: P<0.001.](images/vesicle_tethers.png){#fig:tethers width="15cm"}
 
 We then analyzed whether the decreased occupancy in the late fusion group was associated with a decreased number of triple-tethered SVs (defined as SV with at least three tethers), which as mentioned in the introduction are suggested to belong to the RRP. 
 In resting, non-sprayed synapses, 8% of the proximal SVs were triple-tethered (Figure {@fig:tethers}B). 
@@ -368,31 +375,35 @@ The situation in the WT-SNAP-25 neurons was similar to unstimulated synaptosomes
 On average, proximal SVs had 1.17 ± 0.23 tethers (Figure {@fig:tethers}C). 
 The corresponding values for the 4E mutants were not significantly different (15% and 0.96 ± 0.18, respectively). 
 However, in all 4K mutant datasets there was not a single SV that was part of the RRP, i.e. triple-tethered. 
-Consistently, the number of tethers per proximal SV was significantly lower in the 4K mutant than in the WT (Figure {@fig:tethers}C, P<0.05, ANOVA test with Benjamini-Hochberg correction). 
+Similarly, the number of tethers per proximal SV was significantly lower in the 4K mutant than in the WT (Figure {@fig:tethers}C, P<0.05, ANOVA test with Benjamini-Hochberg correction). 
 These results are in line with physiological measurements that have shown that the RRP is depleted in the chronically spontaneously active 4K mutant, and they provide additional evidence that RRP-vesicles have at least 3 tethers. [@doi:10.1016/j.celrep.2019.01.103].
 
 ### Synaptic activity modifies inter-SV connectivity
 
-The majority of SV are linked to other SVs via molecular bridges previously termed connectors [@doi:10.1083/jcb.200908082; @doi:10.1016/j.sbi.2019.01.008]. The function and composition of connectors are not clear yet.
+The majority of SV are linked to other SVs via molecular bridges previously termed connectors [@doi:10.1083/jcb.200908082;@doi:10.1016/j.sbi.2019.01.008;@pmid:3152289;@doi:10.1083/jcb.108.1.111]. The function and composition of connectors are not clear yet.
 It was earlier proposed that connectors limit SV dispersion and allow SV mobilization for release.
 It is generally assumed that synapsin is involved in connector formation and may be one of its components.
-It has been suggested that connectors reduce SV mobility and maintain a local high SV concentration in the presynapse.
+It has been suggested that connectors reduce SV mobility and maintain a locally high SV concentration in the presynapse.
 The connectivity level of an individual SV might be one of the factors defining the pool to which the SV belongs.
 To shed some light on the role of connectors, we analyzed SV connectivity in our datasets.
 We focused our analysis to the SVs located at distance of the AZ PM lower than 250 nm in synaptosomes and lower than 900 nm in neurons.
-Furthermore, we defined 6 distance groups: proximal (0-45 nm), intermediate (45-75 nm), distal I (75-150 nm), distal II (150-250 nm), distal III (250-450 nm), and distal IV (450-900 nm) similarly to previous studies [@doi:10.1083/jcb.200908082 ;@doi:10.1083/jcb.201206063].
-We first analyzed synaptosomes.
+Furthermore, we defined 6 distance groups: proximal (0-45 nm), intermediate (45-75 nm), distal I (75-150 nm), distal II (150-250 nm), distal III (250-450 nm), and distal IV (450-900 nm) similarly to previous studies [@doi:10.1083/jcb.200908082;@doi:10.1083/jcb.201206063].
+
 In non-sprayed synaptosomes datasets, approximately 70% of the proximal and intermediate SVs were connected to other vesicles.
 In distal I and II regions, this value rose to 84% (P<0.05 χ2 test with Benjamini-Hochberg correction) and 87% (P<0.001), respectively (Figure {@fig:connectors}D).
 Similarly, the number of connectors per vesicle significantly increased from the proximal region (1.63 ± 0.17) to the distal I region (2.39 ± 0.10, P<0.001 ANOVA test with Benjamini-Hochberg correction) and the distal II region (2.92 ± 0.10, P<0.001, Figure {@fig:connectors}B).
+
 We then compared the number of connectors per SV between non-sprayed synaptosomes and early fusion or late fusion synaptosomes.
 In the proximal group there were significantly more connectors in the early fusion group than in the non sprayed group (1.63 ± 0.17 and 2.69 ± 0.43, P<0.05 ANOVA test with Benjamini-Hochberg correction) and this number  significantly dropped to 0.95 ± 0.18 in the late fusion group (P<0.05, Figure {@fig:connectors}B).
-Consistently, the number of connectors per non triple-tethered proximal SV went from 1.64 ± 0.17 in the non-sprayed group, rose significantly to 2.69 ± 0.54 in the early fusion group (P<0.05 ANOVA test with Benjamini-Hochberg correction) and dropped to 0.91 ± 0.19 in the late fusion group (P<0.05, Figure {@fig:connectors}F).
+Consistently, the number of connectors per non triple-tethered proximal SV significantly increased from 1.64 ± 0.17 in the non-sprayed group to 2.69 ± 0.54 in the early fusion group (P<0.05 ANOVA test with Benjamini-Hochberg correction) and dropped to 0.91 ± 0.19 in the late fusion group (P<0.05, Figure {@fig:connectors}F).
+The number of connectors per triple-tethered proximal SVs showed the same pattern, but these results did not reach significance.
+When considering non-tethered versus tethered proximal SVs, we observed no significant difference in the number of connectors per SV between the experimental groups (Figure {@fig:connectors}H). 
+
 Taken together, our observations indicate that following depolarization, the number of connectors per proximal SV with less than 3 tethers (i.e. non-RRP) first increases and then decreases to a value lower than the initial one.
 We have seen earlier that the fraction of tethered proximal SVs does not differ between non-sprayed and late fusion synaptosomes (Figure {@fig:suppl_histograms}B).
 Thus, our data suggest that establishing connectivity is a slower process than tethering.
-We hypothesize that given the free space made in the proximal region after some SVs have fused, non-connected vesicles from the intermediate region diffuse to the proximal zone and become tethered to the AZ PM.
-Only subsequently, these newly tethered vesicles get interconnected.
+We hypothesize that given the free space made in the proximal region after some SVs have fused, vesicles from the intermediate region diffuse to the proximal zone and become tethered to the AZ PM, reaching non-stimulated levels within the time frame of our experiments.
+However, during this time, the number of connectors did not reach the non-stimulated levels.
 Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices).
 Thus, in addition to passive diffusion, pulling towards the plasma membrane of SV connected to fusing SV can contribute to replenishing the RRP.
 
@@ -406,7 +417,7 @@ This was supported by a significantly lower number of connectors per SV in the d
 Consistently the fraction of connected SVs was lower in the distal II, III, and IV regions for the 4E mutant vs the WT (P<0.05, P<0.001, and p<0.05, respectively,  χ2 test with Benjamini-Hochberg correction, Figure {@fig:connectors}C). 
 The fraction of connected SVs was not different in the 4K mutant versus the WT, except in the distal IV region where it was higher (P<0.05 χ2 test with Benjamini-Hochberg correction)
 The number of connectors per proximal SV was not affected by the mutations (Figure {@fig:connectors}A, E and G).
-These results indicate that prolonged abnormal exocytotic activity is correlated with severe changes in intervesicular connectivity in the distal region.
+These results indicate that prolonged abnormal exocytotic activity, such as those caused by functional alterations of SNAP-25, are correlated with severe changes in intervesicular connectivity in the distal region.
 
 
 ## Discussion
@@ -424,17 +435,17 @@ In future studies, this uncertainty could be reduced by stimulating exocytosis w
 Nonetheless, accessing sub-millisecond delays, which is required to observe the early stages of SV exocytosis would be technically quite challenging with light stimulation. 
 The identity of the proteins composing the tethers and connectors represents another uncertainty. 
 To date, cytoplasmic protein labelling for cryo-ET remains extremely challenging.
-Nevertheless, several laboratories, including ours, are working towards solving this limitation.  
+Nevertheless, several laboratories, including ours, are working towards solving this limitation [@doi:10.1101/2022.04.10.487799].  
 Finally, we could only analyze a restricted number of specimens.
 This was mainly due to two factors.
 Samples were relatively thick, and finding suitably thin synapses required extremely time-consuming screening.
-In future studies, we might resort to cryo-focused ion beam (cryo-FIB) milling to prepare thin lamellas.
+In future studies, we might resort to cryo-focused ion beam (cryo-FIB) milling to prepare thin lamellas [@doi:10.1038/nmeth1014;@doi:10.1016/j.jsb.2016.07.010].
 Manual segmentation of SVs was possibly the most serious bottleneck. 
 In the future, deep-learning based segmentation procedures might reduce this burden.
 
 ### Membrane curvature increases following depolarization
 Depolarization through spraying droplets of KCl solution on synaptosomes milliseconds before freezing allowed us to capture snapshots of exocytosis (Figure {@fig:membrane_morphology}B1-B3).
-In spite of the uncertainty on the exact delay between stimulation and freezing, our approach allowed access to shorter delays than any other time-resolved cryo-EM technique.
+In spite of the uncertainty on the exact delay between stimulation and freezing, our approach allowed access to shorter delays than any other cryo-EM technique.
 The temporal sorting of observed exocytosis snapshots was done in the most parsimonious way.
 We observed that the curvature of some PM regions facing some SVs increased following depolarization.
 The SV facing such a PM buckling also seemed to get kinked.
@@ -449,16 +460,17 @@ Finally, nearly fully collapsed SVs were imaged.
 Overall our observations support the standard model of full collapse SNARE-dependent membrane fusion [@doi:10.1073/pnas.1816495115; @doi:10.1002/cbic.201100020] and reveal details of exocytosis early stage, prior to actual membrane fusion.
 
 ### SV local concentration correlates with SV connectivity
-SV local concentration - a.k.a. SV occupancy - is tightly correlated with the distance from the AZ PM. Under resting conditions, SV occupancy shows a minimum in the intermediate region (45-75 nm away from the AZ) (Figure {@fig:vesicle_distribution}A-B), in agreement with previous reports [@doi:10.1083/jcb.200908082].
+SV local concentration - a.k.a. SV occupancy - is tightly correlated with the distance from the AZ PM. Under resting conditions, SV occupancy showed a minimum in the intermediate region (45-75 nm away from the AZ) (Figure {@fig:vesicle_distribution}A-B), in agreement with previous reports [@doi:10.1083/jcb.200908082].
 By definition, all SVs in the proximal region are directly facing the PM.
 Their high concentration can be attributed to the fact that more than 50% of them are tethered to the PM. 
 On the other hand, the number of connectors per SV and SV connectivity is generally higher in the distal regions (Figure {@fig:connectors}A-D).
-This increased value correlates with the higher occupancy.
+This increased value correlates with the higher SV occupancy.
 Thus, we may hypothesize that SV local concentration is a function of their level of tethering to the PM and of connection with other SVs.
-Interestingly, under short stimulation of a few milliseconds, SV occupancy only decreases in the proximal region, as a consequence of the fusion of SVs with the PM (Figure {@fig:vesicle_distribution}B).
-In order to further assess the relation between SV tethering, connectivity, and occupancy, we analyzed synapses bearing expressing either WT SNAP-25, a more positively charged mutant (4K), or a more negatively charged mutant (4E) [@doi:10.1016/j.celrep.2019.01.103].
+Interestingly, under short stimulation of a few milliseconds, SV occupancy only decreased in the proximal region, most likely as a consequence of the fusion of SVs with the PM (Figure {@fig:vesicle_distribution}B).
+
+In order to further assess the relation between SV tethering, connectivity, and occupancy, we analyzed synapses expressing either WT SNAP-25, a more positively charged mutant (4K), or a more negatively charged mutant (4E) [@doi:10.1016/j.celrep.2019.01.103].
 The 4K mutant has a decreased energy barrier to membrane fusion and causes constitutive active exocytosis, whereas the 4E mutant shows a decreased exocytotic activity because of a higher energy barrier to membrane fusion.
-The 4K mutant had a significantly decreased proximal SV occupancy, while there was no significance difference in the case of the 4E mutant (Figure {@fig:vesicle_distribution}A). 
+Our data show that the 4K mutant had a significantly decreased proximal SV occupancy, while there was no significant difference in the case of the 4E mutant (Figure {@fig:vesicle_distribution}A). 
 The decrease was probably due to the high frequency of spontaneous exocytosis observed in the 4K mutant [@doi:10.1016/j.celrep.2019.01.103].
 In the intermediate, and distal I regions, the occupancy of both mutants were very similar to the one of the WT. In more distal regions, the variability in occupancy between individual active zones strongly increased and made intergroup comparisons difficult. 
 Our data show that strong disturbances in exocytotic activity lead to profound differences in SV connectivity.
@@ -478,21 +490,21 @@ Our observations are also consistent with a number of studies that have conclude
 ### Depolarization rapidly induces additional tethering in proximal vesicles
 We compared SV tethering before and shortly after depolarization.
 Our observations are schematically summarized in Figure {@fig:model}.
-Interestingly, the fraction of proximal SVs that were tethered increased by 50% shortly after stimulation, in synapses showing early signs of exocytosis. 
+Interestingly, the fraction of proximal SVs that were tethered increased by 50% shortly after stimulation. 
 Simultaneously, the number of tethers per proximal SV more than doubled, and the fraction of proximal SVs with 3 or more tethers tripled. 
-In presynaptic terminals presenting more advanced stages of exocytosis (Ω-figures), all these measurements returned to pre-stimulation values. 
+All these measurements returned to pre-stimulation values in presynaptic terminals presenting more advanced stages of exocytosis (late fusion stage). 
 These data indicate that immediately after the onset of stimulation, a quick and massive increase in tethering occurs. 
-This phenomenon was resolved in our measurements because the spraying of synaptosomes with an intermediate K^+^-concentration made it possible to isolate synaptosomes in an early stage of fusion, which would have been missed during either strong or chronic stimulation, which would deplete primed vesicles.
+This phenomenon was resolved in our measurements because the spraying of synaptosomes with an intermediate K^+^-concentration made it possible to detect synaptosomes in an early stage of fusion, which would have been missed during either strong or chronic stimulation, because these would deplete primed vesicles.
 
-The phenomenon of rapid, depolarization-induced tethering leads to some free proximal SVs becoming tethered to the AZ PM, while some previously single- or double-tethered SVs gained the additional tether(s) that according to our definition of the RRP (as triple-tethered vesicles) would be expected to render them releasable [@doi:10.1083/jcb.200908082].
+The phenomenon of rapid, depolarization-induced tethering leads to some free proximal SVs becoming tethered to the AZ PM, while some previously single- or double-tethered SVs gained the additional tether(s) thus rendering them releasable according to our definition of the RRP (as triple-tethered vesicles) [@doi:10.1083/jcb.200908082].
 There are several important implications of this finding. 
 First, the increase in the number of tethers during the initial membrane contact - in excess of the three tethers formed during priming - might help overcome the fusion barrier. 
 Functional reconstruction led to the suggestion that SNARE-complexes primarily form downstream of Ca^2+^-influx [@doi:10.1038/nsmb.2061], whereas mutagenesis studies in cells supported the notion that SNARE-complexes had already formed before arrival of the Ca^2+^-trigger, i.e. during priming [@doi:10.1083/jcb.200907018]. 
 In fact, both notions might be partly correct, as the formation of a low number of SNARE-complexes might lead to a stable primed state, defined by a valley in the energy landscape due to the dual inhibitory/stimulatory features of the SNARE-complex [@doi:10.1038/emboj.2010.130;@doi:10.1016/j.celrep.2019.01.103 ], whereas more SNARE-complexes might form dynamically after triggering, during membrane fusion itself. 
-Accordingly, in in vitro fusion assays additional SNARE-complexes, above those required for fusion pore formation, leads to fusion pore stabilization and release of larger cargos [@doi:10.1126/science.1214984;@doi:10.1038/nature25481]. 
+Accordingly, in in vitro fusion assays, additional SNARE-complexes, in addition to those required for fusion pore formation, cause to fusion pore stabilization [@doi:10.1126/science.1214984;@doi:10.1038/nature25481]. 
 Second, vesicles that have not formed three tethers before stimulation might fuse with delayed kinetics during triggering, which accounts for the variable exocytosis kinetics among SVs [@doi:10.1073/pnas.1606383113;@doi:10.1073/pnas.1314427110;@doi:10.1016/j.neuron.2015.08.038;@doi:10.7554/eLife.51032]. 
 Superprimed vesicles are expected to have formed the largest number of tethers before stimulation [@doi:10.1073/pnas.1314427110;@doi:10.1073/pnas.1606383113]. 
-Third, overlapping protein complexes might be involved in priming and triggering, depending on the timing of their formation. 
+Third, functionally overlapping protein complexes might be involved in priming and triggering, depending on the timing of their formation. 
 Accordingly, triggering that stimulates tether-formation might also stimulate priming for those vesicles that were not tethered before stimulation. 
 Indeed, a number of recent publications have suggested that some SVs can get primed extremely quickly in response to Ca^2+^ influx [@doi:10.3389/fnsys.2019.00030;@doi:10.1016/j.tins.2021.04.003;@doi:10.1038/s41593-020-00716-1;@doi:10.1016/j.neuron.2016.07.033;@doi:10.7554/eLife.51032].
 
@@ -500,8 +512,8 @@ Indeed, a number of recent publications have suggested that some SVs can get pri
 
 ### Conclusion
 Our study revealed fine morphological changes occurring in the presynaptic terminal immediately after the onset of exocytosis, as well as in chronically active or inactive synapses.
-It indicates increased SV tethering induced the rise in presynaptic Ca^2+^, potentially corresponding to SV superpriming, and preceding SV fusion. 
-It also highlights modifications of proximal SV interconnections in response to evoked exocytosis, as well as more drastic modifications of distal SV interconnections in chronically active synapses and in inactive synapses.
+It indicates that the rise in presynaptic Ca^2+^ induced increased SV tethering prior to SV fusion, which potentially corresponds to SV superpriming. 
+We also detected modifications of proximal SV interconnections in response to evoked exocytosis, as well as more drastic modifications of distal SV interconnections in chronically active synapses and in inactive synapses.
 These changes likely affect SV mobility and recruitment at the AZ.
 
 
@@ -536,20 +548,18 @@ The cerebral cortex and the hippocampi were removed in sucrose buffer (SEH: 0.32
  The pellet was carefully and quickly aspirated with a Pasteur pipette to avoid mixture with the solution, and then diluted in HBM.
 
 ### Preparation of astrocytic and neuronal culture
-The procedure has been published before [@doi:10.3791/50783].
-Glial cells were ready to be used after 10 days. 
-Once they were triturated and counted with a Buerker chamber, 100,000 cells/ml were plated onto untreated 12-well plates containing DMEM supplemented with 10% fetal bovine serum (FBS), 10000 IU penicillin, 10 mg streptomycin and 1% MEM non-essential amino acids (DMEM+10% FBS).
+Glial cells were prepared as described previously [@doi:10.3791/50783].
 Astrocytes were isolated from CD1 outbred mice (P0-P2).
 Pups were killed by decapitation and heads were placed in HBSS-HEPES medium (HBSS supplemented with 1 M HEPES).
 The cortices were isolated from the brains and the meninges were removed (dura, pia and arachnoid mater).
-The cortices were chopped into smaller fragments and transferred to a tube containing 0.25% trypsin dissolved in Dulbecco’s MEM (DMEM).
+The cortices were chopped into smaller fragments and transferred to a tube containing 0.25% trypsin dissolved in Dulbecco’s modified Eagle media (DMEM).
 Fragments were incubated for 15 min at 37°C.
 Subsequently, inactivation medium (12.5 mg albumin + 12.5 mg trypsin-inhibitor in DMEM+10% FBS) was added and the tissue washed with HBSS-HEPES. 
 Tissue was triturated until a smooth, cloudy suspension appeared. 
 Cells were plated in 75 cm^2^ flasks with pre-warmed DMEM, one hemisphere per flask, and stored at 37°C with 5% CO~2~. Glial cells were ready to be used after 10 days.
 Glial cells were washed with pre-warmed HBSS-HEPES.
 Trypsin was added and the flasks were incubated at 37°C for 10 min.
-Cells were triturated and counted with a Buerker chamber before plating 100,000 cells/ml on untreated 12-well plates containing DMEM+10% FBS.
+Cells were triturated and counted with a Buerker chamber before plating 100,000 cells/ml on untreated 12-well plates containing DMEM supplemented with 10% fetal bovine serum(FBS), 10000 IU penicillin, 10 mg streptomycin and 1% DMEM non-essential amino acids.
 After 2 days, neurons were plated. 
 
 Hippocampal neurons were isolated from E18 SNAP-25 KO of either sex.
@@ -579,12 +589,13 @@ The plunge freezer and the spraying device (atomizer) were computer controlled w
 The spraying device was set similarly to the device in [@doi:10/ctwp5j]. 
 Nitrogen gas pressure necessary to drive spraying was set to 2.5 bar. 
 The grid was set to pass in front of the spray nozzle at a distance of 3-4 mm. 
-The plunge freezer was accelerated to 0.75 m/s and the minimum spray delay was ~7 ms.
+The plunge freezer was accelerated to 0.75 m/s and the height of the spray nozzle was adjusted so that the minimum spray delay was ~7 ms.
+The delay could be adjusted by varying the distance between the spray nozzle and the cryogen bath and the maximum delay that we used was 35 ms.
 The atomizer sprays scattered droplets of various size on the EM grid.
 During the time lapse between spraying and freezing the content of the droplets spreads by diffusion.
 KCl diffuses approximately 4x faster than fluorescein.
 Cryo-ET imaging was done within the diffusion distance of KCl but outside of the visible spray droplet because the center of the spray droplet would usually be too thick for imaging.
-This reduces the effective stimulation duration to anything between 0 ms and less than the given spray-freeze delay.
+This allows reaching minimal stimulation times of few milliseconds or even sub-milliseconds and maximal stimulation times of 35 ms.
 Moreover, through diffusion, KCl concentration rapidly rises and then decreases.
 Hence synaptosomes are not permanently depolarized.
 
@@ -613,7 +624,7 @@ Defocus was set between -8 to -12 µm and the total electron dose used was about
 Prior to image processing the frames at each tilt angle, frames were aligned and averaged in 2dx MC_Automator [@doi:10.1016/j.jsb.2014.03.016] with motioncor [@doi:10.1038/nmeth.2472].
 3D reconstruction was done in IMOD [@doi:10.1006/jsbi.1996.0013].
 The alignments were done using the automated fiducial tracking function and the 3D reconstructions were done using the weighted back projection followed by a nonlinear anisotropic diffusion (NAD) filtering.
-Following tomogram reconstruction only synaptosomes that fulfilled the following criteria were used: 1) even and non-broken PM, 2) synaptic cleft still attached to the presynapse, 3) spherical vesicles, and 4) a mitochondrion in the presynapse necessary to cover the energy demands of the synapse.
+Following tomogram reconstruction only synaptosomes that fulfilled the following criteria were used: 1) even and non-broken PM, 2) postsynaptic membrane still attached to the presynapse, 3) spherical vesicles, and 4) a mitochondrion in the presynapse necessary to cover the energy demands of the synapse.
 These criteria indicate that the synaptosome is functional [@doi:10/b5tzcr].
 
 Cultured mouse neurons tilt series were acquired at a Titan Krios, equipped with a Falcon 3 direct electron detector (Thermofisher Scientific) without energy filter.
@@ -649,8 +660,10 @@ We did not apply statistical methods to predetermine sample size but similar sam
 It was not necessary to apply randomization.
 We performed Benjamini-Hochberg correction with the _multipletests_ function implemented in the Python module _statsmodels_ [@doi:10.25080/Majora-92bf1922-011].
 A list of P-values resulting form pairwise comparisons was input, and _multipletests_ output a list of corrected P-values.
-The used implementation of the Benjamini-Hochberg correction does not require a false discovery rate to be input.
+The used implementation of the Benjamini-Hochberg correction does not require a false discovery rate to be input. 
+This variation of the original Benjamini-Hochberg correction algorithm was proposed by Yekutieli and Benjamini [@doi:10/ctfdqf].
 If a corrected P-value is smaller than the defined acceptable false discovery rate, then the null hypothesis is rejected, i.e. the difference is considered statistically significant.
+This algorithm enables to test multiple false discovery rates in one step and its conclusions are exactly the same as the original Benjamini-Hochberg correction algorithm run multiple times with different false discovery rates.
 In the figures, \*\*\*, \*\*, and \* indicate a corrected P-value lower than false discovery rates of 0.001, 0.01, and 0.05, respectively.
 
 ### Manuscript preparation
