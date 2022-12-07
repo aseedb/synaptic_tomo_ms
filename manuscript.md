@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/b83a5ba8a8e84102587e2aef6e8c0d2ca083f242/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b83a5ba8a8e84102587e2aef6e8c0d2ca083f242/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/b83a5ba8a8e84102587e2aef6e8c0d2ca083f242/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/7376af92bbb907a0b67d2ac5851936ccf959d395/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/7376af92bbb907a0b67d2ac5851936ccf959d395/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/7376af92bbb907a0b67d2ac5851936ccf959d395/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/b83a5ba8a8e84102587e2aef6e8c0d2ca083f242/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/b83a5ba8a8e84102587e2aef6e8c0d2ca083f242/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/7376af92bbb907a0b67d2ac5851936ccf959d395/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/7376af92bbb907a0b67d2ac5851936ccf959d395/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,9 +96,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/b83a5ba8a8e84102587e2aef6e8c0d2ca083f242/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/7376af92bbb907a0b67d2ac5851936ccf959d395/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@b83a5ba](https://github.com/aseedb/synaptic_tomo_ms/tree/b83a5ba8a8e84102587e2aef6e8c0d2ca083f242)
+from [aseedb/synaptic_tomo_ms@7376af9](https://github.com/aseedb/synaptic_tomo_ms/tree/7376af92bbb907a0b67d2ac5851936ccf959d395)
 on December 7, 2022.
 </em></small>
 
@@ -108,17 +108,13 @@ on December 7, 2022.
 
 + **Julika Radecke**^[\*](#equal_contribution)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [0000-0002-5815-5537](https://orcid.org/0000-0002-5815-5537)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [julikaradecke](https://github.com/julikaradecke)<br>
+    [0000-0002-5815-5537](https://orcid.org/0000-0002-5815-5537)<br>
   <small>
      Institute of Anatomy, University of Bern, Bern, Switzerland; Department of Neuroscience, Faculty of Health and Medical Sciences, 2200 Copenhagen N, University of Copenhagen, Copenhagen, Denmark; Diamond Light Source Ltd, Didcot, Oxfordshire, United Kingdom
      · Funded by Swiss National Science Foundation, P2BEP3_172242
   </small>
 
-+ **Raphaela Seeger**^[\*](#equal_contribution)^<br>
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [elatella](https://github.com/elatella)<br>
++ **Raphaela Seeger**^[\*](#equal_contribution)^<br><br>
   <small>
      Institute of Anatomy, University of Bern, Bern, Switzerland; Graduate School for Cellular and Biomedical Sciences, University of Bern
   </small>
@@ -137,9 +133,7 @@ on December 7, 2022.
      Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
   </small>
 
-+ **Amin Khosrozadeh**<br>
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [ameen-khosrowzadeh](https://github.com/ameen-khosrowzadeh)<br>
++ **Amin Khosrozadeh**<br><br>
   <small>
      Institute of Anatomy, University of Bern, Bern, Switzerland; Graduate School for Cellular and Biomedical Sciences, University of Bern
   </small>
@@ -153,18 +147,14 @@ on December 7, 2022.
 
 + **Vladan Lučić**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [0000-0003-3698-7436](https://orcid.org/0000-0003-3698-7436)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [vladanl](https://github.com/vladanl)<br>
+    [0000-0003-3698-7436](https://orcid.org/0000-0003-3698-7436)<br>
   <small>
      Max-Planck-Institute of Biochemistry, Am Klopferspitz 18, 82152 Martinsried, Germany
   </small>
 
 + **Jakob B. Sørensen**^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [0000-0001-5465-3769](https://orcid.org/0000-0001-5465-3769)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [JBSorensen](https://github.com/JBSorensen)<br>
+    [0000-0001-5465-3769](https://orcid.org/0000-0001-5465-3769)<br>
   <small>
      Department of Neuroscience, University of Copenhagen, Blegdamsvej 3B, 2200 Copenhagen N, Denmark
      · Funded by Novo Nordisk Fonden, NNF17OC0028516.; Carlsbergfondet, CF17-0875; Independent Research Fond Denmark, 8020-00228A; Lundbeckfonden, R277-2018-802
@@ -172,9 +162,7 @@ on December 7, 2022.
 
 + **Benoît Zuber**^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [0000-0001-7725-5579](https://orcid.org/0000-0001-7725-5579)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [aseedb](https://github.com/aseedb)<br>
+    [0000-0001-7725-5579](https://orcid.org/0000-0001-7725-5579)<br>
   <small>
      Institute of Anatomy, University of Bern, Bern, Switzerland
      · Funded by Swiss National Science Foundation, 179520; ERA-NET NEURON, NEURON-119
@@ -188,6 +176,9 @@ on December 7, 2022.
 \* These authors contributed equally.
 :::
 
+::: {#running_title}
+Running title: Cryo-ET of stimulated synapses
+:::
 
 ## Abstract {.page_break_before}
 The fusion of synaptic vesicles (SVs) with the plasma membrane (PM) proceeds through intermediate steps that remain poorly resolved.
@@ -255,7 +246,7 @@ It is therefore conceivable that inter-SV connectors restrain SV diffusion and t
 
 To investigate this hypothesis and to better understand the impact of depolarization and synaptic activity on SV tethering, we designed two sets of cryo-ET experiments.
 On the one hand, we compared the morphology of wild-type rat synaptosomes in resting state and a few milliseconds after depolarization.
-On the other hand, to study the consequences of increased or decreased spontaneous synaptic activity, we imaged synapses in mouse neuronal culture expressing either wild-type SNAP-25, a more positively charged SNAP-25 mutant (4K mutant), or a more negatively charged, consitutively active mutant of SNAP-25 (4E mutant) [@doi:10.1016/j.celrep.2019.01.103]
+On the other hand, to study the consequences of increased or decreased spontaneous synaptic activity, we imaged synapses in mouse neuronal culture expressing either wild-type SNAP-25, a more positively charged SNAP-25 mutant (4K mutant), or a more negatively charged, consitutively active mutant of SNAP-25 (4E mutant) [@doi:10.1016/j.celrep.2019.01.103].
 The more positively charged SNAP-25 mutant showed no triple-tethered SV, confirming the morphological definition of the RRP [@doi:10.1016/j.celrep.2019.01.103].
 Our experiments revealed an immediate formation of additional tethers between proximal RRP vesicles and the PM after depolarization.
 Shortly after exocytosis, the level of inter-SV connectivity was decreased among SVs situated in a 25 to 75-nm distance range from the AZ PM.
@@ -282,7 +273,7 @@ Through this process, we were able to trap stimulated synapses at the very earli
 Given the very low throughput of cryo-electron tomography, we followed a correlative light and electron microscopy approach.
 By cryo-fluorescence microscopy, we identified areas where synaptosomes fluorescently labeled by calcein blue and spray droplets labeled by fluorescein were colocalized.
 Additionally, phase contrast imaging enabled quality control of the frozen EM grid with respect to ice contamination and ice cracks, as shown previously [@doi:10.1016/j.jsb.2007.07.011].
-9 control and 9 stimulated synaptosome tomograms were analyzed (Supplementary Figure {@fig:suppl_tomogram_slices}A and B, Supplementary Movie [S1](#vid:synaptosome), Supplementary Table @tbl:synaptosome-tomograms).
+9 control and 9 stimulated synaptosome tomograms were analyzed (Figure {@fig:suppl_tomogram_slices}A and B, Supplementary Movie [S1](#vid:synaptosome), Supplementary Table @tbl:synaptosome-tomograms).
 We restricted our analysis to synaptosomes that possessed a smooth PM, free of signs of rupturing and that had a mitochondrion, as we considered these factors essential for synaptosome function.
 
 ![**Experimental models.** A1) Glass atomizer used to disperse depolarizing solution on the EM grid milliseconds before the grid is vitrified. A2) Spray droplets imaged with the GFP filter set. A3) Synaptosomes imaged with the DAPI filter set. A4) Overlay of spray droplets (green) and synaptosomes (red). Scale bars, 20 μm. B1) Schematic drawing of a 6-well Petri dish depicting astrocytes (pink) growing at the bottom of the Petri dish below EM grids (black round grid overlaying the astrocytes) with neurons (blue) growing on top of the grids. B2) Grid square overview with neurons growing over it; scale bar = 5 µm. B3) Medium magnification overview of neurons growing over R2/1 holes; scale bar = 500 nm. B4) One slice of a tomogram depicting a synapse; scale bar = 100 nm.](images/workflow.png){#fig:workflow width="15cm"}
@@ -295,7 +286,7 @@ Optimization of primary neurons  culturing conditions allowed us to establish a 
 Astrocytes were added to 12 well plates and were grown for 2 days. 
 After 2 days, the medium was exchanged to a medium that favors neuronal growth and impedes astrocyte growth. 
 At the same time a droplet of the neuronal suspension was added onto a flame sterilized EM grid and incubated for 30 min at 37 °C, hereafter the grids were placed into the 12 well plates containing the astrocytes. 
-Neurons were grown for 10-14 days until plunge freezing and were then analyzed at a Titan Krios by cryo-ET (Supplementary Figure {@fig:suppl_tomogram_slices}C and D, Supplementary Figure @fig:suppl_segmentation, Supplementary Movie [S2](#vid:neuron), Supplementary table @tbl:neuron-tomograms). 
+Neurons were grown for 10-14 days until plunge freezing and were then analyzed at a Titan Krios by cryo-ET (Figure {@fig:suppl_tomogram_slices}C and D, Figure @fig:suppl_segmentation, Supplementary Movie [S2](#vid:neuron), Supplementary table @tbl:neuron-tomograms). 
 Thereby, we could image chronically overactive or inactive synapses and relate presynaptic architectural modifications to different functional states.
 
 ### Increased membrane curvature at the onset of exocytosis
@@ -330,7 +321,7 @@ Furthermore, while the fusion stages were defined based on the observed lipid de
 
 ### Synaptic vesicle distribution is impacted by synaptic activity
 
-Non-sprayed rat synaptosomes as well as WT-SNAP-25 mouse cultured neuron synapses showed typical SV distribution, as observed in previous cryo-ET studies (Figure {@fig:vesicle_distribution})[@doi:10.1083/jcb.200908082].
+Non-sprayed rat synaptosomes as well as WT-SNAP-25 mouse cultured neuron synapses showed typical SV distribution, as observed in previous cryo-ET studies (Figure {@fig:vesicle_distribution}) [@doi:10.1083/jcb.200908082].
 Vesicle occupancy in WT-SNAP-25 synapses was 0.13 in the proximal zone (0-45 nm from the AZ PM), dropped to 0.09 in the intermediate zone (45-75 nm), rose to 0.16 in the distal I zone (75-150 nm), decreased to 0.14 in the distal II zone (150-250 nm), and decreased further to 0.11 in the distal III zone (450-900 nm, Figure {@fig:vesicle_distribution}A).
 
 ![**SV distribution.** (A, B) Vesicle occupancy expressed as fraction of cytosol volume occupied by vesicles as a function of distance to AZ in (A) cultured neurons and (B) synaptosomes. Each bar is the average value of a distance group of all tomograms of the same treatment/genotype. Each dot represents the occupancy of a distance group in a single tomogram. Statistical test: multiple all against reference pairwise ANOVA comparisons with Benjamini-Hochberg correction. The reference distance group was the intermediate one. The reference experimental conditions were the WT genotype (A) and non sprayed synaptosomes (B), respectively. Comparisons between distance groups were performed only within the reference experimental conditions (C, D) Distance of proximal SVs from the AZ. Each dot represents the value of an individual SV. Horizontal line: mean; whiskers: 2xSEM interval. Statistical test: multiple all against reference pairwise ANOVA comparisons with Benjamini-Hochberg correction; \* : P<0.05, \*\* : P<0.01 after Benjamini-Hochberg correction.](images/vesicle_distribution.png){#fig:vesicle_distribution width="15cm"}
@@ -349,12 +340,12 @@ The larger mean distance between proximal SVs and plasma membrane in the 4E muta
 In the case of the 4K mutant, the larger mean distance may be due to the high spontaneous exocytotic activity of this mutant. 
 Indeed, SVs located in close proximity of the plasma membrane have a very high probability of fusing, which then leaves proximal SVs located a higher distance to the PM.
 Of note, no significant difference in the mean distance between proximal SVs and the plasma membrane was observed following stimulation in rat synaptosomes (Figure {@fig:vesicle_distribution}D). 
-In the most distal zones of neuronal synapses, SV occupancy in both mutants mostly got lower than in the WT, although the differences were not significant ({@fig:vesicle_distribution}A).
+In the most distal zones of neuronal synapses, SV occupancy in both mutants mostly got lower than in the WT, although the differences were not significant (Figure {@fig:vesicle_distribution}A).
 
 ### Proximal vesicles form additional tethers following stimulation
 
 We investigated the tethering state of proximal SVs (i.e. the SVs whose center is located within 45 nm of the AZ PM) prior to and following stimulation in synaptosomes. 
-In non-sprayed synaptosomes, 54% of the proximal vesicles were tethered, which is in agreement with previous results (Supplementary Figure {@fig:suppl_histograms}B) [@doi:10.1083/jcb.200908082].
+In non-sprayed synaptosomes, 54% of the proximal vesicles were tethered, which is in agreement with previous results (Figure {@fig:suppl_histograms}B) [@doi:10.1083/jcb.200908082].
 Interestingly, in the early fusion group the fraction of tethered proximal vesicles significantly increased to 80% (P<0.05, χ2 test with Benjamini-Hochberg correction). 
 In the late fusion group, however, 53% of the proximal vesicles were tethered, which was not significantly different from the non-sprayed group. 
 The average number of tethers per proximal SV followed the same pattern. Proximal SVs had 0.89 ± 0.12 tethers in the non-sprayed group (Figure {@fig:tethers}D). 
@@ -371,16 +362,16 @@ Using our definition of the RRP (vesicles that are triple-tethered) this would i
 Furthermore, the lower proximal vesicle occupancy in the late fusion group indicates that under our stimulation conditions, replenishing vesicles to the proximal zone is slower than their release.
 
 The situation in the WT-SNAP-25 neurons was similar to unstimulated synaptosomes. 
-53% of the proximal SVs were tethered and 17% of the proximal SVs belonged were triple-tethered (Supplementary Figure {@fig:suppl_histograms}A and Figure {@fig:tethers}A). 
+53% of the proximal SVs were tethered and 17% of the proximal SVs belonged were triple-tethered (Figure {@fig:suppl_histograms}A and Figure {@fig:tethers}A). 
 On average, proximal SVs had 1.17 ± 0.23 tethers (Figure {@fig:tethers}C). 
 The corresponding values for the 4E mutants were not significantly different (15% and 0.96 ± 0.18, respectively). 
 However, in all 4K mutant datasets there was not a single SV that was part of the RRP, i.e. triple-tethered. 
 Similarly, the number of tethers per proximal SV was significantly lower in the 4K mutant than in the WT (Figure {@fig:tethers}C, P<0.05, ANOVA test with Benjamini-Hochberg correction). 
-These results are in line with physiological measurements that have shown that the RRP is depleted in the chronically spontaneously active 4K mutant, and they provide additional evidence that RRP-vesicles have at least 3 tethers. [@doi:10.1016/j.celrep.2019.01.103].
+These results are in line with physiological measurements that have shown that the RRP is depleted in the chronically spontaneously active 4K mutant, and they provide additional evidence that RRP-vesicles have at least 3 tethers [@doi:10.1016/j.celrep.2019.01.103].
 
 ### Synaptic activity modifies inter-SV connectivity
 
-The majority of SV are linked to other SVs via molecular bridges previously termed connectors [@doi:10.1083/jcb.200908082;@doi:10.1016/j.sbi.2019.01.008;@pmid:3152289;@doi:10.1083/jcb.108.1.111]. The function and composition of connectors are not clear yet.
+The majority of SV are linked to other SVs via molecular bridges previously termed connectors [@doi:10.1083/jcb.200908082;@doi:10.1016/j.sbi.2019.01.008;@doi:10/d3bx8g;@doi:10.1083/jcb.108.1.111]. The function and composition of connectors are not clear yet.
 It was earlier proposed that connectors limit SV dispersion and allow SV mobilization for release.
 It is generally assumed that synapsin is involved in connector formation and may be one of its components.
 It has been suggested that connectors reduce SV mobility and maintain a locally high SV concentration in the presynapse.
@@ -404,7 +395,7 @@ We have seen earlier that the fraction of tethered proximal SVs does not differ 
 Thus, our data suggest that establishing connectivity is a slower process than tethering.
 We hypothesize that given the free space made in the proximal region after some SVs have fused, vesicles from the intermediate region diffuse to the proximal zone and become tethered to the AZ PM, reaching non-stimulated levels within the time frame of our experiments.
 However, during this time, the number of connectors did not reach the non-stimulated levels.
-Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Supplementary Figure @fig:suppl_connected_slices).
+Furthermore, we have observed that connectors remained present between fusing SV and neighbor SV (Figure @fig:suppl_connected_slices).
 Thus, in addition to passive diffusion, pulling towards the plasma membrane of SV connected to fusing SV can contribute to replenishing the RRP.
 
 ![**SV connectivity.** (A, B) Number of connectors per SV as a function of their distance to the AZ PM for mouse neurons (A) and rat synaptosomes (B) Each bar represents the mean value of all SVs of the subgroup. The lines represent 2xSEM intervals. Statistical tests: multiple all against reference pairwise ANOVA comparisons with Benjamini-Hochberg correction. Within a single experimental condition, the reference was the proximal distance group; within a single distance group, the reference was the WT genotype (A) or non sprayed synaptosomes (B). (C, D) Fraction of connected vesicles as a function of distance to the AZ PM for mouse neurons (C) and rat synaptosomes (D). Each bar shows the overall fraction of all SVs in a given distance group and a given experimental condition. Each dot represents the corresponding value of an individual active zone. Statistical test: multiple all against reference pairwise χ^2^-test with Benjamini-Hochberg correction; references were defined as in (A) and (B). (E, F) Number of connectors per proximal SV not belonging or belonging to the RRP for mouse neurons (E) and rat synaptosomes (F). (G, H) Number of connectors per non-tethered or tethered proximal SV for mouse neurons (G) and rat synaptosomes (H).  Statistical tests in (E-H): multiple all against control pairwise ANOVA comparisons with Benjamini-Hochberg correction. Control was WT genotype or non sprayed synaptosomes. In all statistical tests, \*: P<0.05, \*\*: P<0.01, \*\*\*: P<0.001, after Benjamini-Hochberg correction.](images/vesicle_connectors.png){#fig:connectors width="15cm"}
@@ -671,18 +662,48 @@ The manuscript was written with the open and collaborative scientific writing pa
 The source code and data for this manuscript are available at <https://github.com/aseedb/synaptic_tomo_ms>.
 
 
+## Author contributions
+
+JR, RS, JBS, and BZ designed the study. 
+JR, RS, and Anna K performed the experiments.
+KG provided access to and assistance at one of the Titan Krios microscopes.
+JR, RS, and BZ analyzed the data.
+VL, UL, and Amin K contributed to the Pyto analysis.
+JR, RS, JBS, and BZ wrote the manuscript with contribution from all authors.
+JBS and BZ supervised the project.
+
+## Acknowledgments
+
+We would like to thank Marek Kamínek for maintaining the electron microscope and supporting its use in Bern, and Tillmann Hanns Pape for support in specimen preparation and electron microscope operation in Copenhagen. 
+Data was acquired on a machine supported by the [Microscopy Imaging Center (MIC) of the University of Bern](https://www.mic.unibe.ch/), a machine supported by the [Core Facility for Integrated Microscopy (CFIM) of the University of Copenhagen](https://cfim.ku.dk/publications/), and a machine supported by the Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel.
+This work was funded through the grants mentioned in the author list.
+
+## Disclosure and competing interests statement
+
+The authors declare no competing interests.
+
+## Data Availability Section
+
+This study includes no data deposited in external repositories.
+
+## References {.page_break_before}
+
+<!-- Explicitly insert bibliography here -->
+<div id="refs"></div>
+
+
+## Expanded View Figures
+
+![**Representative slices through tomograms**. (A, B) Tomographic slice without (A) and with (B) segmentation of synaptosome with late fusion events. (C,D) Tomographic slice without (C) and with (D) segmentation of WT SNAP-25 neurons. Segmentation colors: off-white = cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; yellow = connectors, red = tethers. Scale bar, 100 nm.](images/tomogram_slices.png){#fig:suppl_tomogram_slices width="15cm" tag="EV1"}
+
+![**3-D rendered segmented tomograms of neuron synapses**. (A) SNAP-25 WT, (B) SNAP-25-4E, (C) SNAP-25-4K. (left) Overview, (right) detail. Blue: synaptic vesicles; purple: active zone plasma membrane; green: endoplasmic reticulum-like organelle; yellow: connectors; red: tethers. Scale bars: 100 nm, except in .](images/segmentation_neurons.png){#fig:suppl_segmentation width="15cm" tag="EV2"}
+
+![(A, B) Histogram of the number of tethers per proximal SV. Statistical test: pairwise χ^2^-test between control and each experimental condition in the 0-tether group with Benjamini-Hochberg correction. \*: P<0.05. (C, D) Histogram of  the number of connectors per proximal non-RRP SV. (E, F) Histogram of the number of connectors per RRP SV. (G, H) Histogram of connected SV amongst tethered or non-tethered proximal SVs. (I, J) Histogram of connected SV amongst proximal non-RRP or RRP SVs. (A, C, E, G, I) Synapses in mouse cultured neurons. (B, D, F, H, J) Rat synaptosomes.](images/supplementary_connectors.png){#fig:suppl_histograms width="15cm" tag="EV3"}
+
+![(A, B) **Tomographic slices showing tethered connected vesicles**. Blue arrows highlight the connectors. Scale bar, 50 nm.](images/supplementary_connected_vesicles.png){#fig:suppl_connected_slices width="8cm" tag="EV4"}
+
+
 ## Supplementary Material {.page_break_before}
-
-### Supplementary Figures
-
-![**Representative slices through tomograms**. (A, B) Tomographic slice without (A) and with (B) segmentation of synaptosome with late fusion events. (C,D) Tomographic slice without (C) and with (D) segmentation of WT SNAP-25 neurons. Segmentation colors: off-white = cell outline; pink = active zone; blue = synaptic vesicles; green = mitochondria; yellow = connectors, red = tethers. Scale bar, 100 nm.](images/tomogram_slices.png){#fig:suppl_tomogram_slices width="15cm" tag="S1"}
-
-![**3-D rendered segmented tomograms of neuron synapses**. (A) SNAP-25 WT, (B) SNAP-25-4E, (C) SNAP-25-4K. (left) Overview, (right) detail. Blue: synaptic vesicles; purple: active zone plasma membrane; green: endoplasmic reticulum-like organelle; yellow: connectors; red: tethers. Scale bars: 100 nm, except in .](images/segmentation_neurons.png){#fig:suppl_segmentation width="15cm" tag="S2"}
-
-![(A, B) Histogram of the number of tethers per proximal SV. Statistical test: pairwise χ^2^-test between control and each experimental condition in the 0-tether group with Benjamini-Hochberg correction. \*: P<0.05. (C, D) Histogram of  the number of connectors per proximal non-RRP SV. (E, F) Histogram of the number of connectors per RRP SV. (G, H) Histogram of connected SV amongst tethered or non-tethered proximal SVs. (I, J) Histogram of connected SV amongst proximal non-RRP or RRP SVs. (A, C, E, G, I) Synapses in mouse cultured neurons. (B, D, F, H, J) Rat synaptosomes.](images/supplementary_connectors.png){#fig:suppl_histograms width="15cm" tag="S3"}
-
-![(A, B) **Tomographic slices showing tethered connected vesicles**. Blue arrows highlight the connectors. Scale bar, 50 nm.](images/supplementary_connected_vesicles.png){#fig:suppl_connected_slices width="8cm" tag="S4"}
-
 
 ### Supplementary Movies
 <p id="vid:synaptosome">
@@ -730,7 +751,6 @@ off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = l
 |                 Control 7                |        0       |          184          |        9       |          0.03         |                360                |
 |                 Control 8                |        0       |          132          |       19       |          0.09         |                226                |
 |                 Control 9                |        0       |          134          |        6       |          0.08         |                326                |
-|                                          |                |                       |                |                       |                                   |
 |                  Spray 1                 |      late      |          697          |        5       |          0.03         |                272                |
 |                  Spray 2                 |      late      |          115          |        3       |          0.08         |                 88                |
 |                  Spray 3                 |      late      |          429          |       21       |          0.19         |                882                |
@@ -760,25 +780,3 @@ Table: Summary of the synaptosome tomograms.
 | 134 |   WT-KO  |          600          |        7       |          0.34         |                144                |
 Table: Summary of the neuron tomograms.
 {#tbl:neuron-tomograms tag="S2"}
-
-
-## Author contributions
-
-JR, RS, JBS, and BZ designed the study. 
-JR, RS, and Anna K performed the experiments.
-KG provided access to and assistance at one of the Titan Krios microscopes.
-JR, RS, and BZ analyzed the data.
-VL, UL, and Amin K contributed to the Pyto analysis.
-JR, RS, JBS, and BZ wrote the manuscript with contribution from all authors.
-JBS and BZ supervised the project.
-
-## Acknowledgments
-
-We would like to thank Marek Kamínek for maintaining the electron microscope and supporting its use in Bern, and Tillmann Hanns Pape for support in specimen preparation and electron microscope operation in Copenhagen. 
-Data was acquired on a machine supported by the [Microscopy Imaging Center (MIC) of the University of Bern](https://www.mic.unibe.ch/), a machine supported by the [Core Facility for Integrated Microscopy (CFIM) of the University of Copenhagen](https://cfim.ku.dk/publications/), and a machine supported by the Center for Cellular Imaging and NanoAnalytics, Biozentrum, University of Basel.
-This work was funded through the grants mentioned in the author list.
-
-## References {.page_break_before}
-
-<!-- Explicitly insert bibliography here -->
-<div id="refs"></div>
