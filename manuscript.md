@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2022-12-07'
+date-meta: '2022-12-08'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -27,8 +27,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2022-12-07" />
-  <meta name="citation_publication_date" content="2022-12-07" />
+  <meta name="dc.date" content="2022-12-08" />
+  <meta name="citation_publication_date" content="2022-12-08" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/7376af92bbb907a0b67d2ac5851936ccf959d395/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/7376af92bbb907a0b67d2ac5851936ccf959d395/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/7376af92bbb907a0b67d2ac5851936ccf959d395/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/3a92934b5aa38860c7153c61af5b7035bc8d1e0c/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/3a92934b5aa38860c7153c61af5b7035bc8d1e0c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/3a92934b5aa38860c7153c61af5b7035bc8d1e0c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/7376af92bbb907a0b67d2ac5851936ccf959d395/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/7376af92bbb907a0b67d2ac5851936ccf959d395/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/3a92934b5aa38860c7153c61af5b7035bc8d1e0c/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/3a92934b5aa38860c7153c61af5b7035bc8d1e0c/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,10 +96,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/7376af92bbb907a0b67d2ac5851936ccf959d395/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/3a92934b5aa38860c7153c61af5b7035bc8d1e0c/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@7376af9](https://github.com/aseedb/synaptic_tomo_ms/tree/7376af92bbb907a0b67d2ac5851936ccf959d395)
-on December 7, 2022.
+from [aseedb/synaptic_tomo_ms@3a92934](https://github.com/aseedb/synaptic_tomo_ms/tree/3a92934b5aa38860c7153c61af5b7035bc8d1e0c)
+on December 8, 2022.
 </em></small>
 
 ## Authors
@@ -181,19 +181,16 @@ Running title: Cryo-ET of stimulated synapses
 :::
 
 ## Abstract {.page_break_before}
-The fusion of synaptic vesicles (SVs) with the plasma membrane (PM) proceeds through intermediate steps that remain poorly resolved.
-Additionally, the effect of persistent high or low exocytosis activity on intermediate steps remains unknown.
-Using time-resolved cryo-electron tomography allowed us to observe events following synaptic stimulation at a single nanometer resolution in fully hydrated, preparation artefact-free samples.
-Our data strongly suggest that during the stage that immediately follows the stimulation, termed early fusion, the PM and SV membrane curvature change ('buckling') and establish a point contact. 
-The next stage, termed late fusion, is characterized by opening of the fusion pore and the collapse of SV membrane.
-Our characterization of SV bound protein complexes showed that during early fusion proximal tethered SVs rapidly form additional tethers with the PM and increase the number of connectors that interlink SVs.
-In the late fusion stage, PM-proximal, but not PM-distal SVs lose their interconnections, allowing them to move towards the PM. 
-Two mutations of SNAP-25, one that arrests and one that disinhibits spontaneous release, caused a loss of connectors, while the disinhibiting mutant also caused a loss of membrane proximal multiple-tethered SVs.
-Overall, tether formation and connector dissolution are triggered by stimulation and respond to the spontaneous fusion rate.
-These morphological observations likely correspond to the transition of SVs from one functional pool to another.
-
-
-
+Synaptic vesicle (SV) fusion with the plasma membrane (PM) proceeds through intermediate steps that remain poorly resolved. 
+The effect of persistent high or low exocytosis activity on intermediate steps remains unknown. 
+Using time-resolved cryo-electron tomography we observed events following synaptic stimulation at nanometer resolution in near native samples. 
+Our data strongly suggest that during the stage that immediately follows stimulation, termed early fusion, PM and SV membrane curvature changes to establish a point contact. 
+The next stage - late fusion - shows fusion pore opening and SV collapse. 
+During early fusion, proximal tethered SVs form additional tethers with the PM and increase the inter-SV connector number. In the late fusion stage, PM-proximal lose their interconnections, allowing them to move towards the PM. 
+Two SNAP-25 mutations, one arresting and one disinhibiting spontaneous release, caused connector loss. 
+The disinhibiting mutation caused a loss of membrane proximal multiple-tethered SVs. 
+Overall, tether formation and connector dissolution are triggered by stimulation and respond to the spontaneous fusion rate. 
+These morphological observations likely correspond to SV transition from one functional pool to another.
 
 ## Introduction
 For normal brain function such as movement coordination or memory formation, communication between neurons is essential.
