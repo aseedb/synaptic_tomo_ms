@@ -7,8 +7,11 @@
    viewBox="0 0 191.70949 75.853378"
    version="1.1"
    id="svg5264"
-   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
-   sodipodi:docname="fig2_morphology_update2.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="vesicle_morphology.svg"
+   inkscape:export-filename="../images/vesicle_morphology.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -199,18 +202,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.82"
-     inkscape:cx="440.85366"
-     inkscape:cy="34.756098"
+     inkscape:zoom="2.7693994"
+     inkscape:cx="598.32468"
+     inkscape:cy="55.246636"
      inkscape:document-units="mm"
-     inkscape:current-layer="g5211"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1144"
-     inkscape:window-height="986"
+     inkscape:window-height="858"
      inkscape:window-x="298"
-     inkscape:window-y="27"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5261">
     <rdf:RDF>
@@ -282,7 +287,7 @@
            y="7.5912738"
            x="136.37416"
            id="tspan1484-2"
-           sodipodi:role="line">C1</tspan></text>
+           sodipodi:role="line">Ci</tspan></text>
       <path
          inkscape:export-filename="C:\Users\julik\OneDrive\Desktop\fusionpath.png"
          inkscape:transform-center-x="0.00012458807"
@@ -319,7 +324,7 @@
            y="7.538908"
            x="72.588928"
            id="tspan1504-2"
-           sodipodi:role="line">B2</tspan></text>
+           sodipodi:role="line">Bii</tspan></text>
       <path
          inkscape:export-filename="C:\Users\julik\OneDrive\Desktop\fusionpath.png"
          inkscape:transform-center-x="-8.8467881e-06"
@@ -357,7 +362,7 @@
            y="7.538908"
            x="40.769352"
            id="tspan1480-0"
-           sodipodi:role="line">B1</tspan></text>
+           sodipodi:role="line">Bi</tspan></text>
       <path
          inkscape:export-filename="C:\Users\julik\OneDrive\Desktop\fusionpath.png"
          inkscape:transform-center-x="-1.0457263e-05"
@@ -409,7 +414,7 @@
            id="tspan1476-5"
            sodipodi:role="line">A</tspan></text>
       <text
-         inkscape:export-filename="C:\Users\julik\OneDrive\Desktop\fusionpath.png"
+         inkscape:export-filename="../images/vesicle_morphology.png"
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
          id="text1502-1"
@@ -421,7 +426,7 @@
            y="7.5912738"
            x="168.19374"
            id="tspan1500-9"
-           sodipodi:role="line">C2</tspan></text>
+           sodipodi:role="line">Cii</tspan></text>
       <path
          inkscape:export-filename="C:\Users\julik\OneDrive\Desktop\fusionpath.png"
          inkscape:transform-center-x="0.90155895"
@@ -458,7 +463,7 @@
            y="7.538908"
            x="104.40852"
            id="tspan1480-0-5"
-           sodipodi:role="line">B3</tspan></text>
+           sodipodi:role="line">Biii</tspan></text>
       <path
          inkscape:export-filename="C:\Users\julik\OneDrive\Desktop\fusionpath.png"
          inkscape:transform-center-x="-8.8467881e-06"
