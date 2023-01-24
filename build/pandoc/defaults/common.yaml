@@ -9,5 +9,6 @@ filters:
 - citeproc
 wrap: preserve
 metadata:
-  csl: build/assets/style.csl
+  #csl: build/assets/style.csl
+  csl: https://github.com/citation-style-language/styles/raw/50eea55b2c512833fec6c8b810f7e73b53b2f611/embo-press.csl
   link-citations: true
