@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2023-01-24'
+date-meta: '2023-01-25'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -27,8 +27,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2023-01-24" />
-  <meta name="citation_publication_date" content="2023-01-24" />
+  <meta name="dc.date" content="2023-01-25" />
+  <meta name="citation_publication_date" content="2023-01-25" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/e020b5e28d055cf347906190f0b55d6d93896dd8/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/e020b5e28d055cf347906190f0b55d6d93896dd8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/e020b5e28d055cf347906190f0b55d6d93896dd8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/c15c4055688041a2707550fc2ee179759e7198fc/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c15c4055688041a2707550fc2ee179759e7198fc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c15c4055688041a2707550fc2ee179759e7198fc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/e020b5e28d055cf347906190f0b55d6d93896dd8/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/e020b5e28d055cf347906190f0b55d6d93896dd8/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/c15c4055688041a2707550fc2ee179759e7198fc/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/c15c4055688041a2707550fc2ee179759e7198fc/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,10 +96,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/e020b5e28d055cf347906190f0b55d6d93896dd8/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/c15c4055688041a2707550fc2ee179759e7198fc/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@e020b5e](https://github.com/aseedb/synaptic_tomo_ms/tree/e020b5e28d055cf347906190f0b55d6d93896dd8)
-on January 24, 2023.
+from [aseedb/synaptic_tomo_ms@c15c405](https://github.com/aseedb/synaptic_tomo_ms/tree/c15c4055688041a2707550fc2ee179759e7198fc)
+on January 25, 2023.
 </em></small>
 
 ## Authors
@@ -280,7 +280,7 @@ Through this process, we were able to trap stimulated synapses at the very earli
 Given the very low throughput of cryo-electron tomography, we followed a correlative light and electron microscopy approach.
 By cryo-fluorescence microscopy, we identified areas where synaptosomes fluorescently labeled by calcein blue and spray droplets labeled by fluorescein were colocalized.
 Additionally, phase contrast imaging enabled quality control of the frozen EM grid with respect to ice contamination and ice cracks, as shown previously [@doi:10.1016/j.jsb.2007.07.011].
-9 control and 9 stimulated synaptosome tomograms were analyzed (Figure {@fig:suppl_tomogram_slices}A and B, Supplementary Movie [S1](#vid:synaptosome), Supplementary Table @tbl:synaptosome-tomograms).
+9 control and 9 stimulated synaptosome tomograms were analyzed (Figure {@fig:suppl_tomogram_slices}A and B, Movie [EV1](#vid:synaptosome), Table @tbl:synaptosome-tomograms).
 We restricted our analysis to synaptosomes that possessed a smooth PM, free of signs of rupturing and that had a mitochondrion, as we considered these factors essential for synaptosome function.
 
 ![**Experimental models.**  
@@ -302,7 +302,7 @@ Optimization of primary neurons  culturing conditions allowed us to establish a 
 Astrocytes were added to 12 well plates and were grown for 2 days. 
 After 2 days, the medium was exchanged to a medium that favors neuronal growth and impedes astrocyte growth. 
 At the same time a droplet of the neuronal suspension was added onto a flame sterilized EM grid and incubated for 30 min at 37 °C, hereafter the grids were placed into the 12 well plates containing the astrocytes. 
-Neurons were grown for 10-14 days until plunge freezing and were then analyzed at a Titan Krios by cryo-ET (Figure {@fig:suppl_tomogram_slices}C and D, Figure @{fig:suppl_segmentation}A-C, Supplementary Movie [S2](#vid:neuron), Supplementary table @tbl:neuron-tomograms). 
+Neurons were grown for 10-14 days until plunge freezing and were then analyzed at a Titan Krios by cryo-ET (Figure {@fig:suppl_tomogram_slices}C and D, Figure @{fig:suppl_segmentation}A-C, Movie [EV2](#vid:neuron), Table @tbl:neuron-tomograms). 
 Thereby, we could image chronically overactive or inactive synapses and relate presynaptic architectural modifications to different functional states.
 
 ### Increased membrane curvature at the onset of exocytosis
@@ -668,11 +668,11 @@ Defocus was set between -6 to -10 µm and the total electron dose used was about
 The same inclusion/exclusion criteria as for synaptosome datasets were applied for mouse neuron datasets.
 
 ### Manual and automatic segmentation procedures
-Manual segmentation of SVs, mitochondria, and the active zone PM was done in IMOD (Supplementary Figure {@fig:suppl_tomogram_slices}B and D, Supplementary [Movies S1](vid:synaptosome) and [S2](vid:neuron)). 
+Manual segmentation of SVs, mitochondria, and the active zone PM was done in IMOD (Figure {@fig:suppl_tomogram_slices}B and D, Movies [EV1](vid:synaptosome) and [EV2](vid:neuron)). 
 The boundary marked the region to be analyzed by Pyto [@doi:10.1016/j.jsb.2016.10.004].
  The analysis by Pyto was essentially the same as described previously [@doi:10.1083/jcb.200908082; @doi:10.1016/j.jsb.2016.10.004].
 In short, the segmented area is divided in 1 voxel thick layers parallel to the active zone for distance calculations.
-A hierarchical connectivity segmentation detects densities interconnecting vesicles (so-called connectors) and densities connecting vesicles to the active zone PM (so-called tethers) (Supplementary Figure {@fig:suppl_tomogram_slices}B and D, Supplementary [Movies S1](vid:synaptosome) & [S2](vid:neuron)).
+A hierarchical connectivity segmentation detects densities interconnecting vesicles (so-called connectors) and densities connecting vesicles to the active zone PM (so-called tethers) (Figure {@fig:suppl_tomogram_slices}B and D, Movies [EV1](vid:synaptosome) & [EV2](vid:neuron)).
 Distance calculations are done with the center of the vesicle.
 Mainly default settings were used.
 The segmentation procedure is conservative and tends to miss some tethers and connectors because of noise.
@@ -738,7 +738,9 @@ This study includes no data deposited in external repositories.
 <div id="refs"></div>
 
 
-## Expanded View Figures
+## Expanded View 
+
+### Expanded View Figures
 
 ![**Representative slices through tomograms**.  
 (A, B) Tomographic slice without (A) and with (B) segmentation of synaptosome with late fusion events.  
@@ -759,6 +761,7 @@ Data information: (A, C, E) Synapses in mouse cultured neurons. (B, D, F) Rat sy
 
 <div style="page-break-after: always;"></div>
 
+### Expanded View Tables
 |                    ID                    | Exocytosis stage  | Vesicles per tomogram | Tethers per AZ | AZ surface area [µm²] | Connectors per synapse (0-250 nm) |
 |:----------------------------------------:|:-----------------:|:---------------------:|:--------------:|:---------------------:|:---------------------------------:|
 |                 Control 1                |  not stimulated   |          220          |       15       |          0.11         |               331                 |
@@ -803,9 +806,7 @@ Table: Summary of the neuron tomograms.
 {#tbl:neuron-tomograms tag="EV2"}
 
 
-## Supplementary Material {.page_break_before}
-
-### Supplementary Movies
+### Expanded View Movies
 
 <p id="vid:synaptosome">
 <video 
@@ -819,11 +820,9 @@ Table: Summary of the neuron tomograms.
     type="video/mp4"
   >
 </video>
-**Movie S1: Tomogram with segmentation of synaptosome with late fusion events.**
+**Movie EV1: Tomogram with segmentation of synaptosome with late fusion events.**
 off-white = cell outline; pink = active zone; blue = synaptic vesicles; dark green = mitochondria; light green = large vesicles; yellow = connectors, red = tethers, scale bar 100nm
 </p>
-
-### {.page_break_before}
 
 <p id="vid:neuron">
 <video
@@ -837,7 +836,7 @@ off-white = cell outline; pink = active zone; blue = synaptic vesicles; dark gre
     type="video/mp4"
   >
 </video>
-**Movie S2: Tomogram with segmentation of WT SNAP-25 neurons.**
+**Movie EV2: Tomogram with segmentation of WT SNAP-25 neurons.**
 off-white= cell outline; pink = active zone; blue = synaptic vesicles; green = large vesicles; yellow = connectors, red = tethers, scale bar 100nm
 </p>
 
