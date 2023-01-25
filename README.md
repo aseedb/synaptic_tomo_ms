@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/aseedb/synaptic_tomo_ms/tree/gh-pages) branch hosts the contents of this directory at <https://aseedb.github.io/synaptic_tomo_ms/>.
-The permalink for this webpage version is <https://aseedb.github.io/synaptic_tomo_ms/v/e020b5e28d055cf347906190f0b55d6d93896dd8/>.
+The permalink for this webpage version is <https://aseedb.github.io/synaptic_tomo_ms/v/c15c4055688041a2707550fc2ee179759e7198fc/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://aseedb.github.io/synaptic_tomo_ms/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`e020b5e28d055cf347906190f0b55d6d93896dd8`](https://github.com/aseedb/synaptic_tomo_ms/commit/e020b5e28d055cf347906190f0b55d6d93896dd8).
+[`c15c4055688041a2707550fc2ee179759e7198fc`](https://github.com/aseedb/synaptic_tomo_ms/commit/c15c4055688041a2707550fc2ee179759e7198fc).
