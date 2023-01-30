@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2023-01-25'
+date-meta: '2023-01-30'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -27,8 +27,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2023-01-25" />
-  <meta name="citation_publication_date" content="2023-01-25" />
+  <meta name="dc.date" content="2023-01-30" />
+  <meta name="citation_publication_date" content="2023-01-30" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/c15c4055688041a2707550fc2ee179759e7198fc/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c15c4055688041a2707550fc2ee179759e7198fc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/c15c4055688041a2707550fc2ee179759e7198fc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/df2be2a98e5b6d2d0f89f7f693762230a05596ce/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/df2be2a98e5b6d2d0f89f7f693762230a05596ce/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/df2be2a98e5b6d2d0f89f7f693762230a05596ce/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/c15c4055688041a2707550fc2ee179759e7198fc/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/c15c4055688041a2707550fc2ee179759e7198fc/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/df2be2a98e5b6d2d0f89f7f693762230a05596ce/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/df2be2a98e5b6d2d0f89f7f693762230a05596ce/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,10 +96,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/c15c4055688041a2707550fc2ee179759e7198fc/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/df2be2a98e5b6d2d0f89f7f693762230a05596ce/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@c15c405](https://github.com/aseedb/synaptic_tomo_ms/tree/c15c4055688041a2707550fc2ee179759e7198fc)
-on January 25, 2023.
+from [aseedb/synaptic_tomo_ms@df2be2a](https://github.com/aseedb/synaptic_tomo_ms/tree/df2be2a98e5b6d2d0f89f7f693762230a05596ce)
+on January 30, 2023.
 </em></small>
 
 ## Authors
@@ -449,21 +449,20 @@ Moreover, it is not clear whether the membrane deformation occurs subsequently t
 The optimal sample preservation delivered by cryo-ET makes it possible to investigate the role of tethers located between SVs and the AZ PM and the function of inter-SV connectors.
 Combining cryo-ET with spray-mixing plunge-freezing enabled us to investigate the morphological changes occurring immediately after depolarization.
 
+
 It should be noted that our study has some uncertainties and limitations.
 One uncertainty concerns the delay between stimulation and freezing.
 In future studies, this uncertainty could be reduced by stimulating exocytosis with a flash of light, on samples either expressing channelrhodopsin or containing caged calcium.
 Nonetheless, accessing sub-millisecond delays, which is required to observe the early stages of SV exocytosis would be technically quite challenging with light stimulation. 
 The identity of the proteins composing the tethers and connectors represents another uncertainty. 
-While stimulated synaptosomes were sprayed with a depolarizing solution, control synaptosomes were not.
+While stimulated synaptosomes were sprayed with a depolarizing solution, control synaptosomes were not sprayed.
 This may raise the concern that the observed changes are due the mere spraying and not to depolarization.
 It should be noted that plunge freezing is typically done in an environment at 100% relative humidity to prevent sample drying.
 Consequently, water droplets likely also form on the sample surface when the sample is not sprayed.
 Furthermore, earlier studies have shown that the spray does not affect the near-atomic structure of purified synaptic membranes [@doi:10.1016/j.jmb.2004.12.031;@doi:10.1016/j.jmb.2012.07.010].
-It is therefore very unlikely that the observed changes are due to the mere spraying.
-
-
-To date, cytoplasmic protein labelling for cryo-ET remains extremely challenging.
-Nevertheless, several laboratories, including ours, are working towards solving this limitation [@doi:10.1101/2022.04.10.487799].  
+It is therefore unlikely that the observed changes are due to the mere spraying.
+Another limitation is common to all cryo-ET studies: to date, cytoplasmic protein labelling for cryo-ET remains extremely challenging.
+Nevertheless, several laboratories, including ours, are working towards solving this limitation [@doi:10.1101/2022.04.10.487799]. 
 Finally, we could only analyze a restricted number of specimens.
 This was mainly due to two factors.
 Samples were relatively thick, and finding suitably thin synapses required extremely time-consuming screening.
