@@ -6,7 +6,7 @@ keywords:
 - SNARE
 - synaptic vesicles
 lang: en-US
-date-meta: '2023-01-30'
+date-meta: '2023-02-15'
 author-meta:
 - Julika Radecke
 - Raphaela Seeger
@@ -27,8 +27,8 @@ header-includes: |-
   <meta name="citation_title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="og:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
   <meta property="twitter:title" content="Morphofunctional changes at the active zone during synaptic vesicle exocytosis" />
-  <meta name="dc.date" content="2023-01-30" />
-  <meta name="citation_publication_date" content="2023-01-30" />
+  <meta name="dc.date" content="2023-02-15" />
+  <meta name="citation_publication_date" content="2023-02-15" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -70,13 +70,13 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://aseedb.github.io/synaptic_tomo_ms/" />
   <meta name="citation_pdf_url" content="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://aseedb.github.io/synaptic_tomo_ms/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/df2be2a98e5b6d2d0f89f7f693762230a05596ce/" />
-  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/df2be2a98e5b6d2d0f89f7f693762230a05596ce/" />
-  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/df2be2a98e5b6d2d0f89f7f693762230a05596ce/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://aseedb.github.io/synaptic_tomo_ms/v/dbb8bd6fcc7e4e71bddaf1a271bef1c9d7f3182d/" />
+  <meta name="manubot_html_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/dbb8bd6fcc7e4e71bddaf1a271bef1c9d7f3182d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://aseedb.github.io/synaptic_tomo_ms/v/dbb8bd6fcc7e4e71bddaf1a271bef1c9d7f3182d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/df2be2a98e5b6d2d0f89f7f693762230a05596ce/thumbnail.png" />
-  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/df2be2a98e5b6d2d0f89f7f693762230a05596ce/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/dbb8bd6fcc7e4e71bddaf1a271bef1c9d7f3182d/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/aseedb/synaptic_tomo_ms/raw/dbb8bd6fcc7e4e71bddaf1a271bef1c9d7f3182d/thumbnail.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
   <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
   <meta name="theme-color" content="#ad1457" />
@@ -96,10 +96,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/df2be2a98e5b6d2d0f89f7f693762230a05596ce/))
+([permalink](https://aseedb.github.io/synaptic_tomo_ms/v/dbb8bd6fcc7e4e71bddaf1a271bef1c9d7f3182d/))
 was automatically generated
-from [aseedb/synaptic_tomo_ms@df2be2a](https://github.com/aseedb/synaptic_tomo_ms/tree/df2be2a98e5b6d2d0f89f7f693762230a05596ce)
-on January 30, 2023.
+from [aseedb/synaptic_tomo_ms@dbb8bd6](https://github.com/aseedb/synaptic_tomo_ms/tree/dbb8bd6fcc7e4e71bddaf1a271bef1c9d7f3182d)
+on February 15, 2023.
 </em></small>
 
 ## Authors
@@ -181,13 +181,14 @@ Keywords: synapse, cryo-electron tomography, SNARE, synaptic vesicles
 ## Abstract {.page_break_before}
 Synaptic vesicle (SV) fusion with the plasma membrane (PM) proceeds through intermediate steps that remain poorly resolved. 
 The effect of persistent high or low exocytosis activity on intermediate steps remains unknown. 
-Using spray-mixing plunge-freezing cryo-electron tomography we observed events following synaptic stimulation at nanometer resolution in near native samples. 
-Our data strongly suggest that during the stage that immediately follows stimulation, termed early fusion, PM and SV membrane curvature changes to establish a point contact. 
+Using spray-mixing plunge-freezing cryo-electron tomography we observe events following synaptic stimulation at nanometer resolution in near native samples. 
+Our data suggest that during the stage that immediately follows stimulation, termed early fusion, PM and SV membrane curvature changes to establish a point contact. 
 The next stage - late fusion - shows fusion pore opening and SV collapse. 
-During early fusion, proximal tethered SVs form additional tethers with the PM and increase the inter-SV connector number. In the late fusion stage, PM-proximal lose their interconnections, allowing them to move towards the PM. 
-Two SNAP-25 mutations, one arresting and one disinhibiting spontaneous release, caused connector loss. 
-The disinhibiting mutation caused a loss of membrane proximal multiple-tethered SVs. 
-Overall, tether formation and connector dissolution are triggered by stimulation and respond to the spontaneous fusion rate. 
+During early fusion, proximal tethered SVs form additional tethers with the PM and increase the inter-SV connector number. 
+In the late fusion stage, PM-proximal SVs lose their interconnections, allowing them to move towards the PM. 
+Two SNAP-25 mutations, one arresting and one disinhibiting spontaneous release, cause connector loss. 
+The disinhibiting mutation causes loss of membrane proximal multiple-tethered SVs. 
+Overall, tether formation and connector dissolution are triggered by stimulation and respond to spontaneous fusion rate manipulation. 
 These morphological observations likely correspond to SV transition from one functional pool to another.
 
 ### Short summary
@@ -195,9 +196,10 @@ Upon exocytosis triggering, synaptic vesicles at the active zone gain transient 
 In a second phase, the number of inter-vesicular connections decreases, which may increase vesicle diffusion coefficient and accelerate readily-releasable pool replenishing.
 
 ###  Highlights
-- We observed exocytosis events at nanometer resolution in near native samples.
-- tethers are formed during early fusion and lost during late fusion.
-- SNAP-25 mutations affect tether formation and the level of inter-vesicular connections.
+- We observed exocytosis events at various stages using cryo-electron tomography.
+- Based on vesicle and plasma membrane morphology, the events were classified into early and late fusion.
+- Tethers were formed during early fusion and lost during late fusion.
+- SNAP-25 mutations affected tether formation and the level of inter-vesicular connections.
 
 ### Synopsis image
 ![](images/synopsis.png "synopsis image")
@@ -435,7 +437,7 @@ Consistently, the number of connectors per SV in SNAP-25-WT synapses increased f
 The fraction of connected SVs in the distal II region was significantly lower in the 4E and 4K mutant than in the WT (p<0.05, χ2 test with Benjamini-Hochberg correction, Figure {@fig:connectors}C).
 This was supported by a significantly lower number of connectors per SV in the distal II region for the 4E mutant versus the WT (P<0.001, ANOVA test with Benjamini-Hochberg correction) as well as for the 4K mutant versus the WT (P<0.001, Figure {@fig:connectors}A). Furthermore, this number was also significantly lower in the distal III and IV regions for the 4E mutant vs the WT (P<0.001).
 Consistently the fraction of connected SVs was lower in the distal II, III, and IV regions for the 4E mutant vs the WT (P<0.05, P<0.001, and p<0.05, respectively,  χ2 test with Benjamini-Hochberg correction, Figure {@fig:connectors}C). 
-The fraction of connected SVs was not different in the 4K mutant versus the WT, except in the distal IV region where it was higher (P<0.05 χ2 test with Benjamini-Hochberg correction)
+The fraction of connected SVs was not different in the 4K mutant versus the WT, except in the distal IV region where it was higher (P<0.05 χ2 test with Benjamini-Hochberg correction).
 The number of connectors per proximal SV and the connected fraction of proximal SVs were not affected by the mutations (Figure {@fig:connectors}A, E and G, Figure {@fig:suppl_histograms}A, C, and E).
 These results indicate that prolonged abnormal exocytotic activity, such as those caused by functional alterations of SNAP-25, are correlated with severe changes in intervesicular connectivity in the distal region.
 
